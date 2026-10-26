@@ -1,0 +1,31 @@
+{
+  "name": "ikions-monorepo",
+  "private": true,
+  "description": "Ikions — an original icon library for everything.",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "icons:validate": "pnpm --filter @ikions/tooling validate",
+    "icons:build": "pnpm --filter @ikions/tooling build:assets",
+    "icons:sheet": "pnpm --filter @ikions/tooling sheet",
+    "icons:visual": "pnpm --filter @ikions/tooling visual",
+    "icons:roadmap": "pnpm --filter @ikions/tooling roadmap",
+    "build": "pnpm icons:build && turbo run build",
+    "build:packages": "pnpm icons:build && turbo run build --filter=./packages/*",
+    "dev": "pnpm icons:build --skip-invalid && turbo run build --filter=./packages/* && pnpm --filter @ikions/tooling watch --with-web",
+    "test": "pnpm icons:build && turbo run test --filter=!@ikions/e2e",
+    "typecheck": "turbo run typecheck",
+    "e2e": "pnpm --filter @ikions/e2e test",
+    "icons:plan": "pnpm --filter @ikions/tooling plan",
+    "icons:families": "pnpm --filter @ikions/tooling families",
+    "icons:dupes": "pnpm --filter @ikions/tooling dupes",
+    "icons:watch": "pnpm --filter @ikions/tooling watch"
+  },
+  "devDependencies": {
+    "turbo": "^2.11.10",
+    "typescript": "^5.9.3"
+  }
+}

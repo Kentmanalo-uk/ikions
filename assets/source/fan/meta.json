@@ -1,0 +1,23 @@
+{
+  "name": "fan",
+  "title": "Fan",
+  "category": "devices",
+  "description": "Represents a cooling fan, ventilation or airflow.",
+  "tags": [
+    "cooling",
+    "airflow",
+    "ventilation",
+    "blades",
+    "propeller",
+    "hardware"
+  ],
+  "aliases": [
+    "cooling-fan",
+    "propeller"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "u-turn-left",
+  "title": "U-Turn Left",
+  "category": "arrows",
+  "description": "Turn around to the left and head back the way you came.",
+  "tags": [
+    "u-turn",
+    "turn around",
+    "reverse",
+    "navigation",
+    "road",
+    "back"
+  ],
+  "aliases": [
+    "uturn-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

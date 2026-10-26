@@ -1,0 +1,23 @@
+{
+  "name": "clipboard",
+  "title": "Clipboard",
+  "category": "files",
+  "description": "Paste content, copy to the clipboard or open a form.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "form",
+    "notes",
+    "tasks",
+    "report"
+  ],
+  "aliases": [
+    "clipboard-paste"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

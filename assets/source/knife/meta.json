@@ -1,0 +1,23 @@
+{
+  "name": "knife",
+  "title": "Knife",
+  "category": "food",
+  "description": "Represent a kitchen knife, such as cutting, chopping or food preparation.",
+  "tags": [
+    "kitchen",
+    "cut",
+    "chop",
+    "chef",
+    "blade",
+    "prep"
+  ],
+  "aliases": [
+    "kitchen-knife",
+    "chef-knife"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

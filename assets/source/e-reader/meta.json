@@ -1,0 +1,22 @@
+{
+  "name": "e-reader",
+  "title": "E-Reader",
+  "category": "devices",
+  "description": "An e-book reader showing lines of text.",
+  "tags": [
+    "ebook",
+    "kindle",
+    "reading",
+    "book",
+    "device"
+  ],
+  "aliases": [
+    "ebook-reader",
+    "kindle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

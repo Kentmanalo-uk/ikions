@@ -1,0 +1,57 @@
+export const metadata = {
+  title: "Installation",
+  description: "Install Ikions for React, Vue, Svelte or plain SVG with npm, pnpm, yarn or bun.",
+  alternates: { canonical: "/docs/installation" },
+};
+
+# Installation
+
+Pick the package that matches your stack. Each package is independent — you never need more than one.
+
+## React and Next.js
+
+```bash
+npm install @ikions/react
+```
+
+Requires React 18 or newer. See [React](/docs/react) and [Next.js](/docs/nextjs).
+
+## Vue
+
+```bash
+npm install @ikions/vue
+```
+
+Requires Vue 3.3 or newer. See [Vue](/docs/vue).
+
+## Svelte
+
+```bash
+npm install @ikions/svelte
+```
+
+Requires Svelte 5. See [Svelte](/docs/svelte).
+
+## Plain SVG
+
+```bash
+npm install @ikions/icons
+```
+
+Gives you `outline/*.svg`, `filled/*.svg`, two sprites and the `toSvg()` helper. See [HTML & SVG](/docs/html).
+
+## Other package managers
+
+```bash
+pnpm add @ikions/react
+yarn add @ikions/react
+bun add @ikions/react
+```
+
+## Module format
+
+All packages are published as ES modules with TypeScript declarations and `"sideEffects": false`. Modern bundlers (Vite, webpack 5, Turbopack, Rollup, esbuild) include only the icons you import.
+
+<Note>
+You can also download any icon without installing anything: open it in the [explorer](/icons) and use **Download SVG**, **Download PNG**, or select several icons and export a ZIP.
+</Note>

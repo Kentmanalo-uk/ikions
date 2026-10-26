@@ -1,0 +1,23 @@
+{
+  "name": "map-layers",
+  "title": "Map Layers",
+  "category": "maps",
+  "description": "Toggles the layers shown on a map, such as terrain or traffic.",
+  "tags": [
+    "overlay",
+    "map type",
+    "layer switcher",
+    "stack",
+    "view",
+    "base map"
+  ],
+  "aliases": [
+    "map-overlays",
+    "layer-switcher"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

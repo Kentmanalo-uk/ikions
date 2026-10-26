@@ -1,0 +1,23 @@
+{
+  "name": "staple",
+  "title": "Staple",
+  "category": "files",
+  "description": "Staple pages together into one fastened document.",
+  "tags": [
+    "stapled",
+    "fasten",
+    "attach",
+    "bind",
+    "pages",
+    "office"
+  ],
+  "aliases": [
+    "staple-pages",
+    "stapled-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

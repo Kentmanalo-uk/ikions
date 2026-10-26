@@ -1,0 +1,19 @@
+{
+  "name": "arrow-down-left",
+  "title": "Arrow Down Left",
+  "category": "arrows",
+  "description": "Point or move down and left.",
+  "tags": [
+    "arrow",
+    "direction",
+    "diagonal",
+    "down",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

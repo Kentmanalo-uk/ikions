@@ -1,0 +1,23 @@
+{
+  "name": "color-swatch",
+  "title": "Color Swatch",
+  "category": "editing",
+  "description": "Pick from a fan of colour swatches or sample cards.",
+  "tags": [
+    "swatches",
+    "palette",
+    "colour",
+    "paint",
+    "samples",
+    "theme"
+  ],
+  "aliases": [
+    "swatch-book",
+    "colour-swatch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

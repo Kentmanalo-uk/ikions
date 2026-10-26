@@ -1,0 +1,23 @@
+{
+  "name": "arrows-spin",
+  "title": "Arrows Spin",
+  "category": "arrows",
+  "description": "Three arrows chasing each other in a circle, for spinning or continuous rotation.",
+  "tags": [
+    "spin",
+    "rotate",
+    "spinner",
+    "cycle",
+    "turn",
+    "revolve",
+    "loading"
+  ],
+  "aliases": [
+    "arrows-spinning"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

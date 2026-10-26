@@ -1,0 +1,23 @@
+{
+  "name": "page-break",
+  "title": "Page Break",
+  "category": "files",
+  "description": "Insert or show a break between two pages of a document.",
+  "tags": [
+    "break",
+    "pagination",
+    "separator",
+    "layout",
+    "print",
+    "split"
+  ],
+  "aliases": [
+    "break-page",
+    "page-separator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

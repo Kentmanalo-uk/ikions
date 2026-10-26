@@ -1,0 +1,24 @@
+{
+  "name": "bold",
+  "title": "Bold",
+  "category": "editing",
+  "description": "Make selected text bold or strong.",
+  "tags": [
+    "text",
+    "format",
+    "font",
+    "weight",
+    "strong",
+    "emphasis",
+    "style"
+  ],
+  "aliases": [
+    "text-bold",
+    "strong"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

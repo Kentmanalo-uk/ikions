@@ -1,0 +1,22 @@
+{
+  "name": "car-wash",
+  "title": "Car Wash",
+  "category": "transport",
+  "description": "A car under falling water drops, for car wash and vehicle cleaning.",
+  "tags": [
+    "wash",
+    "clean",
+    "car",
+    "water",
+    "detailing",
+    "service"
+  ],
+  "aliases": [
+    "car-cleaning"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

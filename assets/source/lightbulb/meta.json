@@ -1,0 +1,25 @@
+{
+  "name": "lightbulb",
+  "title": "Lightbulb",
+  "category": "education",
+  "description": "Represent an idea, a tip, inspiration or a helpful hint.",
+  "tags": [
+    "idea",
+    "tip",
+    "hint",
+    "inspiration",
+    "insight",
+    "creative",
+    "bulb",
+    "light"
+  ],
+  "aliases": [
+    "idea",
+    "bulb"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

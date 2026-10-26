@@ -1,0 +1,22 @@
+{
+  "name": "user-off",
+  "title": "User Off",
+  "category": "people",
+  "description": "Turn off, disable or mute the user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

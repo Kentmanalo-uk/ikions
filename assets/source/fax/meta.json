@@ -1,0 +1,21 @@
+{
+  "name": "fax",
+  "title": "Fax",
+  "category": "communication",
+  "description": "Send or receive a document by fax machine.",
+  "tags": [
+    "fax machine",
+    "telefax",
+    "office",
+    "document",
+    "transmit"
+  ],
+  "aliases": [
+    "telefax"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "interface",
+    "name": "Interface Essentials",
+    "description": "Core actions and controls every product interface needs: navigation, editing, layout and system actions."
+  },
+  {
+    "slug": "arrows",
+    "name": "Arrows & Directions",
+    "description": "Arrows, chevrons, transfers and directional controls for movement, flow and navigation."
+  },
+  {
+    "slug": "communication",
+    "name": "Communication",
+    "description": "Mail, messaging, calls, notifications and broadcasting."
+  },
+  {
+    "slug": "people",
+    "name": "People & Accounts",
+    "description": "Users, teams, profiles, identity and account management."
+  },
+  {
+    "slug": "files",
+    "name": "Files & Documents",
+    "description": "Files, folders, document types and file operations."
+  },
+  {
+    "slug": "editing",
+    "name": "Editing & Creativity",
+    "description": "Drawing, design and text editing tools for creative software."
+  },
+  {
+    "slug": "media",
+    "name": "Media & Entertainment",
+    "description": "Playback controls, audio, video, photography and entertainment."
+  },
+  {
+    "slug": "devices",
+    "name": "Devices & Technology",
+    "description": "Phones, computers, peripherals, connectivity and hardware."
+  },
+  {
+    "slug": "development",
+    "name": "Development & Programming",
+    "description": "Code, version control, terminals, APIs and developer tooling."
+  },
+  {
+    "slug": "commerce",
+    "name": "Shopping & E-commerce",
+    "description": "Carts, products, checkout, delivery and order states."
+  },
+  {
+    "slug": "finance",
+    "name": "Finance & Business",
+    "description": "Money, payments, banking, billing and financial analysis."
+  },
+  {
+    "slug": "maps",
+    "name": "Maps & Navigation",
+    "description": "Maps, locations, routes, compasses and geography."
+  },
+  {
+    "slug": "transport",
+    "name": "Transportation & Travel",
+    "description": "Vehicles, travel documents, accommodation and journeys."
+  },
+  {
+    "slug": "weather",
+    "name": "Weather & Nature",
+    "description": "Weather conditions, sky, seasons, landscapes and plants."
+  },
+  {
+    "slug": "food",
+    "name": "Food & Beverages",
+    "description": "Dining, drinks, ingredients and kitchen tools."
+  },
+  {
+    "slug": "health",
+    "name": "Health & Medical",
+    "description": "Healthcare, medicine, emergency and wellbeing."
+  },
+  {
+    "slug": "education",
+    "name": "Education & Learning",
+    "description": "Books, schools, study tools and academic achievement."
+  },
+  {
+    "slug": "security",
+    "name": "Security & Privacy",
+    "description": "Locks, keys, shields, authentication and visibility."
+  },
+  {
+    "slug": "time",
+    "name": "Time & Productivity",
+    "description": "Clocks, calendars, timers, tasks and planning."
+  },
+  {
+    "slug": "charts",
+    "name": "Charts & Analytics",
+    "description": "Charts, trends, statistics and reporting."
+  },
+  {
+    "slug": "social",
+    "name": "Social & Community",
+    "description": "Sharing, reactions, following and community interaction."
+  },
+  {
+    "slug": "buildings",
+    "name": "Buildings & Places",
+    "description": "Homes, workplaces, public buildings and venues."
+  },
+  {
+    "slug": "animals",
+    "name": "Animals & Agriculture",
+    "description": "Animals, farming, crops and livestock."
+  },
+  {
+    "slug": "sports",
+    "name": "Sports & Fitness",
+    "description": "Sports, exercise, equipment and achievements."
+  },
+  {
+    "slug": "lifestyle",
+    "name": "Clothing & Lifestyle",
+    "description": "Clothing, accessories, beauty and personal items."
+  },
+  {
+    "slug": "science",
+    "name": "Science & Engineering",
+    "description": "Laboratory, physics, chemistry, mathematics and engineering."
+  },
+  {
+    "slug": "energy",
+    "name": "Energy & Sustainability",
+    "description": "Power, batteries, renewable energy and recycling."
+  },
+  {
+    "slug": "status",
+    "name": "Status & Feedback",
+    "description": "Success, errors, warnings, information and system states."
+  },
+  {
+    "slug": "shapes",
+    "name": "Shapes & Symbols",
+    "description": "Geometric shapes, operators and abstract symbols."
+  },
+  {
+    "slug": "emerging",
+    "name": "Specialized & Emerging Technology",
+    "description": "AI, automation, extended reality, IoT and frontier technology."
+  },
+  {
+    "slug": "business",
+    "name": "Business & Office",
+    "description": "Office work, meetings, presentations, documents of record and organisational tools."
+  },
+  {
+    "slug": "household",
+    "name": "Home & Household",
+    "description": "Furniture, appliances, rooms, cleaning and everyday household objects."
+  },
+  {
+    "slug": "accessibility",
+    "name": "Accessibility & Gestures",
+    "description": "Assistive technology, captions, hearing, vision, mobility and touch gestures."
+  },
+  {
+    "slug": "ai",
+    "name": "AI & Data",
+    "description": "Machine learning, models, prompts, agents, embeddings and data pipelines."
+  }
+]

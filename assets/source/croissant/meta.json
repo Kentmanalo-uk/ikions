@@ -1,0 +1,20 @@
+{
+  "name": "croissant",
+  "title": "Croissant",
+  "category": "food",
+  "description": "Represent a croissant, such as pastry, a bakery, breakfast or a French café.",
+  "tags": [
+    "pastry",
+    "bakery",
+    "breakfast",
+    "french",
+    "cafe",
+    "brunch"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

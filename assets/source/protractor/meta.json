@@ -1,0 +1,22 @@
+{
+  "name": "protractor",
+  "title": "Protractor",
+  "category": "editing",
+  "description": "Measure and draw angles with a protractor.",
+  "tags": [
+    "angle",
+    "degrees",
+    "measure",
+    "geometry",
+    "math",
+    "drafting"
+  ],
+  "aliases": [
+    "angle-measure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

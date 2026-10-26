@@ -1,0 +1,20 @@
+{
+  "name": "bowl",
+  "title": "Bowl",
+  "category": "food",
+  "description": "Represent an empty bowl, such as a serving dish, breakfast or a meal.",
+  "tags": [
+    "dish",
+    "serving",
+    "cereal",
+    "meal",
+    "kitchen",
+    "tableware"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

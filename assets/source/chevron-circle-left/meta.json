@@ -1,0 +1,19 @@
+{
+  "name": "chevron-circle-left",
+  "title": "Chevron Circle Left",
+  "category": "arrows",
+  "description": "Chevron pointing left inside a circle; a round navigation or expand button.",
+  "tags": [
+    "chevron",
+    "circle",
+    "button",
+    "navigate",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

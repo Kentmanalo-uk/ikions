@@ -1,0 +1,23 @@
+{
+  "name": "pause",
+  "title": "Pause",
+  "category": "media",
+  "description": "Temporarily halt playback so it can be resumed later.",
+  "tags": [
+    "hold",
+    "halt",
+    "media",
+    "player",
+    "break",
+    "wait",
+    "suspend"
+  ],
+  "aliases": [
+    "pause-button"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

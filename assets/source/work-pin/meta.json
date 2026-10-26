@@ -1,0 +1,23 @@
+{
+  "name": "work-pin",
+  "title": "Work Pin",
+  "category": "maps",
+  "description": "Marks your workplace address as a saved place on a map.",
+  "tags": [
+    "work address",
+    "office",
+    "job",
+    "saved place",
+    "commute",
+    "location"
+  ],
+  "aliases": [
+    "work-location",
+    "office-location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

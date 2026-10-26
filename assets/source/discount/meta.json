@@ -1,0 +1,23 @@
+{
+  "name": "discount",
+  "title": "Discount",
+  "category": "commerce",
+  "description": "Marks a price reduction or percentage off an item.",
+  "tags": [
+    "percent",
+    "off",
+    "reduction",
+    "deal",
+    "markdown",
+    "promotion"
+  ],
+  "aliases": [
+    "price-reduction",
+    "percent-off"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

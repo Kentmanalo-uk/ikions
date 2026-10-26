@@ -1,0 +1,22 @@
+{
+  "name": "list-checks",
+  "title": "List Checks",
+  "category": "interface",
+  "description": "Mark a list as checked off or complete.",
+  "tags": [
+    "checklist",
+    "done",
+    "complete",
+    "tasks",
+    "todo",
+    "verified"
+  ],
+  "aliases": [
+    "list-done"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

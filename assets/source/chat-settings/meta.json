@@ -1,0 +1,21 @@
+{
+  "name": "chat-settings",
+  "title": "Chat Settings",
+  "category": "communication",
+  "description": "Settings and preferences for a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "settings",
+    "preferences",
+    "configure",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

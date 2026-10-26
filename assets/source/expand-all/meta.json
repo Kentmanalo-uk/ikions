@@ -1,0 +1,23 @@
+{
+  "name": "expand-all",
+  "title": "Expand All",
+  "category": "interface",
+  "description": "Expand every collapsed section, row or tree node at once.",
+  "tags": [
+    "expand",
+    "unfold",
+    "open all",
+    "tree",
+    "accordion",
+    "outline"
+  ],
+  "aliases": [
+    "unfold-all",
+    "unfold"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

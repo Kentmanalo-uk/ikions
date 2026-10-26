@@ -1,0 +1,22 @@
+{
+  "name": "bell-dot",
+  "title": "Bell Dot",
+  "category": "communication",
+  "description": "A notification bell with an unread dot.",
+  "tags": [
+    "notification",
+    "alert",
+    "unread",
+    "reminder",
+    "new"
+  ],
+  "aliases": [
+    "bell-badge",
+    "bell-unread"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

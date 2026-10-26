@@ -1,0 +1,23 @@
+{
+  "name": "ledger",
+  "title": "Ledger",
+  "category": "finance",
+  "description": "An accounting ledger book with a T-account ruling.",
+  "tags": [
+    "accounting",
+    "bookkeeping",
+    "books",
+    "journal",
+    "records",
+    "t-account"
+  ],
+  "aliases": [
+    "account-book",
+    "general-ledger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mail-reply",
+  "title": "Mail Reply",
+  "category": "communication",
+  "description": "Reply to an email.",
+  "tags": [
+    "email",
+    "reply",
+    "respond",
+    "answer",
+    "envelope"
+  ],
+  "aliases": [
+    "reply-email"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

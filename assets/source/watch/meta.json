@@ -1,0 +1,23 @@
+{
+  "name": "watch",
+  "title": "Watch",
+  "category": "devices",
+  "description": "Represent a smartwatch, wearable device or wristwatch.",
+  "tags": [
+    "smartwatch",
+    "wearable",
+    "wrist",
+    "time",
+    "fitness",
+    "tracker",
+    "device"
+  ],
+  "aliases": [
+    "wristwatch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

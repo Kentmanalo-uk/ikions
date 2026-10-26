@@ -1,0 +1,19 @@
+{
+  "name": "circle-plus",
+  "title": "Circle Plus",
+  "category": "shapes",
+  "description": "Plus in a circle: add or create.",
+  "tags": [
+    "circle",
+    "add",
+    "plus",
+    "new",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

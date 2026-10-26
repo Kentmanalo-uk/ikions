@@ -1,0 +1,24 @@
+{
+  "name": "speaker-device",
+  "title": "Portable Speaker",
+  "category": "devices",
+  "description": "A portable wireless speaker with two drivers.",
+  "tags": [
+    "bluetooth speaker",
+    "audio",
+    "sound",
+    "music",
+    "wireless",
+    "portable"
+  ],
+  "aliases": [
+    "bluetooth-speaker",
+    "wireless-speaker",
+    "speaker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

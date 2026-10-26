@@ -1,0 +1,23 @@
+{
+  "name": "pin-flag",
+  "title": "Flag Pin",
+  "category": "maps",
+  "description": "A location pin with a small flag inside for marked spots, goals and reached places.",
+  "tags": [
+    "mark spot",
+    "flagged place",
+    "goal",
+    "location",
+    "milestone",
+    "marker"
+  ],
+  "aliases": [
+    "flag-marker",
+    "flagged-location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

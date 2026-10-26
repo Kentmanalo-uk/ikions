@@ -1,0 +1,21 @@
+{
+  "name": "image-upload",
+  "title": "Image Upload",
+  "category": "media",
+  "description": "Upload or export a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "upload",
+    "send",
+    "export",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

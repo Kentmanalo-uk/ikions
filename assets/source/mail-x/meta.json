@@ -1,0 +1,24 @@
+{
+  "name": "mail-x",
+  "title": "Mail X",
+  "category": "communication",
+  "description": "Delete, cancel or reject a mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "mail"
+  ],
+  "aliases": [
+    "delete-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

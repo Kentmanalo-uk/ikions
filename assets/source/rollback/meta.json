@@ -1,0 +1,23 @@
+{
+  "name": "rollback",
+  "title": "Rollback",
+  "category": "development",
+  "description": "Return a deployment or database to a previous known-good version.",
+  "tags": [
+    "revert",
+    "undo",
+    "deploy",
+    "previous",
+    "restore",
+    "version"
+  ],
+  "aliases": [
+    "revert-deploy",
+    "roll-back"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

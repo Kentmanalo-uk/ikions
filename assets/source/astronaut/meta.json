@@ -1,0 +1,23 @@
+{
+  "name": "astronaut",
+  "title": "Astronaut",
+  "category": "people",
+  "description": "Represent an astronaut or space explorer.",
+  "tags": [
+    "space",
+    "cosmonaut",
+    "spaceman",
+    "explorer",
+    "nasa",
+    "helmet"
+  ],
+  "aliases": [
+    "spaceman",
+    "cosmonaut"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

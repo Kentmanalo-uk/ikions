@@ -1,0 +1,22 @@
+{
+  "name": "issue-draft",
+  "title": "Issue Draft",
+  "category": "development",
+  "description": "A draft issue that has not been opened or triaged yet.",
+  "tags": [
+    "draft",
+    "unpublished",
+    "pending",
+    "ticket",
+    "triage",
+    "github"
+  ],
+  "aliases": [
+    "draft-issue"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

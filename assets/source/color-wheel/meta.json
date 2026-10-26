@@ -1,0 +1,23 @@
+{
+  "name": "color-wheel",
+  "title": "Color Wheel",
+  "category": "editing",
+  "description": "Choose a hue from a segmented colour wheel.",
+  "tags": [
+    "hue",
+    "spectrum",
+    "colour",
+    "picker",
+    "rgb",
+    "palette"
+  ],
+  "aliases": [
+    "colour-wheel",
+    "hue-wheel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

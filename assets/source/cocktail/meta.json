@@ -1,0 +1,23 @@
+{
+  "name": "cocktail",
+  "title": "Cocktail",
+  "category": "food",
+  "description": "Represent a cocktail or mixed drink, such as a bar, happy hour or a party.",
+  "tags": [
+    "martini",
+    "drink",
+    "bar",
+    "alcohol",
+    "happy-hour",
+    "party",
+    "olive"
+  ],
+  "aliases": [
+    "martini"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

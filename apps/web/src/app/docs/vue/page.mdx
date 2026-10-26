@@ -1,0 +1,58 @@
+export const metadata = {
+  title: "Vue",
+  description: "Use Ikions Vue 3 components with variant, size, colour and stroke-width props.",
+  alternates: { canonical: "/docs/vue" },
+};
+
+# Vue
+
+`@ikions/vue` provides Vue 3 components with the same API as the React package.
+
+```bash
+npm install @ikions/vue
+```
+
+## Usage
+
+```vue
+<script setup>
+import { CameraIcon, HeartIcon } from "@ikions/vue";
+</script>
+
+<template>
+  <CameraIcon :size="28" />
+  <HeartIcon variant="filled" color="#E5484D" title="Favourite" />
+</template>
+```
+
+## Props
+
+| Prop | Type | Default |
+| --- | --- | --- |
+| `size` | `number \| string` | `24` |
+| `variant` | `"outline" \| "filled"` | `"outline"` |
+| `color` | `string` | `"currentColor"` |
+| `gradient` | `{ from, to, angle? }` | — (overrides `color`) |
+| `stroke-width` | `number \| string` | `1.75` (outline only) |
+| `title` | `string` | — |
+
+Other attributes such as `class`, `style` or `aria-label` fall through to the `<svg>` element.
+
+## Accessibility
+
+Without `title` or `aria-label`, icons render with `aria-hidden="true"`. With a `title` they render `role="img"`, an `aria-label` and a `<title>` element.
+
+## Nuxt
+
+The components are plain ES modules and render on the server. Import them in any component; no Nuxt module is required.
+
+## Custom icons
+
+```ts
+import { createIkion } from "@ikions/vue";
+
+export const DotIcon = createIkion("dot", "DotIcon", {
+  outline: [["circle", { cx: "12", cy: "12", r: "4" }]],
+  filled: [["circle", { cx: "12", cy: "12", r: "5" }]],
+});
+```

@@ -1,0 +1,22 @@
+{
+  "name": "collapse-arrows",
+  "title": "Collapse Arrows",
+  "category": "arrows",
+  "description": "Fold or collapse content inward toward a centre line.",
+  "tags": [
+    "collapse",
+    "fold",
+    "close",
+    "shrink",
+    "vertical",
+    "show less"
+  ],
+  "aliases": [
+    "fold-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

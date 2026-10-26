@@ -1,0 +1,21 @@
+{
+  "name": "monitor-settings",
+  "title": "Monitor Settings",
+  "category": "devices",
+  "description": "Settings and preferences for a monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "settings",
+    "preferences",
+    "configure",
+    "monitor"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

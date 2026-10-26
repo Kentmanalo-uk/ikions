@@ -1,0 +1,22 @@
+{
+  "name": "chat-clock",
+  "title": "Chat Clock",
+  "category": "communication",
+  "description": "A scheduled, pending or recent chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shift-key",
+  "title": "Shift Key",
+  "category": "interface",
+  "description": "Represent the Shift modifier key on a keyboard.",
+  "tags": [
+    "shift",
+    "modifier",
+    "uppercase",
+    "keyboard",
+    "shortcut",
+    "caps"
+  ],
+  "aliases": [
+    "shift"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

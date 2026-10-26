@@ -1,0 +1,25 @@
+{
+  "name": "palette",
+  "title": "Palette",
+  "category": "editing",
+  "description": "Choose colours, open a theme picker or edit a colour scheme.",
+  "tags": [
+    "color",
+    "colour",
+    "paint",
+    "theme",
+    "art",
+    "design",
+    "swatch",
+    "picker"
+  ],
+  "aliases": [
+    "color-palette",
+    "colour-palette"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "arrow-up-left",
+  "title": "Arrow Up Left",
+  "category": "arrows",
+  "description": "Point or move up and left.",
+  "tags": [
+    "arrow",
+    "direction",
+    "diagonal",
+    "up",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

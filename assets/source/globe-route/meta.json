@@ -1,0 +1,23 @@
+{
+  "name": "globe-route",
+  "title": "Globe Route",
+  "category": "maps",
+  "description": "A globe with a travel path curving around it for international routes and shipping.",
+  "tags": [
+    "flight path",
+    "international",
+    "travel",
+    "worldwide",
+    "shipping",
+    "global route"
+  ],
+  "aliases": [
+    "flight-route",
+    "world-route"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

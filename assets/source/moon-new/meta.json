@@ -1,0 +1,22 @@
+{
+  "name": "moon-new",
+  "title": "New Moon",
+  "category": "weather",
+  "description": "The new moon phase, when the moon is dark and barely visible.",
+  "tags": [
+    "moon phase",
+    "lunar",
+    "dark",
+    "night",
+    "astronomy",
+    "calendar"
+  ],
+  "aliases": [
+    "dark-moon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

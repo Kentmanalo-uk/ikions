@@ -1,0 +1,23 @@
+{
+  "name": "scroll",
+  "title": "Scroll",
+  "category": "files",
+  "description": "Represents a rolled paper scroll such as an ancient text or decree.",
+  "tags": [
+    "paper",
+    "ancient",
+    "history",
+    "decree",
+    "manuscript",
+    "story"
+  ],
+  "aliases": [
+    "paper-scroll",
+    "rolled-paper"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

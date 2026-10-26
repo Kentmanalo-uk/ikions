@@ -1,0 +1,21 @@
+{
+  "name": "folder-download",
+  "title": "Folder Download",
+  "category": "files",
+  "description": "Download or import a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "download",
+    "save",
+    "import",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sun-high",
+  "title": "Sun High",
+  "category": "weather",
+  "description": "A radiant sun with long rays for strong sunshine or high brightness.",
+  "tags": [
+    "brightness",
+    "bright",
+    "intense",
+    "uv",
+    "heat",
+    "weather",
+    "sunny"
+  ],
+  "aliases": [
+    "brightness-high"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

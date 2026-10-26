@@ -1,0 +1,21 @@
+{
+  "name": "arrow-left",
+  "title": "Arrow Left",
+  "category": "arrows",
+  "description": "Go back, return or point to the left.",
+  "tags": [
+    "back",
+    "previous",
+    "return",
+    "direction",
+    "west"
+  ],
+  "aliases": [
+    "arrow-back"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

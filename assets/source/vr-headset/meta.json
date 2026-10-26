@@ -1,0 +1,23 @@
+{
+  "name": "vr-headset",
+  "title": "VR Headset",
+  "category": "devices",
+  "description": "A virtual reality headset with a head strap.",
+  "tags": [
+    "virtual reality",
+    "goggles",
+    "metaverse",
+    "immersive",
+    "gaming",
+    "ar"
+  ],
+  "aliases": [
+    "vr-goggles",
+    "vr-headgear"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

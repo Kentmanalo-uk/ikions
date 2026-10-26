@@ -1,0 +1,22 @@
+{
+  "name": "monitor-lock",
+  "title": "Monitor Lock",
+  "category": "devices",
+  "description": "A locked, private or protected monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "monitor"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

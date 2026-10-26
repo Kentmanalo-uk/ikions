@@ -1,0 +1,22 @@
+{
+  "name": "cloud-clock",
+  "title": "Cloud Clock",
+  "category": "weather",
+  "description": "A scheduled, pending or recent cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "cloud"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

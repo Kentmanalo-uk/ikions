@@ -1,0 +1,24 @@
+{
+  "name": "redo",
+  "title": "Redo",
+  "category": "arrows",
+  "description": "Repeat the last undone action or step forward in history.",
+  "tags": [
+    "reapply",
+    "forward",
+    "history",
+    "repeat",
+    "next",
+    "edit",
+    "restore",
+    "ctrl-y"
+  ],
+  "aliases": [
+    "reapply"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

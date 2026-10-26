@@ -1,0 +1,20 @@
+{
+  "name": "picnic-basket",
+  "title": "Picnic Basket",
+  "category": "food",
+  "description": "Represent a picnic basket, a picnic outing or a hamper of food.",
+  "tags": [
+    "picnic",
+    "hamper",
+    "wicker",
+    "outdoor",
+    "lunch",
+    "basket"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

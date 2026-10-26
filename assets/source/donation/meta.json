@@ -1,0 +1,23 @@
+{
+  "name": "donation",
+  "title": "Donation",
+  "category": "finance",
+  "description": "Give to a cause by dropping a heart into a donation box.",
+  "tags": [
+    "donate",
+    "charity",
+    "give",
+    "contribution",
+    "nonprofit",
+    "fundraising"
+  ],
+  "aliases": [
+    "donate",
+    "charity-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

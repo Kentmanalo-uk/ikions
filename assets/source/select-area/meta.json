@@ -1,0 +1,23 @@
+{
+  "name": "select-area",
+  "title": "Select Area",
+  "category": "interface",
+  "description": "A dashed marquee for selecting a rectangular region.",
+  "tags": [
+    "marquee",
+    "selection",
+    "region",
+    "lasso",
+    "dashed",
+    "rectangle"
+  ],
+  "aliases": [
+    "marquee",
+    "selection-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

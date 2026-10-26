@@ -1,0 +1,23 @@
+{
+  "name": "user-swap",
+  "title": "User Swap",
+  "category": "people",
+  "description": "Switch between accounts or exchange one user for another.",
+  "tags": [
+    "switch",
+    "account",
+    "change",
+    "exchange",
+    "profile",
+    "toggle"
+  ],
+  "aliases": [
+    "switch-user",
+    "change-account"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "minus",
+  "title": "Minus",
+  "category": "interface",
+  "description": "Remove an item, collapse a group or decrease a value.",
+  "tags": [
+    "subtract",
+    "decrease",
+    "less",
+    "collapse"
+  ],
+  "aliases": [
+    "remove",
+    "subtract"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "barcode-reader",
+  "title": "Barcode Reader",
+  "category": "devices",
+  "description": "Represents a handheld barcode scanner gun reading a code.",
+  "tags": [
+    "scanner",
+    "barcode",
+    "retail",
+    "inventory",
+    "checkout",
+    "warehouse"
+  ],
+  "aliases": [
+    "scanner-gun",
+    "handheld-scanner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

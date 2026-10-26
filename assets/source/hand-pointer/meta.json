@@ -1,0 +1,23 @@
+{
+  "name": "hand-pointer",
+  "title": "Hand Pointer",
+  "category": "interface",
+  "description": "A hand with a raised index finger, the cursor shown over links.",
+  "tags": [
+    "link",
+    "cursor",
+    "finger",
+    "point",
+    "click",
+    "hover"
+  ],
+  "aliases": [
+    "pointing-hand",
+    "link-cursor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "file-video",
+  "title": "File Video",
+  "category": "files",
+  "description": "Represents a video file such as a movie, clip or screen recording.",
+  "tags": [
+    "movie",
+    "clip",
+    "mp4",
+    "film",
+    "media"
+  ],
+  "aliases": [
+    "video-file",
+    "movie-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

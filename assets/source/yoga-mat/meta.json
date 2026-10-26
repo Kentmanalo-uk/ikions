@@ -1,0 +1,23 @@
+{
+  "name": "yoga-mat",
+  "title": "Yoga Mat",
+  "category": "health",
+  "description": "A rolled-up yoga mat for yoga, stretching and floor workouts.",
+  "tags": [
+    "yoga",
+    "exercise mat",
+    "pilates",
+    "stretching",
+    "workout",
+    "fitness",
+    "meditation"
+  ],
+  "aliases": [
+    "exercise-mat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

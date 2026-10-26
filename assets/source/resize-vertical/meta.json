@@ -1,0 +1,23 @@
+{
+  "name": "resize-vertical",
+  "title": "Resize Vertical",
+  "category": "interface",
+  "description": "Drag to change the height of a row, pane or element.",
+  "tags": [
+    "height",
+    "row",
+    "split",
+    "drag",
+    "cursor",
+    "resize"
+  ],
+  "aliases": [
+    "row-resize",
+    "resize-height"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "file-lock",
+  "title": "File Lock",
+  "category": "files",
+  "description": "Represent a protected, encrypted or read-only document.",
+  "tags": [
+    "locked",
+    "secure",
+    "private",
+    "protected",
+    "encrypted",
+    "password",
+    "confidential",
+    "document"
+  ],
+  "aliases": [
+    "locked-file",
+    "secure-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

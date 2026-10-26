@@ -1,0 +1,22 @@
+{
+  "name": "bluetooth-off",
+  "title": "Bluetooth Off",
+  "category": "devices",
+  "description": "Turn off, disable or mute the bluetooth.",
+  "tags": [
+    "wireless",
+    "pairing",
+    "connection",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-bluetooth"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

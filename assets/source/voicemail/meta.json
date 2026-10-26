@@ -1,0 +1,20 @@
+{
+  "name": "voicemail",
+  "title": "Voicemail",
+  "category": "communication",
+  "description": "Listen to or record a voicemail message.",
+  "tags": [
+    "voice message",
+    "answering machine",
+    "recording",
+    "phone",
+    "tape",
+    "message"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "tracking",
+  "title": "Tracking",
+  "category": "commerce",
+  "description": "Follow a parcel's location on its way to the customer.",
+  "tags": [
+    "track order",
+    "shipment",
+    "parcel",
+    "location",
+    "delivery status",
+    "where is my order"
+  ],
+  "aliases": [
+    "track-order",
+    "order-tracking"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

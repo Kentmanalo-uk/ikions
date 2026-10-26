@@ -1,0 +1,23 @@
+{
+  "name": "cart-plus",
+  "title": "Cart Plus",
+  "category": "commerce",
+  "description": "Add a new cart.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "add",
+    "new",
+    "create",
+    "cart"
+  ],
+  "aliases": [
+    "add-cart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

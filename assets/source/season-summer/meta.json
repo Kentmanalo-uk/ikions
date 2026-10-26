@@ -1,0 +1,24 @@
+{
+  "name": "season-summer",
+  "title": "Summer",
+  "category": "weather",
+  "description": "Represents the summer season with a leafy tree under the sun.",
+  "tags": [
+    "summer",
+    "season",
+    "sunny",
+    "hot",
+    "summertime",
+    "june",
+    "july",
+    "nature"
+  ],
+  "aliases": [
+    "summertime"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

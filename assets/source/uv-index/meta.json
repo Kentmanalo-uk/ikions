@@ -1,0 +1,24 @@
+{
+  "name": "uv-index",
+  "title": "UV Index",
+  "category": "weather",
+  "description": "Shows the ultraviolet index and sun exposure level.",
+  "tags": [
+    "uv",
+    "ultraviolet",
+    "sun",
+    "sunburn",
+    "sunscreen",
+    "exposure",
+    "weather"
+  ],
+  "aliases": [
+    "ultraviolet",
+    "uv-level"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

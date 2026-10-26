@@ -1,0 +1,23 @@
+{
+  "name": "flower-rose",
+  "title": "Rose",
+  "category": "weather",
+  "description": "Represents a rose flower, romance or a gift of flowers.",
+  "tags": [
+    "rose",
+    "flower",
+    "romance",
+    "love",
+    "valentine",
+    "bloom",
+    "garden"
+  ],
+  "aliases": [
+    "rose"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

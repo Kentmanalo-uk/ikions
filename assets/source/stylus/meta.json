@@ -1,0 +1,23 @@
+{
+  "name": "stylus",
+  "title": "Stylus",
+  "category": "devices",
+  "description": "A digital stylus pen with a soft rounded tip for touchscreens.",
+  "tags": [
+    "pen",
+    "drawing",
+    "touchscreen",
+    "tablet",
+    "apple pencil",
+    "handwriting"
+  ],
+  "aliases": [
+    "digital-pen",
+    "touch-pen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

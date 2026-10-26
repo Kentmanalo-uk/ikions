@@ -1,0 +1,23 @@
+{
+  "name": "toll",
+  "title": "Toll",
+  "category": "maps",
+  "description": "Shows a toll plaza with a booth and a striped gate arm across the lane.",
+  "tags": [
+    "toll road",
+    "toll booth",
+    "fee",
+    "toll plaza",
+    "payment",
+    "highway"
+  ],
+  "aliases": [
+    "toll-booth",
+    "toll-plaza"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

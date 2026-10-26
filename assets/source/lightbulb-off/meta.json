@@ -1,0 +1,22 @@
+{
+  "name": "lightbulb-off",
+  "title": "Lightbulb Off",
+  "category": "education",
+  "description": "Turn off, disable or mute the lightbulb.",
+  "tags": [
+    "idea",
+    "tip",
+    "hint",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-lightbulb"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

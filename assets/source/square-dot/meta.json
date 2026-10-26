@@ -1,0 +1,20 @@
+{
+  "name": "square-dot",
+  "title": "Square Dot",
+  "category": "shapes",
+  "description": "Dot in a square: a selected option, record point or status.",
+  "tags": [
+    "square",
+    "dot",
+    "radio",
+    "record",
+    "status",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

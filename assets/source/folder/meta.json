@@ -1,0 +1,21 @@
+{
+  "name": "folder",
+  "title": "Folder",
+  "category": "files",
+  "description": "Group files together or open a directory.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "organize",
+    "project"
+  ],
+  "aliases": [
+    "directory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

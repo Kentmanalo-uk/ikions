@@ -1,0 +1,22 @@
+{
+  "name": "webcam",
+  "title": "Webcam",
+  "category": "devices",
+  "description": "A round web camera on a small stand.",
+  "tags": [
+    "camera",
+    "video call",
+    "streaming",
+    "meeting",
+    "conference"
+  ],
+  "aliases": [
+    "web-camera",
+    "pc-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

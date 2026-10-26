@@ -1,0 +1,24 @@
+{
+  "name": "island",
+  "title": "Island",
+  "category": "maps",
+  "description": "A palm tree on a small island surrounded by sea for beaches and remote places.",
+  "tags": [
+    "beach",
+    "tropical",
+    "palm tree",
+    "vacation",
+    "sea",
+    "holiday"
+  ],
+  "aliases": [
+    "desert-island",
+    "tropical-island",
+    "island-palm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

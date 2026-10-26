@@ -1,0 +1,22 @@
+{
+  "name": "truck-check",
+  "title": "Truck Check",
+  "category": "commerce",
+  "description": "Truck confirmed, completed or verified.",
+  "tags": [
+    "delivery",
+    "shipping",
+    "shipment",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "truck"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

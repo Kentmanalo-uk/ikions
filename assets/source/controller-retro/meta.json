@@ -1,0 +1,23 @@
+{
+  "name": "controller-retro",
+  "title": "Controller Retro",
+  "category": "media",
+  "description": "Represents a classic rectangular game controller with a d-pad and buttons.",
+  "tags": [
+    "gamepad",
+    "retro",
+    "arcade",
+    "8-bit",
+    "gaming",
+    "classic"
+  ],
+  "aliases": [
+    "retro-gamepad",
+    "classic-controller"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

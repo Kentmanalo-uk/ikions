@@ -1,0 +1,24 @@
+{
+  "name": "cards-playing",
+  "title": "Playing Cards",
+  "category": "media",
+  "description": "Represents a hand of playing cards, card games or poker.",
+  "tags": [
+    "poker",
+    "casino",
+    "deck",
+    "blackjack",
+    "gambling",
+    "game",
+    "solitaire"
+  ],
+  "aliases": [
+    "card-deck",
+    "poker-cards"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

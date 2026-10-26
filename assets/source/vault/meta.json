@@ -1,0 +1,23 @@
+{
+  "name": "vault",
+  "title": "Vault",
+  "category": "finance",
+  "description": "A round bank vault door with a locking wheel.",
+  "tags": [
+    "vault",
+    "bank vault",
+    "strongroom",
+    "security",
+    "deposit",
+    "storage"
+  ],
+  "aliases": [
+    "bank-vault",
+    "strongroom-door"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

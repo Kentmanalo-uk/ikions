@@ -1,0 +1,23 @@
+{
+  "name": "storm",
+  "title": "Storm",
+  "category": "weather",
+  "description": "A storm cloud with lightning and heavy rain.",
+  "tags": [
+    "weather",
+    "rain",
+    "lightning",
+    "thunder",
+    "severe",
+    "forecast",
+    "stormy"
+  ],
+  "aliases": [
+    "rainstorm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "face-surprised",
+  "title": "Face Surprised",
+  "category": "people",
+  "description": "Show surprise, shock or amazement.",
+  "tags": [
+    "surprised",
+    "shocked",
+    "wow",
+    "amazed",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "surprised-face",
+    "shocked-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

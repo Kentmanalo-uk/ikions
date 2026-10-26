@@ -1,0 +1,24 @@
+{
+  "name": "chat-x",
+  "title": "Chat X",
+  "category": "communication",
+  "description": "Delete, cancel or reject a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "chat"
+  ],
+  "aliases": [
+    "delete-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

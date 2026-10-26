@@ -1,0 +1,23 @@
+{
+  "name": "mortgage",
+  "title": "Mortgage",
+  "category": "finance",
+  "description": "A home loan, shown as a house marked with a dollar sign.",
+  "tags": [
+    "home loan",
+    "house",
+    "property",
+    "real estate",
+    "loan",
+    "housing"
+  ],
+  "aliases": [
+    "home-loan",
+    "house-loan"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

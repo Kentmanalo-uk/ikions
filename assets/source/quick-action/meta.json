@@ -1,0 +1,23 @@
+{
+  "name": "quick-action",
+  "title": "Quick Action",
+  "category": "interface",
+  "description": "Run a fast shortcut or frequently used action in one tap.",
+  "tags": [
+    "shortcut",
+    "fast",
+    "speed",
+    "instant",
+    "action",
+    "lightning"
+  ],
+  "aliases": [
+    "fast-action",
+    "shortcut-action"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chat-lock",
+  "title": "Chat Lock",
+  "category": "communication",
+  "description": "A locked, private or protected chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

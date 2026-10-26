@@ -1,0 +1,22 @@
+{
+  "name": "calendar",
+  "title": "Calendar",
+  "category": "time",
+  "description": "Pick a date, view a schedule or open events.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "month",
+    "planner",
+    "agenda"
+  ],
+  "aliases": [
+    "date"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

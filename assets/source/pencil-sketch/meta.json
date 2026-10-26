@@ -1,0 +1,23 @@
+{
+  "name": "pencil-sketch",
+  "title": "Pencil Sketch",
+  "category": "editing",
+  "description": "Sketch freehand lines with a pencil.",
+  "tags": [
+    "draw",
+    "sketch",
+    "pencil",
+    "freehand",
+    "doodle",
+    "scribble"
+  ],
+  "aliases": [
+    "sketch",
+    "freehand"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

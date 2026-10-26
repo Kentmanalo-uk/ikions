@@ -1,0 +1,21 @@
+{
+  "name": "circle-stop",
+  "title": "Circle Stop",
+  "category": "shapes",
+  "description": "Stop in a circle: stop playback or recording.",
+  "tags": [
+    "circle",
+    "stop",
+    "media",
+    "end",
+    "button"
+  ],
+  "aliases": [
+    "stop-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

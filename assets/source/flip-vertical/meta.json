@@ -1,0 +1,21 @@
+{
+  "name": "flip-vertical",
+  "title": "Flip Vertical",
+  "category": "editing",
+  "description": "Mirror an object or image from top to bottom.",
+  "tags": [
+    "flip",
+    "mirror",
+    "reflect",
+    "vertical",
+    "upside-down"
+  ],
+  "aliases": [
+    "mirror-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

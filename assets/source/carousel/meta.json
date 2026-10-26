@@ -1,0 +1,22 @@
+{
+  "name": "carousel",
+  "title": "Carousel",
+  "category": "interface",
+  "description": "Show a slider of cards or images that the user can swipe through.",
+  "tags": [
+    "slider",
+    "slideshow",
+    "gallery",
+    "swipe",
+    "cards",
+    "slides"
+  ],
+  "aliases": [
+    "image-slider"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

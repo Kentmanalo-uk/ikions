@@ -1,0 +1,22 @@
+{
+  "name": "heart-check",
+  "title": "Heart Check",
+  "category": "social",
+  "description": "Heart confirmed, completed or verified.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "heart"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

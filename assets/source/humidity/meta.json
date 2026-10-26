@@ -1,0 +1,24 @@
+{
+  "name": "humidity",
+  "title": "Humidity",
+  "category": "weather",
+  "description": "Shows relative humidity or the moisture level in the air.",
+  "tags": [
+    "moisture",
+    "damp",
+    "percent",
+    "dew point",
+    "weather",
+    "water",
+    "climate"
+  ],
+  "aliases": [
+    "relative-humidity",
+    "moisture-level"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "merge-request",
+  "title": "Merge Request",
+  "category": "development",
+  "description": "A merge request proposing to bring one branch's changes into another.",
+  "tags": [
+    "git",
+    "gitlab",
+    "review",
+    "merge",
+    "branch",
+    "code review"
+  ],
+  "aliases": [
+    "mr"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

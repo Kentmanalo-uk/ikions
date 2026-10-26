@@ -1,0 +1,23 @@
+{
+  "name": "marker",
+  "title": "Marker",
+  "category": "editing",
+  "description": "Draw or annotate with a felt-tip marker pen.",
+  "tags": [
+    "felt-tip",
+    "pen",
+    "draw",
+    "annotate",
+    "sharpie",
+    "ink"
+  ],
+  "aliases": [
+    "felt-pen",
+    "marker-pen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

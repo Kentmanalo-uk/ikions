@@ -1,0 +1,22 @@
+{
+  "name": "sort-numeric",
+  "title": "Sort Numerically",
+  "category": "interface",
+  "description": "Sort items by number from lowest to highest.",
+  "tags": [
+    "numbers",
+    "1-9",
+    "sort",
+    "order",
+    "numeric",
+    "digits"
+  ],
+  "aliases": [
+    "sort-1-9"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

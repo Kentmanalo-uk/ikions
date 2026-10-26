@@ -1,0 +1,23 @@
+{
+  "name": "camping-sign",
+  "title": "Camping Sign",
+  "category": "maps",
+  "description": "A sign with a tent for campsites, camping areas and outdoor stays.",
+  "tags": [
+    "campsite",
+    "tent",
+    "camping",
+    "outdoors",
+    "campground",
+    "glamping"
+  ],
+  "aliases": [
+    "campsite-sign",
+    "campground-sign"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

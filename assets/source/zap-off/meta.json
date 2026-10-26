@@ -1,0 +1,22 @@
+{
+  "name": "zap-off",
+  "title": "Zap Off",
+  "category": "energy",
+  "description": "Turn off, disable or mute the zap.",
+  "tags": [
+    "lightning",
+    "bolt",
+    "electric",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-zap"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

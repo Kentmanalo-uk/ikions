@@ -1,0 +1,22 @@
+{
+  "name": "cloud-check",
+  "title": "Cloud Check",
+  "category": "weather",
+  "description": "Cloud confirmed, completed or verified.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "cloud"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

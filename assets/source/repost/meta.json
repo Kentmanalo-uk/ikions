@@ -1,0 +1,25 @@
+{
+  "name": "repost",
+  "title": "Repost",
+  "category": "social",
+  "description": "Repost, reshare or boost someone else's post to your followers.",
+  "tags": [
+    "reshare",
+    "retweet",
+    "boost",
+    "share",
+    "republish",
+    "social",
+    "quote"
+  ],
+  "aliases": [
+    "retweet",
+    "reshare",
+    "boost"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

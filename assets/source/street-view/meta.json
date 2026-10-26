@@ -1,0 +1,23 @@
+{
+  "name": "street-view",
+  "title": "Street View",
+  "category": "maps",
+  "description": "Shows a person standing in a 360° ground-level street view.",
+  "tags": [
+    "360",
+    "panorama",
+    "ground level",
+    "explore",
+    "walk",
+    "immersive"
+  ],
+  "aliases": [
+    "ground-view",
+    "panorama-view"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

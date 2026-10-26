@@ -1,0 +1,23 @@
+{
+  "name": "option-key",
+  "title": "Option Key",
+  "category": "interface",
+  "description": "Represent the Option or Alt modifier key on a keyboard.",
+  "tags": [
+    "alt",
+    "modifier",
+    "keyboard",
+    "shortcut",
+    "mac",
+    "hotkey"
+  ],
+  "aliases": [
+    "alt-key",
+    "opt-key"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

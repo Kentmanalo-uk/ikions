@@ -1,0 +1,23 @@
+{
+  "name": "university",
+  "title": "University",
+  "category": "education",
+  "description": "A columned hall under a mortarboard for universities and colleges.",
+  "tags": [
+    "college",
+    "campus",
+    "academy",
+    "higher education",
+    "faculty",
+    "institute"
+  ],
+  "aliases": [
+    "college",
+    "campus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

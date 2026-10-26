@@ -1,0 +1,23 @@
+{
+  "name": "anchor",
+  "title": "Anchor",
+  "category": "transport",
+  "description": "A ship's anchor, for harbours, mooring, nautical themes and stability.",
+  "tags": [
+    "anchor",
+    "nautical",
+    "harbor",
+    "marina",
+    "moor",
+    "sea",
+    "sailor"
+  ],
+  "aliases": [
+    "mooring"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

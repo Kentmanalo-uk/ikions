@@ -1,0 +1,22 @@
+{
+  "name": "coffee-bean",
+  "title": "Coffee Bean",
+  "category": "food",
+  "description": "Represent coffee beans, roasting, espresso or a coffee flavour.",
+  "tags": [
+    "coffee",
+    "bean",
+    "roast",
+    "espresso",
+    "cafe",
+    "caffeine"
+  ],
+  "aliases": [
+    "bean"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

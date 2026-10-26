@@ -1,0 +1,24 @@
+{
+  "name": "camera-x",
+  "title": "Camera X",
+  "category": "media",
+  "description": "Delete, cancel or reject a camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "camera"
+  ],
+  "aliases": [
+    "delete-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

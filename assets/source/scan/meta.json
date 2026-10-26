@@ -1,0 +1,22 @@
+{
+  "name": "scan",
+  "title": "Scan",
+  "category": "interface",
+  "description": "Scan a document, code or object with the camera.",
+  "tags": [
+    "scanner",
+    "capture",
+    "camera",
+    "document",
+    "read",
+    "detect"
+  ],
+  "aliases": [
+    "scan-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

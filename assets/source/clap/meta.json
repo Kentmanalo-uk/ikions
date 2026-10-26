@@ -1,0 +1,23 @@
+{
+  "name": "clap",
+  "title": "Clap",
+  "category": "people",
+  "description": "Applaud, celebrate or show appreciation.",
+  "tags": [
+    "clap",
+    "applause",
+    "bravo",
+    "celebrate",
+    "congrats",
+    "appreciate"
+  ],
+  "aliases": [
+    "applause",
+    "clapping-hands"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

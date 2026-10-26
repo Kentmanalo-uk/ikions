@@ -1,0 +1,25 @@
+{
+  "name": "trending-down",
+  "title": "Trending Down",
+  "category": "charts",
+  "description": "Show decline, a downward trend or falling performance.",
+  "tags": [
+    "decline",
+    "decrease",
+    "fall",
+    "loss",
+    "drop",
+    "stocks",
+    "analytics",
+    "trend",
+    "down"
+  ],
+  "aliases": [
+    "trend-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

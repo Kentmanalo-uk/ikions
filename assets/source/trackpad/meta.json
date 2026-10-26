@@ -1,0 +1,21 @@
+{
+  "name": "trackpad",
+  "title": "Trackpad",
+  "category": "devices",
+  "description": "A touchpad with a touch point and two click buttons.",
+  "tags": [
+    "touchpad",
+    "laptop",
+    "pointer",
+    "gesture",
+    "mouse"
+  ],
+  "aliases": [
+    "touchpad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

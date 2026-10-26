@@ -1,0 +1,23 @@
+{
+  "name": "microphone-stage",
+  "title": "Microphone Stage",
+  "category": "media",
+  "description": "Represents a handheld stage microphone for singing, karaoke or live shows.",
+  "tags": [
+    "karaoke",
+    "singing",
+    "vocals",
+    "concert",
+    "performance",
+    "mic"
+  ],
+  "aliases": [
+    "handheld-mic",
+    "karaoke-mic"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

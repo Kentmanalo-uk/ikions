@@ -1,0 +1,23 @@
+{
+  "name": "storage",
+  "title": "Storage",
+  "category": "devices",
+  "description": "A drive enclosure with two stacked drive bays and status lights.",
+  "tags": [
+    "nas",
+    "drive bay",
+    "backup",
+    "disk",
+    "raid",
+    "hardware"
+  ],
+  "aliases": [
+    "nas",
+    "drive-enclosure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

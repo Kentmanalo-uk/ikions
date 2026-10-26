@@ -1,0 +1,23 @@
+{
+  "name": "intersection",
+  "title": "Intersection",
+  "category": "maps",
+  "description": "Shows two roads crossing at a four-way intersection.",
+  "tags": [
+    "crossroads",
+    "junction",
+    "four-way",
+    "crossing",
+    "streets",
+    "traffic"
+  ],
+  "aliases": [
+    "crossroads",
+    "four-way-junction"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

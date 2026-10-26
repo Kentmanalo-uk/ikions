@@ -1,0 +1,25 @@
+{
+  "name": "square",
+  "title": "Square",
+  "category": "shapes",
+  "description": "A basic rounded square shape for drawing or layouts.",
+  "tags": [
+    "shape",
+    "box",
+    "rectangle",
+    "geometry",
+    "block",
+    "checkbox",
+    "stop",
+    "basic"
+  ],
+  "aliases": [
+    "rectangle",
+    "box-shape"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

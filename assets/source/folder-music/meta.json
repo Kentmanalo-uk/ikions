@@ -1,0 +1,23 @@
+{
+  "name": "folder-music",
+  "title": "Folder Music",
+  "category": "files",
+  "description": "Represents a folder of music, songs or audio tracks.",
+  "tags": [
+    "music",
+    "songs",
+    "audio",
+    "playlist",
+    "album",
+    "library"
+  ],
+  "aliases": [
+    "music-folder",
+    "audio-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

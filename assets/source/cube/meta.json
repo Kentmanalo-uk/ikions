@@ -1,0 +1,26 @@
+{
+  "name": "cube",
+  "title": "Cube",
+  "category": "emerging",
+  "description": "Represent a 3D object, model or augmented reality view.",
+  "tags": [
+    "3d",
+    "box",
+    "ar",
+    "model",
+    "object",
+    "isometric",
+    "block",
+    "package"
+  ],
+  "aliases": [
+    "3d",
+    "ar",
+    "box-3d"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

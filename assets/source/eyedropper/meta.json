@@ -1,0 +1,22 @@
+{
+  "name": "eyedropper",
+  "title": "Eyedropper",
+  "category": "editing",
+  "description": "Pick a colour from the screen or sample a value.",
+  "tags": [
+    "color",
+    "colour",
+    "picker",
+    "pipette",
+    "sample",
+    "dropper",
+    "pick",
+    "color picker"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

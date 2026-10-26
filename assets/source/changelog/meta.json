@@ -1,0 +1,23 @@
+{
+  "name": "changelog",
+  "title": "Changelog",
+  "category": "development",
+  "description": "A timeline of entries listing the changes made in each release.",
+  "tags": [
+    "release notes",
+    "history",
+    "changes",
+    "timeline",
+    "log",
+    "updates"
+  ],
+  "aliases": [
+    "release-notes",
+    "change-log"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

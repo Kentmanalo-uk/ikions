@@ -1,0 +1,23 @@
+{
+  "name": "airport",
+  "title": "Airport",
+  "category": "transport",
+  "description": "Represents an airport, air traffic control or a place to catch a flight.",
+  "tags": [
+    "control tower",
+    "air traffic",
+    "terminal",
+    "flights",
+    "aviation",
+    "departures"
+  ],
+  "aliases": [
+    "control-tower",
+    "air-terminal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

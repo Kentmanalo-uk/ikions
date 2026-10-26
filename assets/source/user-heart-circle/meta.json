@@ -1,0 +1,23 @@
+{
+  "name": "user-heart-circle",
+  "title": "User Heart Circle",
+  "category": "people",
+  "description": "Mark a favourite contact, close friend or liked profile.",
+  "tags": [
+    "favorite",
+    "friend",
+    "like",
+    "contact",
+    "love",
+    "close-friends"
+  ],
+  "aliases": [
+    "favorite-user",
+    "close-friend"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

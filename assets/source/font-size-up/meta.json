@@ -1,0 +1,23 @@
+{
+  "name": "font-size-up",
+  "title": "Increase Font Size",
+  "category": "editing",
+  "description": "Make text larger.",
+  "tags": [
+    "text",
+    "larger",
+    "bigger",
+    "size",
+    "typography",
+    "grow"
+  ],
+  "aliases": [
+    "increase-font-size",
+    "text-larger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

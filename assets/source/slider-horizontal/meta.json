@@ -1,0 +1,23 @@
+{
+  "name": "slider-horizontal",
+  "title": "Slider Horizontal",
+  "category": "interface",
+  "description": "A horizontal slider control for picking a value along a range.",
+  "tags": [
+    "range",
+    "slider",
+    "value",
+    "volume",
+    "control",
+    "adjust"
+  ],
+  "aliases": [
+    "range-slider",
+    "range-input"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

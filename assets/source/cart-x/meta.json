@@ -1,0 +1,24 @@
+{
+  "name": "cart-x",
+  "title": "Cart X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a cart.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "cart"
+  ],
+  "aliases": [
+    "delete-cart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

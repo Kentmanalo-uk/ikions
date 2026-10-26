@@ -1,0 +1,23 @@
+{
+  "name": "file-broken",
+  "title": "File Broken",
+  "category": "files",
+  "description": "Represents a corrupted, damaged or unreadable file.",
+  "tags": [
+    "corrupted",
+    "damaged",
+    "error",
+    "torn",
+    "invalid",
+    "unreadable"
+  ],
+  "aliases": [
+    "corrupted-file",
+    "damaged-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

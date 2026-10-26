@@ -1,0 +1,22 @@
+{
+  "name": "router",
+  "title": "Router",
+  "category": "devices",
+  "description": "A wireless router with two antennas and status lights.",
+  "tags": [
+    "wifi",
+    "network",
+    "internet",
+    "modem",
+    "wireless"
+  ],
+  "aliases": [
+    "wifi-router",
+    "wireless-router"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

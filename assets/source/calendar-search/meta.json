@@ -1,0 +1,23 @@
+{
+  "name": "calendar-search",
+  "title": "Calendar Search",
+  "category": "time",
+  "description": "Search for a calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "find",
+    "lookup",
+    "browse",
+    "calendar"
+  ],
+  "aliases": [
+    "find-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

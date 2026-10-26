@@ -1,0 +1,22 @@
+{
+  "name": "app-window",
+  "title": "App Window",
+  "category": "interface",
+  "description": "Represent a desktop application window with a title bar.",
+  "tags": [
+    "window",
+    "application",
+    "desktop",
+    "program",
+    "frame",
+    "title bar"
+  ],
+  "aliases": [
+    "application-window"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

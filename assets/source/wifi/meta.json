@@ -1,0 +1,24 @@
+{
+  "name": "wifi",
+  "title": "Wi-Fi",
+  "category": "devices",
+  "description": "Show a wireless network connection or signal strength.",
+  "tags": [
+    "wireless",
+    "internet",
+    "network",
+    "signal",
+    "connection",
+    "hotspot",
+    "online"
+  ],
+  "aliases": [
+    "wireless",
+    "wlan"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

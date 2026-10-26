@@ -1,0 +1,23 @@
+{
+  "name": "gpu",
+  "title": "GPU",
+  "category": "devices",
+  "description": "Represents a graphics card or GPU used for rendering and compute.",
+  "tags": [
+    "graphics card",
+    "video card",
+    "gpu",
+    "rendering",
+    "gaming",
+    "hardware"
+  ],
+  "aliases": [
+    "graphics-card",
+    "video-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

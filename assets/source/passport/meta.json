@@ -1,0 +1,23 @@
+{
+  "name": "passport",
+  "title": "Passport",
+  "category": "transport",
+  "description": "A passport booklet with a globe on its cover, for travel documents and border control.",
+  "tags": [
+    "passport",
+    "travel",
+    "visa",
+    "id",
+    "border",
+    "immigration",
+    "document"
+  ],
+  "aliases": [
+    "travel-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

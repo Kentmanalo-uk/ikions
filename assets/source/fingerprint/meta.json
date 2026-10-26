@@ -1,0 +1,23 @@
+{
+  "name": "fingerprint",
+  "title": "Fingerprint",
+  "category": "security",
+  "description": "Represent biometric login, identity verification or touch authentication.",
+  "tags": [
+    "biometric",
+    "touch-id",
+    "identity",
+    "authentication",
+    "scan",
+    "verify",
+    "login"
+  ],
+  "aliases": [
+    "touch-id"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

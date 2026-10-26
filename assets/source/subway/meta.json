@@ -1,0 +1,23 @@
+{
+  "name": "subway",
+  "title": "Subway",
+  "category": "transport",
+  "description": "A train inside a tunnel, for subways, metros and underground lines.",
+  "tags": [
+    "metro",
+    "underground",
+    "tube",
+    "tunnel",
+    "transit",
+    "commute"
+  ],
+  "aliases": [
+    "metro",
+    "underground"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

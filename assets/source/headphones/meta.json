@@ -1,0 +1,23 @@
+{
+  "name": "headphones",
+  "title": "Headphones",
+  "category": "media",
+  "description": "Listen to audio, music or podcasts with headphones.",
+  "tags": [
+    "audio",
+    "listen",
+    "music",
+    "podcast",
+    "headset",
+    "earphones",
+    "sound"
+  ],
+  "aliases": [
+    "earphones"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

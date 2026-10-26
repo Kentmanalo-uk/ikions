@@ -1,0 +1,22 @@
+{
+  "name": "return-key",
+  "title": "Return Key",
+  "category": "interface",
+  "description": "Represent the Return or Enter key on a keyboard.",
+  "tags": [
+    "enter",
+    "return",
+    "submit",
+    "keyboard",
+    "new line",
+    "confirm"
+  ],
+  "aliases": [
+    "enter-key"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

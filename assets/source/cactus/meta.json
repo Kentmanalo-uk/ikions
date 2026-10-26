@@ -1,0 +1,23 @@
+{
+  "name": "cactus",
+  "title": "Cactus",
+  "category": "weather",
+  "description": "A desert saguaro cactus with raised arms.",
+  "tags": [
+    "cactus",
+    "desert",
+    "plant",
+    "succulent",
+    "dry",
+    "southwest",
+    "nature"
+  ],
+  "aliases": [
+    "saguaro"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

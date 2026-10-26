@@ -1,0 +1,24 @@
+{
+  "name": "dna",
+  "title": "DNA",
+  "category": "health",
+  "description": "Represent DNA, genetics, heredity or biotechnology.",
+  "tags": [
+    "genetics",
+    "double helix",
+    "gene",
+    "genome",
+    "biology",
+    "heredity",
+    "biotech"
+  ],
+  "aliases": [
+    "double-helix",
+    "genetics"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

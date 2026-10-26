@@ -1,0 +1,22 @@
+{
+  "name": "clock-check",
+  "title": "Clock Check",
+  "category": "time",
+  "description": "Clock confirmed, completed or verified.",
+  "tags": [
+    "time",
+    "hour",
+    "history",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "clock"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

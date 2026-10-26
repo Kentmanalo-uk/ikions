@@ -1,0 +1,32 @@
+{
+  "name": "money-send",
+  "title": "Money Send",
+  "category": "finance",
+  "description": "Send money or make an outgoing payment.",
+  "tags": [
+    "send",
+    "pay",
+    "transfer",
+    "outgoing",
+    "payment",
+    "remit",
+    "expense",
+    "spending",
+    "costs",
+    "money out",
+    "withdraw",
+    "spend"
+  ],
+  "aliases": [
+    "send-money",
+    "outgoing-payment",
+    "expenses",
+    "spending",
+    "money-out"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

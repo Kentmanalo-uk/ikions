@@ -1,0 +1,22 @@
+{
+  "name": "oven-mitt",
+  "title": "Oven Mitt",
+  "category": "food",
+  "description": "Represent an oven mitt, baking, hot dishes or kitchen safety.",
+  "tags": [
+    "oven",
+    "glove",
+    "baking",
+    "kitchen",
+    "hot",
+    "mitten"
+  ],
+  "aliases": [
+    "oven-glove"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

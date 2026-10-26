@@ -1,0 +1,23 @@
+{
+  "name": "folder-code",
+  "title": "Folder Code",
+  "category": "files",
+  "description": "Represents a folder of source code or a project repository.",
+  "tags": [
+    "code",
+    "source",
+    "project",
+    "repository",
+    "developer",
+    "src"
+  ],
+  "aliases": [
+    "code-folder",
+    "source-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

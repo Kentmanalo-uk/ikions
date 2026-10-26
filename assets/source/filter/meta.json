@@ -1,0 +1,22 @@
+{
+  "name": "filter",
+  "title": "Filter",
+  "category": "interface",
+  "description": "Narrow down a list of results by criteria.",
+  "tags": [
+    "funnel",
+    "refine",
+    "narrow",
+    "criteria",
+    "sort",
+    "search",
+    "results",
+    "query"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

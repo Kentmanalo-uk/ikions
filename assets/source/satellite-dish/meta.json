@@ -1,0 +1,22 @@
+{
+  "name": "satellite-dish",
+  "title": "Satellite Dish",
+  "category": "communication",
+  "description": "Represent satellite reception, a dish antenna or long-range signal links.",
+  "tags": [
+    "antenna",
+    "reception",
+    "satellite",
+    "broadcast",
+    "tv",
+    "uplink"
+  ],
+  "aliases": [
+    "dish-antenna"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

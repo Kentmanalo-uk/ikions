@@ -1,0 +1,23 @@
+{
+  "name": "text-color",
+  "title": "Text Color",
+  "category": "editing",
+  "description": "Change the colour of selected text.",
+  "tags": [
+    "font",
+    "colour",
+    "color",
+    "text",
+    "letter",
+    "format"
+  ],
+  "aliases": [
+    "font-color",
+    "text-colour"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

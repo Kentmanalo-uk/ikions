@@ -1,0 +1,23 @@
+{
+  "name": "selection",
+  "title": "Selection",
+  "category": "editing",
+  "description": "Select objects by dragging a marquee around them.",
+  "tags": [
+    "select",
+    "marquee",
+    "drag",
+    "pick",
+    "area",
+    "cursor"
+  ],
+  "aliases": [
+    "marquee-select",
+    "rectangle-select"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "laptop",
+  "title": "Laptop",
+  "category": "devices",
+  "description": "Represent a laptop, notebook computer or desktop app.",
+  "tags": [
+    "computer",
+    "notebook",
+    "macbook",
+    "device",
+    "work",
+    "portable",
+    "pc"
+  ],
+  "aliases": [
+    "notebook-computer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

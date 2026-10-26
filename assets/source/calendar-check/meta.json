@@ -1,0 +1,22 @@
+{
+  "name": "calendar-check",
+  "title": "Calendar Check",
+  "category": "time",
+  "description": "Calendar confirmed, completed or verified.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "split-view",
+  "title": "Split View",
+  "category": "interface",
+  "description": "Show two resizable panes side by side.",
+  "tags": [
+    "split-screen",
+    "panes",
+    "resize",
+    "compare",
+    "multitask",
+    "layout"
+  ],
+  "aliases": [
+    "side-by-side"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

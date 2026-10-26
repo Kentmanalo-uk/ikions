@@ -1,0 +1,21 @@
+{
+  "name": "paragraph",
+  "title": "Paragraph",
+  "category": "editing",
+  "description": "Format text as a paragraph or show paragraph marks.",
+  "tags": [
+    "pilcrow",
+    "paragraph",
+    "text",
+    "body",
+    "format"
+  ],
+  "aliases": [
+    "pilcrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

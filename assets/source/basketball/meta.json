@@ -1,0 +1,25 @@
+{
+  "name": "basketball",
+  "title": "Basketball",
+  "category": "sports",
+  "description": "Represent basketball, ball sports or team games.",
+  "tags": [
+    "ball",
+    "sport",
+    "game",
+    "hoop",
+    "court",
+    "team",
+    "nba",
+    "play"
+  ],
+  "aliases": [
+    "ball",
+    "hoops"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

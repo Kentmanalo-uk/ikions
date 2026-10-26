@@ -1,0 +1,22 @@
+{
+  "name": "organ-donor",
+  "title": "Organ Donor",
+  "category": "health",
+  "description": "A donor card with a heart for organ donation and donor registration.",
+  "tags": [
+    "organ donation",
+    "donor card",
+    "transplant",
+    "donate",
+    "registry",
+    "life saving"
+  ],
+  "aliases": [
+    "donor-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

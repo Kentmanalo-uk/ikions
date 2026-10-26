@@ -1,0 +1,22 @@
+{
+  "name": "server-stack",
+  "title": "Server Stack",
+  "category": "development",
+  "description": "A rack of three stacked servers in a data center.",
+  "tags": [
+    "server",
+    "rack",
+    "data center",
+    "hosting",
+    "infrastructure",
+    "cluster"
+  ],
+  "aliases": [
+    "rack-servers"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

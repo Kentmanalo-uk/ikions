@@ -1,0 +1,22 @@
+{
+  "name": "arrow-fork-right",
+  "title": "Arrow Fork Right",
+  "category": "arrows",
+  "description": "A road that forks in two, keeping to the right branch.",
+  "tags": [
+    "fork",
+    "keep right",
+    "branch",
+    "junction",
+    "navigation",
+    "road"
+  ],
+  "aliases": [
+    "keep-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

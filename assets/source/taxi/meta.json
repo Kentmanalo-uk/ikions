@@ -1,0 +1,23 @@
+{
+  "name": "taxi",
+  "title": "Taxi",
+  "category": "transport",
+  "description": "A taxi cab with its roof sign, for booking a ride or a cab rank.",
+  "tags": [
+    "cab",
+    "ride",
+    "hail",
+    "rideshare",
+    "transport",
+    "car"
+  ],
+  "aliases": [
+    "cab",
+    "taxicab"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "panel-left-close",
+  "title": "Panel Left Close",
+  "category": "interface",
+  "description": "Close or hide the left side panel.",
+  "tags": [
+    "sidebar",
+    "close",
+    "collapse",
+    "hide",
+    "drawer",
+    "panel"
+  ],
+  "aliases": [
+    "sidebar-close",
+    "hide-left-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

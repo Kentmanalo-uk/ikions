@@ -1,0 +1,23 @@
+{
+  "name": "funicular",
+  "title": "Funicular",
+  "category": "transport",
+  "description": "Represents a funicular or inclined railway climbing a steep hill.",
+  "tags": [
+    "incline railway",
+    "hill train",
+    "cliff railway",
+    "rack railway",
+    "mountain",
+    "slope"
+  ],
+  "aliases": [
+    "inclined-railway",
+    "cliff-railway"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

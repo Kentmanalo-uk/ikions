@@ -1,0 +1,23 @@
+{
+  "name": "context-menu",
+  "title": "Context Menu",
+  "category": "interface",
+  "description": "Show the right-click menu of actions for the selected item.",
+  "tags": [
+    "right click",
+    "popup",
+    "options",
+    "actions",
+    "dropdown",
+    "menu"
+  ],
+  "aliases": [
+    "right-click-menu",
+    "popup-menu"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

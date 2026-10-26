@@ -1,0 +1,22 @@
+{
+  "name": "exchange",
+  "title": "Exchange",
+  "category": "arrows",
+  "description": "Trade or convert one thing for another and back again.",
+  "tags": [
+    "exchange",
+    "trade",
+    "convert",
+    "transfer",
+    "currency",
+    "barter"
+  ],
+  "aliases": [
+    "interchange"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

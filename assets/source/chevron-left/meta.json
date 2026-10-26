@@ -1,0 +1,22 @@
+{
+  "name": "chevron-left",
+  "title": "Chevron Left",
+  "category": "arrows",
+  "description": "Navigate back, go to the previous item or move left.",
+  "tags": [
+    "back",
+    "previous",
+    "caret",
+    "left",
+    "return",
+    "prior",
+    "navigate",
+    "slider"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

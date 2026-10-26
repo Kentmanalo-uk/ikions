@@ -1,0 +1,22 @@
+{
+  "name": "toggle-on",
+  "title": "Toggle On",
+  "category": "interface",
+  "description": "Show a switch in its on position to enable a setting.",
+  "tags": [
+    "switch",
+    "enabled",
+    "on",
+    "setting",
+    "preference",
+    "active"
+  ],
+  "aliases": [
+    "switch-on"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

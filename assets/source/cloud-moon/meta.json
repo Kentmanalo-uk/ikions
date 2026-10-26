@@ -1,0 +1,22 @@
+{
+  "name": "cloud-moon",
+  "title": "Cloud Moon",
+  "category": "weather",
+  "description": "Partly cloudy night with the moon behind a cloud.",
+  "tags": [
+    "weather",
+    "night",
+    "partly cloudy",
+    "forecast",
+    "evening",
+    "clouds"
+  ],
+  "aliases": [
+    "night-cloudy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "fullscreen-exit",
+  "title": "Fullscreen Exit",
+  "category": "interface",
+  "description": "Leave fullscreen mode and return to the normal window size.",
+  "tags": [
+    "exit",
+    "collapse",
+    "shrink",
+    "full screen",
+    "restore",
+    "corners"
+  ],
+  "aliases": [
+    "exit-full-screen",
+    "leave-fullscreen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

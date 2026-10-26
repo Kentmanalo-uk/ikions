@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "title": "Portfolio",
+  "category": "finance",
+  "description": "An investment portfolio shown as a briefcase with a rising trend.",
+  "tags": [
+    "investments",
+    "assets",
+    "holdings",
+    "briefcase",
+    "wealth",
+    "stocks"
+  ],
+  "aliases": [
+    "investment-portfolio",
+    "holdings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

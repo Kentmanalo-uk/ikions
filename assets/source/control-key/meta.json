@@ -1,0 +1,23 @@
+{
+  "name": "control-key",
+  "title": "Control Key",
+  "category": "interface",
+  "description": "Represent the Control modifier key on a keyboard.",
+  "tags": [
+    "ctrl",
+    "control",
+    "modifier",
+    "keyboard",
+    "shortcut",
+    "caret"
+  ],
+  "aliases": [
+    "ctrl-key",
+    "ctrl"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

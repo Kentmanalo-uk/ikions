@@ -1,0 +1,23 @@
+{
+  "name": "pickup-truck",
+  "title": "Pickup Truck",
+  "category": "transport",
+  "description": "A pickup truck with an open cargo bed, for hauling and utility vehicles.",
+  "tags": [
+    "pickup",
+    "truck",
+    "ute",
+    "haul",
+    "utility",
+    "vehicle",
+    "cargo-bed"
+  ],
+  "aliases": [
+    "ute"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

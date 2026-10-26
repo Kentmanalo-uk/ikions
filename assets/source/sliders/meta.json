@@ -1,0 +1,22 @@
+{
+  "name": "sliders",
+  "title": "Sliders",
+  "category": "interface",
+  "description": "Adjust values, tune filters or open fine-grained controls.",
+  "tags": [
+    "adjust",
+    "controls",
+    "filters",
+    "tune",
+    "mixer"
+  ],
+  "aliases": [
+    "adjustments",
+    "controls"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

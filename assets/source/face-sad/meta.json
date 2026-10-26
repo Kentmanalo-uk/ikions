@@ -1,0 +1,23 @@
+{
+  "name": "face-sad",
+  "title": "Face Sad",
+  "category": "people",
+  "description": "Show a sad, unhappy or disappointed mood.",
+  "tags": [
+    "sad",
+    "unhappy",
+    "disappointed",
+    "emoji",
+    "reaction",
+    "frown"
+  ],
+  "aliases": [
+    "sad-face",
+    "frowning-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

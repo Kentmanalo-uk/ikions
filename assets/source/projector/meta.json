@@ -1,0 +1,22 @@
+{
+  "name": "projector",
+  "title": "Projector",
+  "category": "devices",
+  "description": "A video projector with a front lens and short feet.",
+  "tags": [
+    "presentation",
+    "beamer",
+    "cinema",
+    "screen",
+    "meeting"
+  ],
+  "aliases": [
+    "beamer",
+    "video-projector"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

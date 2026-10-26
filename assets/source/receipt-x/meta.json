@@ -1,0 +1,24 @@
+{
+  "name": "receipt-x",
+  "title": "Receipt X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a receipt.",
+  "tags": [
+    "invoice",
+    "bill",
+    "payment",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "receipt"
+  ],
+  "aliases": [
+    "delete-receipt"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

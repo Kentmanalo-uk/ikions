@@ -1,0 +1,23 @@
+{
+  "name": "input-field",
+  "title": "Input Field",
+  "category": "interface",
+  "description": "A text input box with a caret, for forms and editable fields.",
+  "tags": [
+    "text field",
+    "textbox",
+    "form",
+    "input",
+    "type",
+    "entry"
+  ],
+  "aliases": [
+    "text-input",
+    "textbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

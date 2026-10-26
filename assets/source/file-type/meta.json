@@ -1,0 +1,23 @@
+{
+  "name": "file-type",
+  "title": "File Type",
+  "category": "files",
+  "description": "Represents a plain text file or a file's text format.",
+  "tags": [
+    "text",
+    "txt",
+    "format",
+    "plain",
+    "typography",
+    "letter"
+  ],
+  "aliases": [
+    "text-type-file",
+    "txt-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "path-dotted",
+  "title": "Dotted Path",
+  "category": "maps",
+  "description": "Shows a dotted path from a starting point to a marked spot.",
+  "tags": [
+    "route",
+    "itinerary",
+    "journey",
+    "treasure map",
+    "waypoints",
+    "trip"
+  ],
+  "aliases": [
+    "dotted-route",
+    "dashed-path"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "student",
+  "title": "Student",
+  "category": "people",
+  "description": "Represent a student or learner, such as a school or course account.",
+  "tags": [
+    "learner",
+    "pupil",
+    "graduate",
+    "school",
+    "education",
+    "university"
+  ],
+  "aliases": [
+    "learner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

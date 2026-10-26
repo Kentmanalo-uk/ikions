@@ -1,0 +1,39 @@
+export const metadata = {
+  title: "Troubleshooting",
+  description: "Solutions for common problems when using Ikions icons.",
+  alternates: { canonical: "/docs/troubleshooting" },
+};
+
+# Troubleshooting
+
+## The icon is invisible
+
+Icons use `currentColor`. If the parent's text colour matches the background (for example white text on a white card), the icon disappears. Set `color` or a text colour on the parent.
+
+## The icon is black inside an image tag
+
+`<img src="home.svg">` cannot inherit CSS colour, so `currentColor` resolves to black. Inline the SVG, use the sprite with `<use>`, or use the CSS mask technique from [HTML & SVG](/docs/html).
+
+## The import name is not found
+
+Component names are the icon name in PascalCase plus `Icon`: `arrow-up-right` → `ArrowUpRightIcon`, `qr-code` → `QrCodeIcon`. Aliases are search terms, not exports — search the [explorer](/icons) and use the canonical name shown on the icon page.
+
+## strokeWidth has no effect
+
+Stroke width only applies to the Outline variant. Filled icons are solid shapes. Also check whether a CSS rule sets `stroke-width`, which overrides the attribute.
+
+## The icon looks blurry
+
+Icons are drawn for whole-pixel sizes. Fractional sizes (for example `size="1.1em"` producing 17.6 px) can soften edges; prefer 16, 20, 24, 32 or 48 px when crisp lines matter.
+
+## The icon is misaligned with text
+
+Inline SVGs sit on the text baseline. Use flexbox (`display: inline-flex; align-items: center`) on the parent, or nudge the icon with `vertical-align: -0.125em`.
+
+## Svelte: “Unexpected token” or rune errors
+
+`@ikions/svelte` requires Svelte 5 and ships `.svelte` source files. Make sure your build compiles dependencies with the Svelte plugin (SvelteKit does this automatically).
+
+## Still stuck?
+
+Check the [changelog](/changelog) for breaking changes, then open an issue in the project repository with a minimal reproduction.

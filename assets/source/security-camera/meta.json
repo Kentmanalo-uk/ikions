@@ -1,0 +1,23 @@
+{
+  "name": "security-camera",
+  "title": "Security Camera",
+  "category": "devices",
+  "description": "Represents a mounted surveillance or security camera.",
+  "tags": [
+    "surveillance",
+    "monitoring",
+    "camera",
+    "security",
+    "recording",
+    "watch"
+  ],
+  "aliases": [
+    "surveillance-camera",
+    "spy-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

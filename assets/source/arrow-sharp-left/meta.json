@@ -1,0 +1,22 @@
+{
+  "name": "arrow-sharp-left",
+  "title": "Arrow Sharp Left",
+  "category": "arrows",
+  "description": "A sharp, more-than-square turn to the left.",
+  "tags": [
+    "sharp turn",
+    "left",
+    "hairpin",
+    "navigation",
+    "road",
+    "directions"
+  ],
+  "aliases": [
+    "sharp-turn-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

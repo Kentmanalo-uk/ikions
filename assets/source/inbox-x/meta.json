@@ -1,0 +1,24 @@
+{
+  "name": "inbox-x",
+  "title": "Inbox X",
+  "category": "communication",
+  "description": "Delete, cancel or reject a inbox.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "inbox"
+  ],
+  "aliases": [
+    "delete-inbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

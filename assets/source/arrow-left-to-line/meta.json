@@ -1,0 +1,19 @@
+{
+  "name": "arrow-left-to-line",
+  "title": "Arrow Left To Line",
+  "category": "arrows",
+  "description": "Arrow pointing left to a line: move to the start.",
+  "tags": [
+    "arrow",
+    "align",
+    "edge",
+    "jump",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

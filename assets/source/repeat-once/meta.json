@@ -1,0 +1,23 @@
+{
+  "name": "repeat-once",
+  "title": "Repeat Once",
+  "category": "arrows",
+  "description": "Repeat the current track or item one more time.",
+  "tags": [
+    "repeat",
+    "loop",
+    "once",
+    "single",
+    "playback",
+    "music"
+  ],
+  "aliases": [
+    "repeat-one",
+    "loop-once"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

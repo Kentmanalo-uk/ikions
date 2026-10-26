@@ -1,0 +1,22 @@
+{
+  "name": "menu-close",
+  "title": "Menu Close",
+  "category": "interface",
+  "description": "Close a navigation menu or drawer.",
+  "tags": [
+    "hamburger",
+    "drawer",
+    "navigation",
+    "collapse",
+    "hide",
+    "nav"
+  ],
+  "aliases": [
+    "close-menu"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

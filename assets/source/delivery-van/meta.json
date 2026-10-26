@@ -1,0 +1,24 @@
+{
+  "name": "delivery-van",
+  "title": "Delivery Van",
+  "category": "transport",
+  "description": "A panel van, for deliveries, couriers and moving goods.",
+  "tags": [
+    "van",
+    "delivery",
+    "courier",
+    "cargo",
+    "moving",
+    "shipping",
+    "vehicle"
+  ],
+  "aliases": [
+    "panel-van",
+    "cargo-van"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

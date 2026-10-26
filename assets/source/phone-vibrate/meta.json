@@ -1,0 +1,22 @@
+{
+  "name": "phone-vibrate",
+  "title": "Phone Vibrate",
+  "category": "devices",
+  "description": "A smartphone buzzing in vibrate mode.",
+  "tags": [
+    "vibration",
+    "silent",
+    "buzz",
+    "notification",
+    "mobile"
+  ],
+  "aliases": [
+    "vibrate-mode",
+    "phone-buzz"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

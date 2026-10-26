@@ -1,0 +1,22 @@
+{
+  "name": "globe-lock",
+  "title": "Globe Lock",
+  "category": "maps",
+  "description": "A locked, private or protected globe.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "globe"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

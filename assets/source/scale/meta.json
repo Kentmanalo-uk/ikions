@@ -1,0 +1,22 @@
+{
+  "name": "scale",
+  "title": "Scale",
+  "category": "editing",
+  "description": "Resize an object proportionally from a corner.",
+  "tags": [
+    "resize",
+    "enlarge",
+    "transform",
+    "proportional",
+    "size",
+    "grow"
+  ],
+  "aliases": [
+    "scale-object"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

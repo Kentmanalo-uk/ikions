@@ -1,0 +1,22 @@
+{
+  "name": "organization",
+  "title": "Organization",
+  "category": "people",
+  "description": "Represent a company or organization account and its members.",
+  "tags": [
+    "company",
+    "business",
+    "workspace",
+    "enterprise",
+    "corporate",
+    "office"
+  ],
+  "aliases": [
+    "company-account"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

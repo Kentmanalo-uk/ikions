@@ -1,0 +1,25 @@
+{
+  "name": "repeat",
+  "title": "Repeat",
+  "category": "arrows",
+  "description": "Loop playback or run an action again and again.",
+  "tags": [
+    "loop",
+    "cycle",
+    "again",
+    "replay",
+    "recurring",
+    "playlist",
+    "continuous",
+    "rotate"
+  ],
+  "aliases": [
+    "loop",
+    "cycle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

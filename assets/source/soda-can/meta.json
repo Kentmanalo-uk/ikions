@@ -1,0 +1,23 @@
+{
+  "name": "soda-can",
+  "title": "Soda Can",
+  "category": "food",
+  "description": "Represent a can of soda, soft drinks or a canned beverage.",
+  "tags": [
+    "soda",
+    "can",
+    "soft-drink",
+    "cola",
+    "beverage",
+    "pop"
+  ],
+  "aliases": [
+    "soft-drink",
+    "drink-can"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

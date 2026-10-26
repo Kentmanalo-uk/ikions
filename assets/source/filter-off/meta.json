@@ -1,0 +1,22 @@
+{
+  "name": "filter-off",
+  "title": "Filter Off",
+  "category": "interface",
+  "description": "Turn off, disable or mute the filter.",
+  "tags": [
+    "funnel",
+    "refine",
+    "narrow",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-filter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

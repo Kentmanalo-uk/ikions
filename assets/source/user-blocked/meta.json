@@ -1,0 +1,23 @@
+{
+  "name": "user-blocked",
+  "title": "User Blocked",
+  "category": "people",
+  "description": "Show a blocked, banned or restricted user account.",
+  "tags": [
+    "block",
+    "ban",
+    "restricted",
+    "forbidden",
+    "suspended",
+    "deny"
+  ],
+  "aliases": [
+    "block-user",
+    "banned-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

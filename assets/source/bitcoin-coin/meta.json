@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-coin",
+  "title": "Bitcoin Coin",
+  "category": "finance",
+  "description": "A coin marked with the bitcoin sign for cryptocurrency.",
+  "tags": [
+    "bitcoin",
+    "btc",
+    "crypto",
+    "cryptocurrency",
+    "coin",
+    "blockchain"
+  ],
+  "aliases": [
+    "btc-coin",
+    "coin-bitcoin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

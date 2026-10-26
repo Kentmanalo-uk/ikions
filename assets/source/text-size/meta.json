@@ -1,0 +1,22 @@
+{
+  "name": "text-size",
+  "title": "Text Size",
+  "category": "editing",
+  "description": "Change the font size of selected text.",
+  "tags": [
+    "font",
+    "size",
+    "scale",
+    "typography",
+    "larger",
+    "smaller"
+  ],
+  "aliases": [
+    "font-size"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

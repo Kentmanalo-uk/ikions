@@ -1,0 +1,22 @@
+{
+  "name": "list-minus",
+  "title": "List Minus",
+  "category": "interface",
+  "description": "Remove an item from a list.",
+  "tags": [
+    "remove",
+    "delete",
+    "subtract",
+    "playlist",
+    "take-out",
+    "less"
+  ],
+  "aliases": [
+    "list-remove"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

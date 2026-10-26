@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M2.15 11.25c0.11-1.41 0.51-2.73 1.14-3.9l3.9 3.9zM11.99 2.13c-1.23 0-2.36 0.98-3.21 2.6l-1.44-1.44c1.39-0.74 2.97-1.16 4.64-1.16zM11.99 2.13c0 0 0.01 0 0.01 0c0 0-0.01 0-0.01 0z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M21.85 11.25c-0.39-5.14-4.68-9.12-9.84-9.12c2.48 0 4.54 3.98 4.73 9.12zM12 2.13c0 0 0.01 0 0.01 0c0 0-0.01 0-0.01 0z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M2.15 12.75c0.39 5.15 4.68 9.13 9.84 9.13c-2.48 0-4.55-3.98-4.73-9.13zM11.99 21.88c0 0 0 0 0.01 0c0 0 0 0-0.01 0z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M21.85 12.75c-0.11 1.41-0.51 2.73-1.13 3.91l-3.91-3.91zM12.01 21.88c1.23 0 2.36-0.98 3.21-2.6l1.44 1.44c-1.39 0.74-2.97 1.16-4.65 1.16zM12 21.88c0 0 0 0 0.01 0c0 0 0 0-0.01 0z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M12 3.53c1.69 0 3.09 3.33 3.24 7.65l-5.44-5.44c0.58-1.38 1.36-2.21 2.2-2.21z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M12 20.47c-1.69 0-3.09-3.33-3.24-7.65l5.44 5.44c-0.58 1.38-1.36 2.21-2.2 2.21z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M3.5 3.5l17 17" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

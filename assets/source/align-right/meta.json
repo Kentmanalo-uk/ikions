@@ -1,0 +1,21 @@
+{
+  "name": "align-right",
+  "title": "Align Right",
+  "category": "editing",
+  "description": "Align text or content to the right edge.",
+  "tags": [
+    "align",
+    "right",
+    "text",
+    "paragraph",
+    "flush"
+  ],
+  "aliases": [
+    "text-align-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

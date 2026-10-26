@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4.25 13.25h15.5a1 1 0 0 1 .92 1.38l-1.41 3.39a2 2 0 0 1-1.84 1.23H6.58a2 2 0 0 1-1.84-1.23l-1.41-3.39a1 1 0 0 1 .92-1.38"/>
+  <path d="M6.5 13.25v-3A1.5 1.5 0 0 1 8 8.75h7.5a1.5 1.5 0 0 1 1.5 1.5v3"/>
+  <path d="M8.75 8.75v-2.5a1 1 0 0 1 1-1h2.5a1 1 0 0 1 1 1v2.5"/>
+  <circle cx="8.5" cy="16.25" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="12" cy="16.25" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="15.5" cy="16.25" r="1" fill="currentColor" stroke="none"/>
+</svg>

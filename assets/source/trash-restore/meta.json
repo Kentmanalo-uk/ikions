@@ -1,0 +1,22 @@
+{
+  "name": "trash-restore",
+  "title": "Trash Restore",
+  "category": "interface",
+  "description": "Restore a deleted item from the trash.",
+  "tags": [
+    "restore",
+    "undelete",
+    "recover",
+    "bin",
+    "recycle",
+    "put-back"
+  ],
+  "aliases": [
+    "restore-from-trash"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

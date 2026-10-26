@@ -1,0 +1,23 @@
+{
+  "name": "icicle",
+  "title": "Icicle",
+  "category": "weather",
+  "description": "Represents icicles, freezing weather or frost.",
+  "tags": [
+    "ice",
+    "frozen",
+    "freeze",
+    "frost",
+    "winter",
+    "cold",
+    "melting"
+  ],
+  "aliases": [
+    "icicles"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

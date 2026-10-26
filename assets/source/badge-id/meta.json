@@ -1,0 +1,23 @@
+{
+  "name": "badge-id",
+  "title": "Badge ID",
+  "category": "people",
+  "description": "Show a clip-on staff or visitor identification badge.",
+  "tags": [
+    "badge",
+    "identification",
+    "pass",
+    "lanyard",
+    "access",
+    "staff"
+  ],
+  "aliases": [
+    "name-badge",
+    "access-badge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

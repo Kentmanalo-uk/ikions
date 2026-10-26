@@ -1,0 +1,23 @@
+{
+  "name": "file-key",
+  "title": "File Key",
+  "category": "files",
+  "description": "Represents a key file, license key or credentials stored in a file.",
+  "tags": [
+    "key",
+    "credentials",
+    "license",
+    "secret",
+    "certificate",
+    "access"
+  ],
+  "aliases": [
+    "key-file",
+    "credentials-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,100 @@
+export const metadata = {
+  title: "React",
+  description: "Use Ikions React components: props, variants, accessibility, refs, tree shaking and custom icons.",
+  alternates: { canonical: "/docs/react" },
+};
+
+# React
+
+`@ikions/react` provides one typed component per icon. Every component renders an inline `<svg>` and works in client and server components.
+
+```bash
+npm install @ikions/react
+```
+
+## Usage
+
+```tsx
+import { CameraIcon } from "@ikions/react";
+
+export function Capture() {
+  return <CameraIcon size={28} variant="outline" color="currentColor" strokeWidth={1.75} />;
+}
+```
+
+## Props
+
+| Prop | Type | Default | Description |
+| --- | --- | --- | --- |
+| `size` | `number \| string` | `24` | Width and height. |
+| `variant` | `"outline" \| "filled"` | `"outline"` | Which drawing to render. |
+| `color` | `string` | `"currentColor"` | Any CSS colour. |
+| `gradient` | `{ from: string; to: string; angle?: number }` | — | Two-colour linear gradient; overrides `color`. See [Styling](/docs/styling). |
+| `strokeWidth` | `number \| string` | `1.75` | Outline stroke width. Ignored by filled icons. |
+| `title` | `string` | — | Accessible name; renders a `<title>` and `role="img"`. |
+| `className` | `string` | — | Added after the built-in `ikion ikion-{name}` classes. |
+| `...rest` | SVG attributes | — | `style`, `onClick`, `aria-*`, `data-*` and everything else. |
+
+Refs are forwarded to the `<svg>` element.
+
+## Switching variants
+
+The variant is a prop, so both drawings are available from one import:
+
+```tsx
+import { HeartIcon } from "@ikions/react";
+
+export function LikeButton({ liked }: { liked: boolean }) {
+  return (
+    <button aria-pressed={liked}>
+      <HeartIcon variant={liked ? "filled" : "outline"} />
+      Like
+    </button>
+  );
+}
+```
+
+## Accessibility
+
+Icons without `title`, `aria-label` or `aria-labelledby` are treated as decorative and get `aria-hidden="true"`. Give standalone icons a name:
+
+```tsx
+<TrashIcon title="Delete file" />
+```
+
+Read the [accessibility guide](/docs/accessibility) for patterns.
+
+## Tree shaking
+
+Import from the package root — each icon is a separate module and the package is marked side-effect free, so unused icons are removed from production bundles. You can also import a single module directly:
+
+```tsx
+import { HomeIcon } from "@ikions/react/icons/home";
+```
+
+## Custom icons
+
+`createIkion` builds a component with the same API from your own node data. Nodes are `[tagName, attributes]` pairs drawn on the 24 × 24 grid, with React-style attribute names.
+
+```tsx
+import { createIkion } from "@ikions/react";
+
+export const DotIcon = createIkion("dot", "DotIcon", {
+  outline: [["circle", { cx: "12", cy: "12", r: "4" }]],
+  filled: [["circle", { cx: "12", cy: "12", r: "5" }]],
+});
+```
+
+## TypeScript
+
+Prop types are exported as `IkionProps`; the component type is `IkionComponent`.
+
+```tsx
+import type { IkionComponent } from "@ikions/react";
+import { BellIcon, MailIcon } from "@ikions/react";
+
+const tabs: { label: string; icon: IkionComponent }[] = [
+  { label: "Inbox", icon: MailIcon },
+  { label: "Alerts", icon: BellIcon },
+];
+```

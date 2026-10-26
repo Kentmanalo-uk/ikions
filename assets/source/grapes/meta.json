@@ -1,0 +1,22 @@
+{
+  "name": "grapes",
+  "title": "Grapes",
+  "category": "food",
+  "description": "Represent grapes, fruit, a vineyard or wine making.",
+  "tags": [
+    "fruit",
+    "vineyard",
+    "bunch",
+    "wine",
+    "harvest",
+    "produce"
+  ],
+  "aliases": [
+    "grape-bunch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

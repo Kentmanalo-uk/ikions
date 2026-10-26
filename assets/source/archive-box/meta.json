@@ -1,0 +1,23 @@
+{
+  "name": "archive-box",
+  "title": "Archive Box",
+  "category": "files",
+  "description": "Move items into an archive box for long-term storage.",
+  "tags": [
+    "archive",
+    "store",
+    "storage",
+    "box",
+    "keep",
+    "file away"
+  ],
+  "aliases": [
+    "move-to-archive",
+    "archive-items"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

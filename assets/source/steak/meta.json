@@ -1,0 +1,22 @@
+{
+  "name": "steak",
+  "title": "Steak",
+  "category": "food",
+  "description": "Represent a steak, such as a grill, a steakhouse, beef or red meat.",
+  "tags": [
+    "beef",
+    "grill",
+    "steakhouse",
+    "bbq",
+    "red-meat",
+    "t-bone"
+  ],
+  "aliases": [
+    "t-bone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "home",
+  "title": "Home",
+  "category": "interface",
+  "description": "Return to the start page or main screen of an app.",
+  "tags": [
+    "house",
+    "start",
+    "main",
+    "dashboard",
+    "landing"
+  ],
+  "aliases": [
+    "homepage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

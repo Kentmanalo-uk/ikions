@@ -1,0 +1,23 @@
+{
+  "name": "signature",
+  "title": "Signature",
+  "category": "editing",
+  "description": "Sign a document or add a handwritten signature.",
+  "tags": [
+    "sign",
+    "autograph",
+    "handwriting",
+    "approve",
+    "contract",
+    "esign"
+  ],
+  "aliases": [
+    "sign",
+    "e-signature"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

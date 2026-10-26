@@ -1,0 +1,23 @@
+{
+  "name": "cup",
+  "title": "Cup",
+  "category": "food",
+  "description": "Represent a cup on a saucer, such as a hot drink, café or tea break.",
+  "tags": [
+    "teacup",
+    "saucer",
+    "drink",
+    "cafe",
+    "beverage",
+    "break"
+  ],
+  "aliases": [
+    "teacup",
+    "cup-and-saucer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

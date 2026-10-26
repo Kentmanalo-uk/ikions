@@ -1,0 +1,23 @@
+{
+  "name": "user-search",
+  "title": "User Search",
+  "category": "people",
+  "description": "Search for a user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "find",
+    "lookup",
+    "browse",
+    "user"
+  ],
+  "aliases": [
+    "find-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

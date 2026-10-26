@@ -1,0 +1,23 @@
+{
+  "name": "dividend",
+  "title": "Dividend",
+  "category": "finance",
+  "description": "A share of company profit paid out as a coin.",
+  "tags": [
+    "payout",
+    "shares",
+    "profit share",
+    "income",
+    "yield",
+    "investing"
+  ],
+  "aliases": [
+    "dividend-payout",
+    "share-payout"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "key",
+  "title": "Key",
+  "category": "security",
+  "description": "Represent a password, access credential, API key or unlocking.",
+  "tags": [
+    "password",
+    "access",
+    "credential",
+    "login",
+    "unlock",
+    "api",
+    "secret",
+    "authentication"
+  ],
+  "aliases": [
+    "credential"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

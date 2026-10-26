@@ -1,0 +1,21 @@
+{
+  "name": "database-download",
+  "title": "Database Download",
+  "category": "development",
+  "description": "Download or import a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "download",
+    "save",
+    "import",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

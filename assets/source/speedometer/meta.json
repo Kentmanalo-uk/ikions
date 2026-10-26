@@ -1,0 +1,23 @@
+{
+  "name": "speedometer",
+  "title": "Speedometer",
+  "category": "transport",
+  "description": "A speed gauge with a needle, for speed, performance and dashboards.",
+  "tags": [
+    "speed",
+    "gauge",
+    "dashboard",
+    "performance",
+    "odometer",
+    "fast",
+    "meter"
+  ],
+  "aliases": [
+    "speed-gauge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

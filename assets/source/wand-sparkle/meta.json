@@ -1,0 +1,23 @@
+{
+  "name": "wand-sparkle",
+  "title": "Wand Sparkle",
+  "category": "interface",
+  "description": "Generate or improve content with AI or magic tools.",
+  "tags": [
+    "ai",
+    "magic",
+    "generate",
+    "enhance",
+    "sparkle",
+    "auto"
+  ],
+  "aliases": [
+    "magic-sparkle",
+    "ai-wand"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

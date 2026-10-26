@@ -1,0 +1,23 @@
+{
+  "name": "bridge-road",
+  "title": "Bridge",
+  "category": "maps",
+  "description": "Shows a road bridge with railings over an arch.",
+  "tags": [
+    "overpass",
+    "viaduct",
+    "crossing",
+    "river",
+    "span",
+    "infrastructure"
+  ],
+  "aliases": [
+    "road-bridge",
+    "overpass"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

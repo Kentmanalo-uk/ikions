@@ -1,0 +1,22 @@
+{
+  "name": "drone-device",
+  "title": "Drone",
+  "category": "devices",
+  "description": "A quadcopter drone with four rotors.",
+  "tags": [
+    "quadcopter",
+    "uav",
+    "aerial",
+    "flying",
+    "camera"
+  ],
+  "aliases": [
+    "quadcopter",
+    "uav"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

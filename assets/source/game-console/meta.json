@@ -1,0 +1,23 @@
+{
+  "name": "game-console",
+  "title": "Game Console",
+  "category": "media",
+  "description": "Represents a home video game console with its controller.",
+  "tags": [
+    "gaming",
+    "video-game",
+    "console",
+    "play",
+    "entertainment",
+    "controller"
+  ],
+  "aliases": [
+    "home-console",
+    "video-game-console"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

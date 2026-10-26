@@ -1,0 +1,26 @@
+{
+  "name": "plane",
+  "title": "Plane",
+  "category": "transport",
+  "description": "Represent flights, air travel, airports or airplane mode.",
+  "tags": [
+    "airplane",
+    "flight",
+    "aircraft",
+    "travel",
+    "airport",
+    "airplane-mode",
+    "jet",
+    "trip"
+  ],
+  "aliases": [
+    "airplane",
+    "aircraft",
+    "flight"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

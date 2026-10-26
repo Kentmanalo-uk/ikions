@@ -1,0 +1,24 @@
+{
+  "name": "checklist",
+  "title": "Checklist",
+  "category": "time",
+  "description": "Track tasks, to-dos or completed steps in a list.",
+  "tags": [
+    "tasks",
+    "todo",
+    "to-do",
+    "list",
+    "done",
+    "progress",
+    "planner",
+    "checkbox"
+  ],
+  "aliases": [
+    "task-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

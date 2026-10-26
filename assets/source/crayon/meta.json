@@ -1,0 +1,22 @@
+{
+  "name": "crayon",
+  "title": "Crayon",
+  "category": "editing",
+  "description": "Colour in with a wax crayon for playful drawing.",
+  "tags": [
+    "wax",
+    "draw",
+    "kids",
+    "colour",
+    "art",
+    "school"
+  ],
+  "aliases": [
+    "wax-crayon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

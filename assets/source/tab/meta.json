@@ -1,0 +1,22 @@
+{
+  "name": "tab",
+  "title": "Tab",
+  "category": "interface",
+  "description": "Represent a single open tab in a browser or editor.",
+  "tags": [
+    "browser tab",
+    "page",
+    "document",
+    "open",
+    "editor",
+    "window"
+  ],
+  "aliases": [
+    "browser-tab"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

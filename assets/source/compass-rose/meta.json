@@ -1,0 +1,23 @@
+{
+  "name": "compass-rose",
+  "title": "Compass Rose",
+  "category": "maps",
+  "description": "Shows a compass rose with the cardinal and intercardinal points.",
+  "tags": [
+    "cardinal directions",
+    "north",
+    "orientation",
+    "navigation",
+    "bearing",
+    "cartography"
+  ],
+  "aliases": [
+    "wind-rose",
+    "rose-of-winds"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

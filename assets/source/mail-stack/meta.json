@@ -1,0 +1,22 @@
+{
+  "name": "mail-stack",
+  "title": "Mail Stack",
+  "category": "communication",
+  "description": "A pile of emails, for bulk mail or many messages.",
+  "tags": [
+    "email",
+    "envelopes",
+    "bulk",
+    "messages",
+    "newsletter"
+  ],
+  "aliases": [
+    "mails",
+    "emails"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sidebar-right",
+  "title": "Sidebar Right",
+  "category": "interface",
+  "description": "Show or hide a side panel on the right of the main content.",
+  "tags": [
+    "panel",
+    "layout",
+    "drawer",
+    "inspector",
+    "details",
+    "pane"
+  ],
+  "aliases": [
+    "right-sidebar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

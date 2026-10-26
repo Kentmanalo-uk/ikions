@@ -1,0 +1,25 @@
+{
+  "name": "hard-drive",
+  "title": "Hard Drive",
+  "category": "devices",
+  "description": "Represent a hard disk, local storage or a drive volume.",
+  "tags": [
+    "disk",
+    "storage",
+    "hdd",
+    "drive",
+    "volume",
+    "backup",
+    "data",
+    "hard disk"
+  ],
+  "aliases": [
+    "hdd",
+    "disk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

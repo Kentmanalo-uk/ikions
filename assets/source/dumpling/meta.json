@@ -1,0 +1,23 @@
+{
+  "name": "dumpling",
+  "title": "Dumpling",
+  "category": "food",
+  "description": "Represent a dumpling, such as dim sum, gyoza or Asian cuisine.",
+  "tags": [
+    "dim-sum",
+    "gyoza",
+    "asian",
+    "chinese",
+    "bao",
+    "momo"
+  ],
+  "aliases": [
+    "gyoza",
+    "dim-sum"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

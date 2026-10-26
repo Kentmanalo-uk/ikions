@@ -1,0 +1,24 @@
+{
+  "name": "face-mask",
+  "title": "Face Mask",
+  "category": "people",
+  "description": "Show a medical face mask, illness or health precautions.",
+  "tags": [
+    "mask",
+    "medical",
+    "sick",
+    "health",
+    "virus",
+    "protection"
+  ],
+  "aliases": [
+    "masked-face",
+    "medical-mask",
+    "mask"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

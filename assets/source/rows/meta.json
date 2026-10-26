@@ -1,0 +1,22 @@
+{
+  "name": "rows",
+  "title": "Rows",
+  "category": "interface",
+  "description": "Stack content in horizontal rows.",
+  "tags": [
+    "layout",
+    "horizontal",
+    "stack",
+    "bands",
+    "panes",
+    "blocks"
+  ],
+  "aliases": [
+    "row-panes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

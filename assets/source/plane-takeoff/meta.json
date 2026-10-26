@@ -1,0 +1,23 @@
+{
+  "name": "plane-takeoff",
+  "title": "Plane Takeoff",
+  "category": "transport",
+  "description": "A plane climbing away from the runway, for departures and flight takeoff.",
+  "tags": [
+    "departure",
+    "takeoff",
+    "flight",
+    "airport",
+    "depart",
+    "travel"
+  ],
+  "aliases": [
+    "departure",
+    "flight-departure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "projector-screen",
+  "title": "Projector Screen",
+  "category": "media",
+  "description": "Represents a pull-down projection screen for presentations or home cinema.",
+  "tags": [
+    "presentation",
+    "projection",
+    "cinema",
+    "slides",
+    "meeting",
+    "display"
+  ],
+  "aliases": [
+    "projection-screen",
+    "pull-down-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

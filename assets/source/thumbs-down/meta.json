@@ -1,0 +1,25 @@
+{
+  "name": "thumbs-down",
+  "title": "Thumbs Down",
+  "category": "social",
+  "description": "Disapprove, disagree with or give negative feedback on something.",
+  "tags": [
+    "disapprove",
+    "disagree",
+    "downvote",
+    "bad",
+    "negative",
+    "feedback",
+    "dislike",
+    "vote"
+  ],
+  "aliases": [
+    "downvote",
+    "disapprove"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

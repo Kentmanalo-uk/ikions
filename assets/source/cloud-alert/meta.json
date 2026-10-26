@@ -1,0 +1,22 @@
+{
+  "name": "cloud-alert",
+  "title": "Cloud Alert",
+  "category": "weather",
+  "description": "Cloud with a warning or problem that needs attention.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "cloud"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

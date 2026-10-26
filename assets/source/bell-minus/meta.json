@@ -1,0 +1,22 @@
+{
+  "name": "bell-minus",
+  "title": "Bell Minus",
+  "category": "communication",
+  "description": "Remove a bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "remove",
+    "subtract",
+    "bell"
+  ],
+  "aliases": [
+    "remove-bell"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

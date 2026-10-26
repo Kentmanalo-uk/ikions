@@ -1,0 +1,24 @@
+{
+  "name": "database-x",
+  "title": "Database X",
+  "category": "development",
+  "description": "Delete, cancel or reject a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "database"
+  ],
+  "aliases": [
+    "delete-database"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

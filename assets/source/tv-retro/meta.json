@@ -1,0 +1,23 @@
+{
+  "name": "tv-retro",
+  "title": "TV Retro",
+  "category": "media",
+  "description": "Represents a vintage television set with a CRT screen and dials.",
+  "tags": [
+    "television",
+    "vintage",
+    "crt",
+    "broadcast",
+    "channel",
+    "old"
+  ],
+  "aliases": [
+    "vintage-tv",
+    "old-television"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

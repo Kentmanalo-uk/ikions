@@ -1,0 +1,25 @@
+{
+  "name": "sort",
+  "title": "Sort",
+  "category": "interface",
+  "description": "Change the order of a list, ascending or descending.",
+  "tags": [
+    "order",
+    "ascending",
+    "descending",
+    "arrange",
+    "rank",
+    "reorder",
+    "up",
+    "down"
+  ],
+  "aliases": [
+    "sort-order",
+    "arrow-up-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

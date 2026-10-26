@@ -1,0 +1,23 @@
+{
+  "name": "elevation",
+  "title": "Elevation",
+  "category": "maps",
+  "description": "Shows the height of a mountain measured from its base to the summit.",
+  "tags": [
+    "altitude",
+    "height",
+    "above sea level",
+    "mountain",
+    "climb",
+    "profile"
+  ],
+  "aliases": [
+    "altitude",
+    "height-above-sea"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

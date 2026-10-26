@@ -1,0 +1,23 @@
+{
+  "name": "load-balancer",
+  "title": "Load Balancer",
+  "category": "development",
+  "description": "Represents a load balancer spreading incoming traffic across several servers.",
+  "tags": [
+    "traffic",
+    "distribute",
+    "servers",
+    "scaling",
+    "proxy",
+    "network"
+  ],
+  "aliases": [
+    "traffic-distribution",
+    "balancer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "relationship",
+  "title": "Relationship",
+  "category": "people",
+  "description": "Represent a bond between two people, such as a partner or dating status.",
+  "tags": [
+    "love",
+    "partner",
+    "dating",
+    "bond",
+    "connection",
+    "romance"
+  ],
+  "aliases": [
+    "romantic-partner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "smart-bulb",
+  "title": "Smart Bulb",
+  "category": "devices",
+  "description": "Represents a connected smart light bulb.",
+  "tags": [
+    "smart home",
+    "light",
+    "lamp",
+    "wifi",
+    "iot",
+    "lighting"
+  ],
+  "aliases": [
+    "wifi-bulb",
+    "smart-light"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "navigation-arrow-circle",
+  "title": "Navigation Arrow Circle",
+  "category": "arrows",
+  "description": "A navigation pointer inside a circle, for heading and current direction.",
+  "tags": [
+    "navigation",
+    "heading",
+    "gps",
+    "direction",
+    "pointer",
+    "location"
+  ],
+  "aliases": [
+    "heading-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

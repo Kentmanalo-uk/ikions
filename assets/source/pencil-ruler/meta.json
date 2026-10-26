@@ -1,0 +1,23 @@
+{
+  "name": "pencil-ruler",
+  "title": "Pencil Ruler",
+  "category": "editing",
+  "description": "Open design tools, drafting or measuring and drawing settings.",
+  "tags": [
+    "design",
+    "draft",
+    "measure",
+    "draw",
+    "tools",
+    "sketch"
+  ],
+  "aliases": [
+    "design-tools",
+    "drafting"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

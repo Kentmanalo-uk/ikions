@@ -1,0 +1,23 @@
+{
+  "name": "text-cursor",
+  "title": "Text Cursor",
+  "category": "interface",
+  "description": "The I-beam pointer shown when hovering over selectable text.",
+  "tags": [
+    "i-beam",
+    "caret",
+    "text",
+    "select",
+    "type",
+    "pointer"
+  ],
+  "aliases": [
+    "i-beam",
+    "text-select"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "file-shield",
+  "title": "File Shield",
+  "category": "files",
+  "description": "Represents a protected or security-scanned file.",
+  "tags": [
+    "secure",
+    "protected",
+    "safe",
+    "privacy",
+    "security",
+    "encrypted"
+  ],
+  "aliases": [
+    "protected-file",
+    "shielded-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

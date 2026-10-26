@@ -1,0 +1,22 @@
+{
+  "name": "crutch",
+  "title": "Crutch",
+  "category": "health",
+  "description": "Represent a crutch, an injury, mobility aid or rehabilitation.",
+  "tags": [
+    "injury",
+    "mobility aid",
+    "broken leg",
+    "rehabilitation",
+    "walking aid",
+    "recovery"
+  ],
+  "aliases": [
+    "mobility-aid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

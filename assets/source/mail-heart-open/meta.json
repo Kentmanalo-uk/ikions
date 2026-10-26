@@ -1,0 +1,22 @@
+{
+  "name": "mail-heart-open",
+  "title": "Mail Heart Open",
+  "category": "communication",
+  "description": "An open envelope with a heart, for a love letter or thank-you note.",
+  "tags": [
+    "email",
+    "envelope",
+    "love",
+    "letter",
+    "valentine",
+    "heart"
+  ],
+  "aliases": [
+    "love-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

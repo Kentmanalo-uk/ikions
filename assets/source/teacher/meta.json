@@ -1,0 +1,22 @@
+{
+  "name": "teacher",
+  "title": "Teacher",
+  "category": "people",
+  "description": "Represent a teacher or instructor presenting at a board.",
+  "tags": [
+    "instructor",
+    "tutor",
+    "education",
+    "lecturer",
+    "class",
+    "presenter"
+  ],
+  "aliases": [
+    "instructor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "meditation",
+  "title": "Meditation",
+  "category": "health",
+  "description": "Represent meditation, mindfulness, yoga or relaxation.",
+  "tags": [
+    "mindfulness",
+    "yoga",
+    "relax",
+    "calm",
+    "zen",
+    "breathing",
+    "mental health"
+  ],
+  "aliases": [
+    "mindfulness"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

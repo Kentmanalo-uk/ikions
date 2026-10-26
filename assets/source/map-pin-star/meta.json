@@ -1,0 +1,23 @@
+{
+  "name": "map-pin-star",
+  "title": "Map Pin Star",
+  "category": "maps",
+  "description": "A starred or featured map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "starred",
+    "favorite",
+    "featured",
+    "map"
+  ],
+  "aliases": [
+    "pin-star"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

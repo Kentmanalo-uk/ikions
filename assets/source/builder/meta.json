@@ -1,0 +1,22 @@
+{
+  "name": "builder",
+  "title": "Builder",
+  "category": "people",
+  "description": "Represent a builder or contractor working on construction.",
+  "tags": [
+    "construction",
+    "contractor",
+    "carpenter",
+    "renovation",
+    "site",
+    "build"
+  ],
+  "aliases": [
+    "contractor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

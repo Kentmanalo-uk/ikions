@@ -1,0 +1,24 @@
+{
+  "name": "exam",
+  "title": "Exam",
+  "category": "education",
+  "description": "A graded test paper for exams, assessments and results.",
+  "tags": [
+    "test",
+    "grade",
+    "assessment",
+    "results",
+    "score",
+    "midterm",
+    "final"
+  ],
+  "aliases": [
+    "test-paper",
+    "graded-test"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "arrow-rotate-left",
+  "title": "Arrow Rotate Left",
+  "category": "arrows",
+  "description": "Rotate an item a quarter or half turn to the left.",
+  "tags": [
+    "rotate",
+    "rotate left",
+    "turn",
+    "anticlockwise",
+    "left",
+    "orientation"
+  ],
+  "aliases": [
+    "rotate-left-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

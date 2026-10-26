@@ -1,0 +1,25 @@
+{
+  "name": "subscription",
+  "title": "Subscription",
+  "category": "commerce",
+  "description": "A recurring plan that renews and bills on a regular schedule.",
+  "tags": [
+    "recurring",
+    "renewal",
+    "membership",
+    "monthly",
+    "plan",
+    "auto renew",
+    "billing"
+  ],
+  "aliases": [
+    "recurring-payment",
+    "subscription-plan",
+    "subscription-billing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

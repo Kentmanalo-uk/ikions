@@ -1,0 +1,23 @@
+{
+  "name": "format-code",
+  "title": "Format Code",
+  "category": "development",
+  "description": "Automatically format source code with consistent indentation and spacing.",
+  "tags": [
+    "prettier",
+    "beautify",
+    "indent",
+    "style",
+    "tidy",
+    "pretty-print"
+  ],
+  "aliases": [
+    "code-format",
+    "beautify-code"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

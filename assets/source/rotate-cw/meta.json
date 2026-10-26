@@ -1,0 +1,21 @@
+{
+  "name": "rotate-cw",
+  "title": "Rotate Clockwise",
+  "category": "arrows",
+  "description": "Rotate an item, image or view clockwise around its centre.",
+  "tags": [
+    "rotate",
+    "clockwise",
+    "turn",
+    "orientation",
+    "spin"
+  ],
+  "aliases": [
+    "rotate-clockwise"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

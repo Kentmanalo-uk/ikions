@@ -1,0 +1,23 @@
+{
+  "name": "feature-flag",
+  "title": "Feature Flag",
+  "category": "development",
+  "description": "Represents a feature flag that turns functionality on or off without a deploy.",
+  "tags": [
+    "toggle",
+    "rollout",
+    "experiment",
+    "switch",
+    "release",
+    "configuration"
+  ],
+  "aliases": [
+    "feature-toggle",
+    "feature-switch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

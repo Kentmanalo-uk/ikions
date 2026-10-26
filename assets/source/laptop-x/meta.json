@@ -1,0 +1,24 @@
+{
+  "name": "laptop-x",
+  "title": "Laptop X",
+  "category": "devices",
+  "description": "Delete, cancel or reject a laptop.",
+  "tags": [
+    "computer",
+    "notebook",
+    "macbook",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "laptop"
+  ],
+  "aliases": [
+    "delete-laptop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

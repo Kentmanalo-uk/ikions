@@ -1,0 +1,23 @@
+{
+  "name": "monitor",
+  "title": "Monitor",
+  "category": "devices",
+  "description": "Represent a desktop display, computer screen or workstation.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "computer",
+    "pc",
+    "workstation",
+    "imac"
+  ],
+  "aliases": [
+    "display"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

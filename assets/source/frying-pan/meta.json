@@ -1,0 +1,22 @@
+{
+  "name": "frying-pan",
+  "title": "Frying Pan",
+  "category": "food",
+  "description": "Represent a frying pan, such as cooking, frying or a skillet recipe.",
+  "tags": [
+    "skillet",
+    "pan",
+    "cooking",
+    "fry",
+    "kitchen",
+    "breakfast"
+  ],
+  "aliases": [
+    "skillet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

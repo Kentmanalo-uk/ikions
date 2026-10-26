@@ -1,0 +1,23 @@
+{
+  "name": "snowman",
+  "title": "Snowman",
+  "category": "weather",
+  "description": "Represents a snowman, winter fun or the holiday season.",
+  "tags": [
+    "winter",
+    "snow",
+    "christmas",
+    "holiday",
+    "cold",
+    "frosty",
+    "december"
+  ],
+  "aliases": [
+    "snow-figure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

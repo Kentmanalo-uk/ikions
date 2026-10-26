@@ -1,0 +1,23 @@
+{
+  "name": "popsicle",
+  "title": "Popsicle",
+  "category": "food",
+  "description": "Represent an ice pop, frozen treats or a summer dessert.",
+  "tags": [
+    "ice-pop",
+    "ice-lolly",
+    "frozen",
+    "summer",
+    "dessert",
+    "treat"
+  ],
+  "aliases": [
+    "ice-pop",
+    "ice-lolly"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

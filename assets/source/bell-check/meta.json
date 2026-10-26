@@ -1,0 +1,22 @@
+{
+  "name": "bell-check",
+  "title": "Bell Check",
+  "category": "communication",
+  "description": "Bell confirmed, completed or verified.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "bell"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "corner-down-right",
+  "title": "Corner Down Right",
+  "category": "arrows",
+  "description": "Arrow that goes down then turns right: return, redirect or reply.",
+  "tags": [
+    "arrow",
+    "corner",
+    "turn",
+    "return",
+    "down",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

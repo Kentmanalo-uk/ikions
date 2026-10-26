@@ -1,0 +1,23 @@
+{
+  "name": "mountain-route",
+  "title": "Mountain Route",
+  "category": "maps",
+  "description": "A mountain with a winding trail for hiking routes and climbs.",
+  "tags": [
+    "hiking",
+    "trail",
+    "climb",
+    "trek",
+    "summit",
+    "elevation"
+  ],
+  "aliases": [
+    "hiking-route",
+    "mountain-trail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

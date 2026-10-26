@@ -1,0 +1,23 @@
+{
+  "name": "file-presentation",
+  "title": "File Presentation",
+  "category": "files",
+  "description": "Represents a slide deck or presentation file.",
+  "tags": [
+    "slides",
+    "deck",
+    "powerpoint",
+    "pptx",
+    "keynote",
+    "pitch"
+  ],
+  "aliases": [
+    "presentation-file",
+    "slides-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

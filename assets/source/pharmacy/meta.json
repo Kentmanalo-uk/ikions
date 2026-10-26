@@ -1,0 +1,24 @@
+{
+  "name": "pharmacy",
+  "title": "Pharmacy",
+  "category": "health",
+  "description": "A mortar and pestle for a pharmacy, apothecary or compounding.",
+  "tags": [
+    "drugstore",
+    "chemist",
+    "apothecary",
+    "mortar and pestle",
+    "medicine",
+    "compounding",
+    "pharmacist"
+  ],
+  "aliases": [
+    "drugstore",
+    "apothecary"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

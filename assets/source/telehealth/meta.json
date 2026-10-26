@@ -1,0 +1,23 @@
+{
+  "name": "telehealth",
+  "title": "Telehealth",
+  "category": "health",
+  "description": "A screen with a medical cross for telehealth and online doctor visits.",
+  "tags": [
+    "telemedicine",
+    "online doctor",
+    "virtual visit",
+    "remote care",
+    "video consultation",
+    "ehealth"
+  ],
+  "aliases": [
+    "telemedicine",
+    "virtual-care"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "file-code",
+  "title": "File Code",
+  "category": "files",
+  "description": "Represent a source code file, script or markup document.",
+  "tags": [
+    "code",
+    "script",
+    "source",
+    "programming",
+    "html",
+    "developer",
+    "document",
+    "markup"
+  ],
+  "aliases": [
+    "source-file",
+    "script-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

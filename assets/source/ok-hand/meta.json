@@ -1,0 +1,23 @@
+{
+  "name": "ok-hand",
+  "title": "OK Hand",
+  "category": "people",
+  "description": "Signal okay, all good, perfect or agreement.",
+  "tags": [
+    "ok",
+    "okay",
+    "perfect",
+    "fine",
+    "agree",
+    "gesture"
+  ],
+  "aliases": [
+    "okay-hand",
+    "ok-gesture"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

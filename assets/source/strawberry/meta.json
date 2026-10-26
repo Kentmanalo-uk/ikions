@@ -1,0 +1,22 @@
+{
+  "name": "strawberry",
+  "title": "Strawberry",
+  "category": "food",
+  "description": "Represent a strawberry, berries, summer fruit or a sweet flavour.",
+  "tags": [
+    "berry",
+    "fruit",
+    "summer",
+    "sweet",
+    "dessert",
+    "produce"
+  ],
+  "aliases": [
+    "berry"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "interest",
+  "title": "Interest",
+  "category": "finance",
+  "description": "Interest earned or charged on money, shown as a coin and a percent sign.",
+  "tags": [
+    "interest rate",
+    "apr",
+    "percent",
+    "rate",
+    "yield",
+    "savings",
+    "loan"
+  ],
+  "aliases": [
+    "interest-rate",
+    "apr"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

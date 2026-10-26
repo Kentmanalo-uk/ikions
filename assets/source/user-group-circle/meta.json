@@ -1,0 +1,22 @@
+{
+  "name": "user-group-circle",
+  "title": "User Group Circle",
+  "category": "people",
+  "description": "Show a group or community inside a round frame, such as a group avatar.",
+  "tags": [
+    "group",
+    "community",
+    "members",
+    "team",
+    "avatar",
+    "circle"
+  ],
+  "aliases": [
+    "group-avatar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

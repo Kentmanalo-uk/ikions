@@ -1,0 +1,23 @@
+{
+  "name": "hand-wave",
+  "title": "Hand Wave",
+  "category": "people",
+  "description": "Wave hello or goodbye, or greet someone.",
+  "tags": [
+    "wave",
+    "hello",
+    "hi",
+    "goodbye",
+    "greeting",
+    "bye"
+  ],
+  "aliases": [
+    "wave-hello",
+    "waving-hand"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

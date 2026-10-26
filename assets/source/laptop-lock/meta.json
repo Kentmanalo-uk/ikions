@@ -1,0 +1,22 @@
+{
+  "name": "laptop-lock",
+  "title": "Laptop Lock",
+  "category": "devices",
+  "description": "A locked, private or protected laptop.",
+  "tags": [
+    "computer",
+    "notebook",
+    "macbook",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "laptop"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

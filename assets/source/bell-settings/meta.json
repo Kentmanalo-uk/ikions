@@ -1,0 +1,21 @@
+{
+  "name": "bell-settings",
+  "title": "Bell Settings",
+  "category": "communication",
+  "description": "Settings and preferences for a bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "settings",
+    "preferences",
+    "configure",
+    "bell"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

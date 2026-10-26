@@ -1,0 +1,23 @@
+{
+  "name": "fish-food",
+  "title": "Fish Dish",
+  "category": "food",
+  "description": "Represent a fish dish, such as seafood on a plate or a fish menu option.",
+  "tags": [
+    "seafood",
+    "dish",
+    "meal",
+    "menu",
+    "grilled",
+    "pescatarian"
+  ],
+  "aliases": [
+    "fish-dish",
+    "seafood-dish"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

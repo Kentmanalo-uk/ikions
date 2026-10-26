@@ -1,0 +1,24 @@
+{
+  "name": "hospital",
+  "title": "Hospital",
+  "category": "buildings",
+  "description": "Represent a hospital, clinic or emergency medical care.",
+  "tags": [
+    "clinic",
+    "medical",
+    "health",
+    "emergency",
+    "healthcare",
+    "infirmary",
+    "doctor",
+    "care"
+  ],
+  "aliases": [
+    "infirmary"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

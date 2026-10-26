@@ -1,0 +1,22 @@
+{
+  "name": "chicken-leg",
+  "title": "Chicken Leg",
+  "category": "food",
+  "description": "Represent a chicken leg, such as poultry, fried chicken or a drumstick.",
+  "tags": [
+    "drumstick",
+    "poultry",
+    "fried-chicken",
+    "bbq",
+    "protein",
+    "wings"
+  ],
+  "aliases": [
+    "drumstick"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

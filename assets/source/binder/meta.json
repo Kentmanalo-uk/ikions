@@ -1,0 +1,23 @@
+{
+  "name": "binder",
+  "title": "Binder",
+  "category": "files",
+  "description": "Represents a ring binder or lever-arch file for storing papers.",
+  "tags": [
+    "ring binder",
+    "folder",
+    "office",
+    "records",
+    "lever arch",
+    "organize"
+  ],
+  "aliases": [
+    "ring-binder",
+    "lever-arch-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

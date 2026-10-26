@@ -1,0 +1,23 @@
+{
+  "name": "distribute-horizontal",
+  "title": "Distribute Horizontal",
+  "category": "interface",
+  "description": "Space the selected objects evenly across the horizontal axis.",
+  "tags": [
+    "distribute",
+    "spacing",
+    "even",
+    "objects",
+    "layout",
+    "design"
+  ],
+  "aliases": [
+    "distribute-horizontally",
+    "space-horizontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

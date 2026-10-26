@@ -1,0 +1,22 @@
+{
+  "name": "smart-speaker",
+  "title": "Smart Speaker",
+  "category": "devices",
+  "description": "A cylindrical voice assistant speaker with a light ring on top.",
+  "tags": [
+    "voice assistant",
+    "alexa",
+    "home",
+    "speaker",
+    "audio"
+  ],
+  "aliases": [
+    "voice-speaker",
+    "home-speaker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

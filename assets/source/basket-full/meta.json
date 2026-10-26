@@ -1,0 +1,23 @@
+{
+  "name": "basket-full",
+  "title": "Basket Full",
+  "category": "commerce",
+  "description": "A shopping basket filled with groceries and products.",
+  "tags": [
+    "shopping basket",
+    "groceries",
+    "full",
+    "shopping",
+    "items",
+    "supermarket"
+  ],
+  "aliases": [
+    "full-basket",
+    "filled-basket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

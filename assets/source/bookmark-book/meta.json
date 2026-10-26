@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-book",
+  "title": "Bookmark Book",
+  "category": "education",
+  "description": "A book with a ribbon bookmark to save your place or mark a chapter.",
+  "tags": [
+    "bookmark",
+    "reading",
+    "saved",
+    "chapter",
+    "page",
+    "ribbon"
+  ],
+  "aliases": [
+    "book-ribbon",
+    "marked-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

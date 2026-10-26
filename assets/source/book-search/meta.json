@@ -1,0 +1,23 @@
+{
+  "name": "book-search",
+  "title": "Book Search",
+  "category": "education",
+  "description": "Search for a book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "find",
+    "lookup",
+    "browse",
+    "book"
+  ],
+  "aliases": [
+    "find-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

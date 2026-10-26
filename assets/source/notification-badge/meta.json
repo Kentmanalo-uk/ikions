@@ -1,0 +1,22 @@
+{
+  "name": "notification-badge",
+  "title": "Notification Badge",
+  "category": "interface",
+  "description": "Mark an app or item with a badge for unread notifications.",
+  "tags": [
+    "unread",
+    "count",
+    "alert",
+    "indicator",
+    "new",
+    "app"
+  ],
+  "aliases": [
+    "unread-badge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

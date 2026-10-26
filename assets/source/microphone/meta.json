@@ -1,0 +1,25 @@
+{
+  "name": "microphone",
+  "title": "Microphone",
+  "category": "communication",
+  "description": "Record audio, use voice input or unmute your microphone.",
+  "tags": [
+    "mic",
+    "audio",
+    "voice",
+    "record",
+    "speak",
+    "dictate",
+    "podcast",
+    "sound"
+  ],
+  "aliases": [
+    "mic",
+    "voice-input"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

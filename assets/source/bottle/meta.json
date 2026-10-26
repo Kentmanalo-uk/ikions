@@ -1,0 +1,22 @@
+{
+  "name": "bottle",
+  "title": "Bottle",
+  "category": "food",
+  "description": "Represent a bottle, such as a drink, soda, a beverage or recycling.",
+  "tags": [
+    "drink",
+    "soda",
+    "beverage",
+    "glass",
+    "recycle",
+    "water"
+  ],
+  "aliases": [
+    "drink-bottle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

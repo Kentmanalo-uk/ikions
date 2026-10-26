@@ -1,0 +1,22 @@
+{
+  "name": "mushroom-food",
+  "title": "Mushroom",
+  "category": "food",
+  "description": "Represent an edible mushroom, fungi or a vegetarian ingredient.",
+  "tags": [
+    "fungi",
+    "champignon",
+    "vegetarian",
+    "ingredient",
+    "forage",
+    "vegetable"
+  ],
+  "aliases": [
+    "champignon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

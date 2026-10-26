@@ -1,0 +1,23 @@
+{
+  "name": "pancakes",
+  "title": "Pancakes",
+  "category": "food",
+  "description": "Represent a stack of pancakes, breakfast or brunch.",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "stack",
+    "hotcakes",
+    "crepe",
+    "waffle"
+  ],
+  "aliases": [
+    "hotcakes",
+    "pancake-stack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "calculator-percent",
+  "title": "Calculator Percent",
+  "category": "finance",
+  "description": "Calculate interest, tax, discounts or other percentages.",
+  "tags": [
+    "percentage",
+    "interest",
+    "tax",
+    "discount",
+    "rate",
+    "calculate",
+    "markup"
+  ],
+  "aliases": [
+    "percentage-calculator",
+    "interest-calculator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

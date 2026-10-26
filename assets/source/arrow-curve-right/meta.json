@@ -1,0 +1,21 @@
+{
+  "name": "arrow-curve-right",
+  "title": "Arrow Curve Right",
+  "category": "arrows",
+  "description": "A curved arrow that bends round to point right.",
+  "tags": [
+    "curve",
+    "curved",
+    "bend",
+    "right",
+    "arrow"
+  ],
+  "aliases": [
+    "curved-arrow-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

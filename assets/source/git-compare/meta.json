@@ -1,0 +1,22 @@
+{
+  "name": "git-compare",
+  "title": "Git Compare",
+  "category": "development",
+  "description": "Compare two branches or revisions to review their differences.",
+  "tags": [
+    "git",
+    "compare",
+    "diff",
+    "branches",
+    "changes",
+    "review"
+  ],
+  "aliases": [
+    "compare-branches"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

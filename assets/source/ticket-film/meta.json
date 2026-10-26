@@ -1,0 +1,23 @@
+{
+  "name": "ticket-film",
+  "title": "Ticket Film",
+  "category": "media",
+  "description": "Represents a movie ticket for a cinema screening.",
+  "tags": [
+    "cinema",
+    "movie",
+    "admission",
+    "screening",
+    "booking",
+    "pass"
+  ],
+  "aliases": [
+    "movie-ticket",
+    "cinema-ticket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "currency-euro",
+  "title": "Currency Euro",
+  "category": "finance",
+  "description": "The euro sign, for euro prices or money amounts.",
+  "tags": [
+    "euro",
+    "eur",
+    "europe",
+    "price",
+    "money",
+    "currency symbol"
+  ],
+  "aliases": [
+    "euro",
+    "eur"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

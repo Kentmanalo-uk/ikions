@@ -1,0 +1,22 @@
+{
+  "name": "inbox-full",
+  "title": "Inbox Full",
+  "category": "communication",
+  "description": "An inbox tray filled with unread messages.",
+  "tags": [
+    "email",
+    "messages",
+    "unread",
+    "tray",
+    "full",
+    "backlog"
+  ],
+  "aliases": [
+    "full-inbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

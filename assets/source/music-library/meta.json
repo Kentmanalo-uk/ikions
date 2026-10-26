@@ -1,0 +1,23 @@
+{
+  "name": "music-library",
+  "title": "Music Library",
+  "category": "media",
+  "description": "Represents a collection of songs, playlists or a music library.",
+  "tags": [
+    "collection",
+    "playlist",
+    "songs",
+    "albums",
+    "tracks",
+    "media"
+  ],
+  "aliases": [
+    "song-library",
+    "music-collection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

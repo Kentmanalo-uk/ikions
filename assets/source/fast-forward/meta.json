@@ -1,0 +1,22 @@
+{
+  "name": "fast-forward",
+  "title": "Fast Forward",
+  "category": "media",
+  "description": "Skip forward quickly through audio or video playback.",
+  "tags": [
+    "forward",
+    "skip",
+    "seek",
+    "playback",
+    "media",
+    "speed"
+  ],
+  "aliases": [
+    "ffwd"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

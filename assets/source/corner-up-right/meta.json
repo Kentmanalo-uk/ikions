@@ -1,0 +1,20 @@
+{
+  "name": "corner-up-right",
+  "title": "Corner Up Right",
+  "category": "arrows",
+  "description": "Arrow that goes up then turns right: return, redirect or reply.",
+  "tags": [
+    "arrow",
+    "corner",
+    "turn",
+    "return",
+    "up",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

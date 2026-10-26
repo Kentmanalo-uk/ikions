@@ -1,0 +1,26 @@
+{
+  "name": "file-text",
+  "title": "File Text",
+  "category": "files",
+  "description": "Represent a text document, article or written notes.",
+  "tags": [
+    "document",
+    "text",
+    "notes",
+    "article",
+    "page",
+    "lines",
+    "report",
+    "doc",
+    "txt"
+  ],
+  "aliases": [
+    "document",
+    "text-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

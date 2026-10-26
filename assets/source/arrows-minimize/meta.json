@@ -1,0 +1,22 @@
+{
+  "name": "arrows-minimize",
+  "title": "Arrows Minimize",
+  "category": "arrows",
+  "description": "Shrink inward from every corner, such as leaving full screen.",
+  "tags": [
+    "minimize",
+    "shrink",
+    "reduce",
+    "corners",
+    "smaller",
+    "contract"
+  ],
+  "aliases": [
+    "shrink-corners"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

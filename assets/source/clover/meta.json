@@ -1,0 +1,23 @@
+{
+  "name": "clover",
+  "title": "Clover",
+  "category": "weather",
+  "description": "Represents a clover or shamrock, luck or Saint Patrick's Day.",
+  "tags": [
+    "shamrock",
+    "luck",
+    "lucky",
+    "irish",
+    "st patricks",
+    "plant",
+    "nature"
+  ],
+  "aliases": [
+    "shamrock"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

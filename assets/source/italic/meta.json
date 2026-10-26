@@ -1,0 +1,22 @@
+{
+  "name": "italic",
+  "title": "Italic",
+  "category": "editing",
+  "description": "Make selected text italic or slanted.",
+  "tags": [
+    "italic",
+    "slant",
+    "emphasis",
+    "font",
+    "style",
+    "oblique"
+  ],
+  "aliases": [
+    "text-italic"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

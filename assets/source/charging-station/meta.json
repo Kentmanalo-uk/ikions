@@ -1,0 +1,25 @@
+{
+  "name": "charging-station",
+  "title": "Charging Station",
+  "category": "transport",
+  "description": "An EV charging point with its cable, for charging electric vehicles.",
+  "tags": [
+    "ev",
+    "charger",
+    "charging",
+    "electric",
+    "plug-in",
+    "power",
+    "station"
+  ],
+  "aliases": [
+    "charge-point",
+    "ev-charging",
+    "ev-charger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

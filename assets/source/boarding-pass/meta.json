@@ -1,0 +1,23 @@
+{
+  "name": "boarding-pass",
+  "title": "Boarding Pass",
+  "category": "transport",
+  "description": "Represents a boarding pass, flight ticket or airline check-in.",
+  "tags": [
+    "flight ticket",
+    "plane ticket",
+    "check-in",
+    "airline",
+    "gate",
+    "travel"
+  ],
+  "aliases": [
+    "flight-ticket",
+    "plane-ticket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

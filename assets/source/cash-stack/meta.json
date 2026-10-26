@@ -1,0 +1,24 @@
+{
+  "name": "cash-stack",
+  "title": "Cash Stack",
+  "category": "finance",
+  "description": "Represent a stack or bundle of banknotes, savings or a large cash amount.",
+  "tags": [
+    "banknotes",
+    "bills",
+    "money stack",
+    "cash",
+    "bundle",
+    "wealth",
+    "notes"
+  ],
+  "aliases": [
+    "money-stack",
+    "stack-of-bills"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

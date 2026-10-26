@@ -1,0 +1,23 @@
+{
+  "name": "basket",
+  "title": "Basket",
+  "category": "commerce",
+  "description": "Represents a woven basket for collecting or carrying goods.",
+  "tags": [
+    "wicker",
+    "picnic",
+    "groceries",
+    "carry",
+    "collect",
+    "hamper"
+  ],
+  "aliases": [
+    "wicker-basket",
+    "hamper"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

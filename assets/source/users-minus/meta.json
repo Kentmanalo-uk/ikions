@@ -1,0 +1,22 @@
+{
+  "name": "users-minus",
+  "title": "Users Minus",
+  "category": "people",
+  "description": "Remove a users.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "remove",
+    "subtract",
+    "users"
+  ],
+  "aliases": [
+    "remove-users"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

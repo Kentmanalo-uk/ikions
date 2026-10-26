@@ -1,0 +1,22 @@
+{
+  "name": "brackets",
+  "title": "Brackets",
+  "category": "development",
+  "description": "Square brackets used for arrays, indexes and optional syntax.",
+  "tags": [
+    "brackets",
+    "array",
+    "index",
+    "list",
+    "syntax",
+    "code"
+  ],
+  "aliases": [
+    "square-brackets"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

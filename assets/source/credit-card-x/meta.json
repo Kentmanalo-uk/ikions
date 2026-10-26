@@ -1,0 +1,24 @@
+{
+  "name": "credit-card-x",
+  "title": "Credit Card X",
+  "category": "finance",
+  "description": "Delete, cancel or reject a credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "credit"
+  ],
+  "aliases": [
+    "delete-credit-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "container",
+  "title": "Container",
+  "category": "development",
+  "description": "A shipping-style container for packaged, isolated applications.",
+  "tags": [
+    "container",
+    "docker",
+    "image",
+    "runtime",
+    "deploy",
+    "isolation"
+  ],
+  "aliases": [
+    "app-container",
+    "shipping-container"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

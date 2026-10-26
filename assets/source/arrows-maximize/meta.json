@@ -1,0 +1,22 @@
+{
+  "name": "arrows-maximize",
+  "title": "Arrows Maximize",
+  "category": "arrows",
+  "description": "Expand outward to every corner, such as entering full screen.",
+  "tags": [
+    "maximize",
+    "expand",
+    "fullscreen",
+    "enlarge",
+    "corners",
+    "grow"
+  ],
+  "aliases": [
+    "expand-corners"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

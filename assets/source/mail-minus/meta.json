@@ -1,0 +1,22 @@
+{
+  "name": "mail-minus",
+  "title": "Mail Minus",
+  "category": "communication",
+  "description": "Remove a mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "remove",
+    "subtract",
+    "mail"
+  ],
+  "aliases": [
+    "remove-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "align-center",
+  "title": "Align Center",
+  "category": "editing",
+  "description": "Centre text or content between the left and right edges.",
+  "tags": [
+    "align",
+    "centre",
+    "center",
+    "text",
+    "paragraph",
+    "middle"
+  ],
+  "aliases": [
+    "text-align-center"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

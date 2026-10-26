@@ -1,0 +1,24 @@
+{
+  "name": "swap",
+  "title": "Swap",
+  "category": "arrows",
+  "description": "Exchange two items, values or directions with each other.",
+  "tags": [
+    "exchange",
+    "switch",
+    "transfer",
+    "trade",
+    "reverse",
+    "convert",
+    "horizontal",
+    "arrows"
+  ],
+  "aliases": [
+    "arrows-left-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ticket-x",
+  "title": "Ticket X",
+  "category": "transport",
+  "description": "Delete, cancel or reject a ticket.",
+  "tags": [
+    "admission",
+    "pass",
+    "boarding-pass",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "ticket"
+  ],
+  "aliases": [
+    "delete-ticket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

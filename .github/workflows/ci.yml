@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm icons:validate
+      - run: pnpm icons:roadmap
+      - run: pnpm build
+      - run: pnpm typecheck
+      - run: pnpm test
+      - name: Check generated files are committed
+        run: git diff --exit-code -- packages assets docs
+      - run: pnpm --filter @ikions/e2e exec playwright install --with-deps chromium
+      - run: pnpm e2e
+        env:
+          CI: "true"
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: review
+          path: |
+            review/
+            tests/playwright-report/
+      - name: Audit dependencies
+        run: pnpm audit --prod --audit-level high

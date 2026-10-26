@@ -1,0 +1,23 @@
+{
+  "name": "water-glass",
+  "title": "Water Glass",
+  "category": "food",
+  "description": "Represent a glass of water, such as hydration, a drink or a refill.",
+  "tags": [
+    "water",
+    "drink",
+    "hydration",
+    "beverage",
+    "tumbler",
+    "refill"
+  ],
+  "aliases": [
+    "glass-of-water",
+    "tumbler"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "split-bill",
+  "title": "Split Bill",
+  "category": "finance",
+  "description": "Split a bill or receipt between people.",
+  "tags": [
+    "split",
+    "share",
+    "divide",
+    "receipt",
+    "go dutch",
+    "expense"
+  ],
+  "aliases": [
+    "split-check",
+    "share-bill"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

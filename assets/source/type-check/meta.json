@@ -1,0 +1,23 @@
+{
+  "name": "type-check",
+  "title": "Type Check",
+  "category": "development",
+  "description": "Run a type checker that verifies values match their declared types.",
+  "tags": [
+    "types",
+    "typescript",
+    "static-analysis",
+    "compiler",
+    "validate",
+    "safety"
+  ],
+  "aliases": [
+    "type-checker",
+    "typecheck"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

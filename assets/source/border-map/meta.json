@@ -1,0 +1,23 @@
+{
+  "name": "border-map",
+  "title": "Map Border",
+  "category": "maps",
+  "description": "A map split by a dashed line for borders, boundaries and territories.",
+  "tags": [
+    "border",
+    "boundary",
+    "territory",
+    "country",
+    "frontier",
+    "region"
+  ],
+  "aliases": [
+    "boundary-map",
+    "territory-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bluetooth",
+  "title": "Bluetooth",
+  "category": "devices",
+  "description": "Show a Bluetooth connection or pair a wireless device.",
+  "tags": [
+    "wireless",
+    "pairing",
+    "connection",
+    "device",
+    "headset",
+    "signal"
+  ],
+  "aliases": [
+    "bluetooth-connect"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

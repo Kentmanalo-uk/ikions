@@ -1,0 +1,23 @@
+{
+  "name": "soap",
+  "title": "Soap",
+  "category": "health",
+  "description": "A bar of soap with bubbles for washing and hygiene.",
+  "tags": [
+    "soap bar",
+    "wash",
+    "hygiene",
+    "bubbles",
+    "clean",
+    "bathroom",
+    "handwashing"
+  ],
+  "aliases": [
+    "soap-bar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

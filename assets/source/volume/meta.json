@@ -1,0 +1,24 @@
+{
+  "name": "volume",
+  "title": "Volume",
+  "category": "media",
+  "description": "Adjust the sound level or show that audio is on.",
+  "tags": [
+    "sound",
+    "audio",
+    "speaker",
+    "loud",
+    "unmute",
+    "level",
+    "noise"
+  ],
+  "aliases": [
+    "sound",
+    "volume-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

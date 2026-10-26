@@ -1,0 +1,25 @@
+{
+  "name": "database",
+  "title": "Database",
+  "category": "development",
+  "description": "Represent a database, data store or storage server.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "server",
+    "table",
+    "records",
+    "backend",
+    "cylinder"
+  ],
+  "aliases": [
+    "data-store",
+    "db"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

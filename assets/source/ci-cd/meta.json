@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd",
+  "title": "CI/CD",
+  "category": "development",
+  "description": "An endless loop of build, test and deploy for continuous integration and delivery.",
+  "tags": [
+    "continuous integration",
+    "continuous delivery",
+    "devops",
+    "pipeline",
+    "loop",
+    "automation"
+  ],
+  "aliases": [
+    "devops-loop",
+    "continuous-delivery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "signal-high",
+  "title": "Signal High",
+  "category": "communication",
+  "description": "Indicate strong cellular or network reception with three bars.",
+  "tags": [
+    "strong signal",
+    "reception",
+    "cellular",
+    "good connection",
+    "bars"
+  ],
+  "aliases": [
+    "strong-signal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "skip-forward-10",
+  "title": "Skip Forward 10",
+  "category": "media",
+  "description": "Jump ahead ten seconds in audio or video playback.",
+  "tags": [
+    "forward",
+    "ahead",
+    "seconds",
+    "seek",
+    "skip",
+    "playback"
+  ],
+  "aliases": [
+    "forward-10-seconds"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

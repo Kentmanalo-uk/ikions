@@ -1,0 +1,19 @@
+{
+  "name": "chevron-right",
+  "title": "Chevron Right",
+  "category": "arrows",
+  "description": "Navigate forward, open a submenu or show more.",
+  "tags": [
+    "next",
+    "caret",
+    "forward",
+    "submenu",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

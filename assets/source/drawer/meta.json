@@ -1,0 +1,23 @@
+{
+  "name": "drawer",
+  "title": "Drawer",
+  "category": "files",
+  "description": "Represents an open drawer for storing or organizing items.",
+  "tags": [
+    "storage",
+    "cabinet",
+    "organize",
+    "furniture",
+    "compartment",
+    "stash"
+  ],
+  "aliases": [
+    "open-drawer",
+    "storage-drawer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

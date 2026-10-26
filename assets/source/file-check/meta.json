@@ -1,0 +1,22 @@
+{
+  "name": "file-check",
+  "title": "File Check",
+  "category": "files",
+  "description": "File confirmed, completed or verified.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

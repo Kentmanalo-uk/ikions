@@ -1,0 +1,24 @@
+{
+  "name": "bookmark",
+  "title": "Bookmark",
+  "category": "social",
+  "description": "Save an item for later or mark a page to come back to.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "saved",
+    "reading list",
+    "mark",
+    "keep"
+  ],
+  "aliases": [
+    "save-for-later",
+    "ribbon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

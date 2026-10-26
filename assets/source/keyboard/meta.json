@@ -1,0 +1,23 @@
+{
+  "name": "keyboard",
+  "title": "Keyboard",
+  "category": "devices",
+  "description": "Represent a keyboard, typing input or keyboard shortcuts.",
+  "tags": [
+    "typing",
+    "input",
+    "keys",
+    "shortcut",
+    "hotkey",
+    "computer",
+    "peripheral"
+  ],
+  "aliases": [
+    "typing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

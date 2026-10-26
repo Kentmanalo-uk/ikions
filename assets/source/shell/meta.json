@@ -1,0 +1,24 @@
+{
+  "name": "shell",
+  "title": "Seashell",
+  "category": "weather",
+  "description": "Represents a scallop seashell, the beach or the seaside.",
+  "tags": [
+    "seashell",
+    "scallop",
+    "beach",
+    "ocean",
+    "sea",
+    "seaside",
+    "summer"
+  ],
+  "aliases": [
+    "seashell",
+    "scallop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

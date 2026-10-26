@@ -1,0 +1,23 @@
+{
+  "name": "invoice-paid",
+  "title": "Invoice Paid",
+  "category": "commerce",
+  "description": "Marks an invoice or bill as fully paid.",
+  "tags": [
+    "bill",
+    "paid",
+    "settled",
+    "payment",
+    "complete",
+    "receipt"
+  ],
+  "aliases": [
+    "paid-invoice",
+    "invoice-check"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

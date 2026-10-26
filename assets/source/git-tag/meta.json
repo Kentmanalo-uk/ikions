@@ -1,0 +1,22 @@
+{
+  "name": "git-tag",
+  "title": "Git Tag",
+  "category": "development",
+  "description": "Tag a commit to mark a release or version in the history.",
+  "tags": [
+    "git",
+    "tag",
+    "release",
+    "version",
+    "label",
+    "commit"
+  ],
+  "aliases": [
+    "release-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

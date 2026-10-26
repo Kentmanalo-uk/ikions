@@ -1,0 +1,22 @@
+{
+  "name": "camera",
+  "title": "Camera",
+  "category": "media",
+  "description": "Capture photos or open a camera interface.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "snapshot",
+    "lens"
+  ],
+  "aliases": [
+    "photography",
+    "take-picture"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

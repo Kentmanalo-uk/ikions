@@ -1,0 +1,22 @@
+{
+  "name": "calendar-minus",
+  "title": "Calendar Minus",
+  "category": "time",
+  "description": "Remove a calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "remove",
+    "subtract",
+    "calendar"
+  ],
+  "aliases": [
+    "remove-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

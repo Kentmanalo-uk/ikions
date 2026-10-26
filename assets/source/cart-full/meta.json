@@ -1,0 +1,23 @@
+{
+  "name": "cart-full",
+  "title": "Cart Full",
+  "category": "commerce",
+  "description": "Shows a shopping cart loaded with items, ready for checkout.",
+  "tags": [
+    "shopping",
+    "cart",
+    "items",
+    "loaded",
+    "groceries",
+    "basket"
+  ],
+  "aliases": [
+    "loaded-cart",
+    "filled-cart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

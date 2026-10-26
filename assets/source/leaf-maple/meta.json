@@ -1,0 +1,24 @@
+{
+  "name": "leaf-maple",
+  "title": "Maple Leaf",
+  "category": "weather",
+  "description": "Represents a maple leaf, autumn foliage or Canada.",
+  "tags": [
+    "maple",
+    "autumn",
+    "fall",
+    "foliage",
+    "canada",
+    "nature",
+    "tree"
+  ],
+  "aliases": [
+    "maple-leaf",
+    "maple"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

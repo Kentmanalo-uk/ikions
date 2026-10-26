@@ -1,0 +1,23 @@
+{
+  "name": "schema",
+  "title": "Schema",
+  "category": "development",
+  "description": "Represents a database schema with related tables linked together.",
+  "tags": [
+    "tables",
+    "relations",
+    "erd",
+    "model",
+    "structure",
+    "database"
+  ],
+  "aliases": [
+    "db-schema",
+    "data-model"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

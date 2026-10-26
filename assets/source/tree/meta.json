@@ -1,0 +1,25 @@
+{
+  "name": "tree",
+  "title": "Tree",
+  "category": "weather",
+  "description": "Represent trees, forests, parks or the outdoors.",
+  "tags": [
+    "nature",
+    "forest",
+    "park",
+    "pine",
+    "evergreen",
+    "outdoors",
+    "woods",
+    "camping"
+  ],
+  "aliases": [
+    "pine",
+    "evergreen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

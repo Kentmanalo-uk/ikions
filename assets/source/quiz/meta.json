@@ -1,0 +1,24 @@
+{
+  "name": "quiz",
+  "title": "Quiz",
+  "category": "education",
+  "description": "A question with answer bubbles for quizzes, tests and multiple choice.",
+  "tags": [
+    "question",
+    "multiple choice",
+    "test",
+    "trivia",
+    "answer",
+    "poll",
+    "assessment"
+  ],
+  "aliases": [
+    "multiple-choice",
+    "trivia"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

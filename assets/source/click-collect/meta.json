@@ -1,0 +1,23 @@
+{
+  "name": "click-collect",
+  "title": "Click and Collect",
+  "category": "commerce",
+  "description": "Order online and pick the purchase up in store.",
+  "tags": [
+    "pickup",
+    "collect in store",
+    "buy online",
+    "order online",
+    "reserve",
+    "pick up"
+  ],
+  "aliases": [
+    "click-and-collect",
+    "store-pickup"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

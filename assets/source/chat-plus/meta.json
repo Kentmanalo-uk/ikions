@@ -1,0 +1,23 @@
+{
+  "name": "chat-plus",
+  "title": "Chat Plus",
+  "category": "communication",
+  "description": "Add a new chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "add",
+    "new",
+    "create",
+    "chat"
+  ],
+  "aliases": [
+    "add-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

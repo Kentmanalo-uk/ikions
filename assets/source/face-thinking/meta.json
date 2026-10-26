@@ -1,0 +1,23 @@
+{
+  "name": "face-thinking",
+  "title": "Face Thinking",
+  "category": "people",
+  "description": "Show that someone is thinking, pondering or unsure.",
+  "tags": [
+    "thinking",
+    "ponder",
+    "wonder",
+    "hmm",
+    "unsure",
+    "emoji"
+  ],
+  "aliases": [
+    "thinking-face",
+    "pondering-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

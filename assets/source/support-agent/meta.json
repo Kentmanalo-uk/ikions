@@ -1,0 +1,22 @@
+{
+  "name": "support-agent",
+  "title": "Support Agent",
+  "category": "people",
+  "description": "Represent a customer support agent or help desk operator.",
+  "tags": [
+    "helpdesk",
+    "call center",
+    "operator",
+    "service",
+    "headset",
+    "assistance"
+  ],
+  "aliases": [
+    "help-desk-agent"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

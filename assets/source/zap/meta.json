@@ -1,0 +1,26 @@
+{
+  "name": "zap",
+  "title": "Zap",
+  "category": "energy",
+  "description": "Represent electricity, power, speed or a quick action.",
+  "tags": [
+    "lightning",
+    "bolt",
+    "electric",
+    "power",
+    "energy",
+    "flash",
+    "fast",
+    "charge"
+  ],
+  "aliases": [
+    "bolt",
+    "flash",
+    "lightning"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

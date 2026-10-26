@@ -1,0 +1,23 @@
+{
+  "name": "earth",
+  "title": "Earth",
+  "category": "maps",
+  "description": "Shows planet Earth as a globe with continents.",
+  "tags": [
+    "planet",
+    "world",
+    "global",
+    "continents",
+    "environment",
+    "geography"
+  ],
+  "aliases": [
+    "planet-earth",
+    "world-globe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

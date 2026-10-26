@@ -1,0 +1,23 @@
+{
+  "name": "refund",
+  "title": "Refund",
+  "category": "commerce",
+  "description": "Represents money returned to a customer for a purchase.",
+  "tags": [
+    "money-back",
+    "return",
+    "reimburse",
+    "chargeback",
+    "receipt",
+    "payment"
+  ],
+  "aliases": [
+    "money-back",
+    "reimbursement"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "call-merge",
+  "title": "Merge Calls",
+  "category": "communication",
+  "description": "Merge two phone calls into a single conference call.",
+  "tags": [
+    "conference call",
+    "merge",
+    "join calls",
+    "phone",
+    "combine"
+  ],
+  "aliases": [
+    "merge-calls"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

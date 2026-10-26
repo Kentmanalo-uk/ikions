@@ -1,0 +1,22 @@
+{
+  "name": "check",
+  "title": "Check",
+  "category": "interface",
+  "description": "Confirm, complete or mark something as done.",
+  "tags": [
+    "tick",
+    "done",
+    "confirm",
+    "success",
+    "ok"
+  ],
+  "aliases": [
+    "tick",
+    "checkmark"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

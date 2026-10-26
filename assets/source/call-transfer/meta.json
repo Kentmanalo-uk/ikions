@@ -1,0 +1,22 @@
+{
+  "name": "call-transfer",
+  "title": "Transfer Call",
+  "category": "communication",
+  "description": "Transfer or forward an active phone call to someone else.",
+  "tags": [
+    "forward call",
+    "transfer",
+    "redirect",
+    "phone",
+    "handoff"
+  ],
+  "aliases": [
+    "forward-call",
+    "transfer-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

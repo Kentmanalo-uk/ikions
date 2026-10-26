@@ -1,0 +1,23 @@
+{
+  "name": "membership-card",
+  "title": "Membership Card",
+  "category": "commerce",
+  "description": "A member or VIP card that unlocks exclusive perks.",
+  "tags": [
+    "vip",
+    "member",
+    "club",
+    "premium",
+    "perks",
+    "exclusive"
+  ],
+  "aliases": [
+    "vip-card",
+    "member-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

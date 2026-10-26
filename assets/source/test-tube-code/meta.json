@@ -1,0 +1,23 @@
+{
+  "name": "test-tube-code",
+  "title": "Test Tube Code",
+  "category": "development",
+  "description": "Run experiments and automated tests against your code.",
+  "tags": [
+    "test",
+    "testing",
+    "experiment",
+    "lab",
+    "unit test",
+    "qa"
+  ],
+  "aliases": [
+    "code-test",
+    "test-code"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

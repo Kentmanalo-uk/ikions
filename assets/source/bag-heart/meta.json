@@ -1,0 +1,21 @@
+{
+  "name": "bag-heart",
+  "title": "Bag Heart",
+  "category": "commerce",
+  "description": "A liked or favourite bag.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "liked",
+    "favorite",
+    "love",
+    "bag"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

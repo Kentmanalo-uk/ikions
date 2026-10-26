@@ -1,0 +1,23 @@
+{
+  "name": "lint",
+  "title": "Lint",
+  "category": "development",
+  "description": "Run a linter that flags style issues and likely bugs in source code.",
+  "tags": [
+    "linter",
+    "warnings",
+    "errors",
+    "style",
+    "analysis",
+    "eslint"
+  ],
+  "aliases": [
+    "code-lint",
+    "linter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

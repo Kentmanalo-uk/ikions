@@ -1,0 +1,23 @@
+{
+  "name": "insurance",
+  "title": "Insurance",
+  "category": "finance",
+  "description": "Money protected by an umbrella, standing for insurance cover.",
+  "tags": [
+    "cover",
+    "protection",
+    "policy",
+    "insure",
+    "risk",
+    "safety"
+  ],
+  "aliases": [
+    "insurance-policy",
+    "coverage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

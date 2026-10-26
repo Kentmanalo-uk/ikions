@@ -1,0 +1,24 @@
+{
+  "name": "accessibility",
+  "title": "Accessibility",
+  "category": "people",
+  "description": "Open accessibility options or mark universally accessible content.",
+  "tags": [
+    "a11y",
+    "universal access",
+    "inclusive",
+    "disability",
+    "assistive",
+    "options",
+    "human"
+  ],
+  "aliases": [
+    "a11y",
+    "universal-access"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

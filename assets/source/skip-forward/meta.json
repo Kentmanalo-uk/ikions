@@ -1,0 +1,24 @@
+{
+  "name": "skip-forward",
+  "title": "Skip Forward",
+  "category": "media",
+  "description": "Jump to the next track, chapter or episode.",
+  "tags": [
+    "next",
+    "forward",
+    "track",
+    "media",
+    "player",
+    "playlist",
+    "advance"
+  ],
+  "aliases": [
+    "next-track",
+    "skip-next"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "baby-bottle",
+  "title": "Baby Bottle",
+  "category": "food",
+  "description": "Represent a baby bottle, infant feeding or baby formula.",
+  "tags": [
+    "baby",
+    "infant",
+    "feeding",
+    "formula",
+    "nursing",
+    "milk"
+  ],
+  "aliases": [
+    "feeding-bottle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

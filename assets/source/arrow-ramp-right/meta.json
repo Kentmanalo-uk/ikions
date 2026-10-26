@@ -1,0 +1,22 @@
+{
+  "name": "arrow-ramp-right",
+  "title": "Arrow Ramp Right",
+  "category": "arrows",
+  "description": "An exit ramp curving off a straight road to the right.",
+  "tags": [
+    "exit",
+    "ramp",
+    "highway",
+    "off-ramp",
+    "navigation",
+    "road"
+  ],
+  "aliases": [
+    "exit-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

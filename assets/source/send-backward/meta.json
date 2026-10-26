@@ -1,0 +1,23 @@
+{
+  "name": "send-backward",
+  "title": "Send Backward",
+  "category": "interface",
+  "description": "Move the selected object one layer further to the back.",
+  "tags": [
+    "arrange",
+    "layer",
+    "order",
+    "back",
+    "stack",
+    "design"
+  ],
+  "aliases": [
+    "move-backward",
+    "lower-layer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

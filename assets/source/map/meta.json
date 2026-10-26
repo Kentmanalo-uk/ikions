@@ -1,0 +1,25 @@
+{
+  "name": "map",
+  "title": "Map",
+  "category": "maps",
+  "description": "Open a map view, browse locations or plan where to go.",
+  "tags": [
+    "atlas",
+    "location",
+    "geography",
+    "directions",
+    "travel",
+    "folded",
+    "explore"
+  ],
+  "aliases": [
+    "atlas",
+    "folded-map",
+    "map-fold"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

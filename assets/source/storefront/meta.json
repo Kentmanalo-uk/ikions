@@ -1,0 +1,23 @@
+{
+  "name": "storefront",
+  "title": "Storefront",
+  "category": "commerce",
+  "description": "Represents the front of a shop with its sign board and entrance.",
+  "tags": [
+    "shop",
+    "store",
+    "retail",
+    "business",
+    "front",
+    "boutique"
+  ],
+  "aliases": [
+    "shop-front",
+    "shopfront"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

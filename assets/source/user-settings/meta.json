@@ -1,0 +1,26 @@
+{
+  "name": "user-settings",
+  "title": "User Settings",
+  "category": "people",
+  "description": "Settings and preferences for a user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "settings",
+    "preferences",
+    "configure",
+    "user",
+    "manage",
+    "gear"
+  ],
+  "aliases": [
+    "user-cog",
+    "account-settings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "external-link",
+  "title": "External Link",
+  "category": "interface",
+  "description": "Open a link in a new tab, window or another app.",
+  "tags": [
+    "open",
+    "new-tab",
+    "window",
+    "launch",
+    "outside",
+    "website",
+    "redirect",
+    "url"
+  ],
+  "aliases": [
+    "open-in-new",
+    "new-tab"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

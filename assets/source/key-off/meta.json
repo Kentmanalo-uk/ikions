@@ -1,0 +1,22 @@
+{
+  "name": "key-off",
+  "title": "Key Off",
+  "category": "security",
+  "description": "Turn off, disable or mute the key.",
+  "tags": [
+    "password",
+    "access",
+    "credential",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-key"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

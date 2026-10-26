@@ -1,0 +1,26 @@
+{
+  "name": "first-aid",
+  "title": "First Aid",
+  "category": "health",
+  "description": "Represent a first aid kit, emergency care or medical supplies.",
+  "tags": [
+    "medical",
+    "emergency",
+    "kit",
+    "aid",
+    "health",
+    "help",
+    "cross",
+    "supplies"
+  ],
+  "aliases": [
+    "first-aid-kit",
+    "medkit",
+    "emergency"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

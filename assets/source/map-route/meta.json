@@ -1,0 +1,23 @@
+{
+  "name": "map-route",
+  "title": "Map Route",
+  "category": "maps",
+  "description": "A folded map with a route between two points for directions and trip planning.",
+  "tags": [
+    "directions",
+    "route",
+    "path",
+    "journey",
+    "trip",
+    "navigation"
+  ],
+  "aliases": [
+    "route-on-map",
+    "map-directions"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

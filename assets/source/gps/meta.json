@@ -1,0 +1,23 @@
+{
+  "name": "gps",
+  "title": "GPS",
+  "category": "maps",
+  "description": "Shows a satellite positioning fix on a location pin.",
+  "tags": [
+    "satellite",
+    "positioning",
+    "location",
+    "signal",
+    "tracking",
+    "navigation"
+  ],
+  "aliases": [
+    "gps-signal",
+    "gps-fix"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

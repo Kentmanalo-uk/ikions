@@ -1,0 +1,22 @@
+{
+  "name": "heart",
+  "title": "Heart",
+  "category": "social",
+  "description": "Like, favourite or save something you love.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "favourite",
+    "save"
+  ],
+  "aliases": [
+    "love",
+    "like"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

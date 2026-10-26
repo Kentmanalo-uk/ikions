@@ -1,0 +1,27 @@
+{
+  "name": "sparkles",
+  "title": "Sparkles",
+  "category": "emerging",
+  "description": "Represent AI features, magic actions or something new.",
+  "tags": [
+    "ai",
+    "magic",
+    "generate",
+    "new",
+    "shine",
+    "assistant",
+    "auto",
+    "enhance",
+    "smart"
+  ],
+  "aliases": [
+    "ai",
+    "magic",
+    "stars"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

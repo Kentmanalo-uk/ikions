@@ -1,0 +1,22 @@
+{
+  "name": "sun-dim",
+  "title": "Sun Dim",
+  "category": "weather",
+  "description": "A small, dim sun for low brightness or weak sunshine.",
+  "tags": [
+    "brightness",
+    "dim",
+    "low light",
+    "display",
+    "weather",
+    "hazy"
+  ],
+  "aliases": [
+    "brightness-low"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

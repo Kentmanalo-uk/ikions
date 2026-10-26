@@ -1,0 +1,23 @@
+{
+  "name": "chat-search",
+  "title": "Chat Search",
+  "category": "communication",
+  "description": "Search for a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "find",
+    "lookup",
+    "browse",
+    "chat"
+  ],
+  "aliases": [
+    "find-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

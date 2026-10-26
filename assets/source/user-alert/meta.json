@@ -1,0 +1,22 @@
+{
+  "name": "user-alert",
+  "title": "User Alert",
+  "category": "people",
+  "description": "User with a warning or problem that needs attention.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "user"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

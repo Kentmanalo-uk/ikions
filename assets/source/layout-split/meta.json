@@ -1,0 +1,22 @@
+{
+  "name": "layout-split",
+  "title": "Layout Split",
+  "category": "interface",
+  "description": "Divide the view into two equal halves side by side.",
+  "tags": [
+    "split view",
+    "split screen",
+    "two pane",
+    "compare",
+    "layout",
+    "halves"
+  ],
+  "aliases": [
+    "two-pane"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

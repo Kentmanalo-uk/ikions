@@ -1,0 +1,19 @@
+{
+  "name": "arrow-big-up",
+  "title": "Arrow Big Up",
+  "category": "arrows",
+  "description": "Large block arrow pointing up; bold direction or upgrade cue.",
+  "tags": [
+    "arrow",
+    "big",
+    "bold",
+    "block",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sandwich",
+  "title": "Sandwich",
+  "category": "food",
+  "description": "Represent a sandwich, such as a packed lunch, a deli or a snack.",
+  "tags": [
+    "lunch",
+    "deli",
+    "snack",
+    "toast",
+    "sub",
+    "bread"
+  ],
+  "aliases": [
+    "sub-sandwich"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

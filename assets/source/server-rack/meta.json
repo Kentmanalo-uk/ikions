@@ -1,0 +1,23 @@
+{
+  "name": "server-rack",
+  "title": "Server Rack",
+  "category": "devices",
+  "description": "Represents a server rack cabinet holding stacked servers.",
+  "tags": [
+    "rack",
+    "cabinet",
+    "servers",
+    "hosting",
+    "infrastructure",
+    "datacenter"
+  ],
+  "aliases": [
+    "rack-cabinet",
+    "rack-mount"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

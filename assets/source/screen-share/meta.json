@@ -1,0 +1,23 @@
+{
+  "name": "screen-share",
+  "title": "Screen Share",
+  "category": "communication",
+  "description": "Share your screen with others during a call or meeting.",
+  "tags": [
+    "share screen",
+    "present",
+    "presentation",
+    "meeting",
+    "cast",
+    "display"
+  ],
+  "aliases": [
+    "share-screen",
+    "present-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

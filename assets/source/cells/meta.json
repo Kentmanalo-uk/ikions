@@ -1,0 +1,23 @@
+{
+  "name": "cells",
+  "title": "Cells",
+  "category": "health",
+  "description": "Two living cells with nuclei for biology, cell research and tissue.",
+  "tags": [
+    "cell",
+    "biology",
+    "microscopic",
+    "tissue",
+    "stem cell",
+    "cell division",
+    "organism"
+  ],
+  "aliases": [
+    "cell-biology"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

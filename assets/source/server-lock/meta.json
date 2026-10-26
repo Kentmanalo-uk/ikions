@@ -1,0 +1,22 @@
+{
+  "name": "server-lock",
+  "title": "Server Lock",
+  "category": "devices",
+  "description": "A locked, private or protected server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "server"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

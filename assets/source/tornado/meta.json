@@ -1,0 +1,23 @@
+{
+  "name": "tornado",
+  "title": "Tornado",
+  "category": "weather",
+  "description": "A tornado funnel for twisters and severe wind warnings.",
+  "tags": [
+    "weather",
+    "twister",
+    "cyclone",
+    "wind",
+    "storm",
+    "disaster",
+    "severe"
+  ],
+  "aliases": [
+    "twister"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

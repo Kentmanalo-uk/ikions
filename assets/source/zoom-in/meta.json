@@ -1,0 +1,22 @@
+{
+  "name": "zoom-in",
+  "title": "Zoom In",
+  "category": "interface",
+  "description": "Magnify the view to see content closer.",
+  "tags": [
+    "magnify",
+    "enlarge",
+    "plus",
+    "scale",
+    "closer",
+    "view"
+  ],
+  "aliases": [
+    "magnify-plus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

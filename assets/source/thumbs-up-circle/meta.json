@@ -1,0 +1,23 @@
+{
+  "name": "thumbs-up-circle",
+  "title": "Thumbs Up Circle",
+  "category": "people",
+  "description": "Approve, like or give positive feedback in a round badge.",
+  "tags": [
+    "like",
+    "approve",
+    "good",
+    "upvote",
+    "feedback",
+    "agree"
+  ],
+  "aliases": [
+    "like-circle",
+    "approve-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

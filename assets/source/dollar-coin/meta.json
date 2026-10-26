@@ -1,0 +1,24 @@
+{
+  "name": "dollar-coin",
+  "title": "Dollar Coin",
+  "category": "finance",
+  "description": "A coin marked with a dollar sign for money and payments.",
+  "tags": [
+    "dollar",
+    "usd",
+    "money",
+    "coin",
+    "currency",
+    "cash",
+    "price"
+  ],
+  "aliases": [
+    "usd-coin",
+    "coin-dollar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

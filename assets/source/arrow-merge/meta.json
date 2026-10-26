@@ -1,0 +1,22 @@
+{
+  "name": "arrow-merge",
+  "title": "Arrow Merge",
+  "category": "arrows",
+  "description": "Two paths that merge and continue as one.",
+  "tags": [
+    "merge",
+    "join",
+    "converge",
+    "combine",
+    "routing",
+    "arrow"
+  ],
+  "aliases": [
+    "join-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

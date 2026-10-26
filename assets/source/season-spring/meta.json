@@ -1,0 +1,24 @@
+{
+  "name": "season-spring",
+  "title": "Spring",
+  "category": "weather",
+  "description": "Represents the spring season with a tree in blossom and a new sprout.",
+  "tags": [
+    "spring",
+    "season",
+    "blossom",
+    "bloom",
+    "springtime",
+    "march",
+    "april",
+    "nature"
+  ],
+  "aliases": [
+    "springtime"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

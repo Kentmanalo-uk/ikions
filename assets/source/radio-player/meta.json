@@ -1,0 +1,23 @@
+{
+  "name": "radio-player",
+  "title": "Radio Player",
+  "category": "media",
+  "description": "A radio set with a play button for internet radio and live stations.",
+  "tags": [
+    "radio",
+    "station",
+    "fm",
+    "listen",
+    "stream",
+    "audio"
+  ],
+  "aliases": [
+    "internet-radio",
+    "play-radio"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

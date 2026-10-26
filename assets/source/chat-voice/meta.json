@@ -1,0 +1,22 @@
+{
+  "name": "chat-voice",
+  "title": "Chat Voice",
+  "category": "communication",
+  "description": "Play or send a voice clip inside a chat conversation.",
+  "tags": [
+    "voice chat",
+    "audio message",
+    "chat",
+    "voice clip",
+    "listen",
+    "play"
+  ],
+  "aliases": [
+    "audio-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

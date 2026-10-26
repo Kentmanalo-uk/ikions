@@ -1,0 +1,21 @@
+{
+  "name": "call-mute",
+  "title": "Call Mute",
+  "category": "communication",
+  "description": "Mute the microphone or silence a phone call.",
+  "tags": [
+    "phone",
+    "call",
+    "mute",
+    "silent",
+    "microphone"
+  ],
+  "aliases": [
+    "mute-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

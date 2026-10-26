@@ -1,0 +1,23 @@
+{
+  "name": "pin-drop",
+  "title": "Pin Drop",
+  "category": "maps",
+  "description": "Shows a location pin dropped onto a spot on the ground.",
+  "tags": [
+    "drop pin",
+    "mark",
+    "place",
+    "location",
+    "spot",
+    "marker"
+  ],
+  "aliases": [
+    "dropped-pin",
+    "drop-marker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

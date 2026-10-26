@@ -1,0 +1,24 @@
+{
+  "name": "souvenir",
+  "title": "Souvenir",
+  "category": "transport",
+  "description": "Represents a souvenir, a keepsake from a trip or a gift shop.",
+  "tags": [
+    "keepsake",
+    "snow globe",
+    "gift shop",
+    "memento",
+    "tourism",
+    "gift"
+  ],
+  "aliases": [
+    "keepsake",
+    "snow-globe",
+    "memento"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

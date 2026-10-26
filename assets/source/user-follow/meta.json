@@ -1,0 +1,22 @@
+{
+  "name": "user-follow",
+  "title": "User Follow",
+  "category": "people",
+  "description": "Follow a person or subscribe to a profile's updates.",
+  "tags": [
+    "follow",
+    "subscribe",
+    "social",
+    "connect",
+    "profile",
+    "add"
+  ],
+  "aliases": [
+    "follow-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

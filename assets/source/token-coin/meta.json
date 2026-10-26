@@ -1,0 +1,24 @@
+{
+  "name": "token-coin",
+  "title": "Token Coin",
+  "category": "finance",
+  "description": "A token or reward coin for points, credits and in-app currency.",
+  "tags": [
+    "token",
+    "reward",
+    "points",
+    "credits",
+    "loyalty",
+    "arcade",
+    "game currency"
+  ],
+  "aliases": [
+    "reward-coin",
+    "game-token"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

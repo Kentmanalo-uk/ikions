@@ -1,0 +1,26 @@
+{
+  "name": "user-add",
+  "title": "User Add",
+  "category": "people",
+  "description": "Add a person, invite a member or create a new account.",
+  "tags": [
+    "invite",
+    "new user",
+    "add person",
+    "member",
+    "sign up",
+    "register",
+    "contact",
+    "follow"
+  ],
+  "aliases": [
+    "user-plus",
+    "add-user",
+    "invite-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

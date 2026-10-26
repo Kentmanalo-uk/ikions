@@ -1,0 +1,25 @@
+{
+  "name": "tent-camp",
+  "title": "Tent",
+  "category": "transport",
+  "description": "Represents a tent, a campsite or camping outdoors.",
+  "tags": [
+    "camping",
+    "campsite",
+    "outdoor",
+    "hiking",
+    "glamping",
+    "shelter"
+  ],
+  "aliases": [
+    "camping-tent",
+    "campsite",
+    "tent",
+    "tent-camping"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

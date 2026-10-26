@@ -1,0 +1,23 @@
+{
+  "name": "cruise-ship",
+  "title": "Cruise Ship",
+  "category": "transport",
+  "description": "Represents a cruise ship, an ocean liner or a holiday at sea.",
+  "tags": [
+    "cruise",
+    "liner",
+    "ocean",
+    "voyage",
+    "vacation",
+    "sea travel"
+  ],
+  "aliases": [
+    "ocean-liner",
+    "cruise-liner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

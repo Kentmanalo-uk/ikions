@@ -1,0 +1,23 @@
+{
+  "name": "pension",
+  "title": "Pension",
+  "category": "finance",
+  "description": "A nest egg of retirement savings in a nest.",
+  "tags": [
+    "retirement",
+    "nest egg",
+    "savings",
+    "pension fund",
+    "annuity",
+    "future"
+  ],
+  "aliases": [
+    "nest-egg",
+    "retirement-savings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

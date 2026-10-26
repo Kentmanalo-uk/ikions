@@ -1,0 +1,23 @@
+{
+  "name": "installment",
+  "title": "Installment",
+  "category": "finance",
+  "description": "Pay for a purchase over time in several installments.",
+  "tags": [
+    "pay later",
+    "payment plan",
+    "split payment",
+    "instalment",
+    "financing",
+    "bnpl"
+  ],
+  "aliases": [
+    "payment-plan",
+    "instalment"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

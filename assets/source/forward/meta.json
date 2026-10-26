@@ -1,0 +1,21 @@
+{
+  "name": "forward",
+  "title": "Forward",
+  "category": "arrows",
+  "description": "Forward a message or email on to someone else.",
+  "tags": [
+    "forward",
+    "send on",
+    "email",
+    "message",
+    "pass along"
+  ],
+  "aliases": [
+    "forward-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

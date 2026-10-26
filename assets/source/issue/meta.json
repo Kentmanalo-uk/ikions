@@ -1,0 +1,22 @@
+{
+  "name": "issue",
+  "title": "Issue",
+  "category": "development",
+  "description": "An open issue for tracking a bug, task or feature request.",
+  "tags": [
+    "bug report",
+    "ticket",
+    "task",
+    "github",
+    "tracker",
+    "open"
+  ],
+  "aliases": [
+    "open-issue"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

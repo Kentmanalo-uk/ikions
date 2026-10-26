@@ -1,0 +1,23 @@
+{
+  "name": "fullscreen",
+  "title": "Fullscreen",
+  "category": "interface",
+  "description": "Enter fullscreen mode so content fills the whole screen.",
+  "tags": [
+    "expand",
+    "full screen",
+    "enlarge",
+    "presentation",
+    "view",
+    "corners"
+  ],
+  "aliases": [
+    "enter-fullscreen",
+    "full-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "flag-x",
+  "title": "Flag X",
+  "category": "maps",
+  "description": "Delete, cancel or reject a flag.",
+  "tags": [
+    "goal",
+    "milestone",
+    "report",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "flag"
+  ],
+  "aliases": [
+    "delete-flag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "edit",
+  "title": "Edit",
+  "category": "editing",
+  "description": "Edit text or content, or switch into an editing mode.",
+  "tags": [
+    "pencil",
+    "write",
+    "modify",
+    "change",
+    "compose"
+  ],
+  "aliases": [
+    "modify"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

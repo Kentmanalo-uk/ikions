@@ -1,0 +1,23 @@
+{
+  "name": "images",
+  "title": "Images",
+  "category": "media",
+  "description": "A stack of photos for albums, multiple pictures or a photo library.",
+  "tags": [
+    "photos",
+    "pictures",
+    "album",
+    "library",
+    "stack",
+    "collection"
+  ],
+  "aliases": [
+    "photos",
+    "pictures"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

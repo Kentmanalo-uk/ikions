@@ -1,0 +1,24 @@
+{
+  "name": "undo",
+  "title": "Undo",
+  "category": "arrows",
+  "description": "Reverse the last action or step back in history.",
+  "tags": [
+    "revert",
+    "back",
+    "history",
+    "cancel",
+    "previous",
+    "edit",
+    "rollback",
+    "ctrl-z"
+  ],
+  "aliases": [
+    "revert"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

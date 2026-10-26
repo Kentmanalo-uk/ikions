@@ -1,0 +1,24 @@
+{
+  "name": "building-x",
+  "title": "Building X",
+  "category": "buildings",
+  "description": "Delete, cancel or reject a building.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "building"
+  ],
+  "aliases": [
+    "delete-building"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

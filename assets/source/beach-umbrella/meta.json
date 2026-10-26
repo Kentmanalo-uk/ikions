@@ -1,0 +1,23 @@
+{
+  "name": "beach-umbrella",
+  "title": "Beach Umbrella",
+  "category": "transport",
+  "description": "Represents a beach umbrella, a sunny beach day or a seaside holiday.",
+  "tags": [
+    "beach",
+    "parasol",
+    "sunshade",
+    "summer",
+    "vacation",
+    "seaside"
+  ],
+  "aliases": [
+    "sun-umbrella",
+    "beach-parasol"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

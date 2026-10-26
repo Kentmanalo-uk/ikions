@@ -1,0 +1,23 @@
+{
+  "name": "toolbox",
+  "title": "Toolbox",
+  "category": "development",
+  "description": "A toolbox with a carry handle for tools, utilities and developer kits.",
+  "tags": [
+    "tools",
+    "kit",
+    "utilities",
+    "maintenance",
+    "equipment",
+    "repair"
+  ],
+  "aliases": [
+    "tool-box",
+    "tool-kit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

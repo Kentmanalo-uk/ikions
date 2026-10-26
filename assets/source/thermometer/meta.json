@@ -1,0 +1,24 @@
+{
+  "name": "thermometer",
+  "title": "Thermometer",
+  "category": "weather",
+  "description": "Show temperature, a heat reading or climate settings.",
+  "tags": [
+    "temperature",
+    "heat",
+    "cold",
+    "weather",
+    "climate",
+    "fever",
+    "degrees",
+    "thermostat"
+  ],
+  "aliases": [
+    "temperature"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

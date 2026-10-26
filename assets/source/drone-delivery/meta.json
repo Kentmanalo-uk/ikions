@@ -1,0 +1,22 @@
+{
+  "name": "drone-delivery",
+  "title": "Drone Delivery",
+  "category": "commerce",
+  "description": "A quadcopter drone carrying a parcel through the air.",
+  "tags": [
+    "drone",
+    "air delivery",
+    "parcel",
+    "quadcopter",
+    "shipping",
+    "logistics"
+  ],
+  "aliases": [
+    "drone-parcel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5.5 3.25V9.5m0 5v6.25"/>
+  <circle cx="5.5" cy="12" r="3.38"/>
+  <path fill-rule="evenodd" stroke="currentColor" stroke-linejoin="round" stroke-width="1.75" d="M11.87 12.55a1 1 0 0 1 0-1.1l2.33-3.5a1 1 0 0 1 .84-.45H19a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-3.96a1 1 0 0 1-.84-.45Zm1.88-.55a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 1 0-4.5 0Z" clip-rule="evenodd"/>
+</svg>

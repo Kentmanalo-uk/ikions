@@ -1,0 +1,25 @@
+{
+  "name": "cloud-rain-heavy",
+  "title": "Heavy Rain",
+  "category": "weather",
+  "description": "Represents heavy rain, a downpour or a storm warning.",
+  "tags": [
+    "rain",
+    "downpour",
+    "storm",
+    "shower",
+    "monsoon",
+    "forecast",
+    "wet",
+    "weather"
+  ],
+  "aliases": [
+    "downpour",
+    "heavy-rain"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

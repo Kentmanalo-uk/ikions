@@ -1,0 +1,23 @@
+{
+  "name": "waterfall",
+  "title": "Waterfall",
+  "category": "weather",
+  "description": "Represents a waterfall, cascading water or a scenic nature spot.",
+  "tags": [
+    "cascade",
+    "falls",
+    "water",
+    "river",
+    "nature",
+    "landscape",
+    "hiking"
+  ],
+  "aliases": [
+    "cascade"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

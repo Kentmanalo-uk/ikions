@@ -1,0 +1,23 @@
+{
+  "name": "satellite-map",
+  "title": "Satellite Map",
+  "category": "maps",
+  "description": "Switches a map to satellite imagery taken from orbit.",
+  "tags": [
+    "aerial",
+    "imagery",
+    "satellite view",
+    "earth view",
+    "photo map",
+    "orbit"
+  ],
+  "aliases": [
+    "satellite-view",
+    "aerial-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

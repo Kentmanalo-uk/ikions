@@ -1,0 +1,20 @@
+{
+  "name": "arrow-square-down-right",
+  "title": "Arrow Square Down Right",
+  "category": "arrows",
+  "description": "Arrow pointing down and right inside a square; a direction button or step control.",
+  "tags": [
+    "arrow",
+    "direction",
+    "square",
+    "button",
+    "down",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "download",
+  "title": "Download",
+  "category": "arrows",
+  "description": "Save a file or asset to the local device.",
+  "tags": [
+    "save",
+    "export",
+    "arrow",
+    "get",
+    "transfer"
+  ],
+  "aliases": [
+    "save-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "contactless",
+  "title": "Contactless",
+  "category": "finance",
+  "description": "The contactless payment symbol of nested radio waves.",
+  "tags": [
+    "tap",
+    "tap to pay",
+    "wireless",
+    "payment",
+    "nfc",
+    "waves"
+  ],
+  "aliases": [
+    "contactless-payment",
+    "paywave"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

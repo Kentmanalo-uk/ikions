@@ -1,0 +1,23 @@
+{
+  "name": "home-pin",
+  "title": "Home Pin",
+  "category": "maps",
+  "description": "Marks your home address as a saved place on a map.",
+  "tags": [
+    "home address",
+    "house",
+    "saved place",
+    "residence",
+    "favorite",
+    "location"
+  ],
+  "aliases": [
+    "home-location",
+    "home-address"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

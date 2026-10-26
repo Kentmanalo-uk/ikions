@@ -1,0 +1,20 @@
+{
+  "name": "circle-dot",
+  "title": "Circle Dot",
+  "category": "shapes",
+  "description": "Dot in a circle: a selected option, record point or status.",
+  "tags": [
+    "circle",
+    "dot",
+    "radio",
+    "record",
+    "status",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

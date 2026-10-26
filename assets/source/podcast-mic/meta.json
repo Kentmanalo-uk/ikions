@@ -1,0 +1,22 @@
+{
+  "name": "podcast-mic",
+  "title": "Podcast Microphone",
+  "category": "communication",
+  "description": "Represent podcasts, audio shows or recording a spoken episode.",
+  "tags": [
+    "podcast",
+    "audio",
+    "recording",
+    "studio",
+    "episode",
+    "show"
+  ],
+  "aliases": [
+    "studio-mic"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

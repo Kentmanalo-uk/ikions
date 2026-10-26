@@ -1,0 +1,22 @@
+{
+  "name": "paper-plane-tilt",
+  "title": "Paper Plane Tilt",
+  "category": "communication",
+  "description": "A folded paper plane in flight, for sending, launching or delivering messages.",
+  "tags": [
+    "paper plane",
+    "send",
+    "origami",
+    "launch",
+    "deliver",
+    "flight"
+  ],
+  "aliases": [
+    "origami-plane"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

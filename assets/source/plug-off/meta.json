@@ -1,0 +1,22 @@
+{
+  "name": "plug-off",
+  "title": "Plug Off",
+  "category": "energy",
+  "description": "Turn off, disable or mute the plug.",
+  "tags": [
+    "power",
+    "electric",
+    "connect",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-plug"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

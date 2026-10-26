@@ -1,0 +1,22 @@
+{
+  "name": "clipboard-check",
+  "title": "Clipboard Check",
+  "category": "files",
+  "description": "Clipboard confirmed, completed or verified.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "clipboard"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "arrow-up-right",
+  "title": "Arrow Up Right",
+  "category": "arrows",
+  "description": "Point diagonally up and to the right, or open something elsewhere.",
+  "tags": [
+    "diagonal",
+    "northeast",
+    "outward",
+    "growth",
+    "launch",
+    "direction",
+    "external",
+    "trend"
+  ],
+  "aliases": [
+    "arrow-northeast",
+    "arrow-diagonal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

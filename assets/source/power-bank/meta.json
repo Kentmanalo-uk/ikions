@@ -1,0 +1,22 @@
+{
+  "name": "power-bank",
+  "title": "Power Bank",
+  "category": "devices",
+  "description": "A portable battery pack with a charge bolt and level lights.",
+  "tags": [
+    "battery",
+    "charger",
+    "portable",
+    "charging",
+    "energy"
+  ],
+  "aliases": [
+    "portable-charger",
+    "battery-pack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "remote",
+  "title": "Remote Control",
+  "category": "devices",
+  "description": "A handheld remote control with a navigation ring and buttons.",
+  "tags": [
+    "tv",
+    "controller",
+    "clicker",
+    "television",
+    "channel",
+    "buttons",
+    "tv remote"
+  ],
+  "aliases": [
+    "tv-remote",
+    "clicker",
+    "remote-control",
+    "clicker-remote",
+    "channel-remote"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

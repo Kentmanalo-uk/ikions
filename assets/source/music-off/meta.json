@@ -1,0 +1,22 @@
+{
+  "name": "music-off",
+  "title": "Music Off",
+  "category": "media",
+  "description": "Turn off, disable or mute the music.",
+  "tags": [
+    "song",
+    "audio",
+    "note",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-music"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

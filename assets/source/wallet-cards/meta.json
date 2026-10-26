@@ -1,0 +1,23 @@
+{
+  "name": "wallet-cards",
+  "title": "Wallet Cards",
+  "category": "finance",
+  "description": "A wallet holding bank and credit cards.",
+  "tags": [
+    "wallet",
+    "cards",
+    "credit cards",
+    "payment methods",
+    "billfold",
+    "purse"
+  ],
+  "aliases": [
+    "card-wallet",
+    "cardholder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

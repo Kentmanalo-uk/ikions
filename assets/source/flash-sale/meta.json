@@ -1,0 +1,23 @@
+{
+  "name": "flash-sale",
+  "title": "Flash Sale",
+  "category": "commerce",
+  "description": "Represents a limited-time flash sale or lightning deal.",
+  "tags": [
+    "lightning",
+    "deal",
+    "limited",
+    "fast",
+    "promotion",
+    "offer"
+  ],
+  "aliases": [
+    "lightning-deal",
+    "limited-time-offer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

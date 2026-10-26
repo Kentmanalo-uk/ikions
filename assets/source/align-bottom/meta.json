@@ -1,0 +1,22 @@
+{
+  "name": "align-bottom",
+  "title": "Align Bottom",
+  "category": "interface",
+  "description": "Align the selected objects to their bottom edge.",
+  "tags": [
+    "align",
+    "bottom edge",
+    "objects",
+    "layout",
+    "design",
+    "arrange"
+  ],
+  "aliases": [
+    "align-objects-bottom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

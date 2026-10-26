@@ -1,0 +1,23 @@
+{
+  "name": "gradient",
+  "title": "Gradient",
+  "category": "editing",
+  "description": "Apply a colour gradient that fades from one tone to another.",
+  "tags": [
+    "gradient",
+    "fade",
+    "blend",
+    "colour",
+    "color",
+    "ombre"
+  ],
+  "aliases": [
+    "color-gradient",
+    "colour-gradient"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

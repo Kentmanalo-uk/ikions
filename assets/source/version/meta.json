@@ -1,0 +1,23 @@
+{
+  "name": "version",
+  "title": "Version",
+  "category": "development",
+  "description": "A stacked card marked with a V for software versions and revisions.",
+  "tags": [
+    "semver",
+    "revision",
+    "build number",
+    "history",
+    "versions",
+    "release"
+  ],
+  "aliases": [
+    "versions",
+    "revision"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

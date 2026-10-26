@@ -1,0 +1,22 @@
+{
+  "name": "pineapple",
+  "title": "Pineapple",
+  "category": "food",
+  "description": "Represent a pineapple, tropical fruit or a summer holiday.",
+  "tags": [
+    "tropical",
+    "fruit",
+    "summer",
+    "exotic",
+    "ananas",
+    "produce"
+  ],
+  "aliases": [
+    "ananas"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

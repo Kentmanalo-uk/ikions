@@ -1,0 +1,22 @@
+{
+  "name": "nfc",
+  "title": "NFC",
+  "category": "devices",
+  "description": "A phone sending a near-field contactless signal.",
+  "tags": [
+    "contactless",
+    "tap",
+    "near field",
+    "payment",
+    "wireless"
+  ],
+  "aliases": [
+    "near-field",
+    "tap-to-pay"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

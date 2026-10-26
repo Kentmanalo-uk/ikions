@@ -1,0 +1,23 @@
+{
+  "name": "plugin",
+  "title": "Plugin",
+  "category": "development",
+  "description": "An add-on module that plugs in to extend an application.",
+  "tags": [
+    "plugin",
+    "extension",
+    "add-on",
+    "module",
+    "integration",
+    "install"
+  ],
+  "aliases": [
+    "extension",
+    "add-on"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

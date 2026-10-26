@@ -1,0 +1,23 @@
+{
+  "name": "subtitles",
+  "title": "Subtitles",
+  "category": "media",
+  "description": "A screen with caption lines for subtitles and closed captions.",
+  "tags": [
+    "captions",
+    "cc",
+    "transcript",
+    "text",
+    "video",
+    "accessibility"
+  ],
+  "aliases": [
+    "subtitle",
+    "caption-lines"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

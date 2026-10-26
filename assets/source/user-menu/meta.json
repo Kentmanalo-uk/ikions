@@ -1,0 +1,23 @@
+{
+  "name": "user-menu",
+  "title": "User Menu",
+  "category": "interface",
+  "description": "Open the account dropdown with profile and settings options.",
+  "tags": [
+    "account",
+    "profile",
+    "dropdown",
+    "avatar",
+    "settings",
+    "user"
+  ],
+  "aliases": [
+    "account-menu",
+    "profile-menu"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

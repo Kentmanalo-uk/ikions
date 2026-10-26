@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "title": "Playground",
+  "category": "development",
+  "description": "Represents a code playground for writing and running code experiments.",
+  "tags": [
+    "sandbox",
+    "try",
+    "run",
+    "experiment",
+    "repl",
+    "live-code"
+  ],
+  "aliases": [
+    "code-playground",
+    "live-editor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

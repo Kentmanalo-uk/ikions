@@ -1,0 +1,20 @@
+{
+  "name": "arrow-uturn-up",
+  "title": "Arrow U-Turn Up",
+  "category": "arrows",
+  "description": "An arrow that heads down, loops around and comes back up.",
+  "tags": [
+    "u-turn",
+    "turn around",
+    "reverse",
+    "return",
+    "loop",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

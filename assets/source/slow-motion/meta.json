@@ -1,0 +1,23 @@
+{
+  "name": "slow-motion",
+  "title": "Slow Motion",
+  "category": "media",
+  "description": "Plays video in slow motion at a reduced speed.",
+  "tags": [
+    "slow",
+    "slowmo",
+    "speed",
+    "playback",
+    "video",
+    "replay"
+  ],
+  "aliases": [
+    "slowmo",
+    "slow-playback"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

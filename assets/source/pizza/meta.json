@@ -1,0 +1,24 @@
+{
+  "name": "pizza",
+  "title": "Pizza",
+  "category": "food",
+  "description": "Represent pizza, fast food, takeaway or a food delivery order.",
+  "tags": [
+    "slice",
+    "fast-food",
+    "takeaway",
+    "delivery",
+    "italian",
+    "snack",
+    "party",
+    "meal"
+  ],
+  "aliases": [
+    "pizza-slice"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

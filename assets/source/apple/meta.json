@@ -1,0 +1,24 @@
+{
+  "name": "apple",
+  "title": "Apple",
+  "category": "food",
+  "description": "Represent fruit, healthy eating, nutrition or a snack.",
+  "tags": [
+    "fruit",
+    "healthy",
+    "nutrition",
+    "snack",
+    "diet",
+    "fresh",
+    "food",
+    "teacher"
+  ],
+  "aliases": [
+    "fruit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

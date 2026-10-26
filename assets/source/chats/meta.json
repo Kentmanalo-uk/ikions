@@ -1,0 +1,20 @@
+{
+  "name": "chats",
+  "title": "Chats",
+  "category": "communication",
+  "description": "Represent multiple chat conversations or a message list.",
+  "tags": [
+    "messages",
+    "conversations",
+    "chat",
+    "discussion",
+    "inbox",
+    "talk"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "folder-plus",
+  "title": "Folder Plus",
+  "category": "files",
+  "description": "Add a new folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "add",
+    "new",
+    "create",
+    "folder"
+  ],
+  "aliases": [
+    "add-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "calendar-off",
+  "title": "Calendar Off",
+  "category": "time",
+  "description": "Turn off, disable or mute the calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

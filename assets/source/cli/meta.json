@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "title": "CLI",
+  "category": "development",
+  "description": "A command-line prompt for typing shell commands.",
+  "tags": [
+    "cli",
+    "command line",
+    "prompt",
+    "shell",
+    "console",
+    "bash"
+  ],
+  "aliases": [
+    "shell-prompt",
+    "cli-prompt"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

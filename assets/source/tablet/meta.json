@@ -1,0 +1,22 @@
+{
+  "name": "tablet",
+  "title": "Tablet",
+  "category": "devices",
+  "description": "A portrait tablet computer with a home indicator.",
+  "tags": [
+    "ipad",
+    "device",
+    "touchscreen",
+    "mobile",
+    "portable"
+  ],
+  "aliases": [
+    "tablet-computer",
+    "slate"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

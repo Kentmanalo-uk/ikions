@@ -1,0 +1,21 @@
+{
+  "name": "image-star",
+  "title": "Image Star",
+  "category": "media",
+  "description": "A starred or featured image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "starred",
+    "favorite",
+    "featured",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "city",
+  "title": "City",
+  "category": "maps",
+  "description": "Shows a city skyline of buildings of different heights.",
+  "tags": [
+    "skyline",
+    "urban",
+    "downtown",
+    "town",
+    "buildings",
+    "metropolis"
+  ],
+  "aliases": [
+    "skyline",
+    "cityscape"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

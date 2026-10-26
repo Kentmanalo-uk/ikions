@@ -1,0 +1,23 @@
+{
+  "name": "spray-can",
+  "title": "Spray Can",
+  "category": "editing",
+  "description": "Spray paint, add graffiti or apply an airbrush effect.",
+  "tags": [
+    "spray",
+    "paint",
+    "aerosol",
+    "graffiti",
+    "airbrush",
+    "can"
+  ],
+  "aliases": [
+    "aerosol-can",
+    "spray-paint"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

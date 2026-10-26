@@ -1,0 +1,23 @@
+{
+  "name": "file-music",
+  "title": "File Music",
+  "category": "files",
+  "description": "Represents a music file such as a song or track.",
+  "tags": [
+    "music",
+    "song",
+    "track",
+    "audio",
+    "mp3",
+    "playlist"
+  ],
+  "aliases": [
+    "music-file",
+    "song-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

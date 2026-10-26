@@ -1,0 +1,23 @@
+{
+  "name": "triangle",
+  "title": "Triangle",
+  "category": "shapes",
+  "description": "A basic triangle shape for drawing or geometry.",
+  "tags": [
+    "shape",
+    "geometry",
+    "polygon",
+    "pyramid",
+    "delta",
+    "three-sided",
+    "basic"
+  ],
+  "aliases": [
+    "delta"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

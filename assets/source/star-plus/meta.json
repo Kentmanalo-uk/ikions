@@ -1,0 +1,23 @@
+{
+  "name": "star-plus",
+  "title": "Star Plus",
+  "category": "social",
+  "description": "Add a new star.",
+  "tags": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "add",
+    "new",
+    "create",
+    "star"
+  ],
+  "aliases": [
+    "add-star"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hearing-test",
+  "title": "Hearing Test",
+  "category": "health",
+  "description": "An ear beside rising level bars for a hearing test or audiogram.",
+  "tags": [
+    "audiogram",
+    "audiometry",
+    "hearing",
+    "hearing loss",
+    "audiology",
+    "screening"
+  ],
+  "aliases": [
+    "audiometry"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

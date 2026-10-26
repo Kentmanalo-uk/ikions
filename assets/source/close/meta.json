@@ -1,0 +1,22 @@
+{
+  "name": "close",
+  "title": "Close",
+  "category": "interface",
+  "description": "Dismiss a dialog, panel or notification.",
+  "tags": [
+    "x",
+    "cancel",
+    "exit",
+    "dismiss",
+    "cross"
+  ],
+  "aliases": [
+    "x",
+    "cancel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

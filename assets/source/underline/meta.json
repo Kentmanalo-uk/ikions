@@ -1,0 +1,21 @@
+{
+  "name": "underline",
+  "title": "Underline",
+  "category": "editing",
+  "description": "Underline selected text.",
+  "tags": [
+    "underline",
+    "text",
+    "font",
+    "style",
+    "emphasis"
+  ],
+  "aliases": [
+    "text-underline"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

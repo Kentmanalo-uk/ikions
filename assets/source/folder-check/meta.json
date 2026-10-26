@@ -1,0 +1,22 @@
+{
+  "name": "folder-check",
+  "title": "Folder Check",
+  "category": "files",
+  "description": "Folder confirmed, completed or verified.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

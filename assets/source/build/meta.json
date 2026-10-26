@@ -1,0 +1,22 @@
+{
+  "name": "build",
+  "title": "Build",
+  "category": "development",
+  "description": "Stacked blocks for compiling and assembling a software build.",
+  "tags": [
+    "compile",
+    "assemble",
+    "blocks",
+    "construct",
+    "bundle",
+    "make"
+  ],
+  "aliases": [
+    "build-blocks"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

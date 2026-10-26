@@ -1,0 +1,22 @@
+{
+  "name": "voice-message",
+  "title": "Voice Message",
+  "category": "communication",
+  "description": "Send or play a recorded voice message.",
+  "tags": [
+    "audio",
+    "voice",
+    "message",
+    "waveform",
+    "recording",
+    "voicemail"
+  ],
+  "aliases": [
+    "audio-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

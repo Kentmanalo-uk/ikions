@@ -1,0 +1,22 @@
+{
+  "name": "chat-left",
+  "title": "Chat Left",
+  "category": "communication",
+  "description": "An incoming chat message bubble aligned to the left.",
+  "tags": [
+    "message",
+    "bubble",
+    "incoming",
+    "received",
+    "conversation",
+    "text"
+  ],
+  "aliases": [
+    "chat-incoming"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "modal",
+  "title": "Modal",
+  "category": "interface",
+  "description": "Open a dialog window on top of the current page.",
+  "tags": [
+    "dialog",
+    "popup",
+    "overlay",
+    "window",
+    "lightbox",
+    "prompt"
+  ],
+  "aliases": [
+    "dialog-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

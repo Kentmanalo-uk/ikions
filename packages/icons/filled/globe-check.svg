@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path fill-rule="evenodd" d="M7.26 11.25c.19-5.14 2.25-9.12 4.73-9.12-5.16 0-9.45 3.98-9.84 9.12zM12 2.13h-.01z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M21.85 11.25c-.39-5.14-4.68-9.12-9.84-9.12 2.48 0 4.54 3.98 4.73 9.12zM12 2.13h.01z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M2.15 12.75c.39 5.15 4.68 9.13 9.84 9.13-2.48 0-4.55-3.98-4.73-9.13zm9.84 9.13H12z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M21.85 12.75v.01c-.01 0-.01-.01-.02-.01zm-9.84 9.13c.24 0 .47-.04.7-.11.02.03.04.05.06.08-.25.02-.5.03-.76.03m-.01 0h.01z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M15.24 11.25C15.11 6.89 13.7 3.53 12 3.53s-3.11 3.36-3.24 7.72z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M8.76 12.75h5.41c-1.62 1.18-2.67 3.09-2.67 5.25 0 .88.17 1.71.49 2.47-1.69-.02-3.09-3.37-3.23-7.72" clip-rule="evenodd"/>
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="m15 18.25 2 2L21 16"/>
+</svg>

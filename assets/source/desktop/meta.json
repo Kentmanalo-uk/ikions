@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "title": "Desktop",
+  "category": "devices",
+  "description": "A desktop computer with a monitor and a tower case.",
+  "tags": [
+    "computer",
+    "pc",
+    "workstation",
+    "tower",
+    "office"
+  ],
+  "aliases": [
+    "desktop-computer",
+    "pc-tower"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

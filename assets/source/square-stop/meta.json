@@ -1,0 +1,19 @@
+{
+  "name": "square-stop",
+  "title": "Square Stop",
+  "category": "shapes",
+  "description": "Stop in a square: stop playback or recording.",
+  "tags": [
+    "square",
+    "stop",
+    "media",
+    "end",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

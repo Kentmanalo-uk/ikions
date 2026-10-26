@@ -1,0 +1,24 @@
+{
+  "name": "cash-register",
+  "title": "Cash Register",
+  "category": "commerce",
+  "description": "A till with a keypad, display and cash drawer at the point of sale.",
+  "tags": [
+    "till",
+    "checkout",
+    "point of sale",
+    "cash",
+    "retail",
+    "counter",
+    "pos"
+  ],
+  "aliases": [
+    "till",
+    "register"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

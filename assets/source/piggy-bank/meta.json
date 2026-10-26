@@ -1,0 +1,26 @@
+{
+  "name": "piggy-bank",
+  "title": "Piggy Bank",
+  "category": "finance",
+  "description": "Represent savings, a savings goal or putting money aside.",
+  "tags": [
+    "savings",
+    "save",
+    "money",
+    "deposit",
+    "budget",
+    "funds",
+    "finance",
+    "pig",
+    "goal"
+  ],
+  "aliases": [
+    "money-box",
+    "savings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

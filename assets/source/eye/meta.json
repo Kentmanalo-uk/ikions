@@ -1,0 +1,25 @@
+{
+  "name": "eye",
+  "title": "Eye",
+  "category": "security",
+  "description": "Show content, reveal a password or indicate visibility.",
+  "tags": [
+    "view",
+    "visible",
+    "show",
+    "reveal",
+    "watch",
+    "look",
+    "preview",
+    "visibility"
+  ],
+  "aliases": [
+    "view",
+    "show"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

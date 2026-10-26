@@ -1,0 +1,23 @@
+{
+  "name": "cdn",
+  "title": "CDN",
+  "category": "development",
+  "description": "Represents a content delivery network serving files from edge locations worldwide.",
+  "tags": [
+    "edge",
+    "network",
+    "global",
+    "distribution",
+    "caching",
+    "hosting"
+  ],
+  "aliases": [
+    "content-delivery-network",
+    "edge-network"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

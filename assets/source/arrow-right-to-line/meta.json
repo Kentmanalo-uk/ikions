@@ -1,0 +1,19 @@
+{
+  "name": "arrow-right-to-line",
+  "title": "Arrow Right To Line",
+  "category": "arrows",
+  "description": "Arrow pointing right to a line: move to the end.",
+  "tags": [
+    "arrow",
+    "align",
+    "edge",
+    "jump",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

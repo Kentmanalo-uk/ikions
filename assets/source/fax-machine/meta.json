@@ -1,0 +1,21 @@
+{
+  "name": "fax-machine",
+  "title": "Fax Machine",
+  "category": "devices",
+  "description": "A fax machine with a sheet feeding in and a keypad.",
+  "tags": [
+    "fax",
+    "office",
+    "document",
+    "send",
+    "telecom"
+  ],
+  "aliases": [
+    "facsimile-machine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "diff",
+  "title": "Diff",
+  "category": "development",
+  "description": "Represents a diff showing lines added and removed between two versions.",
+  "tags": [
+    "changes",
+    "compare",
+    "git",
+    "additions",
+    "deletions",
+    "patch"
+  ],
+  "aliases": [
+    "code-diff",
+    "changeset"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

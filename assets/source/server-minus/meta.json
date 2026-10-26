@@ -1,0 +1,22 @@
+{
+  "name": "server-minus",
+  "title": "Server Minus",
+  "category": "devices",
+  "description": "Remove a server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "remove",
+    "subtract",
+    "server"
+  ],
+  "aliases": [
+    "remove-server"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

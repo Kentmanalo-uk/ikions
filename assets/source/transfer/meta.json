@@ -1,0 +1,24 @@
+{
+  "name": "transfer",
+  "title": "Transfer",
+  "category": "finance",
+  "description": "Move money from one account to another, such as a bank or peer transfer.",
+  "tags": [
+    "send money",
+    "move funds",
+    "wire",
+    "remittance",
+    "payment",
+    "accounts",
+    "transaction"
+  ],
+  "aliases": [
+    "money-transfer",
+    "wire-transfer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "blur",
+  "title": "Blur",
+  "category": "editing",
+  "description": "Soften an image or layer with a blur effect.",
+  "tags": [
+    "soften",
+    "gaussian",
+    "defocus",
+    "effect",
+    "filter",
+    "bokeh"
+  ],
+  "aliases": [
+    "gaussian-blur"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

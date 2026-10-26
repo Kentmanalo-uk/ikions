@@ -1,0 +1,23 @@
+{
+  "name": "train-front",
+  "title": "Train Front",
+  "category": "transport",
+  "description": "A train seen head-on on its rails, for rail travel and stations.",
+  "tags": [
+    "train",
+    "rail",
+    "railway",
+    "station",
+    "metro",
+    "commute",
+    "locomotive"
+  ],
+  "aliases": [
+    "train-frontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

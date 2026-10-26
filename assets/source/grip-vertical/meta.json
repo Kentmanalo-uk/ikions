@@ -1,0 +1,23 @@
+{
+  "name": "grip-vertical",
+  "title": "Grip Vertical",
+  "category": "interface",
+  "description": "Show a drag handle for reordering items in a vertical list.",
+  "tags": [
+    "drag",
+    "handle",
+    "reorder",
+    "move",
+    "sortable",
+    "dots"
+  ],
+  "aliases": [
+    "drag-handle",
+    "drag-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

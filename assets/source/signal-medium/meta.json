@@ -1,0 +1,19 @@
+{
+  "name": "signal-medium",
+  "title": "Signal Medium",
+  "category": "communication",
+  "description": "Indicate moderate cellular or network reception with two bars.",
+  "tags": [
+    "reception",
+    "cellular",
+    "network",
+    "fair connection",
+    "bars"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

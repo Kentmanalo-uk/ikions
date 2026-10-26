@@ -1,0 +1,23 @@
+{
+  "name": "repeat-music",
+  "title": "Repeat Music",
+  "category": "media",
+  "description": "Repeat the current song or playlist on a loop.",
+  "tags": [
+    "loop",
+    "repeat",
+    "song",
+    "playlist",
+    "music",
+    "again"
+  ],
+  "aliases": [
+    "loop-music",
+    "repeat-song"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

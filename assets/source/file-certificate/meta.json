@@ -1,0 +1,23 @@
+{
+  "name": "file-certificate",
+  "title": "File Certificate",
+  "category": "files",
+  "description": "Represents a certificate, diploma or other official award document.",
+  "tags": [
+    "certificate",
+    "award",
+    "diploma",
+    "license",
+    "credential",
+    "seal"
+  ],
+  "aliases": [
+    "certificate-file",
+    "award-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

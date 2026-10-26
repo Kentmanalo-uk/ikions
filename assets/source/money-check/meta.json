@@ -1,0 +1,25 @@
+{
+  "name": "money-check",
+  "title": "Money Check",
+  "category": "finance",
+  "description": "A bank check or cheque written out as a payment.",
+  "tags": [
+    "cheque",
+    "check",
+    "bank",
+    "payment",
+    "payee",
+    "signature",
+    "deposit"
+  ],
+  "aliases": [
+    "bank-check",
+    "paper-check",
+    "cheque"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

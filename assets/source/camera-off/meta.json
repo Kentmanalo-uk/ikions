@@ -1,0 +1,22 @@
+{
+  "name": "camera-off",
+  "title": "Camera Off",
+  "category": "media",
+  "description": "Turn off, disable or mute the camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "snowflake",
+  "title": "Snowflake",
+  "category": "weather",
+  "description": "A six-armed snowflake for snow, frost and cold conditions.",
+  "tags": [
+    "snow",
+    "winter",
+    "cold",
+    "frost",
+    "freeze",
+    "ice",
+    "christmas"
+  ],
+  "aliases": [
+    "frost"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

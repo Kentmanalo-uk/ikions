@@ -1,0 +1,23 @@
+{
+  "name": "flag-plus",
+  "title": "Flag Plus",
+  "category": "maps",
+  "description": "Add a new flag.",
+  "tags": [
+    "goal",
+    "milestone",
+    "report",
+    "add",
+    "new",
+    "create",
+    "flag"
+  ],
+  "aliases": [
+    "add-flag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

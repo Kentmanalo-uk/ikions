@@ -1,0 +1,19 @@
+{
+  "name": "move-horizontal",
+  "title": "Move Horizontal",
+  "category": "arrows",
+  "description": "Double-headed horizontal arrow: move, resize or stretch horizontally.",
+  "tags": [
+    "move",
+    "resize",
+    "stretch",
+    "drag",
+    "horizontal"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

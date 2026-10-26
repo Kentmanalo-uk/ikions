@@ -1,0 +1,22 @@
+{
+  "name": "buyer",
+  "title": "Buyer",
+  "category": "commerce",
+  "description": "Represents a shopper or purchaser buying products.",
+  "tags": [
+    "shopper",
+    "purchaser",
+    "customer",
+    "client",
+    "account",
+    "bag"
+  ],
+  "aliases": [
+    "purchaser"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

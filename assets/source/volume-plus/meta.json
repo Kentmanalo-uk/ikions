@@ -1,0 +1,22 @@
+{
+  "name": "volume-plus",
+  "title": "Volume Plus",
+  "category": "media",
+  "description": "Turns the sound volume up.",
+  "tags": [
+    "louder",
+    "increase",
+    "sound",
+    "audio",
+    "speaker",
+    "turn-up"
+  ],
+  "aliases": [
+    "louder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

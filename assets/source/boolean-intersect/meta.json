@@ -1,0 +1,22 @@
+{
+  "name": "boolean-intersect",
+  "title": "Boolean Intersect",
+  "category": "editing",
+  "description": "Keep only the area where shapes overlap.",
+  "tags": [
+    "intersect",
+    "overlap",
+    "shapes",
+    "vector",
+    "pathfinder",
+    "common"
+  ],
+  "aliases": [
+    "shape-intersect"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

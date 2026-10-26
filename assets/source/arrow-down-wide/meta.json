@@ -1,0 +1,20 @@
+{
+  "name": "arrow-down-wide",
+  "title": "Arrow Down Wide",
+  "category": "arrows",
+  "description": "A down arrow with a wide, shallow head.",
+  "tags": [
+    "down",
+    "south",
+    "fall",
+    "decrease",
+    "direction",
+    "wide"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

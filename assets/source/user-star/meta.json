@@ -1,0 +1,21 @@
+{
+  "name": "user-star",
+  "title": "User Star",
+  "category": "people",
+  "description": "A starred or featured user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "starred",
+    "favorite",
+    "featured",
+    "user"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

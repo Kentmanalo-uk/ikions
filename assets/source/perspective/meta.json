@@ -1,0 +1,22 @@
+{
+  "name": "perspective",
+  "title": "Perspective",
+  "category": "editing",
+  "description": "Distort an object to add depth and perspective.",
+  "tags": [
+    "distort",
+    "3d",
+    "depth",
+    "transform",
+    "vanishing",
+    "plane"
+  ],
+  "aliases": [
+    "perspective-transform"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

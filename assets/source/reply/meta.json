@@ -1,0 +1,24 @@
+{
+  "name": "reply",
+  "title": "Reply",
+  "category": "communication",
+  "description": "Reply to a message, comment or email thread.",
+  "tags": [
+    "respond",
+    "answer",
+    "back",
+    "message",
+    "email",
+    "return",
+    "thread"
+  ],
+  "aliases": [
+    "respond",
+    "answer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

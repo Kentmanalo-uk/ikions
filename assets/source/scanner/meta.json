@@ -1,0 +1,22 @@
+{
+  "name": "scanner",
+  "title": "Scanner",
+  "category": "devices",
+  "description": "A flatbed scanner with its lid raised.",
+  "tags": [
+    "scan",
+    "flatbed",
+    "document",
+    "digitize",
+    "office"
+  ],
+  "aliases": [
+    "flatbed-scanner",
+    "image-scanner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

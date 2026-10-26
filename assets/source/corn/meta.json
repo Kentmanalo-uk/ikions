@@ -1,0 +1,23 @@
+{
+  "name": "corn",
+  "title": "Corn",
+  "category": "food",
+  "description": "Represent corn on the cob, maize, harvest or farming.",
+  "tags": [
+    "maize",
+    "vegetable",
+    "harvest",
+    "farm",
+    "grain",
+    "produce"
+  ],
+  "aliases": [
+    "maize",
+    "corn-cob"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "clock-plus",
+  "title": "Clock Plus",
+  "category": "time",
+  "description": "Add a new clock.",
+  "tags": [
+    "time",
+    "hour",
+    "history",
+    "add",
+    "new",
+    "create",
+    "clock"
+  ],
+  "aliases": [
+    "add-clock"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

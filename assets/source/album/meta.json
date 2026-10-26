@@ -1,0 +1,23 @@
+{
+  "name": "album",
+  "title": "Album",
+  "category": "media",
+  "description": "Represents a music album with its record and sleeve.",
+  "tags": [
+    "record",
+    "vinyl",
+    "lp",
+    "music",
+    "release",
+    "cover"
+  ],
+  "aliases": [
+    "music-album",
+    "album-cover"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

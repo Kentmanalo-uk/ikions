@@ -1,0 +1,24 @@
+{
+  "name": "clipboard-edit",
+  "title": "Clipboard Edit",
+  "category": "files",
+  "description": "Edit or rename a clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "clipboard"
+  ],
+  "aliases": [
+    "edit-clipboard"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

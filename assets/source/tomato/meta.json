@@ -1,0 +1,20 @@
+{
+  "name": "tomato",
+  "title": "Tomato",
+  "category": "food",
+  "description": "Represent a tomato, vegetables, salad or fresh produce.",
+  "tags": [
+    "vegetable",
+    "salad",
+    "produce",
+    "garden",
+    "sauce",
+    "fresh"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

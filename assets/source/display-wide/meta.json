@@ -1,0 +1,23 @@
+{
+  "name": "display-wide",
+  "title": "Display Wide",
+  "category": "devices",
+  "description": "Represents an ultrawide or curved widescreen monitor.",
+  "tags": [
+    "ultrawide",
+    "curved monitor",
+    "widescreen",
+    "display",
+    "gaming",
+    "desktop"
+  ],
+  "aliases": [
+    "ultrawide-monitor",
+    "curved-monitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

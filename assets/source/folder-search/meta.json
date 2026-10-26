@@ -1,0 +1,23 @@
+{
+  "name": "folder-search",
+  "title": "Folder Search",
+  "category": "files",
+  "description": "Search for a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "find",
+    "lookup",
+    "browse",
+    "folder"
+  ],
+  "aliases": [
+    "find-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

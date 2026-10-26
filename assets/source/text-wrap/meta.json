@@ -1,0 +1,23 @@
+{
+  "name": "text-wrap",
+  "title": "Text Wrap",
+  "category": "editing",
+  "description": "Wrap long lines of text onto the next line.",
+  "tags": [
+    "wrap",
+    "text",
+    "lines",
+    "paragraph",
+    "overflow",
+    "break"
+  ],
+  "aliases": [
+    "word-wrap",
+    "wrap-text"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

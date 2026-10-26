@@ -1,0 +1,22 @@
+{
+  "name": "lock",
+  "title": "Lock",
+  "category": "security",
+  "description": "Indicate secured content or lock an item.",
+  "tags": [
+    "secure",
+    "padlock",
+    "private",
+    "password",
+    "protected"
+  ],
+  "aliases": [
+    "padlock",
+    "locked"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "map-marker-square",
+  "title": "Square Map Marker",
+  "category": "maps",
+  "description": "A square map marker with a pointer for places, venues and labelled points.",
+  "tags": [
+    "marker",
+    "location",
+    "place",
+    "label",
+    "poi",
+    "venue"
+  ],
+  "aliases": [
+    "square-marker",
+    "box-marker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

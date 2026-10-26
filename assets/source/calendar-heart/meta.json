@@ -1,0 +1,21 @@
+{
+  "name": "calendar-heart",
+  "title": "Calendar Heart",
+  "category": "time",
+  "description": "A liked or favourite calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "liked",
+    "favorite",
+    "love",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

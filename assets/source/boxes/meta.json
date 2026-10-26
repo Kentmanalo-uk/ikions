@@ -1,0 +1,23 @@
+{
+  "name": "boxes",
+  "title": "Boxes",
+  "category": "commerce",
+  "description": "Represents a stack of cardboard boxes or bulk stock.",
+  "tags": [
+    "stack",
+    "cartons",
+    "stock",
+    "bulk",
+    "moving",
+    "storage"
+  ],
+  "aliases": [
+    "box-stack",
+    "cartons"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

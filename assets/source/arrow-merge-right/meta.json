@@ -1,0 +1,22 @@
+{
+  "name": "arrow-merge-right",
+  "title": "Arrow Merge Right",
+  "category": "arrows",
+  "description": "A side lane merging right into the main road.",
+  "tags": [
+    "merge",
+    "join",
+    "lane",
+    "traffic",
+    "navigation",
+    "road"
+  ],
+  "aliases": [
+    "merge-lane-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

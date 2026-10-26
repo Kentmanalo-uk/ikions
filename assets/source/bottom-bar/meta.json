@@ -1,0 +1,23 @@
+{
+  "name": "bottom-bar",
+  "title": "Bottom Bar",
+  "category": "interface",
+  "description": "Represent a mobile tab bar docked at the bottom of the screen.",
+  "tags": [
+    "tab bar",
+    "mobile",
+    "navigation",
+    "dock",
+    "layout",
+    "app"
+  ],
+  "aliases": [
+    "bottom-navigation",
+    "bottom-tabs"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

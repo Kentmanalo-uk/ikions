@@ -1,0 +1,24 @@
+{
+  "name": "diamond-value",
+  "title": "Diamond Value",
+  "category": "finance",
+  "description": "A cut diamond for premium value, luxury assets or top tiers.",
+  "tags": [
+    "diamond",
+    "gem",
+    "premium",
+    "luxury",
+    "valuable",
+    "vip",
+    "jewel"
+  ],
+  "aliases": [
+    "gem-value",
+    "premium-gem"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

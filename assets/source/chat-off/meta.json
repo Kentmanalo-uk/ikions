@@ -1,0 +1,22 @@
+{
+  "name": "chat-off",
+  "title": "Chat Off",
+  "category": "communication",
+  "description": "Turn off, disable or mute the chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

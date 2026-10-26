@@ -1,0 +1,21 @@
+{
+  "name": "shield-star",
+  "title": "Shield Star",
+  "category": "security",
+  "description": "A starred or featured shield.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "starred",
+    "favorite",
+    "featured",
+    "shield"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

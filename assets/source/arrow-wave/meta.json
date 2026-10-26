@@ -1,0 +1,22 @@
+{
+  "name": "arrow-wave",
+  "title": "Arrow Wave",
+  "category": "arrows",
+  "description": "A wavy arrow showing flow, drift or an indirect path.",
+  "tags": [
+    "wave",
+    "wavy",
+    "flow",
+    "drift",
+    "arrow",
+    "signal"
+  ],
+  "aliases": [
+    "wavy-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

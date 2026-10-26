@@ -1,0 +1,24 @@
+{
+  "name": "stock-down",
+  "title": "Stock Down",
+  "category": "finance",
+  "description": "A share price falling, shown with a candlestick and a down arrow.",
+  "tags": [
+    "stocks",
+    "shares",
+    "market",
+    "bear",
+    "fall",
+    "loss",
+    "investing"
+  ],
+  "aliases": [
+    "stock-fall",
+    "market-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

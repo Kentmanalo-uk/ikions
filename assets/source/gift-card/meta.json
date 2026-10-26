@@ -1,0 +1,23 @@
+{
+  "name": "gift-card",
+  "title": "Gift Card",
+  "category": "commerce",
+  "description": "Represents a prepaid gift card or store credit.",
+  "tags": [
+    "voucher",
+    "present",
+    "store-credit",
+    "prepaid",
+    "gift",
+    "card"
+  ],
+  "aliases": [
+    "gift-voucher",
+    "store-credit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

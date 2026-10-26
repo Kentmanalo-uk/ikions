@@ -1,0 +1,24 @@
+{
+  "name": "bank-transfer",
+  "title": "Bank Transfer",
+  "category": "finance",
+  "description": "Move money between bank accounts with a wire or transfer.",
+  "tags": [
+    "bank",
+    "transfer",
+    "wire",
+    "exchange",
+    "send",
+    "account",
+    "payment"
+  ],
+  "aliases": [
+    "bank-wire",
+    "account-transfer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

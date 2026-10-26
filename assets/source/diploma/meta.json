@@ -1,0 +1,23 @@
+{
+  "name": "diploma",
+  "title": "Diploma",
+  "category": "education",
+  "description": "A rolled diploma tied with a ribbon for graduation and qualifications.",
+  "tags": [
+    "graduation",
+    "degree",
+    "qualification",
+    "scroll",
+    "graduate",
+    "achievement"
+  ],
+  "aliases": [
+    "rolled-diploma",
+    "degree-scroll"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

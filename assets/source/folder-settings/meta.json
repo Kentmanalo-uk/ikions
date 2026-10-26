@@ -1,0 +1,21 @@
+{
+  "name": "folder-settings",
+  "title": "Folder Settings",
+  "category": "files",
+  "description": "Settings and preferences for a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "settings",
+    "preferences",
+    "configure",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "building-search",
+  "title": "Building Search",
+  "category": "buildings",
+  "description": "Search for a building.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "find",
+    "lookup",
+    "browse",
+    "building"
+  ],
+  "aliases": [
+    "find-building"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

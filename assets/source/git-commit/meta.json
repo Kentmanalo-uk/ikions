@@ -1,0 +1,23 @@
+{
+  "name": "git-commit",
+  "title": "Git Commit",
+  "category": "development",
+  "description": "Record a commit or show a point in version history.",
+  "tags": [
+    "git",
+    "commit",
+    "version-control",
+    "history",
+    "revision",
+    "node",
+    "checkpoint"
+  ],
+  "aliases": [
+    "commit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

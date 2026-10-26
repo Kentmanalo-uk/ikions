@@ -1,0 +1,25 @@
+{
+  "name": "air-quality",
+  "title": "Air Quality",
+  "category": "weather",
+  "description": "Shows the air quality index, pollution or airborne particles.",
+  "tags": [
+    "aqi",
+    "pollution",
+    "smog",
+    "particles",
+    "dust",
+    "pm2.5",
+    "air",
+    "weather"
+  ],
+  "aliases": [
+    "aqi",
+    "air-pollution"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

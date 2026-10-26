@@ -1,0 +1,22 @@
+{
+  "name": "person-sitting",
+  "title": "Person Sitting",
+  "category": "people",
+  "description": "Show a person seated on a chair, such as a waiting area or desk work.",
+  "tags": [
+    "seated",
+    "chair",
+    "waiting",
+    "desk",
+    "rest",
+    "sit"
+  ],
+  "aliases": [
+    "seated-person"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "robot",
+  "title": "Robot",
+  "category": "emerging",
+  "description": "Represent a bot, automation or an AI assistant.",
+  "tags": [
+    "bot",
+    "ai",
+    "automation",
+    "assistant",
+    "android",
+    "machine",
+    "chatbot",
+    "agent"
+  ],
+  "aliases": [
+    "bot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

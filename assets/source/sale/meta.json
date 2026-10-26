@@ -1,0 +1,23 @@
+{
+  "name": "sale",
+  "title": "Sale",
+  "category": "commerce",
+  "description": "Represents a store sale with discounted prices on purchases.",
+  "tags": [
+    "discount",
+    "offer",
+    "promotion",
+    "deal",
+    "clearance",
+    "percent"
+  ],
+  "aliases": [
+    "on-sale",
+    "store-sale"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

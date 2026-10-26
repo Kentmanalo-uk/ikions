@@ -1,0 +1,23 @@
+{
+  "name": "font-size-down",
+  "title": "Decrease Font Size",
+  "category": "editing",
+  "description": "Make text smaller.",
+  "tags": [
+    "text",
+    "smaller",
+    "shrink",
+    "size",
+    "typography",
+    "reduce"
+  ],
+  "aliases": [
+    "decrease-font-size",
+    "text-smaller"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

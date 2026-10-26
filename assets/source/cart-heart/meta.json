@@ -1,0 +1,21 @@
+{
+  "name": "cart-heart",
+  "title": "Cart Heart",
+  "category": "commerce",
+  "description": "A liked or favourite cart.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "liked",
+    "favorite",
+    "love",
+    "cart"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

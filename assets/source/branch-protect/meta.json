@@ -1,0 +1,22 @@
+{
+  "name": "branch-protect",
+  "title": "Branch Protect",
+  "category": "development",
+  "description": "A git branch guarded by a shield, for protected branch rules.",
+  "tags": [
+    "protected branch",
+    "git",
+    "branch rules",
+    "security",
+    "permissions",
+    "main"
+  ],
+  "aliases": [
+    "protected-branch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

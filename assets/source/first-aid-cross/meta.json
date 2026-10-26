@@ -1,0 +1,24 @@
+{
+  "name": "first-aid-cross",
+  "title": "First Aid Cross",
+  "category": "health",
+  "description": "A bold medical cross for first aid, clinics and emergency care.",
+  "tags": [
+    "medical",
+    "first aid",
+    "clinic",
+    "emergency",
+    "health",
+    "medical cross",
+    "aid station"
+  ],
+  "aliases": [
+    "medical-cross",
+    "health-cross"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

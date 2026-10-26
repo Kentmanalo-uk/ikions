@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "title": "Burger",
+  "category": "food",
+  "description": "Represent a burger, such as fast food, a diner or a takeaway meal.",
+  "tags": [
+    "hamburger",
+    "fast-food",
+    "cheeseburger",
+    "takeaway",
+    "diner",
+    "meal"
+  ],
+  "aliases": [
+    "cheeseburger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

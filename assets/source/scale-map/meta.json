@@ -1,0 +1,23 @@
+{
+  "name": "scale-map",
+  "title": "Map Scale",
+  "category": "maps",
+  "description": "A folded map above a scale bar for map scale, distances and map units.",
+  "tags": [
+    "scale bar",
+    "legend",
+    "units",
+    "measure",
+    "cartography",
+    "ratio"
+  ],
+  "aliases": [
+    "map-scale-bar",
+    "scalebar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

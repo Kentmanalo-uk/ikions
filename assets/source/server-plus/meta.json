@@ -1,0 +1,23 @@
+{
+  "name": "server-plus",
+  "title": "Server Plus",
+  "category": "devices",
+  "description": "Add a new server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "add",
+    "new",
+    "create",
+    "server"
+  ],
+  "aliases": [
+    "add-server"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "queen",
+  "title": "Queen",
+  "category": "people",
+  "description": "Represent a queen, royal member or top-ranked player.",
+  "tags": [
+    "royal",
+    "monarch",
+    "princess",
+    "crown",
+    "vip",
+    "ruler"
+  ],
+  "aliases": [
+    "empress"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

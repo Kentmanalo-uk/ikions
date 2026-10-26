@@ -1,0 +1,23 @@
+{
+  "name": "pregnant",
+  "title": "Pregnant",
+  "category": "people",
+  "description": "Indicate pregnancy, maternity care or expecting parents.",
+  "tags": [
+    "pregnancy",
+    "maternity",
+    "expecting",
+    "mother",
+    "prenatal",
+    "baby"
+  ],
+  "aliases": [
+    "maternity",
+    "expecting"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

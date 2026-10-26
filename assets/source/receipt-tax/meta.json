@@ -1,0 +1,26 @@
+{
+  "name": "receipt-tax",
+  "title": "Receipt Tax",
+  "category": "finance",
+  "description": "Show the tax or VAT charged on a receipt or purchase.",
+  "tags": [
+    "vat",
+    "sales tax",
+    "receipt",
+    "percentage",
+    "tax rate",
+    "purchase",
+    "gst"
+  ],
+  "aliases": [
+    "tax-invoice",
+    "vat-receipt",
+    "tax-receipt",
+    "receipt-percent"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

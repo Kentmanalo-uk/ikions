@@ -1,0 +1,20 @@
+{
+  "name": "megaphone-off",
+  "title": "Megaphone Off",
+  "category": "communication",
+  "description": "Mute announcements or turn off promotions.",
+  "tags": [
+    "mute",
+    "silence",
+    "announcement",
+    "disabled",
+    "no promotion",
+    "quiet"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

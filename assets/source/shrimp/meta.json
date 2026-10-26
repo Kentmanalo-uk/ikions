@@ -1,0 +1,22 @@
+{
+  "name": "shrimp",
+  "title": "Shrimp",
+  "category": "food",
+  "description": "Represent shrimp or prawns, such as seafood, a seafood menu or shellfish.",
+  "tags": [
+    "prawn",
+    "seafood",
+    "shellfish",
+    "crustacean",
+    "menu",
+    "allergy"
+  ],
+  "aliases": [
+    "prawn"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

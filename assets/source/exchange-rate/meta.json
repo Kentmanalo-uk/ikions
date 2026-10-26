@@ -1,0 +1,25 @@
+{
+  "name": "exchange-rate",
+  "title": "Exchange Rate",
+  "category": "finance",
+  "description": "Convert between currencies or show a currency exchange rate.",
+  "tags": [
+    "currency exchange",
+    "convert",
+    "conversion",
+    "forex",
+    "fx",
+    "rate",
+    "money"
+  ],
+  "aliases": [
+    "currency-conversion",
+    "forex",
+    "exchange-currency"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

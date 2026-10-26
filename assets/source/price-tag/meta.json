@@ -1,0 +1,23 @@
+{
+  "name": "price-tag",
+  "title": "Price Tag",
+  "category": "commerce",
+  "description": "Represents a hanging price tag showing what an item costs.",
+  "tags": [
+    "price",
+    "cost",
+    "label",
+    "pricing",
+    "retail",
+    "amount"
+  ],
+  "aliases": [
+    "pricing-tag",
+    "cost-label"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

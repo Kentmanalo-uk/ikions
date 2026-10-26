@@ -1,0 +1,21 @@
+{
+  "name": "file-question",
+  "title": "File Question",
+  "category": "files",
+  "description": "Help or questions about a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "help",
+    "unknown",
+    "support",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

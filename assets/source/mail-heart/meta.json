@@ -1,0 +1,21 @@
+{
+  "name": "mail-heart",
+  "title": "Mail Heart",
+  "category": "communication",
+  "description": "A liked or favourite mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "liked",
+    "favorite",
+    "love",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

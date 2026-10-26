@@ -1,0 +1,23 @@
+{
+  "name": "face-love",
+  "title": "Face Love",
+  "category": "people",
+  "description": "Show love, adoration or that something is a favourite.",
+  "tags": [
+    "love",
+    "adore",
+    "crush",
+    "heart-eyes",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "heart-eyes",
+    "in-love"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

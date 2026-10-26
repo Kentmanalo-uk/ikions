@@ -1,0 +1,22 @@
+{
+  "name": "database-lock",
+  "title": "Database Lock",
+  "category": "development",
+  "description": "A locked, private or protected database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

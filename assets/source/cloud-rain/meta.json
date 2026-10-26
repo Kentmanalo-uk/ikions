@@ -1,0 +1,25 @@
+{
+  "name": "cloud-rain",
+  "title": "Cloud Rain",
+  "category": "weather",
+  "description": "Represent rain, showers or a wet weather forecast.",
+  "tags": [
+    "rain",
+    "rainy",
+    "shower",
+    "weather",
+    "forecast",
+    "drizzle",
+    "storm",
+    "wet"
+  ],
+  "aliases": [
+    "rain",
+    "rainy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

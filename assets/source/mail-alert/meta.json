@@ -1,0 +1,22 @@
+{
+  "name": "mail-alert",
+  "title": "Mail Alert",
+  "category": "communication",
+  "description": "Mail with a warning or problem that needs attention.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

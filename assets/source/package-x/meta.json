@@ -1,0 +1,24 @@
+{
+  "name": "package-x",
+  "title": "Package X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "package"
+  ],
+  "aliases": [
+    "delete-package"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

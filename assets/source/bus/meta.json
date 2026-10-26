@@ -1,0 +1,24 @@
+{
+  "name": "bus",
+  "title": "Bus",
+  "category": "transport",
+  "description": "Represent bus travel, public transport or a bus stop.",
+  "tags": [
+    "transit",
+    "public-transport",
+    "coach",
+    "commute",
+    "school-bus",
+    "shuttle",
+    "vehicle"
+  ],
+  "aliases": [
+    "coach",
+    "transit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

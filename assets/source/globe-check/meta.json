@@ -1,0 +1,22 @@
+{
+  "name": "globe-check",
+  "title": "Globe Check",
+  "category": "maps",
+  "description": "Globe confirmed, completed or verified.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "globe"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

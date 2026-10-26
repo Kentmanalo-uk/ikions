@@ -1,0 +1,20 @@
+{
+  "name": "wine-bottle",
+  "title": "Wine Bottle",
+  "category": "food",
+  "description": "Represent a bottle of wine, a wine list or alcoholic drinks.",
+  "tags": [
+    "wine",
+    "alcohol",
+    "bottle",
+    "drink",
+    "bar",
+    "vineyard"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

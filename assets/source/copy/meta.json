@@ -1,0 +1,24 @@
+{
+  "name": "copy",
+  "title": "Copy",
+  "category": "interface",
+  "description": "Copy content to the clipboard or duplicate an item.",
+  "tags": [
+    "duplicate",
+    "clone",
+    "clipboard",
+    "paste",
+    "pages",
+    "replicate",
+    "stack",
+    "twin"
+  ],
+  "aliases": [
+    "clone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

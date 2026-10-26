@@ -1,0 +1,24 @@
+{
+  "name": "cash-flow",
+  "title": "Cash Flow",
+  "category": "finance",
+  "description": "Cash coming in and going out over a period.",
+  "tags": [
+    "inflow",
+    "outflow",
+    "income",
+    "expenses",
+    "liquidity",
+    "cash in",
+    "cash out"
+  ],
+  "aliases": [
+    "cash-in-out",
+    "cashflow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "file-link",
+  "title": "File Link",
+  "category": "files",
+  "description": "Represents a linked file or a shareable link to a document.",
+  "tags": [
+    "link",
+    "url",
+    "shortcut",
+    "share",
+    "reference",
+    "hyperlink"
+  ],
+  "aliases": [
+    "linked-file",
+    "file-shortcut"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

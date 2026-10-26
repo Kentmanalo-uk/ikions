@@ -1,0 +1,23 @@
+{
+  "name": "incident",
+  "title": "Incident",
+  "category": "development",
+  "description": "Represents a production incident or outage that needs urgent response.",
+  "tags": [
+    "outage",
+    "alert",
+    "emergency",
+    "siren",
+    "on-call",
+    "pager"
+  ],
+  "aliases": [
+    "outage-alert",
+    "incident-alert"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

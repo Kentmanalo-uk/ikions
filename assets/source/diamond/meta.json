@@ -1,0 +1,24 @@
+{
+  "name": "diamond",
+  "title": "Diamond",
+  "category": "shapes",
+  "description": "A basic diamond shape for decision nodes, suits or drawing.",
+  "tags": [
+    "shape",
+    "rhombus",
+    "geometry",
+    "lozenge",
+    "decision",
+    "suit",
+    "flowchart",
+    "basic"
+  ],
+  "aliases": [
+    "lozenge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

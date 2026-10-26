@@ -1,0 +1,23 @@
+{
+  "name": "nose",
+  "title": "Nose",
+  "category": "health",
+  "description": "A human nose for smell, sinuses and nasal care.",
+  "tags": [
+    "smell",
+    "nasal",
+    "sinus",
+    "scent",
+    "ent",
+    "breathing",
+    "face"
+  ],
+  "aliases": [
+    "nasal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

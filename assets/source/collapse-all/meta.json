@@ -1,0 +1,23 @@
+{
+  "name": "collapse-all",
+  "title": "Collapse All",
+  "category": "interface",
+  "description": "Collapse every expanded section, row or tree node at once.",
+  "tags": [
+    "collapse",
+    "fold",
+    "close all",
+    "tree",
+    "accordion",
+    "outline"
+  ],
+  "aliases": [
+    "fold-all",
+    "fold"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

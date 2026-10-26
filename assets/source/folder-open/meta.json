@@ -1,0 +1,24 @@
+{
+  "name": "folder-open",
+  "title": "Folder Open",
+  "category": "files",
+  "description": "Open a directory or browse the contents of a folder.",
+  "tags": [
+    "directory",
+    "open",
+    "browse",
+    "explore",
+    "files",
+    "project",
+    "contents"
+  ],
+  "aliases": [
+    "open-folder",
+    "open-directory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

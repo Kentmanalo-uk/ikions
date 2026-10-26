@@ -1,0 +1,23 @@
+{
+  "name": "monitor-dual",
+  "title": "Monitor Dual",
+  "category": "devices",
+  "description": "Represents a dual-monitor desk setup.",
+  "tags": [
+    "dual screen",
+    "two monitors",
+    "multi monitor",
+    "workstation",
+    "desk",
+    "setup"
+  ],
+  "aliases": [
+    "dual-monitor",
+    "two-screens"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

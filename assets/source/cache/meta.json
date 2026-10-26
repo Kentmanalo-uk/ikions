@@ -1,0 +1,23 @@
+{
+  "name": "cache",
+  "title": "Cache",
+  "category": "development",
+  "description": "Represents a cache layer that keeps frequently used data close for fast access.",
+  "tags": [
+    "fast",
+    "memory",
+    "redis",
+    "storage",
+    "performance",
+    "speed"
+  ],
+  "aliases": [
+    "data-cache",
+    "cached"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

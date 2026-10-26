@@ -1,0 +1,22 @@
+{
+  "name": "cupcake",
+  "title": "Cupcake",
+  "category": "food",
+  "description": "Represent a cupcake, baking, a bakery or a sweet treat.",
+  "tags": [
+    "muffin",
+    "bakery",
+    "dessert",
+    "sweet",
+    "baking",
+    "birthday"
+  ],
+  "aliases": [
+    "muffin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "milestone-code",
+  "title": "Milestone",
+  "category": "development",
+  "description": "A signpost marking a project milestone that groups issues toward a goal.",
+  "tags": [
+    "milestone",
+    "roadmap",
+    "goal",
+    "sprint",
+    "target",
+    "progress"
+  ],
+  "aliases": [
+    "project-milestone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

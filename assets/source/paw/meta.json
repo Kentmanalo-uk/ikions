@@ -1,0 +1,26 @@
+{
+  "name": "paw",
+  "title": "Paw",
+  "category": "animals",
+  "description": "Represent pets, animals or a pet-friendly place.",
+  "tags": [
+    "pet",
+    "dog",
+    "cat",
+    "animal",
+    "footprint",
+    "vet",
+    "pet-friendly",
+    "track",
+    "paw print"
+  ],
+  "aliases": [
+    "pawprint",
+    "pet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

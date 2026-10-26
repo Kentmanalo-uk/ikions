@@ -1,0 +1,22 @@
+{
+  "name": "laptop-check",
+  "title": "Laptop Check",
+  "category": "devices",
+  "description": "Laptop confirmed, completed or verified.",
+  "tags": [
+    "computer",
+    "notebook",
+    "macbook",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "laptop"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

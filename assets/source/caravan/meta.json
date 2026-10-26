@@ -1,0 +1,23 @@
+{
+  "name": "caravan",
+  "title": "Caravan",
+  "category": "transport",
+  "description": "Represents a caravan, travel trailer or a camping holiday on wheels.",
+  "tags": [
+    "trailer",
+    "travel trailer",
+    "camper",
+    "rv",
+    "camping",
+    "holiday"
+  ],
+  "aliases": [
+    "travel-trailer",
+    "camper-trailer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

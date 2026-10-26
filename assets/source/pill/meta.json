@@ -1,0 +1,26 @@
+{
+  "name": "pill",
+  "title": "Pill",
+  "category": "health",
+  "description": "Represent medication, a prescription or a pharmacy.",
+  "tags": [
+    "medicine",
+    "medication",
+    "capsule",
+    "drug",
+    "pharmacy",
+    "prescription",
+    "tablet",
+    "dose"
+  ],
+  "aliases": [
+    "medication",
+    "capsule",
+    "medicine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

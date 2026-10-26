@@ -1,0 +1,23 @@
+{
+  "name": "phone-volume",
+  "title": "Phone Volume",
+  "category": "communication",
+  "description": "Adjust call volume or switch to speakerphone.",
+  "tags": [
+    "call",
+    "volume",
+    "speaker",
+    "loud",
+    "audio",
+    "speakerphone"
+  ],
+  "aliases": [
+    "speakerphone",
+    "call-volume"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

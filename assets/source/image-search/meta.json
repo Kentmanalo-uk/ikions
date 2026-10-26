@@ -1,0 +1,23 @@
+{
+  "name": "image-search",
+  "title": "Image Search",
+  "category": "media",
+  "description": "Search for a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "find",
+    "lookup",
+    "browse",
+    "image"
+  ],
+  "aliases": [
+    "find-image"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

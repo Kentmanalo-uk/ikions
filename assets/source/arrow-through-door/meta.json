@@ -1,0 +1,22 @@
+{
+  "name": "arrow-through-door",
+  "title": "Arrow Through Door",
+  "category": "arrows",
+  "description": "Pass through a doorway from one space into another.",
+  "tags": [
+    "door",
+    "doorway",
+    "pass through",
+    "walk in",
+    "transition",
+    "entrance"
+  ],
+  "aliases": [
+    "doorway-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

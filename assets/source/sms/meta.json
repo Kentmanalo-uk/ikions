@@ -1,0 +1,21 @@
+{
+  "name": "sms",
+  "title": "SMS",
+  "category": "communication",
+  "description": "Send a text message from a mobile phone.",
+  "tags": [
+    "text",
+    "message",
+    "mobile",
+    "phone",
+    "texting"
+  ],
+  "aliases": [
+    "text-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

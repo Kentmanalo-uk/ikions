@@ -1,0 +1,22 @@
+{
+  "name": "align-start",
+  "title": "Align Start",
+  "category": "interface",
+  "description": "Align the selected objects to their leading edge.",
+  "tags": [
+    "align",
+    "left edge",
+    "leading",
+    "objects",
+    "layout",
+    "design"
+  ],
+  "aliases": [
+    "align-objects-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "arrow-reload",
+  "title": "Arrow Reload",
+  "category": "arrows",
+  "description": "A circular arrow around a centre dot, for reloading or replaying.",
+  "tags": [
+    "reload",
+    "replay",
+    "refresh",
+    "restart",
+    "again",
+    "loop"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

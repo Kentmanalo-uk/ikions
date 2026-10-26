@@ -1,0 +1,22 @@
+{
+  "name": "cloud-drizzle",
+  "title": "Cloud Drizzle",
+  "category": "weather",
+  "description": "Light drizzle falling from a cloud.",
+  "tags": [
+    "weather",
+    "drizzle",
+    "light rain",
+    "showers",
+    "forecast",
+    "damp"
+  ],
+  "aliases": [
+    "drizzle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

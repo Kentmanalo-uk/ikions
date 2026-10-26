@@ -1,0 +1,24 @@
+{
+  "name": "season-winter",
+  "title": "Winter",
+  "category": "weather",
+  "description": "Represents the winter season with a bare tree and falling snow.",
+  "tags": [
+    "winter",
+    "season",
+    "snow",
+    "cold",
+    "wintertime",
+    "december",
+    "january",
+    "nature"
+  ],
+  "aliases": [
+    "wintertime"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

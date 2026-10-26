@@ -1,0 +1,23 @@
+{
+  "name": "map-travel",
+  "title": "Travel Map",
+  "category": "transport",
+  "description": "Represents a travel map, trip planning or a flight itinerary.",
+  "tags": [
+    "trip planning",
+    "itinerary",
+    "map",
+    "flight",
+    "journey",
+    "destination"
+  ],
+  "aliases": [
+    "trip-map",
+    "itinerary-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

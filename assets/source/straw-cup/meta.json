@@ -1,0 +1,23 @@
+{
+  "name": "straw-cup",
+  "title": "Cup With Straw",
+  "category": "food",
+  "description": "Represent a cold drink in a cup with a straw, such as soda or a smoothie.",
+  "tags": [
+    "soda",
+    "smoothie",
+    "cold-drink",
+    "fast-food",
+    "milkshake",
+    "beverage"
+  ],
+  "aliases": [
+    "fountain-drink",
+    "cup-straw"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "help",
+  "title": "Help",
+  "category": "status",
+  "description": "Get help, open support or answer a question.",
+  "tags": [
+    "question",
+    "support",
+    "faq",
+    "assistance",
+    "unknown",
+    "guide",
+    "docs",
+    "query"
+  ],
+  "aliases": [
+    "support",
+    "faq"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

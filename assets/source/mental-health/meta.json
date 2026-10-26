@@ -1,0 +1,23 @@
+{
+  "name": "mental-health",
+  "title": "Mental Health",
+  "category": "health",
+  "description": "A head in profile holding a heart for mental health and wellbeing.",
+  "tags": [
+    "wellbeing",
+    "mind",
+    "emotional health",
+    "psychology",
+    "self-care",
+    "mindfulness",
+    "wellness"
+  ],
+  "aliases": [
+    "mental-wellbeing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

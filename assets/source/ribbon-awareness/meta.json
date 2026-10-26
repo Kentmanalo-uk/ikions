@@ -1,0 +1,24 @@
+{
+  "name": "ribbon-awareness",
+  "title": "Awareness Ribbon",
+  "category": "health",
+  "description": "A looped awareness ribbon for causes, campaigns and support.",
+  "tags": [
+    "awareness",
+    "cause",
+    "support",
+    "cancer awareness",
+    "campaign",
+    "solidarity",
+    "charity"
+  ],
+  "aliases": [
+    "awareness-ribbon",
+    "support-ribbon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

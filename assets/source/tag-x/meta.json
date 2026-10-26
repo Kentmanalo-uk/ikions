@@ -1,0 +1,24 @@
+{
+  "name": "tag-x",
+  "title": "Tag X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "tag"
+  ],
+  "aliases": [
+    "delete-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

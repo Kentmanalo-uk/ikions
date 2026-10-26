@@ -1,0 +1,22 @@
+{
+  "name": "repeat-off",
+  "title": "Repeat Off",
+  "category": "arrows",
+  "description": "Turn off repeat so playback stops at the end.",
+  "tags": [
+    "repeat",
+    "loop",
+    "off",
+    "disable",
+    "playback"
+  ],
+  "aliases": [
+    "no-repeat",
+    "loop-off"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

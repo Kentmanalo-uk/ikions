@@ -1,0 +1,21 @@
+{
+  "name": "file-download",
+  "title": "File Download",
+  "category": "files",
+  "description": "Download or import a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "download",
+    "save",
+    "import",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

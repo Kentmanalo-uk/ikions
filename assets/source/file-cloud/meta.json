@@ -1,0 +1,23 @@
+{
+  "name": "file-cloud",
+  "title": "File Cloud",
+  "category": "files",
+  "description": "Represents a file stored in or synced with cloud storage.",
+  "tags": [
+    "cloud",
+    "online",
+    "storage",
+    "sync",
+    "backup",
+    "drive"
+  ],
+  "aliases": [
+    "cloud-file",
+    "cloud-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

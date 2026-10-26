@@ -1,0 +1,23 @@
+{
+  "name": "map-pin-search",
+  "title": "Map Pin Search",
+  "category": "maps",
+  "description": "Search for a map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "find",
+    "lookup",
+    "browse",
+    "map"
+  ],
+  "aliases": [
+    "find-map-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "eye-medical",
+  "title": "Eye Care",
+  "category": "health",
+  "description": "Represent eye care, an eye exam, eye drops or ophthalmology.",
+  "tags": [
+    "ophthalmology",
+    "optometry",
+    "eye exam",
+    "eye drops",
+    "vision",
+    "optician"
+  ],
+  "aliases": [
+    "eye-care",
+    "ophthalmology"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

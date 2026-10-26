@@ -1,0 +1,22 @@
+{
+  "name": "user",
+  "title": "User",
+  "category": "people",
+  "description": "Represent a person, profile or signed-in account.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "avatar",
+    "member"
+  ],
+  "aliases": [
+    "person",
+    "profile"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

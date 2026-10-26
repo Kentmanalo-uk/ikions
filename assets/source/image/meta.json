@@ -1,0 +1,22 @@
+{
+  "name": "image",
+  "title": "Image",
+  "category": "media",
+  "description": "Represent a photo, picture or image placeholder.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "landscape",
+    "media"
+  ],
+  "aliases": [
+    "photo",
+    "picture"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,94 @@
+export const metadata = {
+  title: "Metadata & API",
+  description: "Use @ikions/metadata for names, aliases, categories and search, or query the public JSON API.",
+  alternates: { canonical: "/docs/api" },
+};
+
+# Metadata & API
+
+Every icon has structured metadata: a canonical name, title, description, category, aliases, tags, the component name, available variants and the version that added it. The same data powers this website.
+
+## @ikions/metadata
+
+```bash
+npm install @ikions/metadata
+```
+
+```ts
+import { categories, getIcon, icons, version } from "@ikions/metadata";
+
+getIcon("magnifying-glass");
+// → { name: "search", title: "Search", component: "SearchIcon", category: "interface", ... }
+```
+
+Exports:
+
+| Export | Description |
+| --- | --- |
+| `icons` | Array of `IconMetadata` for every published icon. |
+| `categories` | Categories with `slug`, `name`, `description` and `count` (published icons). |
+| `collections` | Curated collections of icon names. |
+| `getIcon(nameOrAlias)` | Look up an icon by name or alias. |
+| `getIconsByCategory(slug)` | Icons in a category. |
+| `createSearchIndex(icons, categories, synonyms)` | The ranked search engine used on this site. |
+| `synonyms` | Concept words that expand searches, e.g. “payment” → wallet, card, receipt. |
+| `version` | Library version. |
+
+A plain JSON file is also included at `@ikions/metadata/icons.json`.
+
+### IconMetadata
+
+```ts
+interface IconMetadata {
+  name: string;          // "arrow-up-right"
+  title: string;         // "Arrow Up Right"
+  component: string;     // "ArrowUpRightIcon"
+  category: string;      // "arrows"
+  description: string;
+  tags: string[];
+  aliases: string[];
+  variants: ("outline" | "filled")[];
+  added: string;         // "0.1.0"
+}
+```
+
+## Search
+
+```ts
+import { categories, createSearchIndex, icons, synonyms } from "@ikions/metadata";
+
+const index = createSearchIndex(icons, categories, synonyms);
+index.search("payment", { limit: 10 });
+index.search("arrow", { category: "arrows" });
+```
+
+Results are ranked by exact name, exact alias, name or alias prefix, keyword and synonym matches, description, and category. Every word of a multi-word query must match. When nothing matches, a small edit-distance pass tolerates typos.
+
+## HTTP API
+
+The website exposes read-only JSON endpoints. Responses are cacheable and allow cross-origin requests.
+
+| Endpoint | Returns |
+| --- | --- |
+| `GET /api/v1/icons` | `{ version, count, icons }` — metadata for all icons |
+| `GET /api/v1/icons/:name` | `{ version, icon, svg: { outline, filled } }` |
+| `GET /api/v1/icons/:name/outline.svg` | The outline SVG file |
+| `GET /api/v1/icons/:name/filled.svg` | The filled SVG file |
+| `GET /api/v1/categories` | `{ version, categories }` |
+| `GET /api/v1/search?q=&category=&limit=` | `{ query, count, results }` ranked by relevance |
+
+### Search parameters
+
+| Parameter | Rules |
+| --- | --- |
+| `q` | Up to 100 characters. Empty returns everything. |
+| `category` | Optional category slug. Unknown slugs return `400`. |
+| `limit` | Integer from 1 to 100. Default 20. |
+
+The search endpoint is rate limited to 60 requests per minute per client. The `X-RateLimit-*` headers report your remaining budget, and a `429` response includes `Retry-After`.
+
+```js
+const response = await fetch("/api/v1/search?q=wallet&limit=5");
+const { results } = await response.json();
+// → [{ name: "wallet", title: "Wallet", category: "finance", score: 1140 }, ...]
+```

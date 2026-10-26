@@ -1,0 +1,23 @@
+{
+  "name": "heart-hands",
+  "title": "Heart Hands",
+  "category": "people",
+  "description": "Show love, care or support with a hand-heart gesture.",
+  "tags": [
+    "love",
+    "care",
+    "support",
+    "charity",
+    "kindness",
+    "gesture"
+  ],
+  "aliases": [
+    "hand-heart",
+    "love-hands"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

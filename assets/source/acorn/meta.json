@@ -1,0 +1,24 @@
+{
+  "name": "acorn",
+  "title": "Acorn",
+  "category": "weather",
+  "description": "Represents an acorn, oak trees or autumn foraging.",
+  "tags": [
+    "oak",
+    "nut",
+    "seed",
+    "autumn",
+    "fall",
+    "squirrel",
+    "forest",
+    "nature"
+  ],
+  "aliases": [
+    "oak-nut"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

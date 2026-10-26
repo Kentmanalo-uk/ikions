@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "title": "Socket",
+  "category": "development",
+  "description": "Represents a socket connection such as a WebSocket linking two endpoints.",
+  "tags": [
+    "websocket",
+    "connection",
+    "realtime",
+    "plug",
+    "network",
+    "stream"
+  ],
+  "aliases": [
+    "websocket",
+    "socket-connection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

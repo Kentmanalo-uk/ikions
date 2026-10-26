@@ -1,0 +1,23 @@
+{
+  "name": "tag-plus",
+  "title": "Tag Plus",
+  "category": "commerce",
+  "description": "Add a new tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "add",
+    "new",
+    "create",
+    "tag"
+  ],
+  "aliases": [
+    "add-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

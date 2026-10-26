@@ -1,0 +1,22 @@
+{
+  "name": "arrow-zigzag",
+  "title": "Arrow Zigzag",
+  "category": "arrows",
+  "description": "An arrow that zigzags back and forth before reaching its end.",
+  "tags": [
+    "zigzag",
+    "path",
+    "route",
+    "indirect",
+    "arrow",
+    "z"
+  ],
+  "aliases": [
+    "zigzag-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "points",
+  "title": "Points",
+  "category": "commerce",
+  "description": "A reward coin showing loyalty points earned or redeemed.",
+  "tags": [
+    "reward points",
+    "loyalty",
+    "credits",
+    "earn",
+    "redeem",
+    "coin",
+    "bonus"
+  ],
+  "aliases": [
+    "reward-points",
+    "loyalty-points"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

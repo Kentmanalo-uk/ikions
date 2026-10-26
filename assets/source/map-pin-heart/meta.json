@@ -1,0 +1,23 @@
+{
+  "name": "map-pin-heart",
+  "title": "Map Pin Heart",
+  "category": "maps",
+  "description": "A liked or favourite map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "liked",
+    "favorite",
+    "love",
+    "map"
+  ],
+  "aliases": [
+    "pin-heart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

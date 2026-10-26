@@ -1,0 +1,21 @@
+{
+  "name": "book-star",
+  "title": "Book Star",
+  "category": "education",
+  "description": "A starred or featured book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "starred",
+    "favorite",
+    "featured",
+    "book"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

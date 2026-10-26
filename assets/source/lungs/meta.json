@@ -1,0 +1,22 @@
+{
+  "name": "lungs",
+  "title": "Lungs",
+  "category": "health",
+  "description": "Represent the lungs, breathing, respiratory health or pulmonology.",
+  "tags": [
+    "breathing",
+    "respiratory",
+    "pulmonology",
+    "breath",
+    "chest",
+    "asthma"
+  ],
+  "aliases": [
+    "respiratory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

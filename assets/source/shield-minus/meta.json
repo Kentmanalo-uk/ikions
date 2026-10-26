@@ -1,0 +1,22 @@
+{
+  "name": "shield-minus",
+  "title": "Shield Minus",
+  "category": "security",
+  "description": "Remove a shield.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "remove",
+    "subtract",
+    "shield"
+  ],
+  "aliases": [
+    "remove-shield"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "info",
+  "title": "Info",
+  "category": "status",
+  "description": "Show more information, details or a helpful note.",
+  "tags": [
+    "information",
+    "details",
+    "about",
+    "notice",
+    "tip",
+    "hint",
+    "help",
+    "letter-i"
+  ],
+  "aliases": [
+    "information",
+    "about"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

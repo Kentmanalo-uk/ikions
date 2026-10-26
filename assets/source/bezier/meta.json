@@ -1,0 +1,23 @@
+{
+  "name": "bezier",
+  "title": "Bezier",
+  "category": "editing",
+  "description": "Shape a smooth curve by dragging its bezier handles.",
+  "tags": [
+    "bezier",
+    "curve",
+    "handle",
+    "path",
+    "vector",
+    "spline"
+  ],
+  "aliases": [
+    "bezier-curve",
+    "curve-tool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

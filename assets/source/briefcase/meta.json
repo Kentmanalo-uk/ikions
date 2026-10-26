@@ -1,0 +1,25 @@
+{
+  "name": "briefcase",
+  "title": "Briefcase",
+  "category": "finance",
+  "description": "Represent business, work, a job or professional services.",
+  "tags": [
+    "business",
+    "work",
+    "job",
+    "office",
+    "career",
+    "professional",
+    "bag",
+    "employment"
+  ],
+  "aliases": [
+    "work-bag",
+    "business-case"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

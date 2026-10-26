@@ -1,0 +1,24 @@
+{
+  "name": "send",
+  "title": "Send",
+  "category": "communication",
+  "description": "Send a message, submit a form or dispatch content.",
+  "tags": [
+    "paper-plane",
+    "submit",
+    "dispatch",
+    "message",
+    "deliver",
+    "post",
+    "airplane"
+  ],
+  "aliases": [
+    "paper-plane",
+    "submit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

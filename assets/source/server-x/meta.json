@@ -1,0 +1,24 @@
+{
+  "name": "server-x",
+  "title": "Server X",
+  "category": "devices",
+  "description": "Delete, cancel or reject a server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "server"
+  ],
+  "aliases": [
+    "delete-server"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

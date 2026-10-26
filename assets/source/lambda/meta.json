@@ -1,0 +1,22 @@
+{
+  "name": "lambda",
+  "title": "Lambda",
+  "category": "development",
+  "description": "The Greek letter lambda for anonymous functions and functional programming.",
+  "tags": [
+    "function",
+    "anonymous function",
+    "functional",
+    "greek",
+    "serverless",
+    "closure"
+  ],
+  "aliases": [
+    "lambda-function"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,59 @@
+export const metadata = {
+  title: "Accessibility",
+  description: "Make Ikions icons accessible: decorative versus meaningful icons, accessible names and interactive controls.",
+  alternates: { canonical: "/docs/accessibility" },
+};
+
+# Accessibility
+
+An icon is either **decorative** — it repeats information already given in text — or **meaningful** — it is the only way the information is conveyed. Ikions components handle both.
+
+## Decorative icons (default)
+
+When an icon sits next to visible text, screen readers should skip it. Components without `title`, `aria-label` or `aria-labelledby` render `aria-hidden="true"` automatically:
+
+```tsx
+<button>
+  <DownloadIcon /> Download
+</button>
+```
+
+## Meaningful icons
+
+When the icon stands alone, give it a name with `title`:
+
+```tsx
+<WarningIcon title="Warning" />
+```
+
+This renders `role="img"`, a `<title>` element and a reference to it, so assistive technology announces “Warning”.
+
+## Icon-only buttons and links
+
+Name the **control**, not the icon. The icon stays decorative:
+
+```tsx
+<button type="button" aria-label="Close dialog">
+  <CloseIcon />
+</button>
+```
+
+## Do not rely on the icon alone
+
+Icons are not universally understood. Pair status icons with text, and keep meaning available without colour:
+
+```tsx
+<p>
+  <ErrorIcon color="#b42318" /> Payment failed. Check your card details.
+</p>
+```
+
+## Size and contrast
+
+- Interactive targets should be at least 24 × 24 CSS pixels (WCAG 2.2, 2.5.8); padding around a 16 px icon counts.
+- Icons that convey meaning need a 3:1 contrast ratio against their background (WCAG 1.4.11).
+- Icons scale with zoom because they are vectors; prefer `em` sizes next to text.
+
+## Motion
+
+Ikions icons are static. The website's transitions respect `prefers-reduced-motion`.

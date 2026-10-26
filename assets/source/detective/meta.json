@@ -1,0 +1,22 @@
+{
+  "name": "detective",
+  "title": "Detective",
+  "category": "people",
+  "description": "Represent a detective or investigator, such as a private or incognito mode.",
+  "tags": [
+    "investigator",
+    "spy",
+    "incognito",
+    "private",
+    "inspector",
+    "mystery"
+  ],
+  "aliases": [
+    "investigator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

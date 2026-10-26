@@ -1,0 +1,23 @@
+{
+  "name": "debug",
+  "title": "Debug",
+  "category": "development",
+  "description": "Start a debugging session to run code and inspect bugs.",
+  "tags": [
+    "debug",
+    "bug",
+    "run",
+    "breakpoint",
+    "inspect",
+    "troubleshoot"
+  ],
+  "aliases": [
+    "debugger",
+    "run-debug"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

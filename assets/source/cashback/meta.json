@@ -1,0 +1,23 @@
+{
+  "name": "cashback",
+  "title": "Cashback",
+  "category": "finance",
+  "description": "Money returned to the buyer after a purchase, as a reward or rebate.",
+  "tags": [
+    "rebate",
+    "reward",
+    "money back",
+    "cash back",
+    "rewards",
+    "loyalty"
+  ],
+  "aliases": [
+    "rebate",
+    "cash-rebate"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

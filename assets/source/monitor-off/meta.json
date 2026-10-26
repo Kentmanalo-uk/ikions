@@ -1,0 +1,22 @@
+{
+  "name": "monitor-off",
+  "title": "Monitor Off",
+  "category": "devices",
+  "description": "Turn off, disable or mute the monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-monitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

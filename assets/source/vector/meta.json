@@ -1,0 +1,23 @@
+{
+  "name": "vector",
+  "title": "Vector",
+  "category": "editing",
+  "description": "Edit a vector shape by its anchor points.",
+  "tags": [
+    "vector",
+    "path",
+    "nodes",
+    "shape",
+    "svg",
+    "illustration"
+  ],
+  "aliases": [
+    "vector-path",
+    "vector-shape"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

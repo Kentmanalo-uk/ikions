@@ -1,0 +1,23 @@
+{
+  "name": "file-spreadsheet",
+  "title": "File Spreadsheet",
+  "category": "files",
+  "description": "Represents a spreadsheet file with rows, columns and cells of data.",
+  "tags": [
+    "excel",
+    "sheet",
+    "table",
+    "xlsx",
+    "workbook",
+    "data"
+  ],
+  "aliases": [
+    "spreadsheet-file",
+    "sheet-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

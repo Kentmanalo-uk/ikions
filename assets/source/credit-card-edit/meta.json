@@ -1,0 +1,24 @@
+{
+  "name": "credit-card-edit",
+  "title": "Credit Card Edit",
+  "category": "finance",
+  "description": "Edit or rename a credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "credit"
+  ],
+  "aliases": [
+    "edit-credit-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

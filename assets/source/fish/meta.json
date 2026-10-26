@@ -1,0 +1,24 @@
+{
+  "name": "fish",
+  "title": "Fish",
+  "category": "animals",
+  "description": "Represent fish, seafood, fishing or aquatic life.",
+  "tags": [
+    "sea",
+    "ocean",
+    "seafood",
+    "aquarium",
+    "fishing",
+    "aquatic",
+    "marine",
+    "pet"
+  ],
+  "aliases": [
+    "seafood"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

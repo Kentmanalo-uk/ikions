@@ -1,0 +1,22 @@
+{
+  "name": "spoon",
+  "title": "Spoon",
+  "category": "food",
+  "description": "Represent a spoon, cutlery, soup or stirring.",
+  "tags": [
+    "cutlery",
+    "silverware",
+    "soup",
+    "dessert",
+    "stir",
+    "tableware"
+  ],
+  "aliases": [
+    "teaspoon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cooking-pot",
+  "title": "Cooking Pot",
+  "category": "food",
+  "description": "Represent a cooking pot, such as cooking, a recipe, stew or a kitchen.",
+  "tags": [
+    "pot",
+    "saucepan",
+    "stew",
+    "kitchen",
+    "recipe",
+    "boil"
+  ],
+  "aliases": [
+    "stockpot",
+    "casserole"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

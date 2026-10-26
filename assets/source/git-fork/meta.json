@@ -1,0 +1,22 @@
+{
+  "name": "git-fork",
+  "title": "Git Fork",
+  "category": "development",
+  "description": "Fork a repository into your own copy to work on independently.",
+  "tags": [
+    "git",
+    "fork",
+    "repository",
+    "copy",
+    "version control",
+    "branch"
+  ],
+  "aliases": [
+    "repo-fork"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

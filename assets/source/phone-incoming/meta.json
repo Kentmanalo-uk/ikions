@@ -1,0 +1,20 @@
+{
+  "name": "phone-incoming",
+  "title": "Phone Incoming",
+  "category": "communication",
+  "description": "Show an incoming or received phone call.",
+  "tags": [
+    "call",
+    "incoming",
+    "received",
+    "phone",
+    "inbound",
+    "ringing"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

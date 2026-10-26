@@ -1,0 +1,22 @@
+{
+  "name": "columns",
+  "title": "Columns",
+  "category": "interface",
+  "description": "Arrange content side by side in vertical columns.",
+  "tags": [
+    "layout",
+    "vertical",
+    "side-by-side",
+    "panes",
+    "two-up",
+    "blocks"
+  ],
+  "aliases": [
+    "column-panes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

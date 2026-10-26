@@ -1,0 +1,23 @@
+{
+  "name": "boolean-exclude",
+  "title": "Boolean Exclude",
+  "category": "editing",
+  "description": "Remove the overlap and keep the parts of shapes that do not overlap.",
+  "tags": [
+    "exclude",
+    "xor",
+    "difference",
+    "shapes",
+    "vector",
+    "pathfinder"
+  ],
+  "aliases": [
+    "shape-exclude",
+    "xor-shapes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "loss",
+  "title": "Loss",
+  "category": "finance",
+  "description": "Show a financial loss, falling earnings or a dropping money value.",
+  "tags": [
+    "deficit",
+    "decrease",
+    "decline",
+    "negative",
+    "money down",
+    "drop",
+    "debt"
+  ],
+  "aliases": [
+    "deficit",
+    "money-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

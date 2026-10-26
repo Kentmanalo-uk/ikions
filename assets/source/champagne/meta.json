@@ -1,0 +1,23 @@
+{
+  "name": "champagne",
+  "title": "Champagne",
+  "category": "food",
+  "description": "Represent champagne glasses clinking for a toast or celebration.",
+  "tags": [
+    "toast",
+    "cheers",
+    "celebration",
+    "sparkling",
+    "party",
+    "wine"
+  ],
+  "aliases": [
+    "cheers",
+    "toast-glasses"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

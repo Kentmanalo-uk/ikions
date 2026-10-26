@@ -1,0 +1,23 @@
+{
+  "name": "denture",
+  "title": "Denture",
+  "category": "health",
+  "description": "A set of false teeth on a gum plate for dentures and dental prosthetics.",
+  "tags": [
+    "false teeth",
+    "dentist",
+    "dental",
+    "prosthetic",
+    "teeth",
+    "oral care",
+    "dentistry"
+  ],
+  "aliases": [
+    "false-teeth"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

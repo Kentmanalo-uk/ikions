@@ -1,0 +1,23 @@
+{
+  "name": "chef-hat",
+  "title": "Chef Hat",
+  "category": "food",
+  "description": "Represent a chef hat, such as cooking, recipes, a kitchen or a restaurant.",
+  "tags": [
+    "toque",
+    "cooking",
+    "kitchen",
+    "recipe",
+    "culinary",
+    "restaurant"
+  ],
+  "aliases": [
+    "toque",
+    "cook-hat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

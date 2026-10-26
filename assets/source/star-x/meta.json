@@ -1,0 +1,24 @@
+{
+  "name": "star-x",
+  "title": "Star X",
+  "category": "social",
+  "description": "Delete, cancel or reject a star.",
+  "tags": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "star"
+  ],
+  "aliases": [
+    "delete-star"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

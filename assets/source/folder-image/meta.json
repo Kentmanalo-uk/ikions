@@ -1,0 +1,23 @@
+{
+  "name": "folder-image",
+  "title": "Folder Image",
+  "category": "files",
+  "description": "Represents a folder of photos, pictures or images.",
+  "tags": [
+    "photos",
+    "pictures",
+    "gallery",
+    "album",
+    "images",
+    "media"
+  ],
+  "aliases": [
+    "image-folder",
+    "photo-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "gift",
+  "title": "Gift",
+  "category": "lifestyle",
+  "description": "Represent a present, reward or special offer.",
+  "tags": [
+    "present",
+    "reward",
+    "birthday",
+    "surprise",
+    "bonus",
+    "offer",
+    "holiday",
+    "giveaway",
+    "gift box"
+  ],
+  "aliases": [
+    "present",
+    "gift-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

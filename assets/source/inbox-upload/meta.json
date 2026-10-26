@@ -1,0 +1,21 @@
+{
+  "name": "inbox-upload",
+  "title": "Inbox Upload",
+  "category": "communication",
+  "description": "Upload or export a inbox.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "upload",
+    "send",
+    "export",
+    "inbox"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

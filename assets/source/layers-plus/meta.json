@@ -1,0 +1,28 @@
+{
+  "name": "layers-plus",
+  "title": "Layers Plus",
+  "category": "editing",
+  "description": "Add a new layers.",
+  "tags": [
+    "stack",
+    "levels",
+    "depth",
+    "add",
+    "new",
+    "create",
+    "layers",
+    "layer",
+    "duplicate"
+  ],
+  "aliases": [
+    "add-layers",
+    "layer-plus",
+    "add-layer",
+    "new-layer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

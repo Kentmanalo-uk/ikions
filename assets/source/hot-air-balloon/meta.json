@@ -1,0 +1,23 @@
+{
+  "name": "hot-air-balloon",
+  "title": "Hot Air Balloon",
+  "category": "transport",
+  "description": "Represents a hot air balloon ride, sightseeing flight or adventure.",
+  "tags": [
+    "balloon",
+    "flight",
+    "sightseeing",
+    "adventure",
+    "sky",
+    "festival"
+  ],
+  "aliases": [
+    "balloon-ride",
+    "montgolfier"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

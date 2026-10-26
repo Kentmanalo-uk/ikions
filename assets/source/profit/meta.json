@@ -1,0 +1,24 @@
+{
+  "name": "profit",
+  "title": "Profit",
+  "category": "finance",
+  "description": "Show profit, earnings growth or a rising money value.",
+  "tags": [
+    "gain",
+    "earnings",
+    "increase",
+    "income",
+    "margin",
+    "money up",
+    "growth"
+  ],
+  "aliases": [
+    "gain",
+    "money-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

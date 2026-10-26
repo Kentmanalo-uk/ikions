@@ -1,0 +1,20 @@
+{
+  "name": "phone-forward",
+  "title": "Phone Forward",
+  "category": "communication",
+  "description": "Forward or transfer a phone call.",
+  "tags": [
+    "call",
+    "forward",
+    "transfer",
+    "redirect",
+    "phone",
+    "divert"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

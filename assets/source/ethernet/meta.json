@@ -1,0 +1,23 @@
+{
+  "name": "ethernet",
+  "title": "Ethernet",
+  "category": "devices",
+  "description": "An ethernet network port for wired connections.",
+  "tags": [
+    "lan",
+    "rj45",
+    "network",
+    "wired",
+    "port",
+    "cable"
+  ],
+  "aliases": [
+    "lan-port",
+    "rj45"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

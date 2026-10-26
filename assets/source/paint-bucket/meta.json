@@ -1,0 +1,23 @@
+{
+  "name": "paint-bucket",
+  "title": "Paint Bucket",
+  "category": "editing",
+  "description": "Fill an area with colour using the paint bucket tool.",
+  "tags": [
+    "fill",
+    "bucket",
+    "paint",
+    "colour",
+    "color",
+    "pour"
+  ],
+  "aliases": [
+    "bucket-fill",
+    "fill-tool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

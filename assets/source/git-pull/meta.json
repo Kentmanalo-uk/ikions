@@ -1,0 +1,22 @@
+{
+  "name": "git-pull",
+  "title": "Git Pull",
+  "category": "development",
+  "description": "Pull incoming commits from a remote branch into your local branch.",
+  "tags": [
+    "git",
+    "pull",
+    "fetch",
+    "sync",
+    "remote",
+    "update"
+  ],
+  "aliases": [
+    "pull-changes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

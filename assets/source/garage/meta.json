@@ -1,0 +1,22 @@
+{
+  "name": "garage",
+  "title": "Garage",
+  "category": "transport",
+  "description": "A garage with a roll-up door, for parking, car storage and workshops.",
+  "tags": [
+    "garage",
+    "parking",
+    "carport",
+    "storage",
+    "workshop",
+    "home"
+  ],
+  "aliases": [
+    "carport"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

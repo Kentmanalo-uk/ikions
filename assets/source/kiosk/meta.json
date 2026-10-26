@@ -1,0 +1,23 @@
+{
+  "name": "kiosk",
+  "title": "Kiosk",
+  "category": "devices",
+  "description": "Represents a self-service touchscreen kiosk on a stand.",
+  "tags": [
+    "self service",
+    "check in",
+    "terminal",
+    "touchscreen",
+    "information",
+    "booth"
+  ],
+  "aliases": [
+    "self-service",
+    "info-kiosk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "nurse",
+  "title": "Nurse",
+  "category": "health",
+  "description": "Represent a nurse, nursing staff or patient care.",
+  "tags": [
+    "nursing",
+    "caregiver",
+    "medical staff",
+    "hospital",
+    "care",
+    "healthcare"
+  ],
+  "aliases": [
+    "nurse-person"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "road-sign",
+  "title": "Road Sign",
+  "category": "transport",
+  "description": "Represents a road sign, a traffic warning or a hazard on the road ahead.",
+  "tags": [
+    "traffic sign",
+    "warning",
+    "signpost",
+    "hazard",
+    "road",
+    "caution"
+  ],
+  "aliases": [
+    "traffic-sign",
+    "warning-sign-post"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

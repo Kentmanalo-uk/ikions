@@ -1,0 +1,24 @@
+{
+  "name": "sailboat",
+  "title": "Sailboat",
+  "category": "transport",
+  "description": "A sailing boat with two sails, for sailing, regattas and the sea.",
+  "tags": [
+    "sailing",
+    "yacht",
+    "sail",
+    "regatta",
+    "sea",
+    "marina",
+    "wind"
+  ],
+  "aliases": [
+    "sailing-boat",
+    "yacht"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

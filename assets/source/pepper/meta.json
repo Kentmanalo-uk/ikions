@@ -1,0 +1,23 @@
+{
+  "name": "pepper",
+  "title": "Chili Pepper",
+  "category": "food",
+  "description": "Represent a chili pepper, spicy food or a hot flavour level.",
+  "tags": [
+    "chili",
+    "spicy",
+    "hot",
+    "vegetable",
+    "jalapeno",
+    "heat",
+    "chili pepper"
+  ],
+  "aliases": [
+    "chilli"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

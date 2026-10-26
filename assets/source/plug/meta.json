@@ -1,0 +1,25 @@
+{
+  "name": "plug",
+  "title": "Plug",
+  "category": "energy",
+  "description": "Connect to power, an integration or a plugin.",
+  "tags": [
+    "power",
+    "electric",
+    "connect",
+    "socket",
+    "plugin",
+    "integration",
+    "cable",
+    "outlet"
+  ],
+  "aliases": [
+    "power-plug",
+    "connector"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

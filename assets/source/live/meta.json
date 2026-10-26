@@ -1,0 +1,23 @@
+{
+  "name": "live",
+  "title": "Live",
+  "category": "media",
+  "description": "A screen with an on-air signal for live broadcasts and streams.",
+  "tags": [
+    "on-air",
+    "broadcast",
+    "stream",
+    "realtime",
+    "tv",
+    "video"
+  ],
+  "aliases": [
+    "live-broadcast",
+    "on-air-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

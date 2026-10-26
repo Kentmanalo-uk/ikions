@@ -1,0 +1,21 @@
+{
+  "name": "flag",
+  "title": "Flag",
+  "category": "maps",
+  "description": "Mark a goal, report content or highlight a milestone.",
+  "tags": [
+    "goal",
+    "milestone",
+    "report",
+    "country",
+    "finish",
+    "destination",
+    "mark"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

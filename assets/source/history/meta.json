@@ -1,0 +1,23 @@
+{
+  "name": "history",
+  "title": "History",
+  "category": "interface",
+  "description": "Show past activity, recent items or earlier versions.",
+  "tags": [
+    "recent",
+    "past",
+    "log",
+    "versions",
+    "timeline",
+    "time"
+  ],
+  "aliases": [
+    "recent",
+    "clock-back"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

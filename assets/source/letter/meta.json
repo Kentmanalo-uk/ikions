@@ -1,0 +1,22 @@
+{
+  "name": "letter",
+  "title": "Letter",
+  "category": "communication",
+  "description": "A sealed envelope for personal letters, invitations or postal mail.",
+  "tags": [
+    "envelope",
+    "post",
+    "correspondence",
+    "invitation",
+    "sealed",
+    "postal"
+  ],
+  "aliases": [
+    "sealed-letter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "parking-meter",
+  "title": "Parking Meter",
+  "category": "transport",
+  "description": "Represents a parking meter, paid street parking or a parking fee.",
+  "tags": [
+    "parking",
+    "meter",
+    "pay",
+    "street parking",
+    "coins",
+    "fee"
+  ],
+  "aliases": [
+    "parking-pay",
+    "pay-parking"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

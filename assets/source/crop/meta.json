@@ -1,0 +1,23 @@
+{
+  "name": "crop",
+  "title": "Crop",
+  "category": "editing",
+  "description": "Crop an image or trim content to a selected area.",
+  "tags": [
+    "trim",
+    "cut",
+    "resize",
+    "image",
+    "frame",
+    "photo",
+    "aspect"
+  ],
+  "aliases": [
+    "trim"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

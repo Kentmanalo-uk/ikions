@@ -1,0 +1,23 @@
+{
+  "name": "file-signature",
+  "title": "File Signature",
+  "category": "files",
+  "description": "Sign a document or show a document that needs a signature.",
+  "tags": [
+    "sign",
+    "signature",
+    "esign",
+    "approve",
+    "agreement",
+    "autograph"
+  ],
+  "aliases": [
+    "sign-document",
+    "esignature"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

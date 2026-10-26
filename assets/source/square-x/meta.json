@@ -1,0 +1,19 @@
+{
+  "name": "square-x",
+  "title": "Square X",
+  "category": "shapes",
+  "description": "X in a square: close, remove or reject.",
+  "tags": [
+    "square",
+    "close",
+    "remove",
+    "cancel",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

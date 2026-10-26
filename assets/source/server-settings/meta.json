@@ -1,0 +1,21 @@
+{
+  "name": "server-settings",
+  "title": "Server Settings",
+  "category": "devices",
+  "description": "Settings and preferences for a server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "settings",
+    "preferences",
+    "configure",
+    "server"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

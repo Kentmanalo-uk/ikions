@@ -1,0 +1,22 @@
+{
+  "name": "script",
+  "title": "Script",
+  "category": "development",
+  "description": "A scroll of code lines representing a script, macro or automation file.",
+  "tags": [
+    "automation",
+    "shell script",
+    "macro",
+    "scroll",
+    "batch",
+    "code"
+  ],
+  "aliases": [
+    "automation-script"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

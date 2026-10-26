@@ -1,0 +1,22 @@
+{
+  "name": "ship",
+  "title": "Ship",
+  "category": "transport",
+  "description": "Represent sea travel, ferries, cruises or freight shipping.",
+  "tags": [
+    "boat",
+    "ferry",
+    "cruise",
+    "vessel",
+    "sea",
+    "shipping",
+    "freight",
+    "harbor"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "stethoscope",
+  "title": "Stethoscope",
+  "category": "health",
+  "description": "Represent a doctor, a medical check-up or healthcare services.",
+  "tags": [
+    "doctor",
+    "medical",
+    "checkup",
+    "physician",
+    "clinic",
+    "healthcare",
+    "diagnosis"
+  ],
+  "aliases": [
+    "checkup"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "salad",
+  "title": "Salad",
+  "category": "food",
+  "description": "Represent a salad bowl, such as healthy eating, greens or a vegetarian meal.",
+  "tags": [
+    "healthy",
+    "greens",
+    "vegetarian",
+    "vegan",
+    "lettuce",
+    "diet",
+    "bowl"
+  ],
+  "aliases": [
+    "salad-bowl"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

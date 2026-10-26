@@ -1,0 +1,22 @@
+{
+  "name": "cookie",
+  "title": "Cookie",
+  "category": "food",
+  "description": "Represent a cookie, such as a biscuit, a snack or browser cookies.",
+  "tags": [
+    "biscuit",
+    "snack",
+    "dessert",
+    "chocolate-chip",
+    "sweet",
+    "bakery"
+  ],
+  "aliases": [
+    "biscuit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

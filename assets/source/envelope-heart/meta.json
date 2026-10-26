@@ -1,0 +1,21 @@
+{
+  "name": "envelope-heart",
+  "title": "Envelope Heart",
+  "category": "communication",
+  "description": "A love letter, thank-you note or message sent with affection.",
+  "tags": [
+    "love letter",
+    "valentine",
+    "thank you",
+    "mail",
+    "romance"
+  ],
+  "aliases": [
+    "heart-envelope"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

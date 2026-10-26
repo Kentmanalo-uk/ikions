@@ -1,0 +1,20 @@
+{
+  "name": "address-book",
+  "title": "Address Book",
+  "category": "communication",
+  "description": "Open an address book of saved contacts.",
+  "tags": [
+    "contacts",
+    "directory",
+    "phonebook",
+    "people",
+    "addresses",
+    "book"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

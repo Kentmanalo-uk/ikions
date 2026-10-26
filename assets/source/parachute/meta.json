@@ -1,0 +1,23 @@
+{
+  "name": "parachute",
+  "title": "Parachute",
+  "category": "transport",
+  "description": "Represents a parachute, skydiving or an air-dropped delivery.",
+  "tags": [
+    "skydiving",
+    "airdrop",
+    "paragliding",
+    "landing",
+    "jump",
+    "sky"
+  ],
+  "aliases": [
+    "skydive",
+    "air-drop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

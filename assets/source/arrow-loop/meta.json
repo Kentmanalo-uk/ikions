@@ -1,0 +1,22 @@
+{
+  "name": "arrow-loop",
+  "title": "Arrow Loop",
+  "category": "arrows",
+  "description": "An arrow that loops around once before continuing on.",
+  "tags": [
+    "loop",
+    "curl",
+    "detour",
+    "cycle",
+    "path",
+    "arrow"
+  ],
+  "aliases": [
+    "loop-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

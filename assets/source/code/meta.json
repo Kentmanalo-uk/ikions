@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "title": "Code",
+  "category": "development",
+  "description": "Show source code, embed a snippet or open developer tools.",
+  "tags": [
+    "programming",
+    "developer",
+    "source",
+    "html",
+    "markup",
+    "embed",
+    "snippet",
+    "tags"
+  ],
+  "aliases": [
+    "source-code",
+    "embed"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wine",
+  "title": "Wine",
+  "category": "food",
+  "description": "Represent wine, such as a wine glass, a bar, a toast or a drinks menu.",
+  "tags": [
+    "wine-glass",
+    "drink",
+    "alcohol",
+    "bar",
+    "toast",
+    "beverage"
+  ],
+  "aliases": [
+    "wine-glass"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

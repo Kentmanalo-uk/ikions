@@ -1,0 +1,23 @@
+{
+  "name": "play-debug",
+  "title": "Play Debug",
+  "category": "development",
+  "description": "Start the program with the debugger attached to catch bugs as it runs.",
+  "tags": [
+    "debug",
+    "run",
+    "start debugging",
+    "bug",
+    "launch",
+    "test"
+  ],
+  "aliases": [
+    "debug-run",
+    "start-debugging"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

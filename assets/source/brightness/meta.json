@@ -1,0 +1,22 @@
+{
+  "name": "brightness",
+  "title": "Brightness",
+  "category": "editing",
+  "description": "Adjust how light or dark an image or screen appears.",
+  "tags": [
+    "light",
+    "exposure",
+    "luminance",
+    "display",
+    "screen",
+    "adjust"
+  ],
+  "aliases": [
+    "adjust-brightness"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

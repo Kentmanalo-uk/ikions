@@ -1,0 +1,23 @@
+{
+  "name": "streaming",
+  "title": "Streaming",
+  "category": "media",
+  "description": "A play button sending out waves for live and on-demand streaming.",
+  "tags": [
+    "stream",
+    "broadcast",
+    "online",
+    "watch",
+    "live",
+    "media"
+  ],
+  "aliases": [
+    "stream",
+    "stream-play"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "car-key",
+  "title": "Car Key",
+  "category": "transport",
+  "description": "A car key fob with its blade, for car rental, keyless entry and vehicle access.",
+  "tags": [
+    "key",
+    "fob",
+    "remote",
+    "rental",
+    "unlock",
+    "keyless",
+    "car"
+  ],
+  "aliases": [
+    "key-fob",
+    "car-remote"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

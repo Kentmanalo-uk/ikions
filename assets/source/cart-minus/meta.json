@@ -1,0 +1,22 @@
+{
+  "name": "cart-minus",
+  "title": "Cart Minus",
+  "category": "commerce",
+  "description": "Remove a cart.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "remove",
+    "subtract",
+    "cart"
+  ],
+  "aliases": [
+    "remove-cart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

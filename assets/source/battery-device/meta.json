@@ -1,0 +1,23 @@
+{
+  "name": "battery-device",
+  "title": "Battery Device",
+  "category": "devices",
+  "description": "Represents a device's battery status or power level.",
+  "tags": [
+    "battery",
+    "power",
+    "charge",
+    "phone",
+    "energy",
+    "status"
+  ],
+  "aliases": [
+    "device-battery",
+    "phone-battery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

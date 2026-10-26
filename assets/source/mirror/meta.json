@@ -1,0 +1,23 @@
+{
+  "name": "mirror",
+  "title": "Mirror",
+  "category": "editing",
+  "description": "Reflect an object across an axis.",
+  "tags": [
+    "reflect",
+    "flip",
+    "symmetry",
+    "axis",
+    "transform",
+    "duplicate"
+  ],
+  "aliases": [
+    "reflect",
+    "symmetry"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

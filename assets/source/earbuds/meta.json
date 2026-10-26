@@ -1,0 +1,23 @@
+{
+  "name": "earbuds",
+  "title": "Earbuds",
+  "category": "media",
+  "description": "Represents a pair of wireless earbuds or in-ear headphones.",
+  "tags": [
+    "wireless",
+    "headphones",
+    "earphones",
+    "audio",
+    "listening",
+    "bluetooth"
+  ],
+  "aliases": [
+    "wireless-earbuds",
+    "in-ear"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

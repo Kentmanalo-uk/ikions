@@ -1,0 +1,23 @@
+{
+  "name": "piano",
+  "title": "Piano",
+  "category": "media",
+  "description": "Represents a piano keyboard, keys or keyboard instruments.",
+  "tags": [
+    "keys",
+    "keyboard",
+    "instrument",
+    "music",
+    "melody",
+    "synth"
+  ],
+  "aliases": [
+    "piano-keys",
+    "keyboard-instrument"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

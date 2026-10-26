@@ -1,0 +1,19 @@
+{
+  "name": "chevrons-right",
+  "title": "Chevrons Right",
+  "category": "arrows",
+  "description": "Double chevron pointing right: skip, jump further or expand fully.",
+  "tags": [
+    "chevron",
+    "double",
+    "skip",
+    "fast",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

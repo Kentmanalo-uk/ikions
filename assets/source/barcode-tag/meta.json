@@ -1,0 +1,24 @@
+{
+  "name": "barcode-tag",
+  "title": "Barcode Tag",
+  "category": "commerce",
+  "description": "A hang tag with a barcode for scanning a product's SKU.",
+  "tags": [
+    "sku",
+    "hang tag",
+    "label",
+    "product",
+    "scan",
+    "inventory",
+    "upc"
+  ],
+  "aliases": [
+    "sku-tag",
+    "hang-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

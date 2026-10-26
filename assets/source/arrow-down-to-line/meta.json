@@ -1,0 +1,19 @@
+{
+  "name": "arrow-down-to-line",
+  "title": "Arrow Down To Line",
+  "category": "arrows",
+  "description": "Arrow pointing down to a line: move to the bottom.",
+  "tags": [
+    "arrow",
+    "align",
+    "edge",
+    "jump",
+    "down"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

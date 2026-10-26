@@ -1,0 +1,23 @@
+{
+  "name": "link-text",
+  "title": "Link Text",
+  "category": "editing",
+  "description": "Turn selected text into a hyperlink.",
+  "tags": [
+    "hyperlink",
+    "link",
+    "url",
+    "anchor",
+    "text",
+    "insert-link"
+  ],
+  "aliases": [
+    "hyperlink-text",
+    "text-link"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

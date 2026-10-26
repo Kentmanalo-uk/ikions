@@ -1,0 +1,23 @@
+{
+  "name": "cloud-fog",
+  "title": "Cloud Fog",
+  "category": "weather",
+  "description": "Foggy or misty weather with low cloud and haze.",
+  "tags": [
+    "weather",
+    "fog",
+    "mist",
+    "haze",
+    "forecast",
+    "visibility"
+  ],
+  "aliases": [
+    "foggy",
+    "misty"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

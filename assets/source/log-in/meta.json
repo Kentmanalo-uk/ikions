@@ -1,0 +1,25 @@
+{
+  "name": "log-in",
+  "title": "Log In",
+  "category": "interface",
+  "description": "Sign in to an account or start a new session.",
+  "tags": [
+    "sign-in",
+    "login",
+    "enter",
+    "access",
+    "session",
+    "account",
+    "door",
+    "authenticate"
+  ],
+  "aliases": [
+    "sign-in",
+    "login"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

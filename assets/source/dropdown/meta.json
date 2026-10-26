@@ -1,0 +1,23 @@
+{
+  "name": "dropdown",
+  "title": "Dropdown",
+  "category": "interface",
+  "description": "A select box that opens a list of options to choose from.",
+  "tags": [
+    "select",
+    "combo box",
+    "picker",
+    "options",
+    "menu",
+    "form"
+  ],
+  "aliases": [
+    "select-box",
+    "combobox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

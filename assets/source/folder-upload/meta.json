@@ -1,0 +1,21 @@
+{
+  "name": "folder-upload",
+  "title": "Folder Upload",
+  "category": "files",
+  "description": "Upload or export a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "upload",
+    "send",
+    "export",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

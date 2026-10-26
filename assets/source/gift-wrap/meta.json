@@ -1,0 +1,23 @@
+{
+  "name": "gift-wrap",
+  "title": "Gift Wrap",
+  "category": "commerce",
+  "description": "A roll of wrapping paper for gift-wrapping an order.",
+  "tags": [
+    "wrapping paper",
+    "gift wrapping",
+    "present",
+    "wrap",
+    "paper roll",
+    "packaging"
+  ],
+  "aliases": [
+    "wrapping-paper",
+    "gift-wrapping"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

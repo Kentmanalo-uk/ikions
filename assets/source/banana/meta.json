@@ -1,0 +1,20 @@
+{
+  "name": "banana",
+  "title": "Banana",
+  "category": "food",
+  "description": "Represent a banana, such as fruit, a healthy snack or potassium.",
+  "tags": [
+    "fruit",
+    "snack",
+    "healthy",
+    "tropical",
+    "yellow",
+    "potassium"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

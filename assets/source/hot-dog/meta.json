@@ -1,0 +1,23 @@
+{
+  "name": "hot-dog",
+  "title": "Hot Dog",
+  "category": "food",
+  "description": "Represent a hot dog, such as fast food, street food or a ballpark snack.",
+  "tags": [
+    "sausage",
+    "fast-food",
+    "street-food",
+    "bun",
+    "snack",
+    "bbq"
+  ],
+  "aliases": [
+    "hotdog",
+    "frankfurter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

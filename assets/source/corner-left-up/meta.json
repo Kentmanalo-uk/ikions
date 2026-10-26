@@ -1,0 +1,20 @@
+{
+  "name": "corner-left-up",
+  "title": "Corner Left Up",
+  "category": "arrows",
+  "description": "Arrow that goes left then turns up: return, redirect or reply.",
+  "tags": [
+    "arrow",
+    "corner",
+    "turn",
+    "return",
+    "left",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

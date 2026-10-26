@@ -1,0 +1,23 @@
+{
+  "name": "grid-guides",
+  "title": "Grid Guides",
+  "category": "editing",
+  "description": "Show or hide layout guides on the canvas.",
+  "tags": [
+    "guides",
+    "layout",
+    "canvas",
+    "rulers",
+    "alignment",
+    "design"
+  ],
+  "aliases": [
+    "layout-guides",
+    "canvas-guides"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kiosk-shop",
+  "title": "Kiosk Shop",
+  "category": "commerce",
+  "description": "Represents a small kiosk booth that sells goods over a counter.",
+  "tags": [
+    "kiosk",
+    "booth",
+    "stand",
+    "newsstand",
+    "vendor",
+    "counter"
+  ],
+  "aliases": [
+    "booth",
+    "newsstand"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

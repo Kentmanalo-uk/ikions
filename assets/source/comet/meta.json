@@ -1,0 +1,22 @@
+{
+  "name": "comet",
+  "title": "Comet",
+  "category": "weather",
+  "description": "A comet with a glowing head and a long tail.",
+  "tags": [
+    "comet",
+    "space",
+    "astronomy",
+    "tail",
+    "sky",
+    "halley"
+  ],
+  "aliases": [
+    "comet-tail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

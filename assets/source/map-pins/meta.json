@@ -1,0 +1,23 @@
+{
+  "name": "map-pins",
+  "title": "Map Pins",
+  "category": "maps",
+  "description": "Shows several location pins for multiple places on a map.",
+  "tags": [
+    "locations",
+    "places",
+    "markers",
+    "points",
+    "nearby",
+    "spots"
+  ],
+  "aliases": [
+    "multiple-pins",
+    "locations"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

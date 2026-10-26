@@ -1,0 +1,22 @@
+{
+  "name": "rotate-shape",
+  "title": "Rotate Shape",
+  "category": "editing",
+  "description": "Rotate a selected object or shape around its centre.",
+  "tags": [
+    "rotate",
+    "turn",
+    "spin",
+    "angle",
+    "shape",
+    "transform"
+  ],
+  "aliases": [
+    "rotate-object"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

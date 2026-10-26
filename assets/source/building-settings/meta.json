@@ -1,0 +1,21 @@
+{
+  "name": "building-settings",
+  "title": "Building Settings",
+  "category": "buildings",
+  "description": "Settings and preferences for a building.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "settings",
+    "preferences",
+    "configure",
+    "building"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

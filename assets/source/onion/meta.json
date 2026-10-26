@@ -1,0 +1,22 @@
+{
+  "name": "onion",
+  "title": "Onion",
+  "category": "food",
+  "description": "Represent an onion, cooking ingredients or vegetables.",
+  "tags": [
+    "vegetable",
+    "ingredient",
+    "cooking",
+    "shallot",
+    "produce",
+    "bulb"
+  ],
+  "aliases": [
+    "shallot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

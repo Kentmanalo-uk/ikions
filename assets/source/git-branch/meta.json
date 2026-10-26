@@ -1,0 +1,24 @@
+{
+  "name": "git-branch",
+  "title": "Git Branch",
+  "category": "development",
+  "description": "Create or switch a branch in version control.",
+  "tags": [
+    "git",
+    "branch",
+    "version-control",
+    "fork",
+    "repository",
+    "source",
+    "diverge"
+  ],
+  "aliases": [
+    "branch",
+    "vcs-branch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

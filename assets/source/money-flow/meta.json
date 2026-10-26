@@ -1,0 +1,23 @@
+{
+  "name": "money-flow",
+  "title": "Money Flow",
+  "category": "finance",
+  "description": "Money moving through a business, account or process.",
+  "tags": [
+    "flow of funds",
+    "money movement",
+    "circulation",
+    "transfer",
+    "stream",
+    "liquidity"
+  ],
+  "aliases": [
+    "funds-flow",
+    "flow-of-funds"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

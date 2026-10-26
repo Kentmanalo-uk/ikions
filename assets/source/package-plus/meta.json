@@ -1,0 +1,23 @@
+{
+  "name": "package-plus",
+  "title": "Package Plus",
+  "category": "commerce",
+  "description": "Add a new package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "add",
+    "new",
+    "create",
+    "package"
+  ],
+  "aliases": [
+    "add-package"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

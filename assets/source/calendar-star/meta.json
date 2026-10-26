@@ -1,0 +1,21 @@
+{
+  "name": "calendar-star",
+  "title": "Calendar Star",
+  "category": "time",
+  "description": "A starred or featured calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "starred",
+    "favorite",
+    "featured",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

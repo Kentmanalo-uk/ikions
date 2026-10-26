@@ -1,0 +1,22 @@
+{
+  "name": "phone-rotate",
+  "title": "Phone Rotate",
+  "category": "devices",
+  "description": "A smartphone with arrows showing screen rotation.",
+  "tags": [
+    "rotation",
+    "orientation",
+    "landscape",
+    "portrait",
+    "turn"
+  ],
+  "aliases": [
+    "screen-rotation",
+    "auto-rotate"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

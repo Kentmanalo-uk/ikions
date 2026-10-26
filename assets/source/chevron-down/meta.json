@@ -1,0 +1,21 @@
+{
+  "name": "chevron-down",
+  "title": "Chevron Down",
+  "category": "arrows",
+  "description": "Expand a menu, open a dropdown or move down.",
+  "tags": [
+    "expand",
+    "dropdown",
+    "caret",
+    "open",
+    "down"
+  ],
+  "aliases": [
+    "expand-more"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

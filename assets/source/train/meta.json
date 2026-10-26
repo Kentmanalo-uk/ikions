@@ -1,0 +1,25 @@
+{
+  "name": "train",
+  "title": "Train",
+  "category": "transport",
+  "description": "Represent rail travel, a train station or a railway journey.",
+  "tags": [
+    "rail",
+    "railway",
+    "locomotive",
+    "transit",
+    "metro",
+    "high-speed",
+    "station",
+    "commute"
+  ],
+  "aliases": [
+    "railway",
+    "rail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

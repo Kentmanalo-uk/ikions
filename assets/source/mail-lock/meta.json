@@ -1,0 +1,22 @@
+{
+  "name": "mail-lock",
+  "title": "Mail Lock",
+  "category": "communication",
+  "description": "A locked, private or protected mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

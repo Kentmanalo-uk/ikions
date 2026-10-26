@@ -1,0 +1,22 @@
+{
+  "name": "camera-minus",
+  "title": "Camera Minus",
+  "category": "media",
+  "description": "Remove a camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "remove",
+    "subtract",
+    "camera"
+  ],
+  "aliases": [
+    "remove-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

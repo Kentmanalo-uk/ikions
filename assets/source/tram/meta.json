@@ -1,0 +1,22 @@
+{
+  "name": "tram",
+  "title": "Tram",
+  "category": "transport",
+  "description": "A tram with its overhead pantograph, for streetcars and light rail.",
+  "tags": [
+    "streetcar",
+    "trolley",
+    "light-rail",
+    "transit",
+    "cable-car",
+    "commute"
+  ],
+  "aliases": [
+    "streetcar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

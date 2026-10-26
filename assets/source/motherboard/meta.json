@@ -1,0 +1,23 @@
+{
+  "name": "motherboard",
+  "title": "Motherboard",
+  "category": "devices",
+  "description": "Represents a computer motherboard or mainboard with its CPU socket and slots.",
+  "tags": [
+    "mainboard",
+    "circuit board",
+    "pcb",
+    "socket",
+    "hardware",
+    "computer"
+  ],
+  "aliases": [
+    "mainboard",
+    "logic-board"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "traffic-light",
+  "title": "Traffic Light",
+  "category": "maps",
+  "description": "Shows a traffic signal with stop, caution and go lights.",
+  "tags": [
+    "signal",
+    "stoplight",
+    "red light",
+    "intersection",
+    "traffic",
+    "junction"
+  ],
+  "aliases": [
+    "stoplight",
+    "traffic-signal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

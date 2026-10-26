@@ -1,0 +1,19 @@
+{
+  "name": "chevrons-up",
+  "title": "Chevrons Up",
+  "category": "arrows",
+  "description": "Double chevron pointing up: skip, jump further or expand fully.",
+  "tags": [
+    "chevron",
+    "double",
+    "skip",
+    "fast",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

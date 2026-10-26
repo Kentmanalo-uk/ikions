@@ -1,0 +1,19 @@
+{
+  "name": "circle-divide",
+  "title": "Circle Divide",
+  "category": "shapes",
+  "description": "Divide in a circle: division in calculations.",
+  "tags": [
+    "circle",
+    "divide",
+    "math",
+    "calculator",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

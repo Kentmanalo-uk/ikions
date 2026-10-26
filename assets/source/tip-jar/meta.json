@@ -1,0 +1,23 @@
+{
+  "name": "tip-jar",
+  "title": "Tip Jar",
+  "category": "finance",
+  "description": "A jar for collecting tips and gratuities.",
+  "tags": [
+    "tips",
+    "gratuity",
+    "jar",
+    "service",
+    "thanks",
+    "cash"
+  ],
+  "aliases": [
+    "gratuity-jar",
+    "tips-jar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

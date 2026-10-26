@@ -1,0 +1,22 @@
+{
+  "name": "arrow-elbow",
+  "title": "Arrow Elbow",
+  "category": "arrows",
+  "description": "A stepped elbow connector ending in an arrow, for diagram flows.",
+  "tags": [
+    "elbow",
+    "connector",
+    "step",
+    "flow",
+    "diagram",
+    "bend"
+  ],
+  "aliases": [
+    "elbow-connector"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

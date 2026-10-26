@@ -1,0 +1,23 @@
+{
+  "name": "notification-inbox",
+  "title": "Inbox Notification",
+  "category": "communication",
+  "description": "Show that new items or unread messages are waiting in an inbox.",
+  "tags": [
+    "unread",
+    "new message",
+    "inbox",
+    "alert",
+    "badge",
+    "notification"
+  ],
+  "aliases": [
+    "inbox-badge",
+    "unread-inbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

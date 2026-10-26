@@ -1,0 +1,19 @@
+{
+  "name": "arrow-left-from-line",
+  "title": "Arrow Left From Line",
+  "category": "arrows",
+  "description": "Arrow moving left away from a line: lift, raise or move off an edge.",
+  "tags": [
+    "arrow",
+    "edge",
+    "move",
+    "lift",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

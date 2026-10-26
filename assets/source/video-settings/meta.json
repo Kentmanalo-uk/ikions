@@ -1,0 +1,21 @@
+{
+  "name": "video-settings",
+  "title": "Video Settings",
+  "category": "media",
+  "description": "Settings and preferences for a video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "settings",
+    "preferences",
+    "configure",
+    "video"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "video-check",
+  "title": "Video Check",
+  "category": "media",
+  "description": "Video confirmed, completed or verified.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "video"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

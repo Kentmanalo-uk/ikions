@@ -1,0 +1,25 @@
+{
+  "name": "droplet",
+  "title": "Droplet",
+  "category": "weather",
+  "description": "Represent water, liquid, humidity or a colour fill.",
+  "tags": [
+    "water",
+    "drop",
+    "liquid",
+    "humidity",
+    "rain",
+    "fill",
+    "ink",
+    "hydration"
+  ],
+  "aliases": [
+    "drop",
+    "water-drop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

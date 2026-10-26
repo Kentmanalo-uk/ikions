@@ -1,0 +1,20 @@
+{
+  "name": "conversation",
+  "title": "Conversation",
+  "category": "communication",
+  "description": "Represent a two-way conversation or dialogue.",
+  "tags": [
+    "dialogue",
+    "chat",
+    "talk",
+    "discussion",
+    "messages",
+    "exchange"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

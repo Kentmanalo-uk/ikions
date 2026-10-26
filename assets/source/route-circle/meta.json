@@ -1,0 +1,23 @@
+{
+  "name": "route-circle",
+  "title": "Route Circle",
+  "category": "maps",
+  "description": "A route between two points inside a circle for trips and directions.",
+  "tags": [
+    "route",
+    "directions",
+    "path",
+    "trip",
+    "navigation",
+    "journey"
+  ],
+  "aliases": [
+    "circle-route",
+    "directions-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

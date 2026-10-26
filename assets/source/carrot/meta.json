@@ -1,0 +1,20 @@
+{
+  "name": "carrot",
+  "title": "Carrot",
+  "category": "food",
+  "description": "Represent a carrot, such as vegetables, healthy food or gardening.",
+  "tags": [
+    "vegetable",
+    "veggie",
+    "healthy",
+    "garden",
+    "harvest",
+    "vegan"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

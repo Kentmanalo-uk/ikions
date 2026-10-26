@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "title": "Sample",
+  "category": "commerce",
+  "description": "A free sample sachet of a product to try before buying.",
+  "tags": [
+    "free sample",
+    "trial",
+    "tester",
+    "sachet",
+    "try",
+    "cosmetics"
+  ],
+  "aliases": [
+    "sachet",
+    "free-sample"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "reply-all",
+  "title": "Reply All",
+  "category": "arrows",
+  "description": "Reply to everyone in a message, email or thread.",
+  "tags": [
+    "reply",
+    "all",
+    "respond",
+    "email",
+    "group",
+    "thread"
+  ],
+  "aliases": [
+    "respond-all"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

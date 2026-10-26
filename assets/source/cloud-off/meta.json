@@ -1,0 +1,22 @@
+{
+  "name": "cloud-off",
+  "title": "Cloud Off",
+  "category": "weather",
+  "description": "Turn off, disable or mute the cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

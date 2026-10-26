@@ -1,0 +1,26 @@
+{
+  "name": "link",
+  "title": "Link",
+  "category": "interface",
+  "description": "Insert, copy or follow a hyperlink.",
+  "tags": [
+    "chain",
+    "url",
+    "hyperlink",
+    "attach",
+    "connect",
+    "web",
+    "address",
+    "share"
+  ],
+  "aliases": [
+    "chain",
+    "hyperlink",
+    "url"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

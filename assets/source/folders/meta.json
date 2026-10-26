@@ -1,0 +1,22 @@
+{
+  "name": "folders",
+  "title": "Folders",
+  "category": "files",
+  "description": "Represents multiple folders or a group of directories.",
+  "tags": [
+    "directories",
+    "multiple",
+    "collection",
+    "organize",
+    "library"
+  ],
+  "aliases": [
+    "directories",
+    "folder-stack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

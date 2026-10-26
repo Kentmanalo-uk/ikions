@@ -1,0 +1,23 @@
+{
+  "name": "map-measure",
+  "title": "Map Measure",
+  "category": "maps",
+  "description": "A folded map with a ruler for measuring distances and areas on a map.",
+  "tags": [
+    "measure",
+    "ruler",
+    "distance",
+    "length",
+    "scale",
+    "dimensions"
+  ],
+  "aliases": [
+    "measure-map",
+    "map-ruler"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

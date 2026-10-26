@@ -1,0 +1,23 @@
+{
+  "name": "signpost",
+  "title": "Signpost",
+  "category": "maps",
+  "description": "Shows a wooden signpost with boards pointing in opposite directions.",
+  "tags": [
+    "directions",
+    "fingerpost",
+    "wayfinding",
+    "trail sign",
+    "crossroads",
+    "guide"
+  ],
+  "aliases": [
+    "fingerpost",
+    "guidepost"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

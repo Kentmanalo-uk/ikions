@@ -1,0 +1,23 @@
+{
+  "name": "new-arrival",
+  "title": "New Arrival",
+  "category": "commerce",
+  "description": "Highlight a product that has just arrived in the store.",
+  "tags": [
+    "new",
+    "just in",
+    "latest",
+    "fresh",
+    "new product",
+    "launch"
+  ],
+  "aliases": [
+    "new-in",
+    "just-arrived"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

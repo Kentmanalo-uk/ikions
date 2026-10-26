@@ -1,0 +1,23 @@
+{
+  "name": "mall",
+  "title": "Mall",
+  "category": "commerce",
+  "description": "A shopping centre building with many stores under one roof.",
+  "tags": [
+    "shopping centre",
+    "shopping center",
+    "retail park",
+    "stores",
+    "building",
+    "outlet"
+  ],
+  "aliases": [
+    "shopping-mall",
+    "shopping-centre"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ticket-plus",
+  "title": "Ticket Plus",
+  "category": "transport",
+  "description": "Add a new ticket.",
+  "tags": [
+    "admission",
+    "pass",
+    "boarding-pass",
+    "add",
+    "new",
+    "create",
+    "ticket"
+  ],
+  "aliases": [
+    "add-ticket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "fist",
+  "title": "Fist",
+  "category": "people",
+  "description": "Show strength, solidarity, power or a fist bump.",
+  "tags": [
+    "fist",
+    "power",
+    "strength",
+    "solidarity",
+    "punch",
+    "fist-bump"
+  ],
+  "aliases": [
+    "raised-fist",
+    "fist-bump"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

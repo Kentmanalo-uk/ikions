@@ -1,0 +1,22 @@
+{
+  "name": "book-check",
+  "title": "Book Check",
+  "category": "education",
+  "description": "Book confirmed, completed or verified.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "book"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "library-code",
+  "title": "Code Library",
+  "category": "development",
+  "description": "A book with code brackets for code libraries, reference docs and APIs.",
+  "tags": [
+    "library",
+    "documentation",
+    "reference",
+    "api docs",
+    "manual",
+    "package"
+  ],
+  "aliases": [
+    "code-library",
+    "code-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

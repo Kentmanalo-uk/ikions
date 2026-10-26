@@ -1,0 +1,27 @@
+{
+  "name": "activity",
+  "title": "Activity",
+  "category": "charts",
+  "description": "Show live activity, a pulse signal or real-time monitoring.",
+  "tags": [
+    "pulse",
+    "heartbeat",
+    "monitor",
+    "signal",
+    "waveform",
+    "realtime",
+    "live",
+    "analytics",
+    "health",
+    "status"
+  ],
+  "aliases": [
+    "pulse-line",
+    "pulse"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

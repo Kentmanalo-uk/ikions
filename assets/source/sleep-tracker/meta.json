@@ -1,0 +1,23 @@
+{
+  "name": "sleep-tracker",
+  "title": "Sleep Tracker",
+  "category": "health",
+  "description": "A smartwatch showing a moon for sleep tracking and bedtime routines.",
+  "tags": [
+    "sleep",
+    "sleep tracking",
+    "wearable",
+    "bedtime",
+    "rest",
+    "sleep cycle",
+    "night"
+  ],
+  "aliases": [
+    "sleep-monitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

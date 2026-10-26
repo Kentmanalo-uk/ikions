@@ -1,0 +1,25 @@
+{
+  "name": "backpack-travel",
+  "title": "Travel Backpack",
+  "category": "transport",
+  "description": "Represents a travel backpack, backpacking or a hiking trip.",
+  "tags": [
+    "backpacking",
+    "rucksack",
+    "hiking",
+    "trekking",
+    "luggage",
+    "adventure"
+  ],
+  "aliases": [
+    "rucksack",
+    "hiking-pack",
+    "backpack-lifestyle",
+    "backpack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cloud-hail",
+  "title": "Cloud Hail",
+  "category": "weather",
+  "description": "Hailstones falling from a storm cloud.",
+  "tags": [
+    "weather",
+    "hail",
+    "hailstones",
+    "ice",
+    "storm",
+    "forecast"
+  ],
+  "aliases": [
+    "hail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

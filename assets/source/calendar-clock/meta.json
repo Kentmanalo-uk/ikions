@@ -1,0 +1,22 @@
+{
+  "name": "calendar-clock",
+  "title": "Calendar Clock",
+  "category": "time",
+  "description": "A scheduled, pending or recent calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

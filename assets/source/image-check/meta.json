@@ -1,0 +1,22 @@
+{
+  "name": "image-check",
+  "title": "Image Check",
+  "category": "media",
+  "description": "Image confirmed, completed or verified.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scooter",
+  "title": "Scooter",
+  "category": "transport",
+  "description": "A step-through motor scooter, for mopeds, city riding and food delivery.",
+  "tags": [
+    "moped",
+    "motor-scooter",
+    "ride",
+    "city",
+    "delivery",
+    "two-wheeler"
+  ],
+  "aliases": [
+    "moped"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

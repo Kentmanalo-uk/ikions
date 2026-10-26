@@ -1,0 +1,24 @@
+{
+  "name": "shield",
+  "title": "Shield",
+  "category": "security",
+  "description": "Represent protection, security features or a safeguarded state.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "defense",
+    "guard",
+    "antivirus",
+    "privacy",
+    "secure"
+  ],
+  "aliases": [
+    "protection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

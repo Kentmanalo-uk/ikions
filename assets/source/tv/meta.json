@@ -1,0 +1,23 @@
+{
+  "name": "tv",
+  "title": "TV",
+  "category": "media",
+  "description": "Represent a television, streaming channel or broadcast.",
+  "tags": [
+    "television",
+    "screen",
+    "streaming",
+    "channel",
+    "broadcast",
+    "show",
+    "display"
+  ],
+  "aliases": [
+    "television"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

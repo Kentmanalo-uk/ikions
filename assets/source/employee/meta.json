@@ -1,0 +1,22 @@
+{
+  "name": "employee",
+  "title": "Employee",
+  "category": "people",
+  "description": "Represent a staff member, such as an employee profile or directory entry.",
+  "tags": [
+    "staff",
+    "worker",
+    "personnel",
+    "colleague",
+    "hr",
+    "lanyard"
+  ],
+  "aliases": [
+    "staff-member"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

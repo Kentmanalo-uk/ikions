@@ -1,0 +1,24 @@
+{
+  "name": "bond",
+  "title": "Bond",
+  "category": "finance",
+  "description": "A bond certificate for fixed-income investments and debt securities.",
+  "tags": [
+    "bond",
+    "certificate",
+    "fixed income",
+    "debt",
+    "security",
+    "treasury",
+    "investment"
+  ],
+  "aliases": [
+    "bond-certificate",
+    "fixed-income"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

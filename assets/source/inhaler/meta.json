@@ -1,0 +1,23 @@
+{
+  "name": "inhaler",
+  "title": "Inhaler",
+  "category": "health",
+  "description": "Represent an asthma inhaler or respiratory medication.",
+  "tags": [
+    "asthma",
+    "puffer",
+    "respiratory",
+    "breathing",
+    "medication",
+    "copd"
+  ],
+  "aliases": [
+    "asthma-inhaler",
+    "puffer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

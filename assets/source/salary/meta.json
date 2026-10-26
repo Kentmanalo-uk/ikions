@@ -1,0 +1,23 @@
+{
+  "name": "salary",
+  "title": "Salary",
+  "category": "finance",
+  "description": "A regular salary paid on payday, shown as a calendar with a dollar sign.",
+  "tags": [
+    "wage",
+    "income",
+    "pay",
+    "payday",
+    "earnings",
+    "monthly pay"
+  ],
+  "aliases": [
+    "payday",
+    "wages"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

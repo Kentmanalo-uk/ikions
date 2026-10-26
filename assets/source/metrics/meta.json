@@ -1,0 +1,23 @@
+{
+  "name": "metrics",
+  "title": "Metrics",
+  "category": "development",
+  "description": "Represents application metrics shown as a panel of measured values.",
+  "tags": [
+    "stats",
+    "measurements",
+    "dashboard",
+    "kpi",
+    "observability",
+    "monitoring"
+  ],
+  "aliases": [
+    "app-metrics",
+    "stats-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

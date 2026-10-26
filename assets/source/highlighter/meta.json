@@ -1,0 +1,23 @@
+{
+  "name": "highlighter",
+  "title": "Highlighter",
+  "category": "editing",
+  "description": "Highlight text or mark important passages with a highlighter pen.",
+  "tags": [
+    "highlight",
+    "mark",
+    "emphasis",
+    "pen",
+    "annotate",
+    "study"
+  ],
+  "aliases": [
+    "highlighter-pen",
+    "highlight-pen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

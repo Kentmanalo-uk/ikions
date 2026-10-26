@@ -1,0 +1,28 @@
+{
+  "name": "ambulance",
+  "title": "Ambulance",
+  "category": "health",
+  "description": "Represent an ambulance, emergency transport or paramedic services.",
+  "tags": [
+    "emergency",
+    "paramedic",
+    "rescue",
+    "vehicle",
+    "911",
+    "hospital transport",
+    "ambulance",
+    "medical",
+    "hospital"
+  ],
+  "aliases": [
+    "emergency-vehicle",
+    "ambulance-vehicle",
+    "ambulance-van",
+    "paramedic-van"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

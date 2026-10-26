@@ -1,0 +1,22 @@
+{
+  "name": "quote",
+  "title": "Quote",
+  "category": "editing",
+  "description": "Insert a quotation or format text as a block quote.",
+  "tags": [
+    "quotation",
+    "blockquote",
+    "cite",
+    "testimonial",
+    "speech"
+  ],
+  "aliases": [
+    "blockquote",
+    "quotation-marks"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chat-right",
+  "title": "Chat Right",
+  "category": "communication",
+  "description": "An outgoing chat message bubble aligned to the right.",
+  "tags": [
+    "message",
+    "bubble",
+    "outgoing",
+    "sent",
+    "conversation",
+    "text"
+  ],
+  "aliases": [
+    "chat-outgoing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

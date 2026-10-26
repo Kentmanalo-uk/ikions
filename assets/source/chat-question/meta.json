@@ -1,0 +1,21 @@
+{
+  "name": "chat-question",
+  "title": "Chat Question",
+  "category": "communication",
+  "description": "Help or questions about a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "help",
+    "unknown",
+    "support",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shield-off",
+  "title": "Shield Off",
+  "category": "security",
+  "description": "Turn off, disable or mute the shield.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-shield"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

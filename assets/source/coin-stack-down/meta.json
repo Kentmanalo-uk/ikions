@@ -1,0 +1,24 @@
+{
+  "name": "coin-stack-down",
+  "title": "Coin Stack Down",
+  "category": "finance",
+  "description": "A stack of coins with a downward arrow for falling funds or spending.",
+  "tags": [
+    "decrease",
+    "decline",
+    "loss",
+    "spending",
+    "expenses",
+    "money down",
+    "cost"
+  ],
+  "aliases": [
+    "coins-decrease",
+    "coins-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

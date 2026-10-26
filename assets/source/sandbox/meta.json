@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "title": "Sandbox",
+  "category": "development",
+  "description": "Represents a sandbox, an isolated environment for safely running and testing code.",
+  "tags": [
+    "isolated",
+    "test",
+    "environment",
+    "safe",
+    "container",
+    "experiment"
+  ],
+  "aliases": [
+    "sandbox-environment",
+    "test-environment"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

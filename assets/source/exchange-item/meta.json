@@ -1,0 +1,23 @@
+{
+  "name": "exchange-item",
+  "title": "Exchange Item",
+  "category": "commerce",
+  "description": "Swap a purchased product for a different one.",
+  "tags": [
+    "exchange",
+    "swap",
+    "replace",
+    "return",
+    "size swap",
+    "trade in"
+  ],
+  "aliases": [
+    "swap-item",
+    "replace-item"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

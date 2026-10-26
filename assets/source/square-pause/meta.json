@@ -1,0 +1,19 @@
+{
+  "name": "square-pause",
+  "title": "Square Pause",
+  "category": "shapes",
+  "description": "Pause in a square: pause playback.",
+  "tags": [
+    "square",
+    "pause",
+    "media",
+    "hold",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

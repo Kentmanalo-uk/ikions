@@ -1,0 +1,19 @@
+{
+  "name": "chevron-circle-up",
+  "title": "Chevron Circle Up",
+  "category": "arrows",
+  "description": "Chevron pointing up inside a circle; a round navigation or expand button.",
+  "tags": [
+    "chevron",
+    "circle",
+    "button",
+    "navigate",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

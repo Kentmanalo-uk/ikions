@@ -1,0 +1,23 @@
+{
+  "name": "book-reading",
+  "title": "Book Reading",
+  "category": "education",
+  "description": "A person reading an open book for reading time, study or story hour.",
+  "tags": [
+    "reader",
+    "reading",
+    "study",
+    "story time",
+    "student",
+    "literacy"
+  ],
+  "aliases": [
+    "reader",
+    "reading-person"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

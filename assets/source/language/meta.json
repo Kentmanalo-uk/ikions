@@ -1,0 +1,22 @@
+{
+  "name": "language",
+  "title": "Language",
+  "category": "communication",
+  "description": "Choose a spoken or interface language, or mark multilingual content.",
+  "tags": [
+    "locale",
+    "speech",
+    "i18n",
+    "localization",
+    "spoken",
+    "region"
+  ],
+  "aliases": [
+    "locale"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

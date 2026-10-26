@@ -1,0 +1,20 @@
+{
+  "name": "arrow-circle-up-right",
+  "title": "Arrow Circle Up Right",
+  "category": "arrows",
+  "description": "Arrow pointing up and right inside a circle; a direction button or step control.",
+  "tags": [
+    "arrow",
+    "direction",
+    "circle",
+    "button",
+    "up",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

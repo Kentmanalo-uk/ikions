@@ -1,0 +1,22 @@
+{
+  "name": "shapes",
+  "title": "Shapes",
+  "category": "editing",
+  "description": "Insert basic shapes such as a circle, square and triangle.",
+  "tags": [
+    "shape",
+    "geometry",
+    "circle",
+    "square",
+    "triangle",
+    "insert"
+  ],
+  "aliases": [
+    "basic-shapes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

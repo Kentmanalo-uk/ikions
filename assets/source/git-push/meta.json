@@ -1,0 +1,22 @@
+{
+  "name": "git-push",
+  "title": "Git Push",
+  "category": "development",
+  "description": "Push local commits up to a remote repository.",
+  "tags": [
+    "git",
+    "push",
+    "upload",
+    "sync",
+    "remote",
+    "publish"
+  ],
+  "aliases": [
+    "push-changes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

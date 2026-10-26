@@ -1,0 +1,22 @@
+{
+  "name": "arrow-return-left",
+  "title": "Arrow Return Left",
+  "category": "arrows",
+  "description": "An arrow that drops down and returns to the left, like a line break.",
+  "tags": [
+    "return",
+    "line break",
+    "newline",
+    "carriage return",
+    "left",
+    "arrow"
+  ],
+  "aliases": [
+    "return-arrow-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "order",
+  "title": "Order",
+  "category": "commerce",
+  "description": "Represents a customer order with its items listed for fulfilment.",
+  "tags": [
+    "purchase",
+    "order-form",
+    "items",
+    "fulfilment",
+    "sales",
+    "clipboard"
+  ],
+  "aliases": [
+    "purchase-order"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

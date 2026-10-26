@@ -1,0 +1,23 @@
+{
+  "name": "release",
+  "title": "Release",
+  "category": "development",
+  "description": "A version tag being published as a new software release.",
+  "tags": [
+    "publish",
+    "version",
+    "tag",
+    "ship",
+    "launch",
+    "changelog"
+  ],
+  "aliases": [
+    "publish-release",
+    "new-release"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

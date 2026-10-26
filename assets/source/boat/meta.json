@@ -1,0 +1,23 @@
+{
+  "name": "boat",
+  "title": "Boat",
+  "category": "transport",
+  "description": "A motorboat on the water, for boating, marinas and water trips.",
+  "tags": [
+    "motorboat",
+    "speedboat",
+    "marina",
+    "water",
+    "boating",
+    "lake"
+  ],
+  "aliases": [
+    "motorboat",
+    "speedboat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

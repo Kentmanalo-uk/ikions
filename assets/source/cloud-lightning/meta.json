@@ -1,0 +1,24 @@
+{
+  "name": "cloud-lightning",
+  "title": "Cloud Lightning",
+  "category": "weather",
+  "description": "Represent a thunderstorm, lightning or severe weather.",
+  "tags": [
+    "storm",
+    "thunder",
+    "thunderstorm",
+    "lightning",
+    "weather",
+    "forecast",
+    "bolt",
+    "severe"
+  ],
+  "aliases": [
+    "thunderstorm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

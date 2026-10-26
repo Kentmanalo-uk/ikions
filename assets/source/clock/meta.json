@@ -1,0 +1,21 @@
+{
+  "name": "clock",
+  "title": "Clock",
+  "category": "time",
+  "description": "Show the time, a history log or a scheduled item.",
+  "tags": [
+    "time",
+    "hour",
+    "history",
+    "watch",
+    "pending"
+  ],
+  "aliases": [
+    "time"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

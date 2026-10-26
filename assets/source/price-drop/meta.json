@@ -1,0 +1,23 @@
+{
+  "name": "price-drop",
+  "title": "Price Drop",
+  "category": "commerce",
+  "description": "Show that a product's price has been reduced.",
+  "tags": [
+    "price cut",
+    "reduced",
+    "markdown",
+    "cheaper",
+    "sale",
+    "discount"
+  ],
+  "aliases": [
+    "price-down",
+    "price-decrease"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

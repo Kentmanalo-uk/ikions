@@ -1,0 +1,22 @@
+{
+  "name": "video-lock",
+  "title": "Video Lock",
+  "category": "media",
+  "description": "A locked, private or protected video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "video"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

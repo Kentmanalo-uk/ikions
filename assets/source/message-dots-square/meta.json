@@ -1,0 +1,21 @@
+{
+  "name": "message-dots-square",
+  "title": "Message Dots Square",
+  "category": "communication",
+  "description": "A message bubble with dots for typing or more options.",
+  "tags": [
+    "chat",
+    "typing",
+    "comment",
+    "more",
+    "ellipsis"
+  ],
+  "aliases": [
+    "message-more"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

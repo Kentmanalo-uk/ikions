@@ -1,0 +1,20 @@
+{
+  "name": "speech",
+  "title": "Speech",
+  "category": "communication",
+  "description": "Represent speaking aloud, voice output or text to speech.",
+  "tags": [
+    "speak",
+    "voice",
+    "talk",
+    "audio",
+    "say",
+    "narration"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

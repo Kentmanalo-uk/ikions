@@ -1,0 +1,23 @@
+{
+  "name": "payroll",
+  "title": "Payroll",
+  "category": "finance",
+  "description": "Pay employees their wages through payroll.",
+  "tags": [
+    "wages",
+    "employees",
+    "pay run",
+    "staff",
+    "hr",
+    "compensation"
+  ],
+  "aliases": [
+    "pay-run",
+    "employee-pay"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

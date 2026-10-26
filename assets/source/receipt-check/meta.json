@@ -1,0 +1,24 @@
+{
+  "name": "receipt-check",
+  "title": "Receipt Check",
+  "category": "commerce",
+  "description": "Receipt confirmed, completed or verified.",
+  "tags": [
+    "invoice",
+    "bill",
+    "payment",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "receipt"
+  ],
+  "aliases": [
+    "bill-paid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

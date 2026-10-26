@@ -1,0 +1,24 @@
+{
+  "name": "wheelchair-transport",
+  "title": "Wheelchair Access",
+  "category": "transport",
+  "description": "Represents wheelchair-accessible transport, step-free boarding or reserved seating.",
+  "tags": [
+    "accessible",
+    "wheelchair",
+    "disability",
+    "step-free",
+    "mobility",
+    "reserved seat"
+  ],
+  "aliases": [
+    "accessible-transport",
+    "step-free-access",
+    "wheelchair"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

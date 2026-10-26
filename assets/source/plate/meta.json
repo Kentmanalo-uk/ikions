@@ -1,0 +1,22 @@
+{
+  "name": "plate",
+  "title": "Plate",
+  "category": "food",
+  "description": "Represent a plate or dish, such as a meal, serving or dining option.",
+  "tags": [
+    "dish",
+    "dining",
+    "meal",
+    "serving",
+    "tableware",
+    "dinner"
+  ],
+  "aliases": [
+    "dish"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

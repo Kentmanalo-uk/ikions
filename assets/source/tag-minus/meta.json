@@ -1,0 +1,22 @@
+{
+  "name": "tag-minus",
+  "title": "Tag Minus",
+  "category": "commerce",
+  "description": "Remove a tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "remove",
+    "subtract",
+    "tag"
+  ],
+  "aliases": [
+    "remove-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

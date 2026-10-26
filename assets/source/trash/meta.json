@@ -1,0 +1,24 @@
+{
+  "name": "trash",
+  "title": "Trash",
+  "category": "interface",
+  "description": "Delete an item or move it to the bin.",
+  "tags": [
+    "delete",
+    "bin",
+    "garbage",
+    "remove",
+    "discard",
+    "rubbish"
+  ],
+  "aliases": [
+    "delete",
+    "bin",
+    "garbage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "destination",
+  "title": "Destination",
+  "category": "maps",
+  "description": "Marks the arrival point of a trip with a flag planted on the ground.",
+  "tags": [
+    "arrival",
+    "finish",
+    "goal",
+    "end",
+    "trip",
+    "target"
+  ],
+  "aliases": [
+    "arrival-point",
+    "finish-point"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

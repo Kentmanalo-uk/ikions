@@ -1,0 +1,24 @@
+{
+  "name": "monitor-x",
+  "title": "Monitor X",
+  "category": "devices",
+  "description": "Delete, cancel or reject a monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "monitor"
+  ],
+  "aliases": [
+    "delete-monitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pretzel",
+  "title": "Pretzel",
+  "category": "food",
+  "description": "Represent a pretzel, such as a baked snack, a bakery or a beer garden.",
+  "tags": [
+    "snack",
+    "bakery",
+    "baked",
+    "salty",
+    "german",
+    "oktoberfest"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

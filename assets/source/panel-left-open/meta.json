@@ -1,0 +1,23 @@
+{
+  "name": "panel-left-open",
+  "title": "Panel Left Open",
+  "category": "interface",
+  "description": "Open the left side panel.",
+  "tags": [
+    "sidebar",
+    "open",
+    "expand",
+    "show",
+    "drawer",
+    "panel"
+  ],
+  "aliases": [
+    "sidebar-open",
+    "show-left-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

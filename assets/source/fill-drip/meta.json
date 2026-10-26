@@ -1,0 +1,23 @@
+{
+  "name": "fill-drip",
+  "title": "Fill Drip",
+  "category": "editing",
+  "description": "Apply a fill colour, shown as paint dripping from a shape.",
+  "tags": [
+    "fill",
+    "paint",
+    "drip",
+    "colour",
+    "color",
+    "background"
+  ],
+  "aliases": [
+    "paint-drip",
+    "fill-color"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

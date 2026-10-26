@@ -1,0 +1,22 @@
+{
+  "name": "smartphone-check",
+  "title": "Smartphone Check",
+  "category": "devices",
+  "description": "Smartphone confirmed, completed or verified.",
+  "tags": [
+    "mobile",
+    "phone",
+    "cell",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "smartphone"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

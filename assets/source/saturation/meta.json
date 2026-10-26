@@ -1,0 +1,22 @@
+{
+  "name": "saturation",
+  "title": "Saturation",
+  "category": "editing",
+  "description": "Adjust the intensity of colours in an image.",
+  "tags": [
+    "color",
+    "colour",
+    "vibrance",
+    "intensity",
+    "hue",
+    "photo"
+  ],
+  "aliases": [
+    "color-saturation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

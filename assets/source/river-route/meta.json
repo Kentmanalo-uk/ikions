@@ -1,0 +1,23 @@
+{
+  "name": "river-route",
+  "title": "River Route",
+  "category": "maps",
+  "description": "A winding river with a dotted course for boat, kayak and waterway routes.",
+  "tags": [
+    "river",
+    "waterway",
+    "kayak",
+    "boat",
+    "canoe",
+    "stream"
+  ],
+  "aliases": [
+    "waterway-route",
+    "boat-route"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

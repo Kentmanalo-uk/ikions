@@ -1,0 +1,23 @@
+{
+  "name": "virus",
+  "title": "Virus",
+  "category": "health",
+  "description": "Represent a virus, an infection, germs or a pandemic.",
+  "tags": [
+    "germ",
+    "infection",
+    "pathogen",
+    "covid",
+    "bacteria",
+    "pandemic",
+    "disease"
+  ],
+  "aliases": [
+    "pathogen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

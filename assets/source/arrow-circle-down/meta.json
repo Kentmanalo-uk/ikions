@@ -1,0 +1,19 @@
+{
+  "name": "arrow-circle-down",
+  "title": "Arrow Circle Down",
+  "category": "arrows",
+  "description": "Arrow pointing down inside a circle; a direction button or step control.",
+  "tags": [
+    "arrow",
+    "direction",
+    "circle",
+    "button",
+    "down"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "magnet",
+  "title": "Magnet",
+  "category": "science",
+  "description": "Represent magnetism, attraction or lead capture.",
+  "tags": [
+    "magnetic",
+    "attract",
+    "physics",
+    "pull",
+    "horseshoe",
+    "lead-generation",
+    "force",
+    "snap"
+  ],
+  "aliases": [
+    "horseshoe-magnet",
+    "attract"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

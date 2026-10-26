@@ -1,0 +1,23 @@
+{
+  "name": "tooth",
+  "title": "Tooth",
+  "category": "health",
+  "description": "Represent dental care, a dentist visit or oral health.",
+  "tags": [
+    "dental",
+    "dentist",
+    "teeth",
+    "molar",
+    "oral",
+    "orthodontics"
+  ],
+  "aliases": [
+    "dental",
+    "molar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

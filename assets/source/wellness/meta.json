@@ -1,0 +1,24 @@
+{
+  "name": "wellness",
+  "title": "Wellness",
+  "category": "health",
+  "description": "Represent wellbeing, self-care, spa treatments or a healthy lifestyle.",
+  "tags": [
+    "wellbeing",
+    "self care",
+    "spa",
+    "lotus",
+    "mindfulness",
+    "balance",
+    "healthy"
+  ],
+  "aliases": [
+    "wellbeing",
+    "lotus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

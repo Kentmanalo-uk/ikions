@@ -1,0 +1,23 @@
+{
+  "name": "chess",
+  "title": "Chess",
+  "category": "media",
+  "description": "Represents chess, board games or strategy using a pawn piece.",
+  "tags": [
+    "pawn",
+    "strategy",
+    "board-game",
+    "game",
+    "tactics",
+    "checkmate"
+  ],
+  "aliases": [
+    "chess-pawn",
+    "chess-piece"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

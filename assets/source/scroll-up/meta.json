@@ -1,0 +1,22 @@
+{
+  "name": "scroll-up",
+  "title": "Scroll Up",
+  "category": "interface",
+  "description": "Scroll the content up with the mouse wheel or a gesture.",
+  "tags": [
+    "mouse",
+    "wheel",
+    "scroll",
+    "page up",
+    "navigate",
+    "top"
+  ],
+  "aliases": [
+    "mouse-scroll-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

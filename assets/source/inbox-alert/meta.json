@@ -1,0 +1,22 @@
+{
+  "name": "inbox-alert",
+  "title": "Inbox Alert",
+  "category": "communication",
+  "description": "Inbox with a warning or problem that needs attention.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "inbox"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

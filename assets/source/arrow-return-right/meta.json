@@ -1,0 +1,22 @@
+{
+  "name": "arrow-return-right",
+  "title": "Arrow Return Right",
+  "category": "arrows",
+  "description": "An arrow that drops down and continues to the right, like a sub-item.",
+  "tags": [
+    "return",
+    "indent",
+    "sub item",
+    "nested",
+    "right",
+    "arrow"
+  ],
+  "aliases": [
+    "return-arrow-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "upload",
+  "title": "Upload",
+  "category": "arrows",
+  "description": "Send a file or asset from the device to a server.",
+  "tags": [
+    "import",
+    "send",
+    "arrow",
+    "publish",
+    "transfer"
+  ],
+  "aliases": [
+    "upload-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

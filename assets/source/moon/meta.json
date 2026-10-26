@@ -1,0 +1,22 @@
+{
+  "name": "moon",
+  "title": "Moon",
+  "category": "weather",
+  "description": "Represent night, sleep or dark mode.",
+  "tags": [
+    "night",
+    "dark",
+    "sleep",
+    "crescent",
+    "evening"
+  ],
+  "aliases": [
+    "dark-mode",
+    "night"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "menu",
+  "title": "Menu",
+  "category": "interface",
+  "description": "Open the main navigation or a list of options.",
+  "tags": [
+    "hamburger",
+    "navigation",
+    "options",
+    "list",
+    "drawer"
+  ],
+  "aliases": [
+    "hamburger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

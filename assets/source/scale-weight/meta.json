@@ -1,0 +1,23 @@
+{
+  "name": "scale-weight",
+  "title": "Scale Weight",
+  "category": "commerce",
+  "description": "Represents a weighing scale for measuring product or parcel weight.",
+  "tags": [
+    "weigh",
+    "weight",
+    "kilogram",
+    "measure",
+    "postage",
+    "produce"
+  ],
+  "aliases": [
+    "weighing-scale",
+    "kitchen-scale"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

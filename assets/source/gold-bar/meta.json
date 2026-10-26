@@ -1,0 +1,24 @@
+{
+  "name": "gold-bar",
+  "title": "Gold Bar",
+  "category": "finance",
+  "description": "A gold bar for precious metals, bullion and stored value.",
+  "tags": [
+    "gold",
+    "bullion",
+    "ingot",
+    "precious metal",
+    "commodity",
+    "wealth",
+    "reserve"
+  ],
+  "aliases": [
+    "gold-ingot",
+    "bullion"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

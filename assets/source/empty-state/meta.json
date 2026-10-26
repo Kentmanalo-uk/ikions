@@ -1,0 +1,22 @@
+{
+  "name": "empty-state",
+  "title": "Empty State",
+  "category": "interface",
+  "description": "Show that a view or list has nothing in it yet.",
+  "tags": [
+    "empty",
+    "nothing",
+    "no-data",
+    "blank",
+    "zero",
+    "void"
+  ],
+  "aliases": [
+    "empty-view"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

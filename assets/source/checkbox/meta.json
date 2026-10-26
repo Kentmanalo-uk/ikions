@@ -1,0 +1,23 @@
+{
+  "name": "checkbox",
+  "title": "Checkbox",
+  "category": "interface",
+  "description": "An empty checkbox for an unselected option in a form or list.",
+  "tags": [
+    "unchecked",
+    "form",
+    "option",
+    "select",
+    "box",
+    "control"
+  ],
+  "aliases": [
+    "checkbox-empty",
+    "unchecked-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

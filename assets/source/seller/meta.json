@@ -1,0 +1,23 @@
+{
+  "name": "seller",
+  "title": "Seller",
+  "category": "commerce",
+  "description": "Represents a merchant or vendor who sells products.",
+  "tags": [
+    "merchant",
+    "vendor",
+    "shop-owner",
+    "retailer",
+    "sell",
+    "account"
+  ],
+  "aliases": [
+    "merchant",
+    "shop-owner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

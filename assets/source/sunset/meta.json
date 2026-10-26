@@ -1,0 +1,24 @@
+{
+  "name": "sunset",
+  "title": "Sunset",
+  "category": "weather",
+  "description": "The sun going down below the horizon at dusk.",
+  "tags": [
+    "dusk",
+    "evening",
+    "sun",
+    "horizon",
+    "nightfall",
+    "weather",
+    "sundown"
+  ],
+  "aliases": [
+    "dusk",
+    "sundown"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wireless-charging",
+  "title": "Wireless Charging",
+  "category": "devices",
+  "description": "Represents a wireless charging pad or Qi charging.",
+  "tags": [
+    "qi",
+    "charging pad",
+    "wireless",
+    "induction",
+    "battery",
+    "power"
+  ],
+  "aliases": [
+    "qi-charging",
+    "charging-pad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

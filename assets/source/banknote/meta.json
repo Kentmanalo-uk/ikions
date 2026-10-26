@@ -1,0 +1,29 @@
+{
+  "name": "banknote",
+  "title": "Banknote",
+  "category": "finance",
+  "description": "Represent paper money, a cash payment or a bill.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "checkout",
+    "purchase",
+    "cash",
+    "currency",
+    "note",
+    "dollar",
+    "bill",
+    "finance",
+    "salary"
+  ],
+  "aliases": [
+    "paper-money",
+    "cash"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

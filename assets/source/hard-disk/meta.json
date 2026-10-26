@@ -1,0 +1,23 @@
+{
+  "name": "hard-disk",
+  "title": "Hard Disk",
+  "category": "devices",
+  "description": "Represents a spinning hard disk with its platter and read arm.",
+  "tags": [
+    "hdd",
+    "disk",
+    "platter",
+    "storage",
+    "drive",
+    "hardware"
+  ],
+  "aliases": [
+    "disk-platter",
+    "spinning-disk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

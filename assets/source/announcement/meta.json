@@ -1,0 +1,20 @@
+{
+  "name": "announcement",
+  "title": "Announcement",
+  "category": "communication",
+  "description": "Make an announcement or share important news.",
+  "tags": [
+    "news",
+    "broadcast",
+    "promotion",
+    "megaphone",
+    "loudspeaker",
+    "notice"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

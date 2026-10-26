@@ -1,0 +1,25 @@
+{
+  "name": "dumbbell",
+  "title": "Dumbbell",
+  "category": "sports",
+  "description": "Represent fitness, workouts or strength training.",
+  "tags": [
+    "fitness",
+    "gym",
+    "workout",
+    "weights",
+    "exercise",
+    "strength",
+    "training",
+    "lifting"
+  ],
+  "aliases": [
+    "weights",
+    "fitness"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

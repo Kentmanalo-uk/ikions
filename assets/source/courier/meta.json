@@ -1,0 +1,23 @@
+{
+  "name": "courier",
+  "title": "Courier",
+  "category": "commerce",
+  "description": "A delivery person carrying a parcel to its destination.",
+  "tags": [
+    "delivery",
+    "delivery person",
+    "parcel",
+    "messenger",
+    "shipping",
+    "driver"
+  ],
+  "aliases": [
+    "delivery-person",
+    "parcel-courier"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

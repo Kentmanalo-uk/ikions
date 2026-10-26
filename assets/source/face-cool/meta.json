@@ -1,0 +1,23 @@
+{
+  "name": "face-cool",
+  "title": "Face Cool",
+  "category": "people",
+  "description": "Show a cool, confident or relaxed attitude.",
+  "tags": [
+    "cool",
+    "sunglasses",
+    "confident",
+    "chill",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "cool-face",
+    "sunglasses-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

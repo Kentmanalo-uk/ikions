@@ -1,0 +1,23 @@
+{
+  "name": "waypoint",
+  "title": "Waypoint",
+  "category": "maps",
+  "description": "A location pin with a trail of dots for waypoints and stops along a track.",
+  "tags": [
+    "stop",
+    "track",
+    "gps",
+    "trail",
+    "breadcrumb",
+    "via point"
+  ],
+  "aliases": [
+    "via-point",
+    "track-point"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

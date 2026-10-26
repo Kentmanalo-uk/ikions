@@ -1,0 +1,23 @@
+{
+  "name": "user-hierarchy",
+  "title": "User Hierarchy",
+  "category": "people",
+  "description": "Show reporting lines, team structure or a manager with direct reports.",
+  "tags": [
+    "hierarchy",
+    "team",
+    "manager",
+    "reports",
+    "structure",
+    "organization"
+  ],
+  "aliases": [
+    "team-structure",
+    "reporting-line"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

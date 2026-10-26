@@ -1,0 +1,22 @@
+{
+  "name": "tab-key",
+  "title": "Tab Key",
+  "category": "interface",
+  "description": "Represent the Tab key used to indent or move focus.",
+  "tags": [
+    "tab",
+    "indent",
+    "focus",
+    "keyboard",
+    "next field",
+    "tabulator"
+  ],
+  "aliases": [
+    "tabulator-key"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

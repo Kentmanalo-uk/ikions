@@ -1,0 +1,23 @@
+{
+  "name": "map-marker-circle",
+  "title": "Round Map Marker",
+  "category": "maps",
+  "description": "A round map marker on a short stem for places and points on a map.",
+  "tags": [
+    "marker",
+    "location",
+    "place",
+    "point",
+    "poi",
+    "lollipop"
+  ],
+  "aliases": [
+    "round-marker",
+    "circle-marker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

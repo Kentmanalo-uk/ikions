@@ -1,0 +1,22 @@
+{
+  "name": "credit-card-minus",
+  "title": "Credit Card Minus",
+  "category": "finance",
+  "description": "Remove a credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "remove",
+    "subtract",
+    "credit"
+  ],
+  "aliases": [
+    "remove-credit-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

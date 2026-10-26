@@ -1,0 +1,23 @@
+{
+  "name": "workflow",
+  "title": "Workflow",
+  "category": "development",
+  "description": "Two steps joined by an arrow, for automated workflows and pipelines.",
+  "tags": [
+    "automation",
+    "pipeline",
+    "flow",
+    "process",
+    "steps",
+    "actions"
+  ],
+  "aliases": [
+    "flowchart-steps",
+    "automation-flow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

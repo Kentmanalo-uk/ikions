@@ -1,0 +1,23 @@
+{
+  "name": "battery-car",
+  "title": "Car Battery",
+  "category": "transport",
+  "description": "Represents a car battery, a flat battery or a vehicle electrical fault.",
+  "tags": [
+    "car battery",
+    "12v",
+    "accumulator",
+    "jump start",
+    "vehicle",
+    "electrical"
+  ],
+  "aliases": [
+    "vehicle-battery",
+    "auto-battery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

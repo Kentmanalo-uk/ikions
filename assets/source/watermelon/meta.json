@@ -1,0 +1,22 @@
+{
+  "name": "watermelon",
+  "title": "Watermelon",
+  "category": "food",
+  "description": "Represent a watermelon slice, summer fruit or a refreshing snack.",
+  "tags": [
+    "melon",
+    "fruit",
+    "summer",
+    "slice",
+    "picnic",
+    "produce"
+  ],
+  "aliases": [
+    "melon-slice"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

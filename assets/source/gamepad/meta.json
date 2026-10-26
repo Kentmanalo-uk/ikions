@@ -1,0 +1,25 @@
+{
+  "name": "gamepad",
+  "title": "Gamepad",
+  "category": "media",
+  "description": "Represent video games, gaming or a game controller.",
+  "tags": [
+    "game",
+    "gaming",
+    "controller",
+    "joystick",
+    "console",
+    "play",
+    "esports"
+  ],
+  "aliases": [
+    "game-controller",
+    "controller",
+    "joypad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

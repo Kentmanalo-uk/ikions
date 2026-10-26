@@ -1,0 +1,22 @@
+{
+  "name": "database-minus",
+  "title": "Database Minus",
+  "category": "development",
+  "description": "Remove a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "remove",
+    "subtract",
+    "database"
+  ],
+  "aliases": [
+    "remove-database"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

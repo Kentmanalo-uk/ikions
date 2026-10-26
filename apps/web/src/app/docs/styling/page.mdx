@@ -1,0 +1,101 @@
+export const metadata = {
+  title: "Styling",
+  description: "Control Ikions variants, size, colour and stroke width with props or CSS.",
+  alternates: { canonical: "/docs/styling" },
+};
+
+# Styling
+
+Icons are styled through four props, and through CSS when you prefer.
+
+## Variants
+
+Every icon has an **Outline** and a **Filled** drawing with the same name and visual scale. Use Outline for neutral, resting states and Filled for selected, active or emphasised states — for example a filled heart after liking.
+
+<Preview names={["heart", "bookmark", "bell", "star"]} />
+<Preview names={["heart", "bookmark", "bell", "star"]} variant="filled" />
+
+## Size
+
+`size` sets width and height. Icons are drawn for 24 px and checked at 16, 20, 24 and 32 px; any size works because they are vectors.
+
+```tsx
+<SearchIcon size={16} />
+<SearchIcon size="1.25em" />
+```
+
+Using `em` makes the icon follow the surrounding font size.
+
+## Colour
+
+By default icons use `currentColor`, inheriting the text colour of their parent. That makes hover and dark-mode states automatic:
+
+```tsx
+<a className="text-gray-600 hover:text-indigo-600">
+  <SettingsIcon /> Settings
+</a>
+```
+
+To set a fixed colour, pass `color`:
+
+```tsx
+<HeartIcon variant="filled" color="#E5484D" />
+```
+
+The component sets the SVG `color` attribute, so every part of the icon — strokes, fills and small solid details — changes together.
+
+## Gradients
+
+Pass `gradient` to paint an icon with a two-colour linear gradient. It works for Outline and Filled icons and in every package:
+
+```tsx
+<SparklesIcon gradient={{ from: "#7C6CFF", to: "#FF8AC2", angle: 135 }} />
+<HeartIcon variant="filled" gradient={{ from: "#F97316", to: "#E11D48" }} />
+```
+
+- `from` and `to` accept any CSS colour; `angle` follows CSS conventions (0 = to top, 90 = to right) and defaults to 135.
+- One gradient spans the whole 24 × 24 artboard, so strokes, fills and small details share a single, continuous sweep.
+- When `gradient` is set, `color` is ignored. Unsafe colour values are rejected and the icon falls back to `currentColor`.
+- Each gradient gets a deterministic id derived from its colours and angle, so the same gradient used many times on a page renders consistently and different gradients never clash.
+
+The same option exists in `toSvg(name, variant, { gradient })` and in the Vue (`:gradient`) and Svelte components. In the explorer and on icon pages, switch the colour control to **Gradient** to preview presets and copy matching code.
+
+## Stroke width
+
+Outline icons default to a **1.75** stroke. `strokeWidth` changes it uniformly:
+
+```tsx
+<ArrowRightIcon strokeWidth={1.5} />
+<ArrowRightIcon strokeWidth={2.25} />
+```
+
+Values between 1 and 2.5 keep the icons balanced. Filled icons are solid shapes and ignore `strokeWidth`.
+
+## CSS
+
+Every icon has the classes `ikion` and `ikion-<name>` and a `data-variant` attribute, so you can target them from CSS:
+
+```css
+.ikion {
+  flex-shrink: 0;
+  vertical-align: -0.125em;
+}
+
+button:hover .ikion-trash {
+  color: #b42318;
+}
+
+[data-variant="outline"] {
+  stroke-width: 1.5;
+}
+```
+
+CSS properties override the presentation attributes the components set, so the last rule changes the stroke width of all outline icons.
+
+## Tailwind CSS
+
+```tsx
+<BellIcon className="size-5 text-gray-500 group-hover:text-gray-900" />
+```
+
+`size-*` classes override the width and height attributes; `text-*` classes set `currentColor`.

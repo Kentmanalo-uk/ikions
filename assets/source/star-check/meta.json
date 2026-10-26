@@ -1,0 +1,22 @@
+{
+  "name": "star-check",
+  "title": "Star Check",
+  "category": "social",
+  "description": "Star confirmed, completed or verified.",
+  "tags": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "star"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "temperature-high",
+  "title": "Temperature High",
+  "category": "weather",
+  "description": "A thermometer with a rising arrow for hot or rising temperatures.",
+  "tags": [
+    "temperature",
+    "hot",
+    "heat",
+    "warm",
+    "summer",
+    "rising",
+    "weather"
+  ],
+  "aliases": [
+    "hot",
+    "heat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

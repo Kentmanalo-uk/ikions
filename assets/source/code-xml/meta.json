@@ -1,0 +1,23 @@
+{
+  "name": "code-xml",
+  "title": "Code XML",
+  "category": "development",
+  "description": "Markup or XML content between angle brackets.",
+  "tags": [
+    "xml",
+    "html",
+    "markup",
+    "tag",
+    "element",
+    "code"
+  ],
+  "aliases": [
+    "markup",
+    "xml-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

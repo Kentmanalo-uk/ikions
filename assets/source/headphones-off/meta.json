@@ -1,0 +1,22 @@
+{
+  "name": "headphones-off",
+  "title": "Headphones Off",
+  "category": "media",
+  "description": "Turn off, disable or mute the headphones.",
+  "tags": [
+    "audio",
+    "listen",
+    "music",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-headphones"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

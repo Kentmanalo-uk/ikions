@@ -1,0 +1,22 @@
+{
+  "name": "lemon",
+  "title": "Lemon",
+  "category": "food",
+  "description": "Represent a lemon, citrus fruit, sour flavour or lemonade.",
+  "tags": [
+    "citrus",
+    "fruit",
+    "sour",
+    "lemonade",
+    "lime",
+    "zest"
+  ],
+  "aliases": [
+    "citrus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

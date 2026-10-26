@@ -1,0 +1,21 @@
+{
+  "name": "bookmark-heart",
+  "title": "Bookmark Heart",
+  "category": "social",
+  "description": "A liked or favourite bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "liked",
+    "favorite",
+    "love",
+    "bookmark"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

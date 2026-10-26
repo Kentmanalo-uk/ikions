@@ -1,0 +1,23 @@
+{
+  "name": "syringe",
+  "title": "Syringe",
+  "category": "health",
+  "description": "Represent a vaccine, an injection or a medical shot.",
+  "tags": [
+    "vaccine",
+    "injection",
+    "shot",
+    "needle",
+    "immunization",
+    "dose",
+    "medical"
+  ],
+  "aliases": [
+    "injection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "parking",
+  "title": "Parking",
+  "category": "maps",
+  "description": "Marks a parking area or car park with a P sign.",
+  "tags": [
+    "car park",
+    "parking lot",
+    "garage",
+    "vehicle",
+    "park",
+    "spot"
+  ],
+  "aliases": [
+    "car-park",
+    "parking-lot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

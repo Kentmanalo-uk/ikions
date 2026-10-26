@@ -1,0 +1,24 @@
+{
+  "name": "money-bag",
+  "title": "Money Bag",
+  "category": "finance",
+  "description": "A tied sack of money marked with a dollar sign.",
+  "tags": [
+    "money",
+    "sack",
+    "cash",
+    "wealth",
+    "funds",
+    "loot",
+    "savings"
+  ],
+  "aliases": [
+    "moneybag",
+    "cash-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

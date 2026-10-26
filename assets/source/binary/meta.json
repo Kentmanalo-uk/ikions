@@ -1,0 +1,23 @@
+{
+  "name": "binary",
+  "title": "Binary",
+  "category": "development",
+  "description": "Binary digits zero and one for machine data.",
+  "tags": [
+    "binary",
+    "bits",
+    "digits",
+    "data",
+    "machine code",
+    "zero one"
+  ],
+  "aliases": [
+    "bits",
+    "zeros-ones"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

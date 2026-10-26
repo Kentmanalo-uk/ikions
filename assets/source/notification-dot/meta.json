@@ -1,0 +1,22 @@
+{
+  "name": "notification-dot",
+  "title": "Notification Dot",
+  "category": "communication",
+  "description": "A new notification shown by a dot badge.",
+  "tags": [
+    "alert",
+    "unread",
+    "badge",
+    "new",
+    "app",
+    "update"
+  ],
+  "aliases": [
+    "new-notification"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sushi",
+  "title": "Sushi",
+  "category": "food",
+  "description": "Represent sushi, such as a nigiri piece, Japanese food or a sushi bar.",
+  "tags": [
+    "nigiri",
+    "japanese",
+    "salmon",
+    "seafood",
+    "rice",
+    "asian"
+  ],
+  "aliases": [
+    "nigiri"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

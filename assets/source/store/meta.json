@@ -1,0 +1,25 @@
+{
+  "name": "store",
+  "title": "Store",
+  "category": "commerce",
+  "description": "Represent a shop, storefront or marketplace seller.",
+  "tags": [
+    "shop",
+    "storefront",
+    "marketplace",
+    "retail",
+    "merchant",
+    "business",
+    "awning",
+    "seller",
+    "outlet"
+  ],
+  "aliases": [
+    "shop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

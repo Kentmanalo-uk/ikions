@@ -1,0 +1,23 @@
+{
+  "name": "checkbox-indeterminate",
+  "title": "Checkbox Indeterminate",
+  "category": "interface",
+  "description": "A partially selected checkbox for a group with mixed selection.",
+  "tags": [
+    "partial",
+    "mixed",
+    "some",
+    "selection",
+    "form",
+    "tristate"
+  ],
+  "aliases": [
+    "checkbox-partial",
+    "minus-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

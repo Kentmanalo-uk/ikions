@@ -1,0 +1,23 @@
+{
+  "name": "flower-tulip",
+  "title": "Tulip",
+  "category": "weather",
+  "description": "Represents a tulip flower, spring blooms or gardening.",
+  "tags": [
+    "tulip",
+    "flower",
+    "spring",
+    "bloom",
+    "garden",
+    "plant",
+    "floral"
+  ],
+  "aliases": [
+    "tulip"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

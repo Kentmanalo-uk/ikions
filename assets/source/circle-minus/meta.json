@@ -1,0 +1,19 @@
+{
+  "name": "circle-minus",
+  "title": "Circle Minus",
+  "category": "shapes",
+  "description": "Minus in a circle: remove or collapse.",
+  "tags": [
+    "circle",
+    "remove",
+    "minus",
+    "collapse",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

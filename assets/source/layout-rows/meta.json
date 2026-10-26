@@ -1,0 +1,22 @@
+{
+  "name": "layout-rows",
+  "title": "Layout Rows",
+  "category": "interface",
+  "description": "Stack content in equal horizontal rows.",
+  "tags": [
+    "rows",
+    "layout",
+    "stack",
+    "sections",
+    "horizontal",
+    "grid"
+  ],
+  "aliases": [
+    "view-rows"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

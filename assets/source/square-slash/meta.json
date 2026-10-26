@@ -1,0 +1,19 @@
+{
+  "name": "square-slash",
+  "title": "Square Slash",
+  "category": "shapes",
+  "description": "Slash in a square: disabled, blocked or not allowed.",
+  "tags": [
+    "square",
+    "slash",
+    "disabled",
+    "blocked",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

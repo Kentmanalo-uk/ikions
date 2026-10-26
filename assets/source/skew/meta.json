@@ -1,0 +1,23 @@
+{
+  "name": "skew",
+  "title": "Skew",
+  "category": "editing",
+  "description": "Slant an object along one axis.",
+  "tags": [
+    "shear",
+    "slant",
+    "distort",
+    "transform",
+    "italic",
+    "parallelogram"
+  ],
+  "aliases": [
+    "shear",
+    "slant"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

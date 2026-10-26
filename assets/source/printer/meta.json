@@ -1,0 +1,23 @@
+{
+  "name": "printer",
+  "title": "Printer",
+  "category": "devices",
+  "description": "Print a document or send a page to a printer.",
+  "tags": [
+    "print",
+    "paper",
+    "document",
+    "output",
+    "office",
+    "copy",
+    "hardcopy"
+  ],
+  "aliases": [
+    "print"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

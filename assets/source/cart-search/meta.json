@@ -1,0 +1,23 @@
+{
+  "name": "cart-search",
+  "title": "Cart Search",
+  "category": "commerce",
+  "description": "Search for a cart.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "find",
+    "lookup",
+    "browse",
+    "cart"
+  ],
+  "aliases": [
+    "find-cart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

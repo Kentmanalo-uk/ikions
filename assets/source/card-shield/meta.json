@@ -1,0 +1,24 @@
+{
+  "name": "card-shield",
+  "title": "Card Shield",
+  "category": "finance",
+  "description": "Card payments protected against fraud and misuse.",
+  "tags": [
+    "secure payment",
+    "card protection",
+    "purchase protection",
+    "safe",
+    "security",
+    "insurance",
+    "credit card"
+  ],
+  "aliases": [
+    "protected-card",
+    "secure-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

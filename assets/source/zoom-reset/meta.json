@@ -1,0 +1,23 @@
+{
+  "name": "zoom-reset",
+  "title": "Zoom Reset",
+  "category": "interface",
+  "description": "Return the view to its original zoom level.",
+  "tags": [
+    "actual size",
+    "100%",
+    "restore",
+    "magnify",
+    "default",
+    "view"
+  ],
+  "aliases": [
+    "actual-size",
+    "reset-zoom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

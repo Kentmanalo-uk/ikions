@@ -1,0 +1,22 @@
+{
+  "name": "sort-ascending",
+  "title": "Sort Ascending",
+  "category": "interface",
+  "description": "Sort items from smallest to largest.",
+  "tags": [
+    "sort",
+    "order",
+    "ascending",
+    "increase",
+    "low-to-high",
+    "arrange"
+  ],
+  "aliases": [
+    "sort-asc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

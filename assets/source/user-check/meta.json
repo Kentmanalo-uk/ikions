@@ -1,0 +1,25 @@
+{
+  "name": "user-check",
+  "title": "User Check",
+  "category": "people",
+  "description": "Show a verified, approved or confirmed person.",
+  "tags": [
+    "verified",
+    "approved",
+    "confirmed",
+    "member",
+    "friend",
+    "following",
+    "accepted",
+    "contact",
+    "user verified"
+  ],
+  "aliases": [
+    "verified-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

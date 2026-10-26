@@ -1,0 +1,22 @@
+{
+  "name": "server-off",
+  "title": "Server Off",
+  "category": "devices",
+  "description": "Turn off, disable or mute the server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-server"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

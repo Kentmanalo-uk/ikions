@@ -1,0 +1,23 @@
+{
+  "name": "droplet-half",
+  "title": "Droplet Half",
+  "category": "editing",
+  "description": "Show a half-filled drop for tint, opacity or ink level.",
+  "tags": [
+    "opacity",
+    "tint",
+    "ink",
+    "transparency",
+    "color",
+    "fill"
+  ],
+  "aliases": [
+    "half-drop",
+    "tint"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

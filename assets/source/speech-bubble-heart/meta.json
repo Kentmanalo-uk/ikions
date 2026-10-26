@@ -1,0 +1,22 @@
+{
+  "name": "speech-bubble-heart",
+  "title": "Speech Bubble Heart",
+  "category": "communication",
+  "description": "Express love, appreciation or a kind reaction in a conversation.",
+  "tags": [
+    "love",
+    "like",
+    "reaction",
+    "comment",
+    "favorite",
+    "kind words"
+  ],
+  "aliases": [
+    "love-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

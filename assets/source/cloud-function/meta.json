@@ -1,0 +1,22 @@
+{
+  "name": "cloud-function",
+  "title": "Cloud Function",
+  "category": "development",
+  "description": "A cloud with a function sign for serverless cloud functions.",
+  "tags": [
+    "serverless",
+    "function",
+    "faas",
+    "cloud",
+    "compute",
+    "trigger"
+  ],
+  "aliases": [
+    "serverless-function"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

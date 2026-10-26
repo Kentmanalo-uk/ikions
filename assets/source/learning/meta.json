@@ -1,0 +1,24 @@
+{
+  "name": "learning",
+  "title": "Learning",
+  "category": "education",
+  "description": "An idea rising from an open book for learning, study and new knowledge.",
+  "tags": [
+    "study",
+    "knowledge",
+    "e-learning",
+    "course",
+    "education",
+    "insight",
+    "idea"
+  ],
+  "aliases": [
+    "e-learning",
+    "study"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

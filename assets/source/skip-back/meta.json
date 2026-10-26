@@ -1,0 +1,24 @@
+{
+  "name": "skip-back",
+  "title": "Skip Back",
+  "category": "media",
+  "description": "Jump to the previous track, chapter or episode.",
+  "tags": [
+    "previous",
+    "back",
+    "rewind",
+    "track",
+    "media",
+    "player",
+    "playlist"
+  ],
+  "aliases": [
+    "previous-track",
+    "skip-previous"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

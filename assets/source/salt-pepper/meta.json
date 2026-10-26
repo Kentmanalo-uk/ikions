@@ -1,0 +1,23 @@
+{
+  "name": "salt-pepper",
+  "title": "Salt and Pepper",
+  "category": "food",
+  "description": "Represent salt and pepper shakers, seasoning or condiments.",
+  "tags": [
+    "salt",
+    "pepper",
+    "seasoning",
+    "condiments",
+    "shaker",
+    "spice"
+  ],
+  "aliases": [
+    "seasoning",
+    "condiments"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

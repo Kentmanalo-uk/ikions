@@ -1,0 +1,22 @@
+{
+  "name": "arrow-fork",
+  "title": "Arrow Fork",
+  "category": "arrows",
+  "description": "A path that forks into two directions, like a fork in the road.",
+  "tags": [
+    "fork",
+    "branch",
+    "choice",
+    "y junction",
+    "decision",
+    "arrow"
+  ],
+  "aliases": [
+    "y-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

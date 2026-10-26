@@ -1,0 +1,21 @@
+{
+  "name": "file-star",
+  "title": "File Star",
+  "category": "files",
+  "description": "A starred or featured file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "starred",
+    "favorite",
+    "featured",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

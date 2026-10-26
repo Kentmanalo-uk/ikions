@@ -1,0 +1,25 @@
+{
+  "name": "sunrise",
+  "title": "Sunrise",
+  "category": "weather",
+  "description": "Represent sunrise, morning, dawn or the start of the day.",
+  "tags": [
+    "dawn",
+    "morning",
+    "sun",
+    "horizon",
+    "daybreak",
+    "weather",
+    "early",
+    "rise"
+  ],
+  "aliases": [
+    "dawn",
+    "morning"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

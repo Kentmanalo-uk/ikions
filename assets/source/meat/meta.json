@@ -1,0 +1,22 @@
+{
+  "name": "meat",
+  "title": "Meat",
+  "category": "food",
+  "description": "Represent meat, such as a bone-in cut, a butcher, BBQ or protein.",
+  "tags": [
+    "bone",
+    "butcher",
+    "bbq",
+    "protein",
+    "ham",
+    "roast"
+  ],
+  "aliases": [
+    "meat-on-bone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "arrow-target",
+  "title": "Arrow Target",
+  "category": "arrows",
+  "description": "An arrow heading for a small target, for aiming at a goal.",
+  "tags": [
+    "aim",
+    "goal",
+    "objective",
+    "target",
+    "focus",
+    "direction"
+  ],
+  "aliases": [
+    "aim-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

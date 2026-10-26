@@ -1,0 +1,22 @@
+{
+  "name": "building-check",
+  "title": "Building Check",
+  "category": "buildings",
+  "description": "Building confirmed, completed or verified.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "building"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "currency-bitcoin",
+  "title": "Currency Bitcoin",
+  "category": "finance",
+  "description": "The bitcoin sign, for bitcoin amounts or cryptocurrency payments.",
+  "tags": [
+    "bitcoin",
+    "btc",
+    "crypto",
+    "cryptocurrency",
+    "blockchain",
+    "digital money"
+  ],
+  "aliases": [
+    "bitcoin",
+    "btc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

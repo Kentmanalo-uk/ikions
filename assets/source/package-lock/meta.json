@@ -1,0 +1,22 @@
+{
+  "name": "package-lock",
+  "title": "Package Lock",
+  "category": "commerce",
+  "description": "A locked, private or protected package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "package"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

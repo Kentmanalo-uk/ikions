@@ -1,0 +1,24 @@
+{
+  "name": "smartphone-x",
+  "title": "Smartphone X",
+  "category": "devices",
+  "description": "Delete, cancel or reject a smartphone.",
+  "tags": [
+    "mobile",
+    "phone",
+    "cell",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "smartphone"
+  ],
+  "aliases": [
+    "delete-smartphone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

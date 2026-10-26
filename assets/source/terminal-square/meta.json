@@ -1,0 +1,23 @@
+{
+  "name": "terminal-square",
+  "title": "Terminal Square",
+  "category": "development",
+  "description": "A square terminal window with a command prompt for shells and command-line tools.",
+  "tags": [
+    "terminal",
+    "shell",
+    "command line",
+    "cli",
+    "prompt",
+    "bash"
+  ],
+  "aliases": [
+    "shell-square",
+    "command-prompt-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

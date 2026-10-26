@@ -1,0 +1,23 @@
+{
+  "name": "plane-landing",
+  "title": "Plane Landing",
+  "category": "transport",
+  "description": "A plane descending toward the runway, for arrivals and flight landing.",
+  "tags": [
+    "arrival",
+    "landing",
+    "flight",
+    "airport",
+    "arrive",
+    "travel"
+  ],
+  "aliases": [
+    "arrival",
+    "flight-arrival"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

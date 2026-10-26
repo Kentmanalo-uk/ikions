@@ -1,0 +1,23 @@
+{
+  "name": "ruler",
+  "title": "Ruler",
+  "category": "editing",
+  "description": "Measure distances, show dimensions or toggle rulers.",
+  "tags": [
+    "measure",
+    "dimension",
+    "scale",
+    "length",
+    "size",
+    "guide",
+    "units"
+  ],
+  "aliases": [
+    "measure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

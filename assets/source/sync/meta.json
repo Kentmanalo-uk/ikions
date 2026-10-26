@@ -1,0 +1,22 @@
+{
+  "name": "sync",
+  "title": "Sync",
+  "category": "interface",
+  "description": "Synchronize data between devices or services.",
+  "tags": [
+    "synchronize",
+    "update",
+    "refresh",
+    "cloud",
+    "backup",
+    "cycle"
+  ],
+  "aliases": [
+    "synchronize"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

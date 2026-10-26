@@ -1,0 +1,21 @@
+{
+  "name": "circle-pause",
+  "title": "Circle Pause",
+  "category": "shapes",
+  "description": "Pause in a circle: pause playback.",
+  "tags": [
+    "circle",
+    "pause",
+    "media",
+    "hold",
+    "button"
+  ],
+  "aliases": [
+    "pause-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

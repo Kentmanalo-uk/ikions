@@ -1,0 +1,20 @@
+{
+  "name": "reply-arrow",
+  "title": "Reply Arrow",
+  "category": "communication",
+  "description": "A bold curved arrow for replying to a message.",
+  "tags": [
+    "reply",
+    "respond",
+    "back",
+    "return",
+    "answer",
+    "message"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

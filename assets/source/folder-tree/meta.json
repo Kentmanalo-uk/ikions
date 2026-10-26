@@ -1,0 +1,23 @@
+{
+  "name": "folder-tree",
+  "title": "Folder Tree",
+  "category": "files",
+  "description": "Represents a hierarchy of nested folders in a directory tree.",
+  "tags": [
+    "hierarchy",
+    "directory",
+    "structure",
+    "nested",
+    "explorer",
+    "sitemap"
+  ],
+  "aliases": [
+    "directory-tree",
+    "file-tree"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

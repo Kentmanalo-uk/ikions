@@ -1,0 +1,25 @@
+{
+  "name": "recycle",
+  "title": "Recycle",
+  "category": "energy",
+  "description": "Represent recycling, reuse or a sustainable loop.",
+  "tags": [
+    "reuse",
+    "eco",
+    "green",
+    "sustainability",
+    "environment",
+    "waste",
+    "circular",
+    "renew"
+  ],
+  "aliases": [
+    "reuse",
+    "recycling"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

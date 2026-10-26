@@ -1,0 +1,22 @@
+{
+  "name": "search",
+  "title": "Search",
+  "category": "interface",
+  "description": "Find content, filter results or open a search field.",
+  "tags": [
+    "find",
+    "magnifier",
+    "lookup",
+    "query",
+    "zoom"
+  ],
+  "aliases": [
+    "magnifying-glass",
+    "find"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

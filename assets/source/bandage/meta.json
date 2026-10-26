@@ -1,0 +1,23 @@
+{
+  "name": "bandage",
+  "title": "Bandage",
+  "category": "health",
+  "description": "Represent an adhesive bandage, a minor injury or first aid.",
+  "tags": [
+    "plaster",
+    "band aid",
+    "wound",
+    "injury",
+    "first aid",
+    "heal"
+  ],
+  "aliases": [
+    "adhesive-bandage",
+    "plaster"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

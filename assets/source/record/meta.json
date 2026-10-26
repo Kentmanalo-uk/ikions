@@ -1,0 +1,23 @@
+{
+  "name": "record",
+  "title": "Record",
+  "category": "media",
+  "description": "Start recording audio or video, shown as the classic record button.",
+  "tags": [
+    "rec",
+    "recording",
+    "capture",
+    "start",
+    "audio",
+    "video"
+  ],
+  "aliases": [
+    "rec",
+    "record-button"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

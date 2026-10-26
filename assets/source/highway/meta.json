@@ -1,0 +1,23 @@
+{
+  "name": "highway",
+  "title": "Highway",
+  "category": "maps",
+  "description": "Shows a wide multi-lane highway with dashed lane dividers.",
+  "tags": [
+    "freeway",
+    "motorway",
+    "expressway",
+    "lanes",
+    "interstate",
+    "traffic"
+  ],
+  "aliases": [
+    "freeway-road",
+    "motorway-road"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

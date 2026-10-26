@@ -1,0 +1,22 @@
+{
+  "name": "clipboard-clock",
+  "title": "Clipboard Clock",
+  "category": "files",
+  "description": "A scheduled, pending or recent clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "clipboard"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "localhost",
+  "title": "Localhost",
+  "category": "development",
+  "description": "Represents localhost, the local machine running a development server.",
+  "tags": [
+    "local",
+    "development",
+    "machine",
+    "server",
+    "127.0.0.1",
+    "home"
+  ],
+  "aliases": [
+    "local-server",
+    "local-machine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

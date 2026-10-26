@@ -1,0 +1,21 @@
+{
+  "name": "inbox-download",
+  "title": "Inbox Download",
+  "category": "communication",
+  "description": "Download or import a inbox.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "download",
+    "save",
+    "import",
+    "inbox"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

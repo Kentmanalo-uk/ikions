@@ -1,0 +1,23 @@
+{
+  "name": "visa",
+  "title": "Visa",
+  "category": "transport",
+  "description": "Represents a travel visa, an entry stamp or passport approval.",
+  "tags": [
+    "passport",
+    "entry stamp",
+    "immigration",
+    "border",
+    "permit",
+    "travel document"
+  ],
+  "aliases": [
+    "travel-visa",
+    "entry-visa"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

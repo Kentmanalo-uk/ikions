@@ -1,0 +1,22 @@
+{
+  "name": "power-off",
+  "title": "Power Off",
+  "category": "interface",
+  "description": "Show that a device or service is switched off or disabled.",
+  "tags": [
+    "shutdown",
+    "turn-off",
+    "disabled",
+    "offline",
+    "standby",
+    "switch"
+  ],
+  "aliases": [
+    "shut-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "thread",
+  "title": "Thread",
+  "category": "communication",
+  "description": "Show a message thread with replies.",
+  "tags": [
+    "replies",
+    "discussion",
+    "conversation",
+    "forum",
+    "comments",
+    "nested"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

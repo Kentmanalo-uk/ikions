@@ -1,0 +1,22 @@
+{
+  "name": "users-check",
+  "title": "Users Check",
+  "category": "people",
+  "description": "Users confirmed, completed or verified.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "users"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

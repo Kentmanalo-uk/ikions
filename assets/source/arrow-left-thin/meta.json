@@ -1,0 +1,20 @@
+{
+  "name": "arrow-left-thin",
+  "title": "Arrow Left Thin",
+  "category": "arrows",
+  "description": "A long left arrow with a slim, narrow head.",
+  "tags": [
+    "left",
+    "back",
+    "west",
+    "previous",
+    "direction",
+    "slim"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "coffee",
+  "title": "Coffee",
+  "category": "food",
+  "description": "Represent coffee, a hot drink, a café or a break.",
+  "tags": [
+    "cafe",
+    "drink",
+    "mug",
+    "cup",
+    "tea",
+    "hot",
+    "break",
+    "beverage",
+    "espresso"
+  ],
+  "aliases": [
+    "mug",
+    "cafe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

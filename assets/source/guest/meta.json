@@ -1,0 +1,22 @@
+{
+  "name": "guest",
+  "title": "Guest",
+  "category": "people",
+  "description": "Represent a guest or visitor without a full account.",
+  "tags": [
+    "visitor",
+    "anonymous",
+    "temporary",
+    "unregistered",
+    "incognito",
+    "trial"
+  ],
+  "aliases": [
+    "visitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

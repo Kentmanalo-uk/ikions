@@ -1,0 +1,22 @@
+{
+  "name": "picture-frame-view",
+  "title": "Picture Frame View",
+  "category": "interface",
+  "description": "View a single picture framed and centred on screen.",
+  "tags": [
+    "photo",
+    "viewer",
+    "focus",
+    "frame",
+    "gallery",
+    "preview"
+  ],
+  "aliases": [
+    "photo-view"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

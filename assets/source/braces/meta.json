@@ -1,0 +1,24 @@
+{
+  "name": "braces",
+  "title": "Braces",
+  "category": "development",
+  "description": "Represent code blocks, JSON objects or variables.",
+  "tags": [
+    "curly",
+    "brackets",
+    "code",
+    "json",
+    "object",
+    "programming",
+    "syntax",
+    "block"
+  ],
+  "aliases": [
+    "curly-braces"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

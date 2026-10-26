@@ -1,0 +1,25 @@
+{
+  "name": "ticket",
+  "title": "Ticket",
+  "category": "transport",
+  "description": "Represent a ticket, boarding pass, admission or booking.",
+  "tags": [
+    "admission",
+    "pass",
+    "boarding-pass",
+    "event",
+    "booking",
+    "coupon",
+    "entry",
+    "travel"
+  ],
+  "aliases": [
+    "admission",
+    "pass"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

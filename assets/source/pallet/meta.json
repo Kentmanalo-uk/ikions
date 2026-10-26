@@ -1,0 +1,23 @@
+{
+  "name": "pallet",
+  "title": "Pallet",
+  "category": "commerce",
+  "description": "Represents goods stacked on a wooden shipping pallet.",
+  "tags": [
+    "freight",
+    "shipping",
+    "skid",
+    "cargo",
+    "logistics",
+    "warehouse"
+  ],
+  "aliases": [
+    "skid",
+    "shipping-pallet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

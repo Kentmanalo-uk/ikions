@@ -1,0 +1,23 @@
+{
+  "name": "train-station",
+  "title": "Train Station",
+  "category": "transport",
+  "description": "Represents a train station, railway platform or rail terminal.",
+  "tags": [
+    "railway station",
+    "platform",
+    "rail",
+    "terminal",
+    "depot",
+    "commute"
+  ],
+  "aliases": [
+    "railway-station",
+    "rail-station"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "receipt-search",
+  "title": "Receipt Search",
+  "category": "commerce",
+  "description": "Search for a receipt.",
+  "tags": [
+    "invoice",
+    "bill",
+    "payment",
+    "find",
+    "lookup",
+    "browse",
+    "receipt"
+  ],
+  "aliases": [
+    "find-receipt"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

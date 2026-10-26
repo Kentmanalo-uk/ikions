@@ -1,0 +1,27 @@
+{
+  "name": "cart",
+  "title": "Cart",
+  "category": "commerce",
+  "description": "Open the shopping cart or add a product to it.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "checkout",
+    "add-to-cart",
+    "order",
+    "ecommerce",
+    "store",
+    "purchase",
+    "trolley"
+  ],
+  "aliases": [
+    "shopping-cart",
+    "trolley"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

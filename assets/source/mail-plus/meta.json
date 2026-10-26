@@ -1,0 +1,23 @@
+{
+  "name": "mail-plus",
+  "title": "Mail Plus",
+  "category": "communication",
+  "description": "Add a new mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "add",
+    "new",
+    "create",
+    "mail"
+  ],
+  "aliases": [
+    "add-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

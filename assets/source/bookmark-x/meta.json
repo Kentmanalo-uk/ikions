@@ -1,0 +1,24 @@
+{
+  "name": "bookmark-x",
+  "title": "Bookmark X",
+  "category": "social",
+  "description": "Delete, cancel or reject a bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "bookmark"
+  ],
+  "aliases": [
+    "delete-bookmark"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

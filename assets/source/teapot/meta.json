@@ -1,0 +1,22 @@
+{
+  "name": "teapot",
+  "title": "Teapot",
+  "category": "food",
+  "description": "Represent a teapot, tea time, brewing or a hot drink service.",
+  "tags": [
+    "tea",
+    "brew",
+    "pot",
+    "kettle",
+    "infusion",
+    "hot-drink"
+  ],
+  "aliases": [
+    "tea-pot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

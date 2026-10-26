@@ -1,0 +1,22 @@
+{
+  "name": "arrow-autofit",
+  "title": "Arrow Autofit",
+  "category": "arrows",
+  "description": "A two-way arrow stretching between two edges, for fitting content to width.",
+  "tags": [
+    "autofit",
+    "fit",
+    "width",
+    "stretch",
+    "column",
+    "resize"
+  ],
+  "aliases": [
+    "fit-width"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

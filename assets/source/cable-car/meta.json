@@ -1,0 +1,23 @@
+{
+  "name": "cable-car",
+  "title": "Cable Car",
+  "category": "transport",
+  "description": "Represents a cable car, gondola lift or aerial tramway.",
+  "tags": [
+    "gondola",
+    "ropeway",
+    "aerial tram",
+    "ski lift",
+    "mountain",
+    "lift"
+  ],
+  "aliases": [
+    "gondola-lift",
+    "aerial-tramway"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

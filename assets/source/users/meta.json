@@ -1,0 +1,24 @@
+{
+  "name": "users",
+  "title": "Users",
+  "category": "people",
+  "description": "Represent a group, team or several people.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "members",
+    "community",
+    "contacts",
+    "accounts",
+    "crowd"
+  ],
+  "aliases": [
+    "people"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

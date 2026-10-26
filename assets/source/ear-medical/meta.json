@@ -1,0 +1,23 @@
+{
+  "name": "ear-medical",
+  "title": "Ear Medical",
+  "category": "health",
+  "description": "An ear with a medical cross for ear, nose and throat care.",
+  "tags": [
+    "ent",
+    "otology",
+    "ear care",
+    "audiology",
+    "ear infection",
+    "otolaryngology"
+  ],
+  "aliases": [
+    "ent",
+    "ear-care"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

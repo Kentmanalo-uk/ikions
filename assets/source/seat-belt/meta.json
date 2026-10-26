@@ -1,0 +1,23 @@
+{
+  "name": "seat-belt",
+  "title": "Seat Belt",
+  "category": "transport",
+  "description": "Represents fastening a seat belt, passenger safety or a seat-belt reminder.",
+  "tags": [
+    "seatbelt",
+    "buckle up",
+    "safety",
+    "passenger",
+    "restraint",
+    "fasten"
+  ],
+  "aliases": [
+    "seatbelt",
+    "buckle-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

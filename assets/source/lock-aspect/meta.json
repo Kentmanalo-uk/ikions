@@ -1,0 +1,23 @@
+{
+  "name": "lock-aspect",
+  "title": "Lock Aspect",
+  "category": "interface",
+  "description": "Keep the width and height in proportion while resizing.",
+  "tags": [
+    "aspect ratio",
+    "proportion",
+    "constrain",
+    "resize",
+    "lock",
+    "scale"
+  ],
+  "aliases": [
+    "lock-aspect-ratio",
+    "constrain-proportions"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

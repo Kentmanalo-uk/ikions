@@ -1,0 +1,24 @@
+{
+  "name": "terminal",
+  "title": "Terminal",
+  "category": "development",
+  "description": "Open a command line, console or shell.",
+  "tags": [
+    "console",
+    "shell",
+    "command",
+    "cli",
+    "prompt",
+    "bash",
+    "developer",
+    "window"
+  ],
+  "aliases": [
+    "command-line"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

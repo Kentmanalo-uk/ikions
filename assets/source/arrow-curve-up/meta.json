@@ -1,0 +1,21 @@
+{
+  "name": "arrow-curve-up",
+  "title": "Arrow Curve Up",
+  "category": "arrows",
+  "description": "A curved arrow that bends round to point upward.",
+  "tags": [
+    "curve",
+    "curved",
+    "bend",
+    "up",
+    "arrow"
+  ],
+  "aliases": [
+    "curved-arrow-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

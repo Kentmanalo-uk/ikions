@@ -1,0 +1,22 @@
+{
+  "name": "reset",
+  "title": "Reset",
+  "category": "interface",
+  "description": "Restore settings or a value back to its default state.",
+  "tags": [
+    "restore",
+    "default",
+    "revert",
+    "rotate",
+    "start over",
+    "restart"
+  ],
+  "aliases": [
+    "restore-default"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

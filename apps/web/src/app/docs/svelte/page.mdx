@@ -1,0 +1,54 @@
+export const metadata = {
+  title: "Svelte",
+  description: "Use Ikions Svelte 5 components with variant, size, colour and stroke props.",
+  alternates: { canonical: "/docs/svelte" },
+};
+
+# Svelte
+
+`@ikions/svelte` provides Svelte 5 components. They are shipped as `.svelte` source and compiled by your build (SvelteKit or Vite with `@sveltejs/vite-plugin-svelte`).
+
+```bash
+npm install @ikions/svelte
+```
+
+## Usage
+
+```svelte
+<script>
+  import { CameraIcon, HeartIcon } from "@ikions/svelte";
+  let liked = $state(false);
+</script>
+
+<CameraIcon size={28} />
+
+<button aria-pressed={liked} onclick={() => (liked = !liked)}>
+  <HeartIcon variant={liked ? "filled" : "outline"} title="Like" />
+</button>
+```
+
+## Props
+
+| Prop | Type | Default |
+| --- | --- | --- |
+| `size` | `number \| string` | `24` |
+| `variant` | `"outline" \| "filled"` | `"outline"` |
+| `color` | `string` | `"currentColor"` |
+| `gradient` | `{ from, to, angle? }` | — (overrides `color`) |
+| `strokeWidth` | `number \| string` | `1.75` (outline only) |
+| `title` | `string` | — |
+| `class` | `string` | — |
+
+Any other SVG attribute is spread onto the `<svg>` element.
+
+## Importing a single file
+
+```svelte
+<script>
+  import HomeIcon from "@ikions/svelte/icons/HomeIcon.svelte";
+</script>
+```
+
+## Requirements
+
+Svelte 5 is required: the components use runes (`$props`, `$derived`).

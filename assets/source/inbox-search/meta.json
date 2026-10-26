@@ -1,0 +1,23 @@
+{
+  "name": "inbox-search",
+  "title": "Inbox Search",
+  "category": "communication",
+  "description": "Search for a inbox.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "find",
+    "lookup",
+    "browse",
+    "inbox"
+  ],
+  "aliases": [
+    "find-inbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

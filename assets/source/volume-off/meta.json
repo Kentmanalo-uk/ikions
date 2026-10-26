@@ -1,0 +1,25 @@
+{
+  "name": "volume-off",
+  "title": "Volume Off",
+  "category": "media",
+  "description": "Mute the sound or show that audio is switched off.",
+  "tags": [
+    "mute",
+    "silent",
+    "sound",
+    "audio",
+    "speaker",
+    "quiet",
+    "off"
+  ],
+  "aliases": [
+    "mute",
+    "sound-off",
+    "volume-mute"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "peace-hand",
+  "title": "Peace Hand",
+  "category": "people",
+  "description": "Show a peace sign, victory or a friendly hello.",
+  "tags": [
+    "peace",
+    "victory",
+    "v-sign",
+    "two",
+    "gesture",
+    "hello"
+  ],
+  "aliases": [
+    "victory-hand",
+    "v-sign"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

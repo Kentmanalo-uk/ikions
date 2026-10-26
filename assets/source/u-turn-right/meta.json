@@ -1,0 +1,22 @@
+{
+  "name": "u-turn-right",
+  "title": "U-Turn Right",
+  "category": "arrows",
+  "description": "Turn around to the right and head back the way you came.",
+  "tags": [
+    "u-turn",
+    "turn around",
+    "reverse",
+    "navigation",
+    "road",
+    "back"
+  ],
+  "aliases": [
+    "uturn-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

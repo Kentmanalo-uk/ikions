@@ -1,0 +1,23 @@
+{
+  "name": "candy",
+  "title": "Candy",
+  "category": "food",
+  "description": "Represent a wrapped candy, such as sweets, a treat or confectionery.",
+  "tags": [
+    "sweets",
+    "treat",
+    "sugar",
+    "confectionery",
+    "halloween",
+    "bonbon"
+  ],
+  "aliases": [
+    "sweet",
+    "bonbon"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

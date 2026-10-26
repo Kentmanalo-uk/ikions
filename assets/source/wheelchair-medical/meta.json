@@ -1,0 +1,22 @@
+{
+  "name": "wheelchair-medical",
+  "title": "Wheelchair",
+  "category": "health",
+  "description": "Represent a wheelchair, patient transport or mobility assistance.",
+  "tags": [
+    "wheelchair",
+    "mobility",
+    "patient transport",
+    "disability",
+    "accessible",
+    "hospital"
+  ],
+  "aliases": [
+    "patient-wheelchair"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

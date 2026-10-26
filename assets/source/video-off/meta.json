@@ -1,0 +1,22 @@
+{
+  "name": "video-off",
+  "title": "Video Off",
+  "category": "media",
+  "description": "Turn off, disable or mute the video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-video"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

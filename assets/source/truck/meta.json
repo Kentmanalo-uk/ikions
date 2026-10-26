@@ -1,0 +1,26 @@
+{
+  "name": "truck",
+  "title": "Truck",
+  "category": "commerce",
+  "description": "Represent delivery, shipping or an order on its way.",
+  "tags": [
+    "delivery",
+    "shipping",
+    "shipment",
+    "transport",
+    "logistics",
+    "lorry",
+    "van",
+    "dispatch",
+    "freight"
+  ],
+  "aliases": [
+    "delivery-truck",
+    "lorry"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "user-shield",
+  "title": "User Shield",
+  "category": "people",
+  "description": "Show a protected account, user security or an admin with safeguards.",
+  "tags": [
+    "security",
+    "protected",
+    "admin",
+    "privacy",
+    "safe",
+    "guard",
+    "administrator",
+    "superuser",
+    "permissions",
+    "moderator",
+    "privileges",
+    "owner"
+  ],
+  "aliases": [
+    "protected-user",
+    "secure-user",
+    "admin",
+    "administrator",
+    "superuser"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

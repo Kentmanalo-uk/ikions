@@ -1,0 +1,23 @@
+{
+  "name": "notepad",
+  "title": "Notepad",
+  "category": "files",
+  "description": "Represents a spiral notepad for quick notes and jottings.",
+  "tags": [
+    "notes",
+    "memo",
+    "jot",
+    "writing",
+    "pad",
+    "spiral"
+  ],
+  "aliases": [
+    "note-pad",
+    "memo-pad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

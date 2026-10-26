@@ -1,0 +1,24 @@
+{
+  "name": "doctor-person",
+  "title": "Doctor",
+  "category": "people",
+  "description": "Represent a doctor or medical professional.",
+  "tags": [
+    "physician",
+    "medic",
+    "medical",
+    "healthcare",
+    "clinic",
+    "practitioner"
+  ],
+  "aliases": [
+    "physician",
+    "medic",
+    "doctor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

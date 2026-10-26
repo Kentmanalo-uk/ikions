@@ -1,0 +1,25 @@
+{
+  "name": "tree-deciduous",
+  "title": "Deciduous Tree",
+  "category": "weather",
+  "description": "Represents a leafy broadleaf tree, a park or the outdoors.",
+  "tags": [
+    "tree",
+    "oak",
+    "park",
+    "nature",
+    "garden",
+    "leafy",
+    "outdoors",
+    "shade"
+  ],
+  "aliases": [
+    "broadleaf-tree",
+    "leafy-tree"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

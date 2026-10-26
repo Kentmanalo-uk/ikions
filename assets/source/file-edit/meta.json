@@ -1,0 +1,24 @@
+{
+  "name": "file-edit",
+  "title": "File Edit",
+  "category": "files",
+  "description": "Edit or rename a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "file"
+  ],
+  "aliases": [
+    "edit-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

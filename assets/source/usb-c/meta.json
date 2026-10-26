@@ -1,0 +1,23 @@
+{
+  "name": "usb-c",
+  "title": "USB-C",
+  "category": "devices",
+  "description": "Represents a reversible USB-C port or connector.",
+  "tags": [
+    "usb",
+    "type c",
+    "port",
+    "connector",
+    "charging",
+    "cable"
+  ],
+  "aliases": [
+    "type-c",
+    "usb-type-c"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

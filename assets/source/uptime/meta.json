@@ -1,0 +1,23 @@
+{
+  "name": "uptime",
+  "title": "Uptime",
+  "category": "development",
+  "description": "Represents service uptime, the time a system has stayed online.",
+  "tags": [
+    "availability",
+    "online",
+    "status",
+    "reliability",
+    "sla",
+    "monitoring"
+  ],
+  "aliases": [
+    "service-uptime",
+    "availability-time"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

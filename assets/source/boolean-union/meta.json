@@ -1,0 +1,23 @@
+{
+  "name": "boolean-union",
+  "title": "Boolean Union",
+  "category": "editing",
+  "description": "Combine shapes into one merged outline.",
+  "tags": [
+    "union",
+    "combine",
+    "merge",
+    "shapes",
+    "vector",
+    "pathfinder"
+  ],
+  "aliases": [
+    "shape-union",
+    "unite-shapes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

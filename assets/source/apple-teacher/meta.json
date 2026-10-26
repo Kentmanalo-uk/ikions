@@ -1,0 +1,23 @@
+{
+  "name": "apple-teacher",
+  "title": "Teacher's Apple",
+  "category": "education",
+  "description": "An apple resting on a book, the classic gift for a teacher.",
+  "tags": [
+    "teacher",
+    "apple",
+    "school",
+    "gift",
+    "back to school",
+    "teacher appreciation"
+  ],
+  "aliases": [
+    "apple-book",
+    "teachers-apple"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

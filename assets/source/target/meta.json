@@ -1,0 +1,24 @@
+{
+  "name": "target",
+  "title": "Target",
+  "category": "time",
+  "description": "Represent a goal, objective or focus point that you are aiming for.",
+  "tags": [
+    "goal",
+    "objective",
+    "focus",
+    "aim",
+    "bullseye",
+    "milestone",
+    "okr",
+    "mission"
+  ],
+  "aliases": [
+    "bullseye"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

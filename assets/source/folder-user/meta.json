@@ -1,0 +1,23 @@
+{
+  "name": "folder-user",
+  "title": "Folder User",
+  "category": "files",
+  "description": "Represents a personal folder that belongs to one user.",
+  "tags": [
+    "personal",
+    "home",
+    "profile",
+    "private",
+    "account",
+    "owner"
+  ],
+  "aliases": [
+    "user-folder",
+    "home-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

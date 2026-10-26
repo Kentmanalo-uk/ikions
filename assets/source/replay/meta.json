@@ -1,0 +1,22 @@
+{
+  "name": "replay",
+  "title": "Replay",
+  "category": "media",
+  "description": "Play the media again from the start, shown as a play button in a loop.",
+  "tags": [
+    "again",
+    "restart",
+    "repeat",
+    "rewatch",
+    "playback",
+    "media"
+  ],
+  "aliases": [
+    "play-again"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

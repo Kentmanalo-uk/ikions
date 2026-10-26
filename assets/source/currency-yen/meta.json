@@ -1,0 +1,26 @@
+{
+  "name": "currency-yen",
+  "title": "Currency Yen",
+  "category": "finance",
+  "description": "The yen sign, for Japanese yen or Chinese yuan amounts.",
+  "tags": [
+    "yen",
+    "jpy",
+    "yuan",
+    "cny",
+    "japan",
+    "price",
+    "money",
+    "currency symbol"
+  ],
+  "aliases": [
+    "yen",
+    "jpy",
+    "yuan"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

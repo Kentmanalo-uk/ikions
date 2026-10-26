@@ -1,0 +1,24 @@
+{
+  "name": "file-3d",
+  "title": "File 3D",
+  "category": "files",
+  "description": "Represents a 3D model file such as a mesh or scene.",
+  "tags": [
+    "3d",
+    "model",
+    "mesh",
+    "cad",
+    "object",
+    "obj",
+    "stl"
+  ],
+  "aliases": [
+    "model-file",
+    "3d-model-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

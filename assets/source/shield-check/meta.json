@@ -1,0 +1,24 @@
+{
+  "name": "shield-check",
+  "title": "Shield Check",
+  "category": "security",
+  "description": "Show that something is verified, protected or passed a security check.",
+  "tags": [
+    "verified",
+    "secure",
+    "protected",
+    "safe",
+    "trusted",
+    "approved",
+    "security",
+    "check"
+  ],
+  "aliases": [
+    "protected"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

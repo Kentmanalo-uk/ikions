@@ -1,0 +1,23 @@
+{
+  "name": "status-bar",
+  "title": "Status Bar",
+  "category": "interface",
+  "description": "Represent a status bar strip along the bottom of a window.",
+  "tags": [
+    "footer",
+    "status",
+    "window",
+    "layout",
+    "indicator",
+    "bar"
+  ],
+  "aliases": [
+    "footer-bar",
+    "status-strip"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

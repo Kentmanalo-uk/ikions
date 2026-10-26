@@ -1,0 +1,23 @@
+{
+  "name": "trumpet",
+  "title": "Trumpet",
+  "category": "media",
+  "description": "Represents a trumpet, brass instruments or a fanfare.",
+  "tags": [
+    "brass",
+    "horn",
+    "jazz",
+    "fanfare",
+    "instrument",
+    "orchestra"
+  ],
+  "aliases": [
+    "brass-instrument",
+    "cornet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

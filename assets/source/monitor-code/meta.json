@@ -1,0 +1,23 @@
+{
+  "name": "monitor-code",
+  "title": "Monitor Code",
+  "category": "development",
+  "description": "Represents code shown on a computer screen, such as an editor or IDE.",
+  "tags": [
+    "screen",
+    "editor",
+    "ide",
+    "programming",
+    "desktop",
+    "developer"
+  ],
+  "aliases": [
+    "screen-code",
+    "code-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

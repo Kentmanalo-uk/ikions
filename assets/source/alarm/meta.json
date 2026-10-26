@@ -1,0 +1,24 @@
+{
+  "name": "alarm",
+  "title": "Alarm",
+  "category": "time",
+  "description": "Set an alarm, wake-up call or time-based reminder.",
+  "tags": [
+    "alarm-clock",
+    "wake",
+    "reminder",
+    "ring",
+    "morning",
+    "snooze",
+    "time"
+  ],
+  "aliases": [
+    "alarm-clock",
+    "wake-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

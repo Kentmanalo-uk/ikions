@@ -1,0 +1,23 @@
+{
+  "name": "users-round",
+  "title": "Users Round",
+  "category": "people",
+  "description": "Represent a group, team or several people with rounded silhouettes.",
+  "tags": [
+    "group",
+    "team",
+    "people",
+    "members",
+    "community",
+    "contacts"
+  ],
+  "aliases": [
+    "people-round",
+    "group-round"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

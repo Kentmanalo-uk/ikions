@@ -1,0 +1,22 @@
+{
+  "name": "server-alert",
+  "title": "Server Alert",
+  "category": "devices",
+  "description": "Server with a warning or problem that needs attention.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "server"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "arrow-path",
+  "title": "Arrow Path",
+  "category": "arrows",
+  "description": "A dashed curved trajectory ending in an arrow, for a planned path or motion.",
+  "tags": [
+    "trajectory",
+    "path",
+    "motion",
+    "animation",
+    "travel",
+    "curve"
+  ],
+  "aliases": [
+    "arrow-trajectory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

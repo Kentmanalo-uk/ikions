@@ -1,0 +1,24 @@
+{
+  "name": "palm-tree",
+  "title": "Palm Tree",
+  "category": "transport",
+  "description": "Represents a palm tree, a tropical destination or a beach holiday.",
+  "tags": [
+    "tropical",
+    "beach",
+    "island",
+    "summer",
+    "vacation",
+    "coconut"
+  ],
+  "aliases": [
+    "coconut-palm",
+    "tropical-tree",
+    "tree-palm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

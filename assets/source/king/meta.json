@@ -1,0 +1,22 @@
+{
+  "name": "king",
+  "title": "King",
+  "category": "people",
+  "description": "Represent a king, ruler or top-ranked member.",
+  "tags": [
+    "royal",
+    "monarch",
+    "ruler",
+    "crown",
+    "leader",
+    "vip"
+  ],
+  "aliases": [
+    "monarch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

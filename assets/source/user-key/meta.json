@@ -1,0 +1,23 @@
+{
+  "name": "user-key",
+  "title": "User Key",
+  "category": "people",
+  "description": "Manage a user's access keys, credentials or permissions.",
+  "tags": [
+    "credentials",
+    "access",
+    "permissions",
+    "password",
+    "login",
+    "api-key"
+  ],
+  "aliases": [
+    "user-credentials",
+    "user-access"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

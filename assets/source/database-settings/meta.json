@@ -1,0 +1,21 @@
+{
+  "name": "database-settings",
+  "title": "Database Settings",
+  "category": "development",
+  "description": "Settings and preferences for a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "settings",
+    "preferences",
+    "configure",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

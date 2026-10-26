@@ -1,0 +1,22 @@
+{
+  "name": "arrows-diverge",
+  "title": "Arrows Diverge",
+  "category": "arrows",
+  "description": "Two arrows moving apart from a centre line, for spreading outward.",
+  "tags": [
+    "diverge",
+    "outward",
+    "spread",
+    "separate",
+    "expand",
+    "split"
+  ],
+  "aliases": [
+    "arrows-outward"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

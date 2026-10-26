@@ -1,0 +1,23 @@
+{
+  "name": "database-table",
+  "title": "Database Table",
+  "category": "development",
+  "description": "A database with a table grid for tables, schemas and stored records.",
+  "tags": [
+    "table",
+    "schema",
+    "sql",
+    "rows",
+    "columns",
+    "records"
+  ],
+  "aliases": [
+    "db-table",
+    "sql-table"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

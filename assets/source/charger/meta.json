@@ -1,0 +1,23 @@
+{
+  "name": "charger",
+  "title": "Charger",
+  "category": "devices",
+  "description": "Represents a wall charger or power adapter for charging devices.",
+  "tags": [
+    "charging",
+    "adapter",
+    "power",
+    "wall plug",
+    "battery",
+    "brick"
+  ],
+  "aliases": [
+    "wall-charger",
+    "power-adapter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

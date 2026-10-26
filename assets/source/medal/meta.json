@@ -1,0 +1,25 @@
+{
+  "name": "medal",
+  "title": "Medal",
+  "category": "sports",
+  "description": "Recognise an achievement, ranking or earned badge.",
+  "tags": [
+    "award",
+    "badge",
+    "achievement",
+    "ribbon",
+    "winner",
+    "rank",
+    "honor",
+    "reward"
+  ],
+  "aliases": [
+    "award-medal",
+    "ribbon-medal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bus-front",
+  "title": "Bus Front",
+  "category": "transport",
+  "description": "A bus seen from the front, for bus stops, routes and public transit.",
+  "tags": [
+    "bus",
+    "transit",
+    "public-transport",
+    "bus-stop",
+    "coach",
+    "commute"
+  ],
+  "aliases": [
+    "bus-frontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "enter",
+  "title": "Enter",
+  "category": "arrows",
+  "description": "Go into a space, area or section.",
+  "tags": [
+    "enter",
+    "entry",
+    "go in",
+    "inside",
+    "import",
+    "access"
+  ],
+  "aliases": [
+    "go-in"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

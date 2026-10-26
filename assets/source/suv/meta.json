@@ -1,0 +1,24 @@
+{
+  "name": "suv",
+  "title": "SUV",
+  "category": "transport",
+  "description": "A tall sport utility vehicle, for family cars, off-road and rentals.",
+  "tags": [
+    "suv",
+    "4x4",
+    "off-road",
+    "crossover",
+    "jeep",
+    "vehicle",
+    "car"
+  ],
+  "aliases": [
+    "sport-utility-vehicle",
+    "crossover"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

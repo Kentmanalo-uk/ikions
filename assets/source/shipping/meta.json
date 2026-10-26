@@ -1,0 +1,23 @@
+{
+  "name": "shipping",
+  "title": "Shipping",
+  "category": "commerce",
+  "description": "Represents an order in transit on a moving delivery truck.",
+  "tags": [
+    "transit",
+    "freight",
+    "dispatch",
+    "courier",
+    "logistics",
+    "fast"
+  ],
+  "aliases": [
+    "in-transit",
+    "dispatch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

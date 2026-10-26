@@ -1,0 +1,22 @@
+{
+  "name": "user-circle",
+  "title": "User Circle",
+  "category": "people",
+  "description": "Show a person's account inside a round frame, such as a profile button.",
+  "tags": [
+    "account",
+    "profile",
+    "avatar",
+    "person",
+    "member",
+    "login"
+  ],
+  "aliases": [
+    "account-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

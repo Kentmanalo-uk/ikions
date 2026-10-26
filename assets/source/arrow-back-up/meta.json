@@ -1,0 +1,20 @@
+{
+  "name": "arrow-back-up",
+  "title": "Arrow Back Up",
+  "category": "arrows",
+  "description": "An arrow that travels left, then turns upward.",
+  "tags": [
+    "back",
+    "left",
+    "up",
+    "turn",
+    "corner",
+    "route"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,58 @@
+export const metadata = {
+  title: "Documentation",
+  description: "Learn how to use Ikions icons in React, Next.js, Vue, Svelte and plain HTML.",
+  alternates: { canonical: "/docs" },
+};
+
+# Introduction
+
+Ikions is an original icon library. Every icon is drawn on a 24 × 24 grid and published in two variants — **Outline** and **Filled** — under one canonical name. The icons ship as plain SVG files and as components for React, Vue and Svelte, all generated from the same source artwork.
+
+<Preview names={["home", "search", "bell", "camera", "wallet", "map-pin", "sparkles"]} />
+<Preview names={["home", "search", "bell", "camera", "wallet", "map-pin", "sparkles"]} variant="filled" />
+
+## Packages
+
+| Package | Use it for |
+| --- | --- |
+| `@ikions/react` | React and Next.js components |
+| `@ikions/vue` | Vue 3 components |
+| `@ikions/svelte` | Svelte 5 components |
+| `@ikions/icons` | Raw SVG files, SVG sprites and the framework-free `toSvg()` helper |
+| `@ikions/metadata` | Names, aliases, tags, categories and a ranked search engine |
+
+All component packages expose the same props: `size`, `color`, `variant`, `strokeWidth` and `title`, plus any standard SVG attribute.
+
+## Quick start
+
+Install the package for your framework:
+
+```bash
+npm install @ikions/react
+```
+
+Import the icons you need by name. Component names are the icon name in PascalCase followed by `Icon`, so `map-pin` becomes `MapPinIcon`.
+
+```tsx
+import { MapPinIcon } from "@ikions/react";
+
+export function Location() {
+  return <MapPinIcon size={20} variant="filled" title="Location" />;
+}
+```
+
+## Design principles
+
+- **24 × 24 grid** with a 20 × 20 live area and a 1.75 outline stroke.
+- **Soft, consistent corners** and round caps and joins.
+- **Filled icons are drawn separately**: real cutouts, not filled outlines.
+- **`currentColor` everywhere**, so icons follow your text colour unless you set `color`.
+
+The full drawing rules live in the [contribution guide](/docs/contributing).
+
+## Next steps
+
+- [Install a package](/docs/installation)
+- [Use the React components](/docs/react)
+- [Style icons](/docs/styling)
+- [Make icons accessible](/docs/accessibility)

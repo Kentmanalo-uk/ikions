@@ -1,0 +1,21 @@
+{
+  "name": "refresh-ccw",
+  "title": "Refresh Counterclockwise",
+  "category": "arrows",
+  "description": "Reload content with a counterclockwise refresh arrow.",
+  "tags": [
+    "refresh",
+    "reload",
+    "update",
+    "counterclockwise",
+    "fetch"
+  ],
+  "aliases": [
+    "refresh-counterclockwise"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

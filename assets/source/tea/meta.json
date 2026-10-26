@@ -1,0 +1,23 @@
+{
+  "name": "tea",
+  "title": "Tea",
+  "category": "food",
+  "description": "Represent tea, such as a cup with a tea bag, a tea house or a hot drink.",
+  "tags": [
+    "teabag",
+    "drink",
+    "hot",
+    "beverage",
+    "herbal",
+    "cafe"
+  ],
+  "aliases": [
+    "tea-bag",
+    "teacup-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

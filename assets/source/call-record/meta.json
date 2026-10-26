@@ -1,0 +1,21 @@
+{
+  "name": "call-record",
+  "title": "Call Record",
+  "category": "communication",
+  "description": "Record an ongoing phone call.",
+  "tags": [
+    "phone",
+    "call",
+    "record",
+    "recording",
+    "voice"
+  ],
+  "aliases": [
+    "record-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

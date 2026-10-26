@@ -1,0 +1,24 @@
+{
+  "name": "iv-drip",
+  "title": "IV Drip",
+  "category": "health",
+  "description": "An IV drip stand with a fluid bag for infusions and hospital treatment.",
+  "tags": [
+    "infusion",
+    "intravenous",
+    "drip",
+    "saline",
+    "hospital",
+    "iv bag",
+    "treatment"
+  ],
+  "aliases": [
+    "intravenous",
+    "infusion"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

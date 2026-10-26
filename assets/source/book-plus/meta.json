@@ -1,0 +1,23 @@
+{
+  "name": "book-plus",
+  "title": "Book Plus",
+  "category": "education",
+  "description": "Add a new book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "add",
+    "new",
+    "create",
+    "book"
+  ],
+  "aliases": [
+    "add-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

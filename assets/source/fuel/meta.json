@@ -1,0 +1,25 @@
+{
+  "name": "fuel",
+  "title": "Fuel",
+  "category": "transport",
+  "description": "A fuel pump with its nozzle, for petrol stations, refuelling and gas.",
+  "tags": [
+    "gas",
+    "petrol",
+    "gas-station",
+    "refuel",
+    "diesel",
+    "pump",
+    "fill-up"
+  ],
+  "aliases": [
+    "gas-pump",
+    "petrol-pump",
+    "fuel-pump"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

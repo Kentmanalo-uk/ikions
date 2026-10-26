@@ -1,0 +1,23 @@
+{
+  "name": "x-ray",
+  "title": "X-ray",
+  "category": "health",
+  "description": "Show an X-ray scan, radiology image or medical imaging.",
+  "tags": [
+    "radiology",
+    "scan",
+    "imaging",
+    "ribs",
+    "skeleton",
+    "radiograph"
+  ],
+  "aliases": [
+    "radiology",
+    "radiograph"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

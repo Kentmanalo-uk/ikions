@@ -1,0 +1,22 @@
+{
+  "name": "pills",
+  "title": "Pills",
+  "category": "health",
+  "description": "Show tablets and capsules, a medication dose or a pharmacy.",
+  "tags": [
+    "tablets",
+    "medication",
+    "drugs",
+    "pharmacy",
+    "dose",
+    "supplements"
+  ],
+  "aliases": [
+    "tablets"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

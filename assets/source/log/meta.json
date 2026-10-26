@@ -1,0 +1,23 @@
+{
+  "name": "log",
+  "title": "Log",
+  "category": "development",
+  "description": "Represents application logs or a log file of recorded events.",
+  "tags": [
+    "logs",
+    "events",
+    "output",
+    "records",
+    "debug",
+    "console"
+  ],
+  "aliases": [
+    "log-file",
+    "event-log"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

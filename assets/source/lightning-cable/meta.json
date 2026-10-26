@@ -1,0 +1,22 @@
+{
+  "name": "lightning-cable",
+  "title": "Lightning Cable",
+  "category": "devices",
+  "description": "Represents a Lightning charging and data cable connector.",
+  "tags": [
+    "charging cable",
+    "connector",
+    "iphone",
+    "charger",
+    "plug",
+    "data cable"
+  ],
+  "aliases": [
+    "charging-cable"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

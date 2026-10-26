@@ -1,0 +1,22 @@
+{
+  "name": "exposure",
+  "title": "Exposure",
+  "category": "editing",
+  "description": "Increase or decrease the exposure of a photo.",
+  "tags": [
+    "light",
+    "plus",
+    "minus",
+    "camera",
+    "photo",
+    "ev"
+  ],
+  "aliases": [
+    "exposure-compensation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

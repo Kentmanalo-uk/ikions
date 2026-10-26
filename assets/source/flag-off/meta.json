@@ -1,0 +1,22 @@
+{
+  "name": "flag-off",
+  "title": "Flag Off",
+  "category": "maps",
+  "description": "Turn off, disable or mute the flag.",
+  "tags": [
+    "goal",
+    "milestone",
+    "report",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-flag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

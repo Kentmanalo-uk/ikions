@@ -1,0 +1,22 @@
+{
+  "name": "smartwatch",
+  "title": "Smartwatch",
+  "category": "devices",
+  "description": "A smartwatch with a heart-rate trace on its screen.",
+  "tags": [
+    "wearable",
+    "watch",
+    "fitness",
+    "heart rate",
+    "health"
+  ],
+  "aliases": [
+    "smart-watch",
+    "wrist-device"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

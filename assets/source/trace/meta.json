@@ -1,0 +1,23 @@
+{
+  "name": "trace",
+  "title": "Trace",
+  "category": "development",
+  "description": "Represents a distributed trace showing nested spans of a request over time.",
+  "tags": [
+    "tracing",
+    "spans",
+    "observability",
+    "waterfall",
+    "latency",
+    "apm"
+  ],
+  "aliases": [
+    "distributed-trace",
+    "span-trace"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

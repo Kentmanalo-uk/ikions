@@ -1,0 +1,23 @@
+{
+  "name": "sprout",
+  "title": "Sprout",
+  "category": "weather",
+  "description": "A young sprout with two leaves pushing up from the soil.",
+  "tags": [
+    "seedling",
+    "grow",
+    "growth",
+    "garden",
+    "new",
+    "plant",
+    "eco"
+  ],
+  "aliases": [
+    "shoot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

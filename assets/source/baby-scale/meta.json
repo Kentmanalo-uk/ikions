@@ -1,0 +1,23 @@
+{
+  "name": "baby-scale",
+  "title": "Baby Scale",
+  "category": "health",
+  "description": "An infant lying on a weighing scale for baby weight checks.",
+  "tags": [
+    "infant scale",
+    "baby weight",
+    "newborn",
+    "pediatrics",
+    "growth",
+    "weighing",
+    "nursery"
+  ],
+  "aliases": [
+    "infant-scale"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

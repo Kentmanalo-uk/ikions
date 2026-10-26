@@ -1,0 +1,23 @@
+{
+  "name": "size-chart",
+  "title": "Size Chart",
+  "category": "commerce",
+  "description": "Check garment measurements to pick the right clothing size.",
+  "tags": [
+    "size guide",
+    "measurements",
+    "fit",
+    "clothing",
+    "apparel",
+    "dimensions"
+  ],
+  "aliases": [
+    "size-guide",
+    "sizing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

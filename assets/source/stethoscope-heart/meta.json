@@ -1,0 +1,23 @@
+{
+  "name": "stethoscope-heart",
+  "title": "Stethoscope Heart",
+  "category": "health",
+  "description": "A stethoscope with a heart-shaped chest piece for cardiology and heart checks.",
+  "tags": [
+    "cardiology",
+    "heart check",
+    "doctor",
+    "checkup",
+    "cardiac",
+    "physician",
+    "auscultation"
+  ],
+  "aliases": [
+    "cardiology"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

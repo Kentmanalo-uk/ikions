@@ -1,0 +1,21 @@
+{
+  "name": "file-heart",
+  "title": "File Heart",
+  "category": "files",
+  "description": "A liked or favourite file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "liked",
+    "favorite",
+    "love",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

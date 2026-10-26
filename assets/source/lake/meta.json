@@ -1,0 +1,23 @@
+{
+  "name": "lake",
+  "title": "Lake",
+  "category": "weather",
+  "description": "Represents a lake, pond or calm body of water.",
+  "tags": [
+    "pond",
+    "water",
+    "reservoir",
+    "landscape",
+    "nature",
+    "fishing",
+    "outdoors"
+  ],
+  "aliases": [
+    "pond"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

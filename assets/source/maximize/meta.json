@@ -1,0 +1,25 @@
+{
+  "name": "maximize",
+  "title": "Maximize",
+  "category": "interface",
+  "description": "Expand a window or element to fill the screen.",
+  "tags": [
+    "expand",
+    "fullscreen",
+    "enlarge",
+    "grow",
+    "zoom",
+    "window",
+    "bigger",
+    "open"
+  ],
+  "aliases": [
+    "expand",
+    "enlarge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

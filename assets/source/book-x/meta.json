@@ -1,0 +1,24 @@
+{
+  "name": "book-x",
+  "title": "Book X",
+  "category": "education",
+  "description": "Delete, cancel or reject a book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "book"
+  ],
+  "aliases": [
+    "delete-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "continent",
+  "title": "Continent",
+  "category": "maps",
+  "description": "A large landmass outline for continents, regions and geography.",
+  "tags": [
+    "landmass",
+    "geography",
+    "region",
+    "territory",
+    "land",
+    "africa"
+  ],
+  "aliases": [
+    "landmass-outline"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

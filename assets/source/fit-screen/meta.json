@@ -1,0 +1,23 @@
+{
+  "name": "fit-screen",
+  "title": "Fit Screen",
+  "category": "interface",
+  "description": "Scale content so it fits entirely inside the screen or window.",
+  "tags": [
+    "fit",
+    "scale",
+    "resize",
+    "zoom to fit",
+    "viewport",
+    "window"
+  ],
+  "aliases": [
+    "fit-to-screen",
+    "zoom-fit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

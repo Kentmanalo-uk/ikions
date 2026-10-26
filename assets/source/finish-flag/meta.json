@@ -1,0 +1,23 @@
+{
+  "name": "finish-flag",
+  "title": "Finish Flag",
+  "category": "maps",
+  "description": "A checkered flag for finish lines, destinations and completed routes.",
+  "tags": [
+    "checkered flag",
+    "finish line",
+    "race",
+    "destination",
+    "goal",
+    "end"
+  ],
+  "aliases": [
+    "checkered-flag",
+    "chequered-flag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

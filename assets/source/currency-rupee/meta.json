@@ -1,0 +1,23 @@
+{
+  "name": "currency-rupee",
+  "title": "Currency Rupee",
+  "category": "finance",
+  "description": "The Indian rupee sign, for rupee prices or money amounts.",
+  "tags": [
+    "rupee",
+    "inr",
+    "india",
+    "price",
+    "money",
+    "currency symbol"
+  ],
+  "aliases": [
+    "rupee",
+    "inr"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

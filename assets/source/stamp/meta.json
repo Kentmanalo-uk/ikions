@@ -1,0 +1,22 @@
+{
+  "name": "stamp",
+  "title": "Stamp",
+  "category": "editing",
+  "description": "Stamp an approval, apply a seal or use the clone stamp tool.",
+  "tags": [
+    "stamp",
+    "seal",
+    "approve",
+    "rubber-stamp",
+    "clone",
+    "mark"
+  ],
+  "aliases": [
+    "rubber-stamp"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

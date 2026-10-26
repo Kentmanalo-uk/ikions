@@ -1,0 +1,24 @@
+{
+  "name": "currency-dollar",
+  "title": "Currency Dollar",
+  "category": "finance",
+  "description": "The dollar sign, for US dollars, prices or money amounts.",
+  "tags": [
+    "dollar",
+    "usd",
+    "price",
+    "money",
+    "cost",
+    "currency symbol",
+    "cash"
+  ],
+  "aliases": [
+    "dollar",
+    "usd"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

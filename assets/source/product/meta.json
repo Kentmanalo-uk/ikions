@@ -1,0 +1,23 @@
+{
+  "name": "product",
+  "title": "Product",
+  "category": "commerce",
+  "description": "Represents a product or item for sale in a catalog.",
+  "tags": [
+    "item",
+    "goods",
+    "merchandise",
+    "catalog",
+    "sku",
+    "stock"
+  ],
+  "aliases": [
+    "merchandise",
+    "goods"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

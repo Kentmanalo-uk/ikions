@@ -1,0 +1,20 @@
+{
+  "name": "video-off-call",
+  "title": "Video Off Call",
+  "category": "communication",
+  "description": "Turn off the camera or leave a video call.",
+  "tags": [
+    "camera off",
+    "video call",
+    "end video",
+    "meeting",
+    "webcam",
+    "disabled"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

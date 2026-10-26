@@ -1,0 +1,24 @@
+{
+  "name": "sidebar",
+  "title": "Sidebar",
+  "category": "interface",
+  "description": "Show or hide a side panel next to the main content.",
+  "tags": [
+    "panel",
+    "layout",
+    "drawer",
+    "navigation",
+    "toggle",
+    "column",
+    "pane",
+    "split"
+  ],
+  "aliases": [
+    "side-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

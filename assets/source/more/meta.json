@@ -1,0 +1,23 @@
+{
+  "name": "more",
+  "title": "More",
+  "category": "interface",
+  "description": "Reveal additional actions or an overflow menu.",
+  "tags": [
+    "ellipsis",
+    "options",
+    "overflow",
+    "dots",
+    "actions"
+  ],
+  "aliases": [
+    "ellipsis",
+    "more-horizontal",
+    "dots"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

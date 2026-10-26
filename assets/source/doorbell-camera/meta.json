@@ -1,0 +1,23 @@
+{
+  "name": "doorbell-camera",
+  "title": "Doorbell Camera",
+  "category": "devices",
+  "description": "Represents a video doorbell with a built-in camera.",
+  "tags": [
+    "video doorbell",
+    "door",
+    "smart home",
+    "intercom",
+    "camera",
+    "entry"
+  ],
+  "aliases": [
+    "video-doorbell",
+    "smart-doorbell"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

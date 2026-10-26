@@ -1,0 +1,23 @@
+{
+  "name": "smart-plug",
+  "title": "Smart Plug",
+  "category": "devices",
+  "description": "Represents a connected smart plug or Wi-Fi power outlet.",
+  "tags": [
+    "smart home",
+    "wifi",
+    "outlet",
+    "socket",
+    "iot",
+    "automation"
+  ],
+  "aliases": [
+    "wifi-plug",
+    "smart-outlet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

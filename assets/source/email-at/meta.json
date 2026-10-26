@@ -1,0 +1,21 @@
+{
+  "name": "email-at",
+  "title": "Email Address",
+  "category": "communication",
+  "description": "Represent an email address, contact email or mail account.",
+  "tags": [
+    "email address",
+    "contact",
+    "mail",
+    "at sign",
+    "account"
+  ],
+  "aliases": [
+    "email-address"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

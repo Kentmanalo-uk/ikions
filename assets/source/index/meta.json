@@ -1,0 +1,23 @@
+{
+  "name": "index",
+  "title": "Index",
+  "category": "development",
+  "description": "Represents a database or search index used to look up records quickly.",
+  "tags": [
+    "lookup",
+    "catalog",
+    "tabs",
+    "directory",
+    "search",
+    "database"
+  ],
+  "aliases": [
+    "db-index",
+    "search-index"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

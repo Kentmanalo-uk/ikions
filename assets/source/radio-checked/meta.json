@@ -1,0 +1,23 @@
+{
+  "name": "radio-checked",
+  "title": "Radio Checked",
+  "category": "interface",
+  "description": "A selected radio button marking the chosen option in a group.",
+  "tags": [
+    "radio",
+    "selected",
+    "option",
+    "choice",
+    "form",
+    "active"
+  ],
+  "aliases": [
+    "radio-selected",
+    "radio-on"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

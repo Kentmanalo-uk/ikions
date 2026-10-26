@@ -1,0 +1,22 @@
+{
+  "name": "subscript",
+  "title": "Subscript",
+  "category": "editing",
+  "description": "Format text as subscript, set below the baseline.",
+  "tags": [
+    "subscript",
+    "text",
+    "chemistry",
+    "formula",
+    "index",
+    "lower"
+  ],
+  "aliases": [
+    "text-subscript"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

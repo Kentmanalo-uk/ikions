@@ -1,0 +1,23 @@
+{
+  "name": "hospital-bed",
+  "title": "Hospital Bed",
+  "category": "health",
+  "description": "Represent a hospital bed, an inpatient stay or ward admission.",
+  "tags": [
+    "inpatient",
+    "ward",
+    "admission",
+    "patient",
+    "bed",
+    "care"
+  ],
+  "aliases": [
+    "patient-bed",
+    "ward-bed"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

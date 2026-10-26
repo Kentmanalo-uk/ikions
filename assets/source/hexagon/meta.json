@@ -1,0 +1,25 @@
+{
+  "name": "hexagon",
+  "title": "Hexagon",
+  "category": "shapes",
+  "description": "A basic hexagon shape for badges, nodes or drawing.",
+  "tags": [
+    "shape",
+    "polygon",
+    "geometry",
+    "six-sided",
+    "honeycomb",
+    "node",
+    "badge",
+    "basic"
+  ],
+  "aliases": [
+    "polygon-6",
+    "six-sided"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

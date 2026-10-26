@@ -1,0 +1,23 @@
+{
+  "name": "receipt-plus",
+  "title": "Receipt Plus",
+  "category": "commerce",
+  "description": "Add a new receipt.",
+  "tags": [
+    "invoice",
+    "bill",
+    "payment",
+    "add",
+    "new",
+    "create",
+    "receipt"
+  ],
+  "aliases": [
+    "add-receipt"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

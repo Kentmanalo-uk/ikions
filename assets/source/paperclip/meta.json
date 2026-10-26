@@ -1,0 +1,24 @@
+{
+  "name": "paperclip",
+  "title": "Paperclip",
+  "category": "files",
+  "description": "Attach a file to a message, form or record.",
+  "tags": [
+    "attach",
+    "attachment",
+    "clip",
+    "file",
+    "upload",
+    "email",
+    "link"
+  ],
+  "aliases": [
+    "attachment",
+    "attach"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

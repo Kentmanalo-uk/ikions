@@ -1,0 +1,22 @@
+{
+  "name": "building-lock",
+  "title": "Building Lock",
+  "category": "buildings",
+  "description": "A locked, private or protected building.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "building"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

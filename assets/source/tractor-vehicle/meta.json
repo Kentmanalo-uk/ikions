@@ -1,0 +1,24 @@
+{
+  "name": "tractor-vehicle",
+  "title": "Tractor",
+  "category": "transport",
+  "description": "A farm tractor with a large rear wheel, for agriculture and farm machinery.",
+  "tags": [
+    "tractor",
+    "farm",
+    "agriculture",
+    "farming",
+    "harvest",
+    "machinery",
+    "rural"
+  ],
+  "aliases": [
+    "farm-tractor",
+    "tractor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

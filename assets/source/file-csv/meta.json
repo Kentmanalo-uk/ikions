@@ -1,0 +1,22 @@
+{
+  "name": "file-csv",
+  "title": "File CSV",
+  "category": "files",
+  "description": "Represents a CSV file of comma-separated values for tabular data.",
+  "tags": [
+    "csv",
+    "comma",
+    "table",
+    "export",
+    "data",
+    "import"
+  ],
+  "aliases": [
+    "csv-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

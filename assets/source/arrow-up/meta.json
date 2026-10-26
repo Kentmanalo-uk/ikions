@@ -1,0 +1,24 @@
+{
+  "name": "arrow-up",
+  "title": "Arrow Up",
+  "category": "arrows",
+  "description": "Move up, scroll to the top or point upward.",
+  "tags": [
+    "up",
+    "north",
+    "top",
+    "rise",
+    "increase",
+    "direction",
+    "scroll",
+    "ascend"
+  ],
+  "aliases": [
+    "arrow-upward"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

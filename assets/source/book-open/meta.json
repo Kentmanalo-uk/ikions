@@ -1,0 +1,25 @@
+{
+  "name": "book-open",
+  "title": "Book Open",
+  "category": "education",
+  "description": "Read an article, open documentation or start a lesson.",
+  "tags": [
+    "read",
+    "reading",
+    "open",
+    "docs",
+    "learn",
+    "lesson",
+    "story",
+    "pages"
+  ],
+  "aliases": [
+    "open-book",
+    "read"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

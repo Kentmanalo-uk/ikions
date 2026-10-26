@@ -1,0 +1,22 @@
+{
+  "name": "rss",
+  "title": "RSS Feed",
+  "category": "communication",
+  "description": "Subscribe to an RSS or Atom web feed.",
+  "tags": [
+    "feed",
+    "subscribe",
+    "blog",
+    "atom",
+    "syndication",
+    "news"
+  ],
+  "aliases": [
+    "web-feed"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

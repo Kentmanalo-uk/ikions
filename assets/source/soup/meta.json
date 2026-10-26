@@ -1,0 +1,23 @@
+{
+  "name": "soup",
+  "title": "Soup",
+  "category": "food",
+  "description": "Represent a hot bowl of soup, such as a starter, broth or warm meal.",
+  "tags": [
+    "bowl",
+    "hot",
+    "broth",
+    "starter",
+    "warm",
+    "meal",
+    "stew"
+  ],
+  "aliases": [
+    "soup-bowl"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "calories",
+  "title": "Calories",
+  "category": "health",
+  "description": "A flame inside a progress ring for calories burned and energy goals.",
+  "tags": [
+    "calories burned",
+    "kcal",
+    "energy",
+    "burn",
+    "fitness goal",
+    "activity ring",
+    "metabolism"
+  ],
+  "aliases": [
+    "kcal",
+    "calories-burned"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

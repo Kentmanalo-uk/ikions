@@ -1,0 +1,23 @@
+{
+  "name": "road",
+  "title": "Road",
+  "category": "maps",
+  "description": "Shows a two-lane road stretching toward the horizon.",
+  "tags": [
+    "street",
+    "drive",
+    "lane",
+    "travel",
+    "route",
+    "asphalt"
+  ],
+  "aliases": [
+    "roadway",
+    "open-road"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

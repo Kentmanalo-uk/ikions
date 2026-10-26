@@ -1,0 +1,24 @@
+{
+  "name": "file-plus",
+  "title": "File Plus",
+  "category": "files",
+  "description": "Create a new file or add a document to a project.",
+  "tags": [
+    "new",
+    "create",
+    "add",
+    "document",
+    "page",
+    "blank",
+    "insert"
+  ],
+  "aliases": [
+    "new-file",
+    "add-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "heart-x",
+  "title": "Heart X",
+  "category": "social",
+  "description": "Delete, cancel or reject a heart.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "heart"
+  ],
+  "aliases": [
+    "delete-heart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "piggy-bank-heart",
+  "title": "Piggy Bank Heart",
+  "category": "finance",
+  "description": "Savings set aside for a cause, a gift or a favourite goal.",
+  "tags": [
+    "savings",
+    "charity",
+    "donation",
+    "giving",
+    "favorite",
+    "goal",
+    "fundraising"
+  ],
+  "aliases": [
+    "charity-savings",
+    "favorite-savings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

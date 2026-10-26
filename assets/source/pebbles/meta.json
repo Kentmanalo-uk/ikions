@@ -1,0 +1,25 @@
+{
+  "name": "pebbles",
+  "title": "Pebbles",
+  "category": "weather",
+  "description": "Represents a stack of balanced pebbles, calm or a zen garden.",
+  "tags": [
+    "stones",
+    "rocks",
+    "zen",
+    "balance",
+    "cairn",
+    "spa",
+    "calm",
+    "meditation"
+  ],
+  "aliases": [
+    "stone-stack",
+    "zen-stones"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

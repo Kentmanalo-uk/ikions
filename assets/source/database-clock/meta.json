@@ -1,0 +1,22 @@
+{
+  "name": "database-clock",
+  "title": "Database Clock",
+  "category": "development",
+  "description": "A scheduled, pending or recent database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

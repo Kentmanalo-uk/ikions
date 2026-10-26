@@ -1,0 +1,23 @@
+{
+  "name": "git-merge",
+  "title": "Git Merge",
+  "category": "development",
+  "description": "Merge branches together in version control.",
+  "tags": [
+    "git",
+    "merge",
+    "version-control",
+    "combine",
+    "join",
+    "repository",
+    "branch"
+  ],
+  "aliases": [
+    "merge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

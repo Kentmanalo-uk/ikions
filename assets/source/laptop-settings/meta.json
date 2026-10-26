@@ -1,0 +1,21 @@
+{
+  "name": "laptop-settings",
+  "title": "Laptop Settings",
+  "category": "devices",
+  "description": "Settings and preferences for a laptop.",
+  "tags": [
+    "computer",
+    "notebook",
+    "macbook",
+    "settings",
+    "preferences",
+    "configure",
+    "laptop"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

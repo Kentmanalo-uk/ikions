@@ -1,0 +1,26 @@
+{
+  "name": "barcode",
+  "title": "Barcode",
+  "category": "commerce",
+  "description": "Scan or show a product barcode.",
+  "tags": [
+    "scan",
+    "product",
+    "upc",
+    "ean",
+    "sku",
+    "inventory",
+    "scanner",
+    "checkout",
+    "label"
+  ],
+  "aliases": [
+    "bar-code",
+    "upc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

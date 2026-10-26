@@ -1,0 +1,20 @@
+{
+  "name": "arrow-up-wide",
+  "title": "Arrow Up Wide",
+  "category": "arrows",
+  "description": "An up arrow with a wide, shallow head.",
+  "tags": [
+    "up",
+    "north",
+    "rise",
+    "increase",
+    "direction",
+    "wide"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

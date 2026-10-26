@@ -1,0 +1,24 @@
+{
+  "name": "test-tube-medical",
+  "title": "Medical Test Tube",
+  "category": "health",
+  "description": "A test tube with a sample and a medical cross for lab tests.",
+  "tags": [
+    "lab test",
+    "blood test",
+    "sample",
+    "specimen",
+    "laboratory",
+    "diagnostics",
+    "pathology"
+  ],
+  "aliases": [
+    "lab-sample",
+    "specimen-tube"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

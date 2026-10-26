@@ -1,0 +1,24 @@
+{
+  "name": "microscope",
+  "title": "Microscope",
+  "category": "science",
+  "description": "Inspect closely, analyse samples or represent research.",
+  "tags": [
+    "lab",
+    "science",
+    "research",
+    "biology",
+    "inspect",
+    "analyze",
+    "magnify",
+    "sample"
+  ],
+  "aliases": [
+    "lab-microscope"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

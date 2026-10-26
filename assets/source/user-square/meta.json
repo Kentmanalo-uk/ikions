@@ -1,0 +1,21 @@
+{
+  "name": "user-square",
+  "title": "User Square",
+  "category": "people",
+  "description": "Show a person's account inside a rounded square frame.",
+  "tags": [
+    "account",
+    "profile",
+    "avatar",
+    "person",
+    "member"
+  ],
+  "aliases": [
+    "account-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

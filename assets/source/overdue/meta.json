@@ -1,0 +1,23 @@
+{
+  "name": "overdue",
+  "title": "Overdue",
+  "category": "finance",
+  "description": "An unpaid invoice or payment that is past its due date.",
+  "tags": [
+    "late payment",
+    "past due",
+    "unpaid",
+    "invoice",
+    "reminder",
+    "late fee"
+  ],
+  "aliases": [
+    "past-due",
+    "late-payment"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

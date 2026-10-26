@@ -1,0 +1,22 @@
+{
+  "name": "direction-sign",
+  "title": "Direction Sign",
+  "category": "arrows",
+  "description": "A diamond road sign with a turn arrow, for directions and wayfinding.",
+  "tags": [
+    "road sign",
+    "turn",
+    "directions",
+    "traffic",
+    "wayfinding",
+    "route"
+  ],
+  "aliases": [
+    "directions-sign"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

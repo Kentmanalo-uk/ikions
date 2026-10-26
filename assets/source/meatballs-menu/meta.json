@@ -1,0 +1,23 @@
+{
+  "name": "meatballs-menu",
+  "title": "Meatballs Menu",
+  "category": "interface",
+  "description": "Open a horizontal overflow menu from a rounded options button.",
+  "tags": [
+    "more",
+    "options",
+    "overflow",
+    "horizontal dots",
+    "actions",
+    "button"
+  ],
+  "aliases": [
+    "more-button",
+    "options-button"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

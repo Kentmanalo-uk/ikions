@@ -1,0 +1,23 @@
+{
+  "name": "more-vertical",
+  "title": "More Vertical",
+  "category": "interface",
+  "description": "Open an overflow menu of extra actions from a vertical ellipsis.",
+  "tags": [
+    "ellipsis",
+    "options",
+    "overflow",
+    "kebab",
+    "dots",
+    "actions",
+    "menu"
+  ],
+  "aliases": [
+    "ellipsis-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

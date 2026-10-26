@@ -1,0 +1,23 @@
+{
+  "name": "space-key",
+  "title": "Space Key",
+  "category": "interface",
+  "description": "Represent the Space bar key on a keyboard.",
+  "tags": [
+    "space",
+    "spacebar",
+    "blank",
+    "keyboard",
+    "whitespace",
+    "gap"
+  ],
+  "aliases": [
+    "spacebar",
+    "space-bar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

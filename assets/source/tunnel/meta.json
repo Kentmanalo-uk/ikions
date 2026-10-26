@@ -1,0 +1,23 @@
+{
+  "name": "tunnel",
+  "title": "Tunnel",
+  "category": "maps",
+  "description": "Shows a road entering a tunnel through a hill.",
+  "tags": [
+    "underpass",
+    "mountain pass",
+    "road",
+    "passage",
+    "infrastructure",
+    "bore"
+  ],
+  "aliases": [
+    "road-tunnel",
+    "underpass"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

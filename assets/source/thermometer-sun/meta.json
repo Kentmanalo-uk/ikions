@@ -1,0 +1,24 @@
+{
+  "name": "thermometer-sun",
+  "title": "Thermometer Sun",
+  "category": "weather",
+  "description": "Shows a hot temperature reading or warm, sunny weather.",
+  "tags": [
+    "hot",
+    "heat",
+    "temperature",
+    "summer",
+    "warm",
+    "heatwave",
+    "weather",
+    "high temperature"
+  ],
+  "aliases": [
+    "hot-weather"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

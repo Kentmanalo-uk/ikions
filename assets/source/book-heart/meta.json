@@ -1,0 +1,21 @@
+{
+  "name": "book-heart",
+  "title": "Book Heart",
+  "category": "education",
+  "description": "A liked or favourite book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "liked",
+    "favorite",
+    "love",
+    "book"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

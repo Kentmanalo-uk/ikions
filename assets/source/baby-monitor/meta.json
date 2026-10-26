@@ -1,0 +1,23 @@
+{
+  "name": "baby-monitor",
+  "title": "Baby Monitor",
+  "category": "devices",
+  "description": "Represents a baby monitor parent unit for watching a sleeping child.",
+  "tags": [
+    "baby",
+    "nursery",
+    "child",
+    "infant",
+    "parenting",
+    "listen"
+  ],
+  "aliases": [
+    "nursery-monitor",
+    "infant-monitor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

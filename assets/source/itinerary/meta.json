@@ -1,0 +1,23 @@
+{
+  "name": "itinerary",
+  "title": "Itinerary",
+  "category": "maps",
+  "description": "A list of stops joined by a path for travel plans and trip schedules.",
+  "tags": [
+    "trip",
+    "travel plan",
+    "stops",
+    "schedule",
+    "journey",
+    "agenda"
+  ],
+  "aliases": [
+    "trip-plan",
+    "travel-itinerary"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

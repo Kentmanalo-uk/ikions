@@ -1,0 +1,23 @@
+{
+  "name": "globe-search",
+  "title": "Globe Search",
+  "category": "maps",
+  "description": "Search for a globe.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "find",
+    "lookup",
+    "browse",
+    "globe"
+  ],
+  "aliases": [
+    "find-globe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

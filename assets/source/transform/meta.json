@@ -1,0 +1,23 @@
+{
+  "name": "transform",
+  "title": "Transform",
+  "category": "editing",
+  "description": "Scale, resize or distort a selected object using its handles.",
+  "tags": [
+    "transform",
+    "scale",
+    "resize",
+    "bounding-box",
+    "handles",
+    "distort"
+  ],
+  "aliases": [
+    "free-transform",
+    "bounding-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

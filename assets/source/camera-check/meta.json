@@ -1,0 +1,22 @@
+{
+  "name": "camera-check",
+  "title": "Camera Check",
+  "category": "media",
+  "description": "Camera confirmed, completed or verified.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "camera"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

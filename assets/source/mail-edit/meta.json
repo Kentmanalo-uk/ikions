@@ -1,0 +1,24 @@
+{
+  "name": "mail-edit",
+  "title": "Mail Edit",
+  "category": "communication",
+  "description": "Edit or rename a mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "mail"
+  ],
+  "aliases": [
+    "edit-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

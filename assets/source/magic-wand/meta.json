@@ -1,0 +1,23 @@
+{
+  "name": "magic-wand",
+  "title": "Magic Wand",
+  "category": "interface",
+  "description": "Apply an automatic fix, enhancement or smart selection.",
+  "tags": [
+    "magic",
+    "auto",
+    "enhance",
+    "smart select",
+    "wizard",
+    "effects"
+  ],
+  "aliases": [
+    "auto-fix",
+    "wand"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

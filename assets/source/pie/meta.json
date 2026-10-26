@@ -1,0 +1,22 @@
+{
+  "name": "pie",
+  "title": "Pie",
+  "category": "food",
+  "description": "Represent a baked pie, pastry, a bakery or a dessert.",
+  "tags": [
+    "pastry",
+    "bakery",
+    "dessert",
+    "baking",
+    "tart",
+    "apple-pie"
+  ],
+  "aliases": [
+    "tart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

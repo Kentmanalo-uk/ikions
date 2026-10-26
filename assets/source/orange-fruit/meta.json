@@ -1,0 +1,23 @@
+{
+  "name": "orange-fruit",
+  "title": "Orange",
+  "category": "food",
+  "description": "Represent an orange, citrus fruit, juice or vitamin C.",
+  "tags": [
+    "citrus",
+    "fruit",
+    "juice",
+    "vitamin",
+    "tangerine",
+    "produce"
+  ],
+  "aliases": [
+    "tangerine",
+    "mandarin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

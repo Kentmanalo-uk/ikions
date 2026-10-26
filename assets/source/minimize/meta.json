@@ -1,0 +1,25 @@
+{
+  "name": "minimize",
+  "title": "Minimize",
+  "category": "interface",
+  "description": "Shrink a window or element back to its normal size.",
+  "tags": [
+    "shrink",
+    "collapse",
+    "reduce",
+    "smaller",
+    "window",
+    "exit",
+    "fullscreen",
+    "restore"
+  ],
+  "aliases": [
+    "shrink",
+    "exit-fullscreen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

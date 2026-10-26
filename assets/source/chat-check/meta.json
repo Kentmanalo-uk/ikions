@@ -1,0 +1,22 @@
+{
+  "name": "chat-check",
+  "title": "Chat Check",
+  "category": "communication",
+  "description": "Chat confirmed, completed or verified.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

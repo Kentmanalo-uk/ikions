@@ -1,0 +1,21 @@
+{
+  "name": "volume-low",
+  "title": "Volume Low",
+  "category": "media",
+  "description": "Shows a quiet sound level with a single sound wave.",
+  "tags": [
+    "sound",
+    "audio",
+    "quiet",
+    "speaker",
+    "level"
+  ],
+  "aliases": [
+    "sound-low"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

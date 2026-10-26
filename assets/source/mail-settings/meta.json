@@ -1,0 +1,21 @@
+{
+  "name": "mail-settings",
+  "title": "Mail Settings",
+  "category": "communication",
+  "description": "Settings and preferences for a mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "settings",
+    "preferences",
+    "configure",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

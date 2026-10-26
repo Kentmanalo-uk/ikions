@@ -1,0 +1,23 @@
+{
+  "name": "route-square",
+  "title": "Route Square",
+  "category": "maps",
+  "description": "A route between two points inside a rounded square for trips and directions.",
+  "tags": [
+    "route",
+    "directions",
+    "path",
+    "trip",
+    "navigation",
+    "journey"
+  ],
+  "aliases": [
+    "square-route",
+    "directions-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

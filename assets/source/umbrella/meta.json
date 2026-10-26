@@ -1,0 +1,24 @@
+{
+  "name": "umbrella",
+  "title": "Umbrella",
+  "category": "weather",
+  "description": "Represent rain protection, insurance cover or a rainy day.",
+  "tags": [
+    "rain",
+    "protection",
+    "insurance",
+    "cover",
+    "weather",
+    "shelter",
+    "parasol",
+    "safe"
+  ],
+  "aliases": [
+    "parasol"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

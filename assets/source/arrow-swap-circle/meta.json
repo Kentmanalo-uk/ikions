@@ -1,0 +1,22 @@
+{
+  "name": "arrow-swap-circle",
+  "title": "Arrow Swap Circle",
+  "category": "arrows",
+  "description": "Two opposite arrows inside a circle, for swapping or exchanging.",
+  "tags": [
+    "swap",
+    "exchange",
+    "switch",
+    "trade",
+    "convert",
+    "transfer"
+  ],
+  "aliases": [
+    "exchange-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "avatar",
+  "title": "Avatar",
+  "category": "people",
+  "description": "Show a profile picture placeholder with an online status dot.",
+  "tags": [
+    "profile",
+    "picture",
+    "photo",
+    "status",
+    "online",
+    "presence"
+  ],
+  "aliases": [
+    "profile-picture",
+    "user-avatar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

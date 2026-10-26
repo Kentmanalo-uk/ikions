@@ -1,0 +1,23 @@
+{
+  "name": "layout-masonry",
+  "title": "Layout Masonry",
+  "category": "interface",
+  "description": "Arrange cards of different heights in staggered columns.",
+  "tags": [
+    "masonry",
+    "pinterest",
+    "staggered",
+    "cards",
+    "gallery",
+    "layout"
+  ],
+  "aliases": [
+    "masonry-grid",
+    "staggered-grid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

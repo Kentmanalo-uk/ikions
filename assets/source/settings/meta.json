@@ -1,0 +1,23 @@
+{
+  "name": "settings",
+  "title": "Settings",
+  "category": "interface",
+  "description": "Open preferences, configuration or system settings.",
+  "tags": [
+    "gear",
+    "cog",
+    "preferences",
+    "configuration",
+    "options"
+  ],
+  "aliases": [
+    "gear",
+    "cog",
+    "preferences"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

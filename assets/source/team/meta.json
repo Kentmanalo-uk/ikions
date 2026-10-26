@@ -1,0 +1,22 @@
+{
+  "name": "team",
+  "title": "Team",
+  "category": "people",
+  "description": "Represent a team of three people working together.",
+  "tags": [
+    "group",
+    "members",
+    "staff",
+    "crew",
+    "collaboration",
+    "department"
+  ],
+  "aliases": [
+    "squad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

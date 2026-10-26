@@ -1,0 +1,25 @@
+{
+  "name": "success",
+  "title": "Success",
+  "category": "status",
+  "description": "Confirm that an action completed or a check passed.",
+  "tags": [
+    "done",
+    "complete",
+    "passed",
+    "verified",
+    "valid",
+    "approved",
+    "ok",
+    "check",
+    "completed"
+  ],
+  "aliases": [
+    "check-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

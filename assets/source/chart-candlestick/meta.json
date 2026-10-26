@@ -1,0 +1,25 @@
+{
+  "name": "chart-candlestick",
+  "title": "Chart Candlestick",
+  "category": "finance",
+  "description": "A candlestick chart for stock prices, trading or market movement.",
+  "tags": [
+    "candlestick",
+    "stocks",
+    "trading",
+    "market",
+    "ohlc",
+    "price chart",
+    "crypto"
+  ],
+  "aliases": [
+    "candlestick",
+    "ohlc",
+    "stocks-chart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "field",
+  "title": "Field",
+  "category": "weather",
+  "description": "Represents a farm field, cropland or agriculture.",
+  "tags": [
+    "farm",
+    "farmland",
+    "crops",
+    "agriculture",
+    "meadow",
+    "rural",
+    "countryside"
+  ],
+  "aliases": [
+    "farmland",
+    "crop-field"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

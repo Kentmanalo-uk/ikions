@@ -1,0 +1,23 @@
+{
+  "name": "calligraphy",
+  "title": "Calligraphy",
+  "category": "editing",
+  "description": "Write decorative lettering with a broad-nib pen.",
+  "tags": [
+    "lettering",
+    "nib",
+    "pen",
+    "handwriting",
+    "ink",
+    "script"
+  ],
+  "aliases": [
+    "broad-nib",
+    "lettering-pen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

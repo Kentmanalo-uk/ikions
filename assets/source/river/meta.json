@@ -1,0 +1,23 @@
+{
+  "name": "river",
+  "title": "River",
+  "category": "weather",
+  "description": "A river winding through the landscape.",
+  "tags": [
+    "river",
+    "stream",
+    "water",
+    "nature",
+    "landscape",
+    "creek",
+    "flow"
+  ],
+  "aliases": [
+    "creek"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

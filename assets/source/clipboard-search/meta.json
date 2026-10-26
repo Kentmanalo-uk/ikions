@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-search",
+  "title": "Clipboard Search",
+  "category": "files",
+  "description": "Search for a clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "find",
+    "lookup",
+    "browse",
+    "clipboard"
+  ],
+  "aliases": [
+    "find-clipboard"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

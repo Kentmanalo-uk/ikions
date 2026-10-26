@@ -1,0 +1,23 @@
+{
+  "name": "browser",
+  "title": "Browser",
+  "category": "interface",
+  "description": "Represent a web browser window with an address bar.",
+  "tags": [
+    "web",
+    "internet",
+    "website",
+    "url",
+    "address bar",
+    "page"
+  ],
+  "aliases": [
+    "web-browser",
+    "browser-window"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

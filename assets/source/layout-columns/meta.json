@@ -1,0 +1,22 @@
+{
+  "name": "layout-columns",
+  "title": "Layout Columns",
+  "category": "interface",
+  "description": "Arrange content side by side in equal vertical columns.",
+  "tags": [
+    "columns",
+    "layout",
+    "three column",
+    "grid",
+    "board",
+    "split"
+  ],
+  "aliases": [
+    "view-columns"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "egg",
+  "title": "Egg",
+  "category": "food",
+  "description": "Represent an egg, such as a fried egg, breakfast or a protein source.",
+  "tags": [
+    "fried-egg",
+    "breakfast",
+    "yolk",
+    "protein",
+    "brunch",
+    "cooking"
+  ],
+  "aliases": [
+    "fried-egg"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

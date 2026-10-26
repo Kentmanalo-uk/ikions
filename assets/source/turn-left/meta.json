@@ -1,0 +1,22 @@
+{
+  "name": "turn-left",
+  "title": "Turn Left",
+  "category": "arrows",
+  "description": "Show a left turn ahead on a route or in directions.",
+  "tags": [
+    "turn",
+    "left",
+    "direction",
+    "navigation",
+    "road",
+    "route"
+  ],
+  "aliases": [
+    "road-turn-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "globe-travel",
+  "title": "World Travel",
+  "category": "transport",
+  "description": "Represents world travel, international flights or going abroad.",
+  "tags": [
+    "international",
+    "abroad",
+    "world",
+    "flight",
+    "tourism",
+    "destination"
+  ],
+  "aliases": [
+    "world-travel",
+    "international-travel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

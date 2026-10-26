@@ -1,0 +1,22 @@
+{
+  "name": "identity",
+  "title": "Identity",
+  "category": "people",
+  "description": "Verify or represent who a person is, such as an identity check.",
+  "tags": [
+    "verification",
+    "kyc",
+    "person",
+    "recognition",
+    "scan",
+    "authenticate"
+  ],
+  "aliases": [
+    "verify-identity"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

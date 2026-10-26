@@ -1,0 +1,22 @@
+{
+  "name": "soundwave",
+  "title": "Soundwave",
+  "category": "media",
+  "description": "Represents a sound wave, audio signal or voice playback.",
+  "tags": [
+    "audio",
+    "signal",
+    "frequency",
+    "voice",
+    "oscillation",
+    "acoustic"
+  ],
+  "aliases": [
+    "voice-wave"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

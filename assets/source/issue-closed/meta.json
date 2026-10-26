@@ -1,0 +1,23 @@
+{
+  "name": "issue-closed",
+  "title": "Issue Closed",
+  "category": "development",
+  "description": "An issue that has been resolved and closed.",
+  "tags": [
+    "resolved",
+    "done",
+    "fixed",
+    "ticket",
+    "complete",
+    "github"
+  ],
+  "aliases": [
+    "closed-issue",
+    "resolved-issue"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

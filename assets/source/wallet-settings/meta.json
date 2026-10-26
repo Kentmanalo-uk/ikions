@@ -1,0 +1,21 @@
+{
+  "name": "wallet-settings",
+  "title": "Wallet Settings",
+  "category": "finance",
+  "description": "Settings and preferences for a wallet.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "settings",
+    "preferences",
+    "configure",
+    "wallet"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

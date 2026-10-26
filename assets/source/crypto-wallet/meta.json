@@ -1,0 +1,24 @@
+{
+  "name": "crypto-wallet",
+  "title": "Crypto Wallet",
+  "category": "finance",
+  "description": "A wallet that holds cryptocurrency and digital tokens.",
+  "tags": [
+    "cryptocurrency",
+    "blockchain",
+    "web3",
+    "bitcoin",
+    "ethereum",
+    "tokens",
+    "defi"
+  ],
+  "aliases": [
+    "web3-wallet",
+    "digital-asset-wallet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "travel-insurance",
+  "title": "Travel Insurance",
+  "category": "transport",
+  "description": "Represents travel insurance, trip protection or a covered journey.",
+  "tags": [
+    "insurance",
+    "trip protection",
+    "cover",
+    "flight",
+    "safety",
+    "policy"
+  ],
+  "aliases": [
+    "trip-insurance",
+    "trip-protection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

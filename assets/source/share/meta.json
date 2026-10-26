@@ -1,0 +1,24 @@
+{
+  "name": "share",
+  "title": "Share",
+  "category": "social",
+  "description": "Share content with other people, apps or networks.",
+  "tags": [
+    "send",
+    "network",
+    "connect",
+    "distribute",
+    "social",
+    "forward",
+    "spread"
+  ],
+  "aliases": [
+    "share-nodes",
+    "network-share"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

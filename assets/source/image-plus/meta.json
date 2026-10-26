@@ -1,0 +1,23 @@
+{
+  "name": "image-plus",
+  "title": "Image Plus",
+  "category": "media",
+  "description": "Add a new image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "add",
+    "new",
+    "create",
+    "image"
+  ],
+  "aliases": [
+    "add-image"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

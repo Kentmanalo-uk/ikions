@@ -1,0 +1,26 @@
+{
+  "name": "shirt",
+  "title": "Shirt",
+  "category": "lifestyle",
+  "description": "Represent clothing, apparel or a fashion category.",
+  "tags": [
+    "clothing",
+    "apparel",
+    "t-shirt",
+    "fashion",
+    "tee",
+    "wear",
+    "outfit",
+    "merch",
+    "t shirt"
+  ],
+  "aliases": [
+    "tee",
+    "clothing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

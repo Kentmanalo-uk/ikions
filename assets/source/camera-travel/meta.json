@@ -1,0 +1,23 @@
+{
+  "name": "camera-travel",
+  "title": "Travel Camera",
+  "category": "transport",
+  "description": "Represents a tourist camera, holiday photos or sightseeing.",
+  "tags": [
+    "tourist",
+    "photos",
+    "sightseeing",
+    "holiday",
+    "photography",
+    "trip"
+  ],
+  "aliases": [
+    "tourist-camera",
+    "holiday-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

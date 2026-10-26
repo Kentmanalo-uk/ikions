@@ -1,0 +1,23 @@
+{
+  "name": "modem",
+  "title": "Modem",
+  "category": "devices",
+  "description": "Represents an internet modem that connects a home or office to the network.",
+  "tags": [
+    "internet",
+    "broadband",
+    "dsl",
+    "cable",
+    "connection",
+    "isp"
+  ],
+  "aliases": [
+    "broadband-modem",
+    "dsl-modem"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

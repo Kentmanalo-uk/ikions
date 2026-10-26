@@ -1,0 +1,22 @@
+{
+  "name": "bookmark-minus",
+  "title": "Bookmark Minus",
+  "category": "social",
+  "description": "Remove a bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "remove",
+    "subtract",
+    "bookmark"
+  ],
+  "aliases": [
+    "remove-bookmark"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

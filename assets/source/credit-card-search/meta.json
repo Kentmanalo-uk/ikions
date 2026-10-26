@@ -1,0 +1,23 @@
+{
+  "name": "credit-card-search",
+  "title": "Credit Card Search",
+  "category": "finance",
+  "description": "Search for a credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "find",
+    "lookup",
+    "browse",
+    "credit"
+  ],
+  "aliases": [
+    "find-credit-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

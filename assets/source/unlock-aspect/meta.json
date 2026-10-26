@@ -1,0 +1,23 @@
+{
+  "name": "unlock-aspect",
+  "title": "Unlock Aspect",
+  "category": "interface",
+  "description": "Allow width and height to change independently while resizing.",
+  "tags": [
+    "aspect ratio",
+    "proportion",
+    "free resize",
+    "unlock",
+    "scale",
+    "unconstrained"
+  ],
+  "aliases": [
+    "unlock-aspect-ratio",
+    "free-proportions"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

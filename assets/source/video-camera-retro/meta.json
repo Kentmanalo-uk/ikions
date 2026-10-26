@@ -1,0 +1,23 @@
+{
+  "name": "video-camera-retro",
+  "title": "Video Camera Retro",
+  "category": "media",
+  "description": "Represents a vintage movie camera with film reels for filmmaking.",
+  "tags": [
+    "movie",
+    "filmmaking",
+    "cinema",
+    "vintage",
+    "director",
+    "recording"
+  ],
+  "aliases": [
+    "movie-camera",
+    "film-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

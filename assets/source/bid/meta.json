@@ -1,0 +1,23 @@
+{
+  "name": "bid",
+  "title": "Bid",
+  "category": "commerce",
+  "description": "Raise a bidding paddle to place or increase an offer.",
+  "tags": [
+    "bidding",
+    "paddle",
+    "offer",
+    "auction",
+    "raise",
+    "place bid"
+  ],
+  "aliases": [
+    "bid-paddle",
+    "place-bid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "file-json",
+  "title": "File JSON",
+  "category": "files",
+  "description": "Represents a JSON data file with structured objects and values.",
+  "tags": [
+    "json",
+    "data",
+    "config",
+    "api",
+    "object",
+    "braces"
+  ],
+  "aliases": [
+    "json-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

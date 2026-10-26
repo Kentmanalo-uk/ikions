@@ -1,0 +1,24 @@
+{
+  "name": "library",
+  "title": "Library",
+  "category": "education",
+  "description": "Books standing on a shelf for a library, reading room or catalogue.",
+  "tags": [
+    "bookshelf",
+    "books",
+    "catalogue",
+    "reading",
+    "archive",
+    "collection",
+    "school"
+  ],
+  "aliases": [
+    "public-library",
+    "book-shelf"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

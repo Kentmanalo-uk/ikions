@@ -1,0 +1,23 @@
+{
+  "name": "org-chart",
+  "title": "Org Chart",
+  "category": "people",
+  "description": "Display an organisation chart, departments or reporting structure.",
+  "tags": [
+    "organization",
+    "chart",
+    "structure",
+    "departments",
+    "tree",
+    "company"
+  ],
+  "aliases": [
+    "organization-chart",
+    "orgchart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

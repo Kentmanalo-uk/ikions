@@ -1,0 +1,23 @@
+{
+  "name": "bundle",
+  "title": "Bundle",
+  "category": "commerce",
+  "description": "A set of products sold together as one bundle deal.",
+  "tags": [
+    "multipack",
+    "set",
+    "combo",
+    "kit",
+    "boxes",
+    "package deal"
+  ],
+  "aliases": [
+    "product-bundle",
+    "multipack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

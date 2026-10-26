@@ -1,0 +1,24 @@
+{
+  "name": "chalkboard",
+  "title": "Chalkboard",
+  "category": "education",
+  "description": "A chalkboard on an easel for lessons, explanations and notes.",
+  "tags": [
+    "blackboard",
+    "board",
+    "lesson",
+    "teach",
+    "class",
+    "easel",
+    "whiteboard"
+  ],
+  "aliases": [
+    "blackboard",
+    "board-easel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

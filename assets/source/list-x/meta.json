@@ -1,0 +1,22 @@
+{
+  "name": "list-x",
+  "title": "List X",
+  "category": "interface",
+  "description": "Clear or delete a list.",
+  "tags": [
+    "clear",
+    "delete",
+    "remove",
+    "cancel",
+    "discard",
+    "close"
+  ],
+  "aliases": [
+    "list-delete"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

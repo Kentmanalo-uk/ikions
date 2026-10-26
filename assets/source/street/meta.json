@@ -1,0 +1,23 @@
+{
+  "name": "street",
+  "title": "Street",
+  "category": "maps",
+  "description": "Shows a city street from above with a pedestrian crossing.",
+  "tags": [
+    "crosswalk",
+    "zebra crossing",
+    "urban",
+    "road",
+    "pedestrian",
+    "avenue"
+  ],
+  "aliases": [
+    "city-street",
+    "crosswalk-street"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

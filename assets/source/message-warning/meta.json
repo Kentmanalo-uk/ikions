@@ -1,0 +1,21 @@
+{
+  "name": "message-warning",
+  "title": "Message Warning",
+  "category": "communication",
+  "description": "A message flagged with a warning or an error.",
+  "tags": [
+    "alert",
+    "error",
+    "report",
+    "problem",
+    "chat"
+  ],
+  "aliases": [
+    "message-alert"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

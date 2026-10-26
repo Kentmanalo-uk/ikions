@@ -1,0 +1,22 @@
+{
+  "name": "pilot",
+  "title": "Pilot",
+  "category": "people",
+  "description": "Represent an airline pilot or captain.",
+  "tags": [
+    "captain",
+    "aviator",
+    "airline",
+    "flight",
+    "crew",
+    "aviation"
+  ],
+  "aliases": [
+    "aviator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

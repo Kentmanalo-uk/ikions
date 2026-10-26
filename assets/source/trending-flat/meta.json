@@ -1,0 +1,22 @@
+{
+  "name": "trending-flat",
+  "title": "Trending Flat",
+  "category": "arrows",
+  "description": "Show a steady, level trend with little change.",
+  "tags": [
+    "trend",
+    "flat",
+    "steady",
+    "stable",
+    "level",
+    "chart"
+  ],
+  "aliases": [
+    "trend-flat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

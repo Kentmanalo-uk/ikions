@@ -1,0 +1,22 @@
+{
+  "name": "folder-clock",
+  "title": "Folder Clock",
+  "category": "files",
+  "description": "A scheduled, pending or recent folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

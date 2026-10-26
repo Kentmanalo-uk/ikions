@@ -1,0 +1,23 @@
+{
+  "name": "market-stall",
+  "title": "Market Stall",
+  "category": "commerce",
+  "description": "Represents an open-air market stall with an awning and counter.",
+  "tags": [
+    "market",
+    "stall",
+    "farmers-market",
+    "vendor",
+    "bazaar",
+    "booth"
+  ],
+  "aliases": [
+    "market-stand",
+    "bazaar-stall"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

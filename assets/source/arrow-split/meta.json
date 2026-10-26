@@ -1,0 +1,22 @@
+{
+  "name": "arrow-split",
+  "title": "Arrow Split",
+  "category": "arrows",
+  "description": "One path that splits into two separate directions.",
+  "tags": [
+    "split",
+    "diverge",
+    "branch",
+    "divide",
+    "routing",
+    "arrow"
+  ],
+  "aliases": [
+    "diverge-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

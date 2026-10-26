@@ -1,0 +1,22 @@
+{
+  "name": "call-hold",
+  "title": "Call on Hold",
+  "category": "communication",
+  "description": "Put an active phone call on hold or resume it.",
+  "tags": [
+    "hold",
+    "pause call",
+    "waiting",
+    "phone",
+    "on hold"
+  ],
+  "aliases": [
+    "hold-call",
+    "pause-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

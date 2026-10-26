@@ -1,0 +1,23 @@
+{
+  "name": "shield-plus",
+  "title": "Shield Plus",
+  "category": "security",
+  "description": "Add a new shield.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "add",
+    "new",
+    "create",
+    "shield"
+  ],
+  "aliases": [
+    "add-shield"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

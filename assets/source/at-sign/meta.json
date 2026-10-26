@@ -1,0 +1,23 @@
+{
+  "name": "at-sign",
+  "title": "At Sign",
+  "category": "social",
+  "description": "Mention someone, show an email address or a username handle.",
+  "tags": [
+    "mention",
+    "email",
+    "address",
+    "handle",
+    "username",
+    "at",
+    "tag"
+  ],
+  "aliases": [
+    "at"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

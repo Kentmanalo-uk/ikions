@@ -1,0 +1,25 @@
+{
+  "name": "log-out",
+  "title": "Log Out",
+  "category": "interface",
+  "description": "Sign out of the current account or session.",
+  "tags": [
+    "sign-out",
+    "logout",
+    "exit",
+    "leave",
+    "quit",
+    "session",
+    "account",
+    "door"
+  ],
+  "aliases": [
+    "sign-out",
+    "logout"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

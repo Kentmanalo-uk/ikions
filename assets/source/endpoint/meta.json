@@ -1,0 +1,23 @@
+{
+  "name": "endpoint",
+  "title": "Endpoint",
+  "category": "development",
+  "description": "Represents an API endpoint where requests are sent and handled.",
+  "tags": [
+    "api",
+    "url",
+    "route",
+    "target",
+    "request",
+    "service"
+  ],
+  "aliases": [
+    "service-endpoint",
+    "url-endpoint"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

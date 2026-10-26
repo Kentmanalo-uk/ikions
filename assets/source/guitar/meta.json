@@ -1,0 +1,23 @@
+{
+  "name": "guitar",
+  "title": "Guitar",
+  "category": "media",
+  "description": "Represents an acoustic guitar, guitar music or string instruments.",
+  "tags": [
+    "acoustic",
+    "instrument",
+    "music",
+    "strings",
+    "band",
+    "song"
+  ],
+  "aliases": [
+    "acoustic-guitar",
+    "string-instrument"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

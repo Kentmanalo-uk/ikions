@@ -1,0 +1,23 @@
+{
+  "name": "point-up",
+  "title": "Point Up",
+  "category": "people",
+  "description": "Point upward to draw attention to something above.",
+  "tags": [
+    "point",
+    "up",
+    "finger",
+    "index",
+    "attention",
+    "above"
+  ],
+  "aliases": [
+    "finger-up",
+    "index-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

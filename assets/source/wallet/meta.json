@@ -1,0 +1,29 @@
+{
+  "name": "wallet",
+  "title": "Wallet",
+  "category": "finance",
+  "description": "Open a wallet, account balance or saved payment methods.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "checkout",
+    "purchase",
+    "balance",
+    "cash",
+    "funds",
+    "purse",
+    "billfold",
+    "account",
+    "digital-wallet"
+  ],
+  "aliases": [
+    "purse",
+    "billfold"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

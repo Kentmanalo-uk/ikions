@@ -1,0 +1,21 @@
+{
+  "name": "image-download",
+  "title": "Image Download",
+  "category": "media",
+  "description": "Download or import a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "download",
+    "save",
+    "import",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

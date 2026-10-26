@@ -1,0 +1,23 @@
+{
+  "name": "mixer",
+  "title": "Mixer",
+  "category": "media",
+  "description": "Represents an audio mixing console with channel faders and knobs.",
+  "tags": [
+    "mixing",
+    "console",
+    "faders",
+    "studio",
+    "dj",
+    "sound"
+  ],
+  "aliases": [
+    "audio-mixer",
+    "sound-board"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

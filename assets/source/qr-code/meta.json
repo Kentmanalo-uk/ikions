@@ -1,0 +1,27 @@
+{
+  "name": "qr-code",
+  "title": "QR Code",
+  "category": "commerce",
+  "description": "Scan or share a QR code for a link, ticket or payment.",
+  "tags": [
+    "qr",
+    "scan",
+    "code",
+    "matrix",
+    "ticket",
+    "payment",
+    "pay",
+    "link",
+    "share",
+    "scanner"
+  ],
+  "aliases": [
+    "qr",
+    "qrcode"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

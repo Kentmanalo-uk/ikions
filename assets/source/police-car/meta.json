@@ -1,0 +1,23 @@
+{
+  "name": "police-car",
+  "title": "Police Car",
+  "category": "transport",
+  "description": "A police car with a roof siren, for law enforcement and emergencies.",
+  "tags": [
+    "police",
+    "cop",
+    "patrol",
+    "siren",
+    "emergency",
+    "law"
+  ],
+  "aliases": [
+    "patrol-car",
+    "squad-car"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

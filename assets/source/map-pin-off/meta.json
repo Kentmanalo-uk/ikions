@@ -1,0 +1,22 @@
+{
+  "name": "map-pin-off",
+  "title": "Map Pin Off",
+  "category": "maps",
+  "description": "Turn off, disable or mute the map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-map-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

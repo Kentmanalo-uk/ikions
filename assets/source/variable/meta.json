@@ -1,0 +1,22 @@
+{
+  "name": "variable",
+  "title": "Variable",
+  "category": "development",
+  "description": "A variable placeholder, shown as x inside parentheses.",
+  "tags": [
+    "variable",
+    "parameter",
+    "placeholder",
+    "value",
+    "math",
+    "expression"
+  ],
+  "aliases": [
+    "var"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

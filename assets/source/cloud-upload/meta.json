@@ -1,0 +1,29 @@
+{
+  "name": "cloud-upload",
+  "title": "Cloud Upload",
+  "category": "weather",
+  "description": "Upload or export a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "upload",
+    "send",
+    "export",
+    "cloud",
+    "deploy",
+    "release",
+    "hosting",
+    "ship",
+    "devops"
+  ],
+  "aliases": [
+    "cloud-deploy",
+    "deploy-to-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

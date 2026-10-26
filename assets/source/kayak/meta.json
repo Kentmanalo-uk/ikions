@@ -1,0 +1,23 @@
+{
+  "name": "kayak",
+  "title": "Kayak",
+  "category": "transport",
+  "description": "Represents kayaking, paddling or a small boat with a double-bladed paddle.",
+  "tags": [
+    "paddle",
+    "paddling",
+    "watersport",
+    "river",
+    "outdoor",
+    "boat"
+  ],
+  "aliases": [
+    "sea-kayak",
+    "kayaking"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-plus",
+  "title": "Clipboard Plus",
+  "category": "files",
+  "description": "Add a new clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "add",
+    "new",
+    "create",
+    "clipboard"
+  ],
+  "aliases": [
+    "add-clipboard"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

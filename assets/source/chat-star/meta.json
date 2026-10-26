@@ -1,0 +1,21 @@
+{
+  "name": "chat-star",
+  "title": "Chat Star",
+  "category": "communication",
+  "description": "A starred or featured chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "starred",
+    "favorite",
+    "featured",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

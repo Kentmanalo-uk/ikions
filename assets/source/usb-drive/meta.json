@@ -1,0 +1,23 @@
+{
+  "name": "usb-drive",
+  "title": "USB Drive",
+  "category": "files",
+  "description": "Represents a USB flash drive or other portable storage stick.",
+  "tags": [
+    "usb",
+    "flash drive",
+    "thumb drive",
+    "storage",
+    "portable",
+    "memory stick"
+  ],
+  "aliases": [
+    "flash-drive",
+    "thumb-drive"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

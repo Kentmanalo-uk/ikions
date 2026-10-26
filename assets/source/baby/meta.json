@@ -1,0 +1,22 @@
+{
+  "name": "baby",
+  "title": "Baby",
+  "category": "people",
+  "description": "Represent an infant, such as a baby profile, nursery or childcare option.",
+  "tags": [
+    "infant",
+    "newborn",
+    "toddler",
+    "nursery",
+    "childcare",
+    "kid"
+  ],
+  "aliases": [
+    "infant"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

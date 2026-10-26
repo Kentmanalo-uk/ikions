@@ -1,0 +1,23 @@
+{
+  "name": "amplifier",
+  "title": "Amplifier",
+  "category": "media",
+  "description": "Represents a guitar amplifier or a loudspeaker cabinet.",
+  "tags": [
+    "amp",
+    "loud",
+    "guitar",
+    "speaker",
+    "cabinet",
+    "sound"
+  ],
+  "aliases": [
+    "guitar-amp",
+    "amp-cabinet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

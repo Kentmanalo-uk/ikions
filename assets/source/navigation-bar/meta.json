@@ -1,0 +1,23 @@
+{
+  "name": "navigation-bar",
+  "title": "Navigation Bar",
+  "category": "interface",
+  "description": "Represent a top navigation bar or app header layout.",
+  "tags": [
+    "header",
+    "navbar",
+    "top bar",
+    "layout",
+    "toolbar",
+    "window"
+  ],
+  "aliases": [
+    "navbar",
+    "top-bar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

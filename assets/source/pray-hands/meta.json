@@ -1,0 +1,23 @@
+{
+  "name": "pray-hands",
+  "title": "Pray Hands",
+  "category": "people",
+  "description": "Show prayer, gratitude, please or thank you.",
+  "tags": [
+    "pray",
+    "please",
+    "thanks",
+    "gratitude",
+    "namaste",
+    "hope"
+  ],
+  "aliases": [
+    "praying-hands",
+    "namaste"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

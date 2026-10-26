@@ -1,0 +1,24 @@
+{
+  "name": "video-call",
+  "title": "Video Call",
+  "category": "communication",
+  "description": "Start a video call, join a meeting or turn on the camera.",
+  "tags": [
+    "video",
+    "call",
+    "meeting",
+    "conference",
+    "webcam",
+    "facetime",
+    "camera",
+    "stream"
+  ],
+  "aliases": [
+    "video-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

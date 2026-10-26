@@ -1,0 +1,22 @@
+{
+  "name": "calendar-lock",
+  "title": "Calendar Lock",
+  "category": "time",
+  "description": "A locked, private or protected calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

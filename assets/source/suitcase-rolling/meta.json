@@ -1,0 +1,24 @@
+{
+  "name": "suitcase-rolling",
+  "title": "Rolling Suitcase",
+  "category": "transport",
+  "description": "Represents a rolling suitcase, carry-on luggage or checking in bags.",
+  "tags": [
+    "luggage",
+    "trolley bag",
+    "carry-on",
+    "baggage",
+    "check-in",
+    "travel"
+  ],
+  "aliases": [
+    "trolley-case",
+    "wheeled-suitcase",
+    "luggage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

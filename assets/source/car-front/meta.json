@@ -1,0 +1,22 @@
+{
+  "name": "car-front",
+  "title": "Car Front",
+  "category": "transport",
+  "description": "A car seen from the front, for driving, vehicles and road travel.",
+  "tags": [
+    "car",
+    "vehicle",
+    "automobile",
+    "drive",
+    "front",
+    "road"
+  ],
+  "aliases": [
+    "car-frontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

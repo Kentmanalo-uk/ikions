@@ -1,0 +1,23 @@
+{
+  "name": "paper-clip-file",
+  "title": "Paper Clip File",
+  "category": "files",
+  "description": "Represents a document with a paper clip attached to it.",
+  "tags": [
+    "attachment",
+    "clip",
+    "attach",
+    "paperclip",
+    "document",
+    "fasten"
+  ],
+  "aliases": [
+    "clipped-document",
+    "attached-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

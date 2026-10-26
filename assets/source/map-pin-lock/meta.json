@@ -1,0 +1,22 @@
+{
+  "name": "map-pin-lock",
+  "title": "Map Pin Lock",
+  "category": "maps",
+  "description": "A locked, private or protected map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "map"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

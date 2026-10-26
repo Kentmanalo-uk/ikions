@@ -1,0 +1,23 @@
+{
+  "name": "bag-plus",
+  "title": "Bag Plus",
+  "category": "commerce",
+  "description": "Add a new bag.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "add",
+    "new",
+    "create",
+    "bag"
+  ],
+  "aliases": [
+    "add-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

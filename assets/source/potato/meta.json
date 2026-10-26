@@ -1,0 +1,22 @@
+{
+  "name": "potato",
+  "title": "Potato",
+  "category": "food",
+  "description": "Represent a potato, root vegetables, fries or a starchy side dish.",
+  "tags": [
+    "vegetable",
+    "root",
+    "fries",
+    "spud",
+    "starch",
+    "produce"
+  ],
+  "aliases": [
+    "spud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

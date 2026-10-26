@@ -1,0 +1,25 @@
+{
+  "name": "shuffle",
+  "title": "Shuffle",
+  "category": "arrows",
+  "description": "Play items in a random order or mix them up.",
+  "tags": [
+    "random",
+    "mix",
+    "crossing",
+    "playlist",
+    "order",
+    "music",
+    "scramble",
+    "arrows"
+  ],
+  "aliases": [
+    "random",
+    "randomize"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

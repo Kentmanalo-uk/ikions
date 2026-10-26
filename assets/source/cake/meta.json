@@ -1,0 +1,25 @@
+{
+  "name": "cake",
+  "title": "Cake",
+  "category": "food",
+  "description": "Represent a birthday, celebration, dessert or anniversary.",
+  "tags": [
+    "birthday",
+    "celebration",
+    "dessert",
+    "party",
+    "anniversary",
+    "candle",
+    "bakery",
+    "sweet"
+  ],
+  "aliases": [
+    "birthday",
+    "birthday-cake"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

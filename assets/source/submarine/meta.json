@@ -1,0 +1,23 @@
+{
+  "name": "submarine",
+  "title": "Submarine",
+  "category": "transport",
+  "description": "Represents a submarine, underwater travel or deep-sea exploration.",
+  "tags": [
+    "underwater",
+    "sub",
+    "navy",
+    "deep sea",
+    "periscope",
+    "ocean"
+  ],
+  "aliases": [
+    "sub-vessel",
+    "u-boat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

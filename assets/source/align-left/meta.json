@@ -1,0 +1,23 @@
+{
+  "name": "align-left",
+  "title": "Align Left",
+  "category": "editing",
+  "description": "Align text or content to the left edge.",
+  "tags": [
+    "text",
+    "alignment",
+    "paragraph",
+    "format",
+    "left",
+    "justify",
+    "lines"
+  ],
+  "aliases": [
+    "text-align-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

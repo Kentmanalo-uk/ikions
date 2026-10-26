@@ -1,0 +1,24 @@
+{
+  "name": "scalpel",
+  "title": "Scalpel",
+  "category": "health",
+  "description": "A surgical scalpel for surgery, incisions and operating rooms.",
+  "tags": [
+    "surgery",
+    "surgical",
+    "blade",
+    "incision",
+    "operation",
+    "knife",
+    "surgeon"
+  ],
+  "aliases": [
+    "surgical-knife",
+    "lancet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

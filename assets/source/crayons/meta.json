@@ -1,0 +1,24 @@
+{
+  "name": "crayons",
+  "title": "Crayons",
+  "category": "education",
+  "description": "A box of crayons for colouring, kids' art and craft activities.",
+  "tags": [
+    "colouring",
+    "coloring",
+    "kids",
+    "art",
+    "drawing",
+    "wax",
+    "school supplies"
+  ],
+  "aliases": [
+    "crayon-box",
+    "box-of-crayons"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "focus-mode",
+  "title": "Focus Mode",
+  "category": "interface",
+  "description": "Enter a distraction-free focus mode that centres on one subject.",
+  "tags": [
+    "focus",
+    "concentrate",
+    "zen",
+    "distraction free",
+    "center",
+    "autofocus"
+  ],
+  "aliases": [
+    "distraction-free",
+    "zen-mode"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

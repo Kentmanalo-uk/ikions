@@ -1,0 +1,23 @@
+{
+  "name": "card-tap",
+  "title": "Card Tap",
+  "category": "finance",
+  "description": "Pay by tapping a contactless bank card on a reader.",
+  "tags": [
+    "tap to pay",
+    "contactless",
+    "card",
+    "payment",
+    "nfc",
+    "wave"
+  ],
+  "aliases": [
+    "tap-card",
+    "contactless-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

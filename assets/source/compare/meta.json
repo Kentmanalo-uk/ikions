@@ -1,0 +1,23 @@
+{
+  "name": "compare",
+  "title": "Compare",
+  "category": "commerce",
+  "description": "Put two products side by side to compare them.",
+  "tags": [
+    "comparison",
+    "versus",
+    "side by side",
+    "products",
+    "specs",
+    "choose"
+  ],
+  "aliases": [
+    "compare-products",
+    "product-comparison"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "percent",
+  "title": "Percent",
+  "category": "commerce",
+  "description": "Show a percentage, discount or promotional offer.",
+  "tags": [
+    "discount",
+    "sale",
+    "offer",
+    "promotion",
+    "coupon",
+    "deal",
+    "rate",
+    "percentage",
+    "tax",
+    "interest"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

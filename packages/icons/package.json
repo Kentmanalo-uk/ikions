@@ -1,0 +1,31 @@
+{
+  "name": "@ikions/icons",
+  "version": "0.1.0",
+  "description": "Original Ikions SVG icons in Outline and Filled variants, framework independent.",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./outline/*": "./outline/*",
+    "./filled/*": "./filled/*",
+    "./sprite/*": "./sprite/*",
+    "./package.json": "./package.json"
+  },
+  "files": ["dist", "outline", "filled", "sprite", "LICENSE", "README.md"],
+  "keywords": ["icons", "svg", "ikions", "outline", "filled", "icon-library"],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

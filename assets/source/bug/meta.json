@@ -1,0 +1,24 @@
+{
+  "name": "bug",
+  "title": "Bug",
+  "category": "development",
+  "description": "Report a bug, track an issue or start debugging.",
+  "tags": [
+    "debug",
+    "issue",
+    "error",
+    "insect",
+    "defect",
+    "beetle",
+    "problem",
+    "testing"
+  ],
+  "aliases": [
+    "insect"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

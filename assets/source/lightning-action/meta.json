@@ -1,0 +1,23 @@
+{
+  "name": "lightning-action",
+  "title": "Lightning Action",
+  "category": "interface",
+  "description": "Trigger an automated action or instant shortcut button.",
+  "tags": [
+    "automation",
+    "trigger",
+    "shortcut",
+    "instant",
+    "action",
+    "button"
+  ],
+  "aliases": [
+    "action-button",
+    "instant-action"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

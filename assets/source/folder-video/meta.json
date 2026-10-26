@@ -1,0 +1,23 @@
+{
+  "name": "folder-video",
+  "title": "Folder Video",
+  "category": "files",
+  "description": "Represents a folder of videos, movies or recordings.",
+  "tags": [
+    "videos",
+    "movies",
+    "clips",
+    "recordings",
+    "media",
+    "film"
+  ],
+  "aliases": [
+    "video-folder",
+    "movie-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

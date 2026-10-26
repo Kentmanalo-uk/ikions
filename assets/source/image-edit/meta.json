@@ -1,0 +1,24 @@
+{
+  "name": "image-edit",
+  "title": "Image Edit",
+  "category": "media",
+  "description": "Edit or rename a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "image"
+  ],
+  "aliases": [
+    "edit-image"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

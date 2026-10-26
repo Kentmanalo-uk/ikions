@@ -1,0 +1,23 @@
+{
+  "name": "signal",
+  "title": "Signal",
+  "category": "communication",
+  "description": "Show cellular or network signal strength at full reception.",
+  "tags": [
+    "cellular",
+    "reception",
+    "network",
+    "mobile",
+    "bars",
+    "strength"
+  ],
+  "aliases": [
+    "cell-signal",
+    "signal-full"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

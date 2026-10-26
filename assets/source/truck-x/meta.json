@@ -1,0 +1,24 @@
+{
+  "name": "truck-x",
+  "title": "Truck X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a truck.",
+  "tags": [
+    "delivery",
+    "shipping",
+    "shipment",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "truck"
+  ],
+  "aliases": [
+    "delete-truck"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

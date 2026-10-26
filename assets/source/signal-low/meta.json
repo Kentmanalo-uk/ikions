@@ -1,0 +1,21 @@
+{
+  "name": "signal-low",
+  "title": "Signal Low",
+  "category": "communication",
+  "description": "Indicate weak cellular or network reception with one bar.",
+  "tags": [
+    "weak signal",
+    "reception",
+    "cellular",
+    "poor connection",
+    "bars"
+  ],
+  "aliases": [
+    "weak-signal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

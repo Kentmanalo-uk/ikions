@@ -1,0 +1,22 @@
+{
+  "name": "blood-drop",
+  "title": "Blood Drop",
+  "category": "health",
+  "description": "Represent blood, a blood donation or a blood test.",
+  "tags": [
+    "blood",
+    "donation",
+    "donor",
+    "blood test",
+    "transfusion",
+    "blood type"
+  ],
+  "aliases": [
+    "blood-donation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

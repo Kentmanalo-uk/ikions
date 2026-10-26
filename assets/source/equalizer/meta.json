@@ -1,0 +1,23 @@
+{
+  "name": "equalizer",
+  "title": "Equalizer",
+  "category": "media",
+  "description": "Audio level bars of different heights for sound visualisers and EQ.",
+  "tags": [
+    "audio",
+    "levels",
+    "sound",
+    "visualizer",
+    "spectrum",
+    "music"
+  ],
+  "aliases": [
+    "audio-levels",
+    "eq"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

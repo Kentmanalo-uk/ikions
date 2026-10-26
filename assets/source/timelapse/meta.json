@@ -1,0 +1,23 @@
+{
+  "name": "timelapse",
+  "title": "Timelapse",
+  "category": "media",
+  "description": "Captures or plays a timelapse sequence where time passes quickly.",
+  "tags": [
+    "time",
+    "interval",
+    "sequence",
+    "fast",
+    "photography",
+    "video"
+  ],
+  "aliases": [
+    "time-lapse",
+    "interval-capture"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

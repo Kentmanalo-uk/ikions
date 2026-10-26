@@ -1,0 +1,23 @@
+{
+  "name": "volcano",
+  "title": "Volcano",
+  "category": "weather",
+  "description": "An erupting volcano for eruptions and natural hazards.",
+  "tags": [
+    "volcano",
+    "eruption",
+    "lava",
+    "mountain",
+    "disaster",
+    "magma",
+    "nature"
+  ],
+  "aliases": [
+    "eruption"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

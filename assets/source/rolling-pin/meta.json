@@ -1,0 +1,22 @@
+{
+  "name": "rolling-pin",
+  "title": "Rolling Pin",
+  "category": "food",
+  "description": "Represent a rolling pin, baking, rolling dough or pastry.",
+  "tags": [
+    "baking",
+    "dough",
+    "pastry",
+    "kitchen",
+    "bakery",
+    "utensil"
+  ],
+  "aliases": [
+    "dough-roller"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

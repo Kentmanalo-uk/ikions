@@ -1,0 +1,23 @@
+{
+  "name": "archive-restore",
+  "title": "Archive Restore",
+  "category": "files",
+  "description": "Restore archived items back out of the archive box.",
+  "tags": [
+    "restore",
+    "unarchive",
+    "recover",
+    "retrieve",
+    "storage",
+    "box"
+  ],
+  "aliases": [
+    "unarchive",
+    "restore-archive"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

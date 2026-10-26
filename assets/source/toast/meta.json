@@ -1,0 +1,22 @@
+{
+  "name": "toast",
+  "title": "Toast",
+  "category": "interface",
+  "description": "Show a brief pop-up message that stacks at the edge of the screen.",
+  "tags": [
+    "snackbar",
+    "message",
+    "alert",
+    "popup",
+    "feedback",
+    "notice"
+  ],
+  "aliases": [
+    "snackbar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

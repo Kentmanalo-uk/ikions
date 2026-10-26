@@ -1,0 +1,21 @@
+{
+  "name": "contact-lens",
+  "title": "Contact Lens",
+  "category": "health",
+  "description": "A contact lens resting above a fingertip for lenses and eye care.",
+  "tags": [
+    "lens",
+    "contacts",
+    "eye care",
+    "optometry",
+    "vision",
+    "eyesight",
+    "optician"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shield-alert",
+  "title": "Shield Alert",
+  "category": "security",
+  "description": "Shield with a warning or problem that needs attention.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "shield"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

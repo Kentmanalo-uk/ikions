@@ -1,0 +1,22 @@
+{
+  "name": "border-radius",
+  "title": "Border Radius",
+  "category": "editing",
+  "description": "Set how rounded the corners of a box are.",
+  "tags": [
+    "radius",
+    "rounded",
+    "corner",
+    "css",
+    "shape",
+    "box"
+  ],
+  "aliases": [
+    "corner-radius"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

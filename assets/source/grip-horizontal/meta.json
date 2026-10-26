@@ -1,0 +1,22 @@
+{
+  "name": "grip-horizontal",
+  "title": "Grip Horizontal",
+  "category": "interface",
+  "description": "Show a drag handle for moving or resizing items sideways.",
+  "tags": [
+    "drag",
+    "handle",
+    "reorder",
+    "move",
+    "resize",
+    "dots"
+  ],
+  "aliases": [
+    "drag-horizontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

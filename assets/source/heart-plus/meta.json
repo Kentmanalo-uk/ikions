@@ -1,0 +1,23 @@
+{
+  "name": "heart-plus",
+  "title": "Heart Plus",
+  "category": "social",
+  "description": "Add a new heart.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "add",
+    "new",
+    "create",
+    "heart"
+  ],
+  "aliases": [
+    "add-heart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

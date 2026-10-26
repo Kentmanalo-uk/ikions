@@ -1,0 +1,24 @@
+{
+  "name": "wind-sock",
+  "title": "Wind Sock",
+  "category": "weather",
+  "description": "Shows wind direction and strength with a windsock on a pole.",
+  "tags": [
+    "windsock",
+    "wind direction",
+    "airfield",
+    "breeze",
+    "gust",
+    "aviation",
+    "weather"
+  ],
+  "aliases": [
+    "windsock",
+    "wind-cone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "file-upload",
+  "title": "File Upload",
+  "category": "files",
+  "description": "Upload or export a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "upload",
+    "send",
+    "export",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

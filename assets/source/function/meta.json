@@ -1,0 +1,23 @@
+{
+  "name": "function",
+  "title": "Function",
+  "category": "development",
+  "description": "A function, drawn as the mathematical f symbol.",
+  "tags": [
+    "function",
+    "method",
+    "formula",
+    "math",
+    "lambda",
+    "procedure"
+  ],
+  "aliases": [
+    "func",
+    "formula-f"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

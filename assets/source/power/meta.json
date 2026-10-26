@@ -1,0 +1,27 @@
+{
+  "name": "power",
+  "title": "Power",
+  "category": "energy",
+  "description": "Turn a device on or off, or show standby state.",
+  "tags": [
+    "on",
+    "off",
+    "standby",
+    "shutdown",
+    "switch",
+    "toggle",
+    "start",
+    "boot"
+  ],
+  "aliases": [
+    "power-button",
+    "on-off",
+    "shutdown",
+    "standby"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

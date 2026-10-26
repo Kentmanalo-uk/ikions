@@ -1,0 +1,22 @@
+{
+  "name": "arrow-sync-circle",
+  "title": "Arrow Sync Circle",
+  "category": "arrows",
+  "description": "Two chasing arrows inside a circle, for syncing or updating.",
+  "tags": [
+    "sync",
+    "synchronize",
+    "update",
+    "refresh",
+    "cycle",
+    "backup"
+  ],
+  "aliases": [
+    "sync-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

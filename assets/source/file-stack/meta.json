@@ -1,0 +1,30 @@
+{
+  "name": "file-stack",
+  "title": "File Stack",
+  "category": "files",
+  "description": "Represents a stack of files grouped together in one pile.",
+  "tags": [
+    "stack",
+    "pile",
+    "batch",
+    "bundle",
+    "group",
+    "collection",
+    "documents",
+    "papers",
+    "layers",
+    "records"
+  ],
+  "aliases": [
+    "stacked-files",
+    "file-pile",
+    "document-stack",
+    "paper-stack",
+    "document-pile"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

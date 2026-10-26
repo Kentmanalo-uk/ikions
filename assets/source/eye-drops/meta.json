@@ -1,0 +1,23 @@
+{
+  "name": "eye-drops",
+  "title": "Eye Drops",
+  "category": "health",
+  "description": "A dropper above an eye for eye drops and eye care.",
+  "tags": [
+    "eye care",
+    "dropper",
+    "ophthalmology",
+    "dry eyes",
+    "eye medication",
+    "drops",
+    "vision"
+  ],
+  "aliases": [
+    "eyedrops"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

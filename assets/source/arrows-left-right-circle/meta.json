@@ -1,0 +1,20 @@
+{
+  "name": "arrows-left-right-circle",
+  "title": "Arrows Left Right Circle",
+  "category": "arrows",
+  "description": "A two-way horizontal arrow inside a circle, for horizontal resizing or scrolling.",
+  "tags": [
+    "horizontal",
+    "resize",
+    "scroll",
+    "left",
+    "right",
+    "width"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "refresh",
+  "title": "Refresh",
+  "category": "interface",
+  "description": "Reload content or fetch the latest data again.",
+  "tags": [
+    "reload",
+    "update",
+    "sync",
+    "retry",
+    "rotate",
+    "clockwise",
+    "again",
+    "fetch"
+  ],
+  "aliases": [
+    "reload"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

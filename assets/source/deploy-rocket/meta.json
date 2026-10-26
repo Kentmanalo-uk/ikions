@@ -1,0 +1,24 @@
+{
+  "name": "deploy-rocket",
+  "title": "Deploy Rocket",
+  "category": "development",
+  "description": "A rocket lifting off, for shipping a deployment or launching a release.",
+  "tags": [
+    "deploy",
+    "launch",
+    "ship",
+    "release",
+    "go live",
+    "rocket"
+  ],
+  "aliases": [
+    "launch-deploy",
+    "ship-it",
+    "rocket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "code-square",
+  "title": "Code Square",
+  "category": "development",
+  "description": "A code snippet inside a rounded square block.",
+  "tags": [
+    "code",
+    "snippet",
+    "embed",
+    "source",
+    "developer",
+    "block"
+  ],
+  "aliases": [
+    "code-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

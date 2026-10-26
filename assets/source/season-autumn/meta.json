@@ -1,0 +1,24 @@
+{
+  "name": "season-autumn",
+  "title": "Autumn",
+  "category": "weather",
+  "description": "Represents the autumn season with a tree dropping its leaves.",
+  "tags": [
+    "autumn",
+    "fall",
+    "season",
+    "leaves",
+    "harvest",
+    "september",
+    "october",
+    "nature"
+  ],
+  "aliases": [
+    "fall-season"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

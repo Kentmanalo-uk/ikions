@@ -1,0 +1,22 @@
+{
+  "name": "clipboard-lock",
+  "title": "Clipboard Lock",
+  "category": "files",
+  "description": "A locked, private or protected clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "clipboard"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

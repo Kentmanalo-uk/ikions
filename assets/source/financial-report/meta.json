@@ -1,0 +1,23 @@
+{
+  "name": "financial-report",
+  "title": "Financial Report",
+  "category": "finance",
+  "description": "A financial report document with a rising bar chart.",
+  "tags": [
+    "report",
+    "statement",
+    "earnings",
+    "analysis",
+    "accounts",
+    "annual report"
+  ],
+  "aliases": [
+    "finance-report",
+    "financial-statement"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

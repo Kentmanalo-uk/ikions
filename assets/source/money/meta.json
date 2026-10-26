@@ -1,0 +1,23 @@
+{
+  "name": "money",
+  "title": "Money",
+  "category": "finance",
+  "description": "Represent money in general, such as cash, funds or a payment amount.",
+  "tags": [
+    "cash",
+    "funds",
+    "finance",
+    "currency",
+    "pay",
+    "coin",
+    "banknote"
+  ],
+  "aliases": [
+    "cash-and-coins"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

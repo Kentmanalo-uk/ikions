@@ -1,0 +1,23 @@
+{
+  "name": "coffee-to-go",
+  "title": "Coffee To Go",
+  "category": "food",
+  "description": "Represent takeaway coffee, a paper cup or a drink to go.",
+  "tags": [
+    "takeaway",
+    "coffee",
+    "cup",
+    "cafe",
+    "latte",
+    "drink"
+  ],
+  "aliases": [
+    "takeaway-coffee",
+    "paper-cup"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

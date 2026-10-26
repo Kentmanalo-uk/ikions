@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-list",
+  "title": "Clipboard List",
+  "category": "files",
+  "description": "Represents a list of tasks or items on a clipboard.",
+  "tags": [
+    "tasks",
+    "todo",
+    "checklist",
+    "inventory",
+    "items",
+    "agenda"
+  ],
+  "aliases": [
+    "clipboard-items",
+    "item-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

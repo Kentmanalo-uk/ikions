@@ -1,0 +1,22 @@
+{
+  "name": "package-check",
+  "title": "Package Check",
+  "category": "commerce",
+  "description": "Package confirmed, completed or verified.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "package"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

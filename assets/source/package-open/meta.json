@@ -1,0 +1,23 @@
+{
+  "name": "package-open",
+  "title": "Package Open",
+  "category": "commerce",
+  "description": "Represents an opened parcel box, unpacked after delivery.",
+  "tags": [
+    "unbox",
+    "opened",
+    "parcel",
+    "unpack",
+    "received",
+    "box"
+  ],
+  "aliases": [
+    "open-box",
+    "unboxing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

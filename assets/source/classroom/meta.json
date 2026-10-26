@@ -1,0 +1,24 @@
+{
+  "name": "classroom",
+  "title": "Classroom",
+  "category": "education",
+  "description": "Students facing a board for a classroom, lecture or class session.",
+  "tags": [
+    "class",
+    "lesson",
+    "lecture",
+    "students",
+    "course",
+    "seminar",
+    "school"
+  ],
+  "aliases": [
+    "class-room",
+    "lecture-room"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

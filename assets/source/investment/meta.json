@@ -1,0 +1,25 @@
+{
+  "name": "investment",
+  "title": "Investment",
+  "category": "finance",
+  "description": "Represent an investment, growing money or a return on capital.",
+  "tags": [
+    "invest",
+    "growth",
+    "grow money",
+    "returns",
+    "capital",
+    "wealth",
+    "interest",
+    "plant"
+  ],
+  "aliases": [
+    "invest",
+    "money-growth"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

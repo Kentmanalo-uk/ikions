@@ -1,0 +1,22 @@
+{
+  "name": "exit",
+  "title": "Exit",
+  "category": "arrows",
+  "description": "Leave a space, area or section.",
+  "tags": [
+    "exit",
+    "leave",
+    "go out",
+    "outside",
+    "quit",
+    "export"
+  ],
+  "aliases": [
+    "go-out"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

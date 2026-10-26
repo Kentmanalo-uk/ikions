@@ -1,0 +1,23 @@
+{
+  "name": "layout-dashboard",
+  "title": "Layout Dashboard",
+  "category": "interface",
+  "description": "Arrange widgets in a dashboard with a wide header tile and cards.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "widgets",
+    "cards",
+    "overview",
+    "admin"
+  ],
+  "aliases": [
+    "dashboard-layout",
+    "widgets"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

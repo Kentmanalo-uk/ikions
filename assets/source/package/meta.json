@@ -1,0 +1,34 @@
+{
+  "name": "package",
+  "title": "Package",
+  "category": "commerce",
+  "description": "Represent a parcel, shipment or boxed product.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "delivery",
+    "shipping",
+    "order",
+    "product",
+    "carton",
+    "inventory",
+    "package",
+    "bundle",
+    "dependency",
+    "npm",
+    "module"
+  ],
+  "aliases": [
+    "parcel",
+    "box",
+    "package-box",
+    "shipping-box",
+    "parcel-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "volume-high",
+  "title": "Volume High",
+  "category": "media",
+  "description": "Shows a loud sound level with three sound waves.",
+  "tags": [
+    "sound",
+    "audio",
+    "loud",
+    "speaker",
+    "level",
+    "max"
+  ],
+  "aliases": [
+    "sound-high",
+    "volume-max"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cloud-settings",
+  "title": "Cloud Settings",
+  "category": "weather",
+  "description": "Settings and preferences for a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "settings",
+    "preferences",
+    "configure",
+    "cloud"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

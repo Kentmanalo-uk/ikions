@@ -1,0 +1,26 @@
+{
+  "name": "utensils",
+  "title": "Utensils",
+  "category": "food",
+  "description": "Represent a restaurant, dining, meals or food service.",
+  "tags": [
+    "restaurant",
+    "dining",
+    "fork",
+    "knife",
+    "meal",
+    "eat",
+    "cutlery",
+    "food",
+    "dinner"
+  ],
+  "aliases": [
+    "cutlery",
+    "fork-knife"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

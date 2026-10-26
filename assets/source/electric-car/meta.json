@@ -1,0 +1,24 @@
+{
+  "name": "electric-car",
+  "title": "Electric Car",
+  "category": "transport",
+  "description": "An electric car with a charge bolt, for EVs and electric mobility.",
+  "tags": [
+    "ev",
+    "electric",
+    "vehicle",
+    "battery",
+    "charge",
+    "green",
+    "car"
+  ],
+  "aliases": [
+    "ev-car",
+    "electric-vehicle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

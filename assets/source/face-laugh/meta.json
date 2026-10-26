@@ -1,0 +1,23 @@
+{
+  "name": "face-laugh",
+  "title": "Face Laugh",
+  "category": "people",
+  "description": "Show laughter, joy or something very funny.",
+  "tags": [
+    "laugh",
+    "funny",
+    "joy",
+    "lol",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "laughing-face",
+    "grinning-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

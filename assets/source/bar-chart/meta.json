@@ -1,0 +1,26 @@
+{
+  "name": "bar-chart",
+  "title": "Bar Chart",
+  "category": "charts",
+  "description": "Show a bar chart, statistics or comparative data.",
+  "tags": [
+    "chart",
+    "graph",
+    "statistics",
+    "analytics",
+    "report",
+    "data",
+    "columns",
+    "metrics",
+    "dashboard"
+  ],
+  "aliases": [
+    "bar-graph",
+    "column-chart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

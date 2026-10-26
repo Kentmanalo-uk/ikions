@@ -1,0 +1,22 @@
+{
+  "name": "tabs",
+  "title": "Tabs",
+  "category": "interface",
+  "description": "Switch between several open tabs in a browser or editor.",
+  "tags": [
+    "browser tabs",
+    "tab bar",
+    "switch",
+    "pages",
+    "navigation",
+    "editor"
+  ],
+  "aliases": [
+    "browser-tabs"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "menu-open",
+  "title": "Menu Open",
+  "category": "interface",
+  "description": "Open a navigation menu or drawer.",
+  "tags": [
+    "hamburger",
+    "drawer",
+    "navigation",
+    "expand",
+    "show",
+    "nav"
+  ],
+  "aliases": [
+    "open-menu"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "credit-card",
+  "title": "Credit Card",
+  "category": "finance",
+  "description": "Pay by card or manage saved credit and debit cards.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "checkout",
+    "purchase",
+    "card",
+    "debit",
+    "bank-card",
+    "billing",
+    "transaction",
+    "visa",
+    "mastercard",
+    "debit card"
+  ],
+  "aliases": [
+    "payment-card",
+    "debit-card",
+    "bank-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "screen",
+  "title": "Screen",
+  "category": "devices",
+  "description": "Represents a display panel or screen with its bezel.",
+  "tags": [
+    "display",
+    "panel",
+    "bezel",
+    "lcd",
+    "touchscreen",
+    "output"
+  ],
+  "aliases": [
+    "display-panel",
+    "lcd-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

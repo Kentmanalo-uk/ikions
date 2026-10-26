@@ -1,0 +1,22 @@
+{
+  "name": "arrow-upload-circle",
+  "title": "Arrow Upload Circle",
+  "category": "arrows",
+  "description": "An up arrow above a line inside a circle, for uploading.",
+  "tags": [
+    "upload",
+    "send",
+    "export",
+    "publish",
+    "share",
+    "up"
+  ],
+  "aliases": [
+    "upload-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

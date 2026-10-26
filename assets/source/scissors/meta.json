@@ -1,0 +1,23 @@
+{
+  "name": "scissors",
+  "title": "Scissors",
+  "category": "editing",
+  "description": "Cut content, split an item or trim a selection.",
+  "tags": [
+    "cut",
+    "trim",
+    "clip",
+    "split",
+    "snip",
+    "craft"
+  ],
+  "aliases": [
+    "cut",
+    "snip"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

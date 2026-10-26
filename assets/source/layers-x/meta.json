@@ -1,0 +1,24 @@
+{
+  "name": "layers-x",
+  "title": "Layers X",
+  "category": "editing",
+  "description": "Delete, cancel or reject a layers.",
+  "tags": [
+    "stack",
+    "levels",
+    "depth",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "layers"
+  ],
+  "aliases": [
+    "delete-layers"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "satellite-phone",
+  "title": "Satellite Phone",
+  "category": "devices",
+  "description": "Represents a satellite phone with a stubby external antenna.",
+  "tags": [
+    "sat phone",
+    "satellite",
+    "remote",
+    "expedition",
+    "emergency",
+    "rugged"
+  ],
+  "aliases": [
+    "sat-phone",
+    "satphone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

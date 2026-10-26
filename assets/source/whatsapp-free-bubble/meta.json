@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-free-bubble",
+  "title": "Messenger Bubble",
+  "category": "communication",
+  "description": "A round messaging-app bubble with delivered and read ticks.",
+  "tags": [
+    "message",
+    "chat",
+    "delivered",
+    "read",
+    "messenger",
+    "ticks"
+  ],
+  "aliases": [
+    "read-receipt",
+    "message-read"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

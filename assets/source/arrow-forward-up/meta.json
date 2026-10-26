@@ -1,0 +1,20 @@
+{
+  "name": "arrow-forward-up",
+  "title": "Arrow Forward Up",
+  "category": "arrows",
+  "description": "An arrow that travels right, then turns upward.",
+  "tags": [
+    "forward",
+    "right",
+    "up",
+    "turn",
+    "corner",
+    "route"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

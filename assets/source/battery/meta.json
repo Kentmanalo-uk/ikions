@@ -1,0 +1,25 @@
+{
+  "name": "battery",
+  "title": "Battery",
+  "category": "energy",
+  "description": "Show battery level, charge status or stored power.",
+  "tags": [
+    "charge",
+    "power",
+    "energy",
+    "level",
+    "status",
+    "device",
+    "low-battery",
+    "capacity"
+  ],
+  "aliases": [
+    "battery-level",
+    "charge-level"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

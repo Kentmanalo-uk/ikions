@@ -1,0 +1,20 @@
+{
+  "name": "phone-call",
+  "title": "Phone Call",
+  "category": "communication",
+  "description": "Show an active phone call or a phone that is ringing.",
+  "tags": [
+    "call",
+    "ringing",
+    "phone",
+    "talk",
+    "active",
+    "contact"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

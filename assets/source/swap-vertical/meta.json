@@ -1,0 +1,22 @@
+{
+  "name": "swap-vertical",
+  "title": "Swap Vertical",
+  "category": "arrows",
+  "description": "Exchange two items vertically, moving one up and one down.",
+  "tags": [
+    "swap",
+    "exchange",
+    "vertical",
+    "reorder",
+    "up",
+    "down"
+  ],
+  "aliases": [
+    "swap-up-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

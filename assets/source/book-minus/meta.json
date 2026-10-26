@@ -1,0 +1,22 @@
+{
+  "name": "book-minus",
+  "title": "Book Minus",
+  "category": "education",
+  "description": "Remove a book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "remove",
+    "subtract",
+    "book"
+  ],
+  "aliases": [
+    "remove-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

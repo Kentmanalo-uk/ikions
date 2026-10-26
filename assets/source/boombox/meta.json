@@ -1,0 +1,23 @@
+{
+  "name": "boombox",
+  "title": "Boombox",
+  "category": "media",
+  "description": "Represents a portable stereo boombox or retro music player.",
+  "tags": [
+    "stereo",
+    "cassette",
+    "portable",
+    "retro",
+    "speaker",
+    "party"
+  ],
+  "aliases": [
+    "ghetto-blaster",
+    "portable-stereo"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "worker",
+  "title": "Worker",
+  "category": "people",
+  "description": "Represent a worker wearing a hard hat, such as field or site staff.",
+  "tags": [
+    "labor",
+    "hard hat",
+    "industry",
+    "site",
+    "technician",
+    "safety"
+  ],
+  "aliases": [
+    "laborer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

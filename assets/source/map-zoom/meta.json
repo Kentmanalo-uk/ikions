@@ -1,0 +1,23 @@
+{
+  "name": "map-zoom",
+  "title": "Map Zoom",
+  "category": "maps",
+  "description": "A folded map under a zoom lens for zooming in on a map area.",
+  "tags": [
+    "zoom in",
+    "magnify",
+    "enlarge",
+    "detail",
+    "scale",
+    "closer"
+  ],
+  "aliases": [
+    "zoom-map",
+    "magnify-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

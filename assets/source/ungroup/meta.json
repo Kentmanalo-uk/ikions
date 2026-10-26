@@ -1,0 +1,22 @@
+{
+  "name": "ungroup",
+  "title": "Ungroup",
+  "category": "interface",
+  "description": "Split a group back into its separate objects.",
+  "tags": [
+    "ungroup",
+    "separate",
+    "split",
+    "objects",
+    "design",
+    "selection"
+  ],
+  "aliases": [
+    "ungroup-objects"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "video-x",
+  "title": "Video X",
+  "category": "media",
+  "description": "Delete, cancel or reject a video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "video"
+  ],
+  "aliases": [
+    "delete-video"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

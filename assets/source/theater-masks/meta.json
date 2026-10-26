@@ -1,0 +1,24 @@
+{
+  "name": "theater-masks",
+  "title": "Theater Masks",
+  "category": "media",
+  "description": "Represents the comedy and tragedy masks of theatre and drama.",
+  "tags": [
+    "theatre",
+    "drama",
+    "comedy",
+    "tragedy",
+    "stage",
+    "acting",
+    "performance"
+  ],
+  "aliases": [
+    "drama-masks",
+    "comedy-tragedy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

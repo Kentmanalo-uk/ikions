@@ -1,0 +1,23 @@
+{
+  "name": "audio-lines",
+  "title": "Audio Lines",
+  "category": "media",
+  "description": "Represents audio levels, live sound or a playing track as vertical bars.",
+  "tags": [
+    "levels",
+    "equalizer",
+    "visualizer",
+    "sound",
+    "playing",
+    "voice"
+  ],
+  "aliases": [
+    "audio-bars",
+    "sound-bars"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

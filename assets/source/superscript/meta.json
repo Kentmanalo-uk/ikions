@@ -1,0 +1,22 @@
+{
+  "name": "superscript",
+  "title": "Superscript",
+  "category": "editing",
+  "description": "Format text as superscript, raised above the baseline.",
+  "tags": [
+    "superscript",
+    "exponent",
+    "power",
+    "footnote",
+    "text",
+    "raise"
+  ],
+  "aliases": [
+    "text-superscript"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

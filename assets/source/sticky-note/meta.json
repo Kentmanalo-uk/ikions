@@ -1,0 +1,22 @@
+{
+  "name": "sticky-note",
+  "title": "Sticky Note",
+  "category": "files",
+  "description": "Represents a sticky note for a short reminder or annotation.",
+  "tags": [
+    "note",
+    "reminder",
+    "post-it",
+    "memo",
+    "annotation"
+  ],
+  "aliases": [
+    "post-it",
+    "note-sticky"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

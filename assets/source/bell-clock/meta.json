@@ -1,0 +1,22 @@
+{
+  "name": "bell-clock",
+  "title": "Bell Clock",
+  "category": "communication",
+  "description": "A scheduled, pending or recent bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "bell"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wallet-check",
+  "title": "Wallet Check",
+  "category": "finance",
+  "description": "Wallet confirmed, completed or verified.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "wallet"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

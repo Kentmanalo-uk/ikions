@@ -1,0 +1,22 @@
+{
+  "name": "usb",
+  "title": "USB",
+  "category": "devices",
+  "description": "The USB connection symbol for ports, cables and peripherals.",
+  "tags": [
+    "port",
+    "connector",
+    "cable",
+    "peripheral",
+    "flash drive"
+  ],
+  "aliases": [
+    "usb-symbol",
+    "usb-port"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

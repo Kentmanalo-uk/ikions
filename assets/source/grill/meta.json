@@ -1,0 +1,23 @@
+{
+  "name": "grill",
+  "title": "Grill",
+  "category": "food",
+  "description": "Represent a barbecue grill, grilling or outdoor cooking.",
+  "tags": [
+    "barbecue",
+    "bbq",
+    "cookout",
+    "outdoor",
+    "cooking",
+    "charcoal"
+  ],
+  "aliases": [
+    "barbecue",
+    "bbq"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

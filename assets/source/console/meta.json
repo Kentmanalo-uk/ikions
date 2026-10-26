@@ -1,0 +1,23 @@
+{
+  "name": "console",
+  "title": "Console",
+  "category": "development",
+  "description": "A developer console window with a title bar and an input prompt.",
+  "tags": [
+    "devtools",
+    "log",
+    "output",
+    "debug",
+    "repl",
+    "command line"
+  ],
+  "aliases": [
+    "dev-console",
+    "developer-console"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

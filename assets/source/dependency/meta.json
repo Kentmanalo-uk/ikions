@@ -1,0 +1,23 @@
+{
+  "name": "dependency",
+  "title": "Dependency",
+  "category": "development",
+  "description": "A package linked to the packages it depends on in a dependency graph.",
+  "tags": [
+    "dependencies",
+    "package graph",
+    "npm",
+    "requires",
+    "tree",
+    "relationship"
+  ],
+  "aliases": [
+    "dependency-graph",
+    "dependencies"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

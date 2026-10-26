@@ -1,0 +1,22 @@
+{
+  "name": "database-off",
+  "title": "Database Off",
+  "category": "development",
+  "description": "Turn off, disable or mute the database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-database"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

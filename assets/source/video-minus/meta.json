@@ -1,0 +1,22 @@
+{
+  "name": "video-minus",
+  "title": "Video Minus",
+  "category": "media",
+  "description": "Remove a video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "remove",
+    "subtract",
+    "video"
+  ],
+  "aliases": [
+    "remove-video"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

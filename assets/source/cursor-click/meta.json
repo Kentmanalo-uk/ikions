@@ -1,0 +1,23 @@
+{
+  "name": "cursor-click",
+  "title": "Cursor Click",
+  "category": "interface",
+  "description": "A pointer clicking, for click actions, taps and interactions.",
+  "tags": [
+    "click",
+    "pointer",
+    "mouse",
+    "tap",
+    "press",
+    "interact"
+  ],
+  "aliases": [
+    "mouse-click",
+    "click"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

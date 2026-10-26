@@ -1,0 +1,22 @@
+{
+  "name": "handshake",
+  "title": "Handshake",
+  "category": "people",
+  "description": "Represent an agreement, partnership or deal between two people.",
+  "tags": [
+    "agreement",
+    "deal",
+    "partnership",
+    "greeting",
+    "trust",
+    "contract"
+  ],
+  "aliases": [
+    "shake-hands"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

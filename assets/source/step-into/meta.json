@@ -1,0 +1,21 @@
+{
+  "name": "step-into",
+  "title": "Step Into",
+  "category": "development",
+  "description": "Move the debugger into the function called on the current line.",
+  "tags": [
+    "debug",
+    "debugger",
+    "step",
+    "enter",
+    "function"
+  ],
+  "aliases": [
+    "debug-step-into"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

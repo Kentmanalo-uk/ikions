@@ -1,0 +1,25 @@
+{
+  "name": "trending-up",
+  "title": "Trending Up",
+  "category": "charts",
+  "description": "Show growth, an upward trend or rising performance.",
+  "tags": [
+    "growth",
+    "increase",
+    "rise",
+    "profit",
+    "gain",
+    "stocks",
+    "analytics",
+    "trend",
+    "up"
+  ],
+  "aliases": [
+    "trend-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

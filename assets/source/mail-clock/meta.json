@@ -1,0 +1,22 @@
+{
+  "name": "mail-clock",
+  "title": "Mail Clock",
+  "category": "communication",
+  "description": "A scheduled, pending or recent mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

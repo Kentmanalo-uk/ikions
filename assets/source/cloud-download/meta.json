@@ -1,0 +1,21 @@
+{
+  "name": "cloud-download",
+  "title": "Cloud Download",
+  "category": "weather",
+  "description": "Download or import a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "download",
+    "save",
+    "import",
+    "cloud"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "arrow-right",
+  "title": "Arrow Right",
+  "category": "arrows",
+  "description": "Move forward, continue or point to the right.",
+  "tags": [
+    "next",
+    "forward",
+    "continue",
+    "direction",
+    "east"
+  ],
+  "aliases": [
+    "arrow-forward"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

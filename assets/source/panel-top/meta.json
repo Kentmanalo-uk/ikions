@@ -1,0 +1,23 @@
+{
+  "name": "panel-top",
+  "title": "Panel Top",
+  "category": "interface",
+  "description": "Toggle a panel docked along the top edge of the window.",
+  "tags": [
+    "toolbar",
+    "header",
+    "panel",
+    "banner",
+    "layout",
+    "pane"
+  ],
+  "aliases": [
+    "top-panel",
+    "dock-top"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "globe-off",
+  "title": "Globe Off",
+  "category": "maps",
+  "description": "Turn off, disable or mute the globe.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-globe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

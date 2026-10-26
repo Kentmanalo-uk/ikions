@@ -1,0 +1,22 @@
+{
+  "name": "walkie-talkie",
+  "title": "Walkie-Talkie",
+  "category": "communication",
+  "description": "Represent a two-way radio, push-to-talk or field communication.",
+  "tags": [
+    "two-way radio",
+    "push to talk",
+    "radio",
+    "handheld",
+    "transceiver"
+  ],
+  "aliases": [
+    "two-way-radio",
+    "push-to-talk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

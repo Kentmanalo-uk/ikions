@@ -1,0 +1,22 @@
+{
+  "name": "map-pin-check",
+  "title": "Map Pin Check",
+  "category": "maps",
+  "description": "Map Pin confirmed, completed or verified.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "map"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

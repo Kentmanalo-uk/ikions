@@ -1,0 +1,22 @@
+{
+  "name": "move",
+  "title": "Move",
+  "category": "arrows",
+  "description": "Drag or move an item in any direction.",
+  "tags": [
+    "move",
+    "drag",
+    "pan",
+    "reposition",
+    "directions",
+    "arrows"
+  ],
+  "aliases": [
+    "move-arrows"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

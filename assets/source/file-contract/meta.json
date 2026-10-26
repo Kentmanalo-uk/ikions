@@ -1,0 +1,24 @@
+{
+  "name": "file-contract",
+  "title": "File Contract",
+  "category": "files",
+  "description": "Represents a signed contract or legal agreement document.",
+  "tags": [
+    "contract",
+    "agreement",
+    "legal",
+    "terms",
+    "deal",
+    "nda"
+  ],
+  "aliases": [
+    "contract-file",
+    "agreement-file",
+    "contract"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

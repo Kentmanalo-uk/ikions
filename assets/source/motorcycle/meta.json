@@ -1,0 +1,22 @@
+{
+  "name": "motorcycle",
+  "title": "Motorcycle",
+  "category": "transport",
+  "description": "A motorcycle seen from the side, for motorbikes, riding and two-wheel travel.",
+  "tags": [
+    "motorbike",
+    "bike",
+    "ride",
+    "biker",
+    "two-wheeler",
+    "touring"
+  ],
+  "aliases": [
+    "motorbike"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

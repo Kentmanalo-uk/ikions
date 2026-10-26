@@ -1,0 +1,23 @@
+{
+  "name": "thermometer-medical",
+  "title": "Medical Thermometer",
+  "category": "health",
+  "description": "Take a body temperature reading or check for a fever.",
+  "tags": [
+    "fever",
+    "temperature",
+    "body temperature",
+    "digital thermometer",
+    "illness",
+    "clinic"
+  ],
+  "aliases": [
+    "clinical-thermometer",
+    "fever-thermometer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

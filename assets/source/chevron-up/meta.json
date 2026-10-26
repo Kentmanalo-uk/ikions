@@ -1,0 +1,24 @@
+{
+  "name": "chevron-up",
+  "title": "Chevron Up",
+  "category": "arrows",
+  "description": "Collapse a section, close a dropdown or move up.",
+  "tags": [
+    "collapse",
+    "caret",
+    "up",
+    "close",
+    "less",
+    "dropdown",
+    "scroll",
+    "top"
+  ],
+  "aliases": [
+    "expand-less"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

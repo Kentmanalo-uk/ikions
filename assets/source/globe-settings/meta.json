@@ -1,0 +1,21 @@
+{
+  "name": "globe-settings",
+  "title": "Globe Settings",
+  "category": "maps",
+  "description": "Settings and preferences for a globe.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "settings",
+    "preferences",
+    "configure",
+    "globe"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

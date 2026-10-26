@@ -1,0 +1,23 @@
+{
+  "name": "face-sleep",
+  "title": "Face Sleep",
+  "category": "people",
+  "description": "Show a sleeping, tired or idle state.",
+  "tags": [
+    "sleep",
+    "tired",
+    "idle",
+    "zzz",
+    "snooze",
+    "emoji"
+  ],
+  "aliases": [
+    "sleeping-face",
+    "tired-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

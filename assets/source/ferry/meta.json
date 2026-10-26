@@ -1,0 +1,23 @@
+{
+  "name": "ferry",
+  "title": "Ferry",
+  "category": "transport",
+  "description": "Represents a passenger or car ferry crossing the water.",
+  "tags": [
+    "boat",
+    "ferry boat",
+    "crossing",
+    "harbour",
+    "sea travel",
+    "car ferry"
+  ],
+  "aliases": [
+    "ferryboat",
+    "water-taxi"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "roundabout",
+  "title": "Roundabout",
+  "category": "maps",
+  "description": "Shows a roundabout where four roads meet around a central island.",
+  "tags": [
+    "traffic circle",
+    "rotary",
+    "junction",
+    "circle",
+    "navigation",
+    "crossroads"
+  ],
+  "aliases": [
+    "traffic-circle",
+    "rotary"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

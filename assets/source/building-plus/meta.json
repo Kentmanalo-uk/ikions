@@ -1,0 +1,23 @@
+{
+  "name": "building-plus",
+  "title": "Building Plus",
+  "category": "buildings",
+  "description": "Add a new building.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "add",
+    "new",
+    "create",
+    "building"
+  ],
+  "aliases": [
+    "add-building"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

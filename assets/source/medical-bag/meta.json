@@ -1,0 +1,22 @@
+{
+  "name": "medical-bag",
+  "title": "Medical Bag",
+  "category": "health",
+  "description": "Represent a doctor's bag, a house call or medical equipment.",
+  "tags": [
+    "doctor bag",
+    "house call",
+    "physician",
+    "paramedic",
+    "medical kit",
+    "visit"
+  ],
+  "aliases": [
+    "doctor-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

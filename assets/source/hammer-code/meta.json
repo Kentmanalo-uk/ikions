@@ -1,0 +1,23 @@
+{
+  "name": "hammer-code",
+  "title": "Hammer Code",
+  "category": "development",
+  "description": "A hammer between code brackets for building, compiling or fixing code.",
+  "tags": [
+    "build",
+    "compile",
+    "fix",
+    "tooling",
+    "make",
+    "code"
+  ],
+  "aliases": [
+    "build-code",
+    "code-build"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

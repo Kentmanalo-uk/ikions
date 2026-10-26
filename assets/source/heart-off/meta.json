@@ -1,0 +1,22 @@
+{
+  "name": "heart-off",
+  "title": "Heart Off",
+  "category": "social",
+  "description": "Turn off, disable or mute the heart.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-heart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

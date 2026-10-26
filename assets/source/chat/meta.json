@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "title": "Chat",
+  "category": "communication",
+  "description": "Open a conversation, send a message or start a chat thread.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "bubble",
+    "comment",
+    "talk",
+    "messaging",
+    "dm",
+    "message circle"
+  ],
+  "aliases": [
+    "speech-bubble"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

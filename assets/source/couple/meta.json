@@ -1,0 +1,22 @@
+{
+  "name": "couple",
+  "title": "Couple",
+  "category": "people",
+  "description": "Represent two partners holding hands, such as a booking for two.",
+  "tags": [
+    "partners",
+    "pair",
+    "spouses",
+    "two people",
+    "duo",
+    "wedding"
+  ],
+  "aliases": [
+    "pair-of-people"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

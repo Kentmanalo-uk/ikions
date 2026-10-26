@@ -1,0 +1,22 @@
+{
+  "name": "flag-check",
+  "title": "Flag Check",
+  "category": "maps",
+  "description": "Flag confirmed, completed or verified.",
+  "tags": [
+    "goal",
+    "milestone",
+    "report",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "flag"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

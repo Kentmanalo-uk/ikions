@@ -1,0 +1,24 @@
+{
+  "name": "payment",
+  "title": "Payment",
+  "category": "finance",
+  "description": "Make or receive a payment, with a coin held over an open hand.",
+  "tags": [
+    "pay",
+    "paid",
+    "checkout",
+    "transaction",
+    "give money",
+    "receive money",
+    "purchase"
+  ],
+  "aliases": [
+    "hand-coin",
+    "pay-money"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

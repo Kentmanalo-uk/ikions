@@ -1,0 +1,23 @@
+{
+  "name": "layout-list",
+  "title": "Layout List",
+  "category": "interface",
+  "description": "Show items as a list of rows with a thumbnail and title.",
+  "tags": [
+    "list view",
+    "layout",
+    "rows",
+    "thumbnails",
+    "items",
+    "view"
+  ],
+  "aliases": [
+    "list-layout",
+    "view-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

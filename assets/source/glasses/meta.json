@@ -1,0 +1,26 @@
+{
+  "name": "glasses",
+  "title": "Glasses",
+  "category": "lifestyle",
+  "description": "Represent eyewear, reading mode or vision.",
+  "tags": [
+    "eyewear",
+    "spectacles",
+    "vision",
+    "reading",
+    "optician",
+    "nerd",
+    "accessibility",
+    "sight"
+  ],
+  "aliases": [
+    "eyeglasses",
+    "spectacles",
+    "eyewear"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

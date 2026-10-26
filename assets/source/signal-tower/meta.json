@@ -1,0 +1,23 @@
+{
+  "name": "signal-tower",
+  "title": "Signal Tower",
+  "category": "devices",
+  "description": "A cellular tower with panel antennas on a mast.",
+  "tags": [
+    "cell tower",
+    "mobile network",
+    "antenna",
+    "5g",
+    "coverage",
+    "telecom"
+  ],
+  "aliases": [
+    "mobile-mast",
+    "cell-site"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

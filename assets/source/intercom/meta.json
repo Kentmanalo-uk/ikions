@@ -1,0 +1,23 @@
+{
+  "name": "intercom",
+  "title": "Intercom",
+  "category": "communication",
+  "description": "Represent a door intercom, entry phone or building buzzer.",
+  "tags": [
+    "door phone",
+    "buzzer",
+    "entry",
+    "doorbell",
+    "speaker",
+    "building"
+  ],
+  "aliases": [
+    "entry-phone",
+    "door-phone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

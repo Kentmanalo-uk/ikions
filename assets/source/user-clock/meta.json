@@ -1,0 +1,22 @@
+{
+  "name": "user-clock",
+  "title": "User Clock",
+  "category": "people",
+  "description": "A scheduled, pending or recent user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "user"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

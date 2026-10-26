@@ -1,0 +1,22 @@
+{
+  "name": "cable",
+  "title": "Cable",
+  "category": "devices",
+  "description": "A data cable ending in a plug connector.",
+  "tags": [
+    "cord",
+    "wire",
+    "connector",
+    "charger",
+    "plug"
+  ],
+  "aliases": [
+    "cord",
+    "data-cable"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

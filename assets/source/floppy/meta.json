@@ -1,0 +1,22 @@
+{
+  "name": "floppy",
+  "title": "Floppy",
+  "category": "files",
+  "description": "Represents a floppy diskette, the classic removable storage disk.",
+  "tags": [
+    "diskette",
+    "disk",
+    "retro",
+    "storage",
+    "removable",
+    "3.5 inch"
+  ],
+  "aliases": [
+    "diskette"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

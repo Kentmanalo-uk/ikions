@@ -1,0 +1,22 @@
+{
+  "name": "list-plus",
+  "title": "List Plus",
+  "category": "interface",
+  "description": "Add a new item to a list.",
+  "tags": [
+    "add",
+    "new",
+    "playlist",
+    "append",
+    "insert",
+    "create"
+  ],
+  "aliases": [
+    "list-add"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "forceps",
+  "title": "Forceps",
+  "category": "health",
+  "description": "Surgical forceps for gripping tissue, splinters and small objects.",
+  "tags": [
+    "tweezers",
+    "surgical tool",
+    "pincers",
+    "surgery",
+    "grip",
+    "medical instrument"
+  ],
+  "aliases": [
+    "tweezers"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fog",
+  "title": "Fog",
+  "category": "weather",
+  "description": "Banks of fog or mist that reduce visibility.",
+  "tags": [
+    "weather",
+    "mist",
+    "haze",
+    "smog",
+    "visibility",
+    "foggy"
+  ],
+  "aliases": [
+    "mist"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

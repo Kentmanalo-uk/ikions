@@ -1,0 +1,21 @@
+{
+  "name": "pager",
+  "title": "Pager",
+  "category": "communication",
+  "description": "Represent a pager or beeper for short alerts and on-call messages.",
+  "tags": [
+    "beeper",
+    "on call",
+    "alert",
+    "message",
+    "device"
+  ],
+  "aliases": [
+    "beeper"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "user-verified",
+  "title": "User Verified",
+  "category": "people",
+  "description": "Show a verified, trusted or officially confirmed account.",
+  "tags": [
+    "verified",
+    "trusted",
+    "official",
+    "badge",
+    "confirmed",
+    "authentic"
+  ],
+  "aliases": [
+    "verified-account",
+    "verified-profile"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

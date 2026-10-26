@@ -1,0 +1,23 @@
+{
+  "name": "envelope-file",
+  "title": "Envelope File",
+  "category": "files",
+  "description": "Represents a document sent by mail or tucked inside an envelope.",
+  "tags": [
+    "envelope",
+    "letter",
+    "attachment",
+    "mail",
+    "document",
+    "send"
+  ],
+  "aliases": [
+    "mailed-document",
+    "letter-envelope"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

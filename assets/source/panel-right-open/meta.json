@@ -1,0 +1,22 @@
+{
+  "name": "panel-right-open",
+  "title": "Panel Right Open",
+  "category": "interface",
+  "description": "Open the right side panel.",
+  "tags": [
+    "inspector",
+    "open",
+    "expand",
+    "show",
+    "drawer",
+    "panel"
+  ],
+  "aliases": [
+    "show-right-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

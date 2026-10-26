@@ -1,0 +1,23 @@
+{
+  "name": "glucose-meter",
+  "title": "Glucose Meter",
+  "category": "health",
+  "description": "Check blood sugar with a glucose meter and test strip.",
+  "tags": [
+    "blood sugar",
+    "diabetes",
+    "glucometer",
+    "test strip",
+    "insulin",
+    "monitoring"
+  ],
+  "aliases": [
+    "glucometer",
+    "blood-sugar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

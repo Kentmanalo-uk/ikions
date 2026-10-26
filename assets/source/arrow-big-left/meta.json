@@ -1,0 +1,19 @@
+{
+  "name": "arrow-big-left",
+  "title": "Arrow Big Left",
+  "category": "arrows",
+  "description": "Large block arrow pointing left; bold direction or upgrade cue.",
+  "tags": [
+    "arrow",
+    "big",
+    "bold",
+    "block",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

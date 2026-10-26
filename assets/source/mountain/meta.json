@@ -1,0 +1,25 @@
+{
+  "name": "mountain",
+  "title": "Mountain",
+  "category": "weather",
+  "description": "Represent mountains, landscapes, hiking or the outdoors.",
+  "tags": [
+    "landscape",
+    "hiking",
+    "peak",
+    "outdoors",
+    "nature",
+    "terrain",
+    "summit",
+    "adventure"
+  ],
+  "aliases": [
+    "peak",
+    "landscape"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

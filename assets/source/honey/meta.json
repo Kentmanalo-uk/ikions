@@ -1,0 +1,22 @@
+{
+  "name": "honey",
+  "title": "Honey",
+  "category": "food",
+  "description": "Represent honey, a honeycomb, beekeeping or natural sweeteners.",
+  "tags": [
+    "honeycomb",
+    "bee",
+    "sweet",
+    "beekeeping",
+    "nectar",
+    "syrup"
+  ],
+  "aliases": [
+    "honeycomb"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

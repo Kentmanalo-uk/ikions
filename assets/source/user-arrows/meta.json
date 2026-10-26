@@ -1,0 +1,23 @@
+{
+  "name": "user-arrows",
+  "title": "User Arrows",
+  "category": "people",
+  "description": "Promote or demote a user, or move them up and down a list.",
+  "tags": [
+    "promote",
+    "demote",
+    "rank",
+    "reorder",
+    "role",
+    "move"
+  ],
+  "aliases": [
+    "user-rank",
+    "promote-demote"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "atom",
+  "title": "Atom",
+  "category": "science",
+  "description": "Represent physics, chemistry or atomic science.",
+  "tags": [
+    "physics",
+    "science",
+    "nucleus",
+    "electron",
+    "orbit",
+    "nuclear",
+    "chemistry",
+    "molecule"
+  ],
+  "aliases": [
+    "nucleus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

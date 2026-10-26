@@ -1,0 +1,23 @@
+{
+  "name": "text-columns",
+  "title": "Text Columns",
+  "category": "editing",
+  "description": "Flow text into side-by-side columns.",
+  "tags": [
+    "columns",
+    "text",
+    "newspaper",
+    "layout",
+    "paragraph",
+    "magazine"
+  ],
+  "aliases": [
+    "column-text",
+    "newspaper-columns"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

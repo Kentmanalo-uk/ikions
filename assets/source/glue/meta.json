@@ -1,0 +1,23 @@
+{
+  "name": "glue",
+  "title": "Glue",
+  "category": "education",
+  "description": "A bottle of glue for crafts, school projects and sticking things together.",
+  "tags": [
+    "adhesive",
+    "craft",
+    "school supplies",
+    "stick",
+    "paste",
+    "diy"
+  ],
+  "aliases": [
+    "glue-bottle",
+    "adhesive"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

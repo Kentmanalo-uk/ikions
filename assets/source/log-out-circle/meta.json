@@ -1,0 +1,23 @@
+{
+  "name": "log-out-circle",
+  "title": "Log Out Circle",
+  "category": "interface",
+  "description": "Sign out of an account or leave the current session.",
+  "tags": [
+    "sign out",
+    "exit",
+    "leave",
+    "logout",
+    "session",
+    "account"
+  ],
+  "aliases": [
+    "sign-out-circle",
+    "exit-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

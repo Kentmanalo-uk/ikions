@@ -1,0 +1,23 @@
+{
+  "name": "campervan",
+  "title": "Campervan",
+  "category": "transport",
+  "description": "Represents a campervan, motorhome or a road trip with sleeping space.",
+  "tags": [
+    "camper",
+    "motorhome",
+    "rv",
+    "van life",
+    "road trip",
+    "camping"
+  ],
+  "aliases": [
+    "motorhome",
+    "camper-van"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "popcorn",
+  "title": "Popcorn",
+  "category": "media",
+  "description": "Represents popcorn, movie snacks or a cinema outing.",
+  "tags": [
+    "snack",
+    "cinema",
+    "movie",
+    "theater",
+    "food",
+    "film"
+  ],
+  "aliases": [
+    "movie-snack",
+    "popcorn-bucket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

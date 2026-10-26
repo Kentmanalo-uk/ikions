@@ -1,0 +1,20 @@
+{
+  "name": "arrow-big-down-line",
+  "title": "Arrow Big Down Line",
+  "category": "arrows",
+  "description": "A bold down arrow hanging from a line, for dropping down or lowering.",
+  "tags": [
+    "down",
+    "lower",
+    "drop",
+    "bottom",
+    "downgrade",
+    "descend"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

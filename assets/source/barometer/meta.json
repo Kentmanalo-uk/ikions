@@ -1,0 +1,24 @@
+{
+  "name": "barometer",
+  "title": "Barometer",
+  "category": "weather",
+  "description": "Shows atmospheric pressure on a barometer dial.",
+  "tags": [
+    "pressure",
+    "air pressure",
+    "gauge",
+    "forecast",
+    "atmosphere",
+    "dial",
+    "weather"
+  ],
+  "aliases": [
+    "air-pressure",
+    "pressure-gauge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

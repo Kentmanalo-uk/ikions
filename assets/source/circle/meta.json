@@ -1,0 +1,24 @@
+{
+  "name": "circle",
+  "title": "Circle",
+  "category": "shapes",
+  "description": "A basic circle shape for status, selection or drawing.",
+  "tags": [
+    "round",
+    "shape",
+    "dot",
+    "ellipse",
+    "geometry",
+    "radio",
+    "record",
+    "basic"
+  ],
+  "aliases": [
+    "round"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

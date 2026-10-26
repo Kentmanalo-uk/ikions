@@ -1,0 +1,21 @@
+{
+  "name": "flip-horizontal",
+  "title": "Flip Horizontal",
+  "category": "editing",
+  "description": "Mirror an object or image from left to right.",
+  "tags": [
+    "flip",
+    "mirror",
+    "reflect",
+    "horizontal",
+    "left-right"
+  ],
+  "aliases": [
+    "mirror-horizontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

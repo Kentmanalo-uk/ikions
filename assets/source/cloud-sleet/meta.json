@@ -1,0 +1,23 @@
+{
+  "name": "cloud-sleet",
+  "title": "Cloud Sleet",
+  "category": "weather",
+  "description": "Sleet, a mix of rain and snow, falling from a cloud.",
+  "tags": [
+    "weather",
+    "sleet",
+    "rain and snow",
+    "wintry mix",
+    "icy",
+    "forecast"
+  ],
+  "aliases": [
+    "sleet",
+    "wintry-mix"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

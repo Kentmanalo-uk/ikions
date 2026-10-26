@@ -1,0 +1,23 @@
+{
+  "name": "petri-dish",
+  "title": "Petri Dish",
+  "category": "health",
+  "description": "A petri dish with growing colonies for microbiology and lab culture.",
+  "tags": [
+    "culture",
+    "microbiology",
+    "lab",
+    "bacteria",
+    "colony",
+    "agar",
+    "experiment"
+  ],
+  "aliases": [
+    "culture-dish"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

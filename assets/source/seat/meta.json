@@ -1,0 +1,23 @@
+{
+  "name": "seat",
+  "title": "Seat",
+  "category": "transport",
+  "description": "A vehicle seat seen from the side, for seat selection, booking and comfort.",
+  "tags": [
+    "seat",
+    "chair",
+    "booking",
+    "reserve",
+    "passenger",
+    "airline",
+    "cinema"
+  ],
+  "aliases": [
+    "passenger-seat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

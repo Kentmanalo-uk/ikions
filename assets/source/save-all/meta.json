@@ -1,0 +1,22 @@
+{
+  "name": "save-all",
+  "title": "Save All",
+  "category": "interface",
+  "description": "Save every open document or pending change at once.",
+  "tags": [
+    "floppy",
+    "save",
+    "multiple",
+    "store",
+    "all files",
+    "batch"
+  ],
+  "aliases": [
+    "save-multiple"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

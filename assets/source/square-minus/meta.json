@@ -1,0 +1,19 @@
+{
+  "name": "square-minus",
+  "title": "Square Minus",
+  "category": "shapes",
+  "description": "Minus in a square: remove or collapse.",
+  "tags": [
+    "square",
+    "remove",
+    "minus",
+    "collapse",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

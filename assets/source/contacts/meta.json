@@ -1,0 +1,22 @@
+{
+  "name": "contacts",
+  "title": "Contacts",
+  "category": "communication",
+  "description": "Open the contact list or a saved contact.",
+  "tags": [
+    "people",
+    "address",
+    "phonebook",
+    "directory",
+    "person",
+    "list"
+  ],
+  "aliases": [
+    "contact-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

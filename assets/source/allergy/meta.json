@@ -1,0 +1,23 @@
+{
+  "name": "allergy",
+  "title": "Allergy",
+  "category": "health",
+  "description": "A flower releasing pollen for allergies, hay fever and allergens.",
+  "tags": [
+    "pollen",
+    "hay fever",
+    "allergen",
+    "seasonal allergy",
+    "sneeze",
+    "antihistamine"
+  ],
+  "aliases": [
+    "hay-fever",
+    "pollen-allergy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "skateboard-ride",
+  "title": "Skateboard",
+  "category": "transport",
+  "description": "Represents skateboarding, a skate park or riding a board.",
+  "tags": [
+    "skate",
+    "skateboarding",
+    "board",
+    "skatepark",
+    "sport",
+    "ride"
+  ],
+  "aliases": [
+    "skateboarding",
+    "skate-board"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

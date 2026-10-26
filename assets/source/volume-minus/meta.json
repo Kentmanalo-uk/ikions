@@ -1,0 +1,23 @@
+{
+  "name": "volume-minus",
+  "title": "Volume Minus",
+  "category": "media",
+  "description": "Turns the sound volume down.",
+  "tags": [
+    "quieter",
+    "decrease",
+    "sound",
+    "audio",
+    "speaker",
+    "turn-down"
+  ],
+  "aliases": [
+    "volume-down",
+    "quieter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

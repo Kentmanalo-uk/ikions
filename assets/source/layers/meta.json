@@ -1,0 +1,23 @@
+{
+  "name": "layers",
+  "title": "Layers",
+  "category": "editing",
+  "description": "Show stacked layers, levels or overlapping content.",
+  "tags": [
+    "stack",
+    "levels",
+    "depth",
+    "arrange",
+    "design",
+    "overlay",
+    "map"
+  ],
+  "aliases": [
+    "stack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "food-delivery",
+  "title": "Food Delivery",
+  "category": "food",
+  "description": "Represent food delivery, such as a meal order on its way or a takeaway service.",
+  "tags": [
+    "takeaway",
+    "order",
+    "delivery",
+    "meal",
+    "service",
+    "fast"
+  ],
+  "aliases": [
+    "meal-delivery",
+    "takeaway-delivery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

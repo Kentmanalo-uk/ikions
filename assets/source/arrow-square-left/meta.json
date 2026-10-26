@@ -1,0 +1,19 @@
+{
+  "name": "arrow-square-left",
+  "title": "Arrow Square Left",
+  "category": "arrows",
+  "description": "Arrow pointing left inside a square; a direction button or step control.",
+  "tags": [
+    "arrow",
+    "direction",
+    "square",
+    "button",
+    "left"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

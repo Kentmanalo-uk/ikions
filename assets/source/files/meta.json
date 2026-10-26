@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "title": "Files",
+  "category": "files",
+  "description": "Represents multiple files or a collection of documents.",
+  "tags": [
+    "documents",
+    "multiple",
+    "stack",
+    "pages",
+    "batch"
+  ],
+  "aliases": [
+    "documents",
+    "multiple-files"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wave",
+  "title": "Wave",
+  "category": "weather",
+  "description": "A curling ocean wave for surfing, the sea and water sports.",
+  "tags": [
+    "wave",
+    "surf",
+    "sea",
+    "ocean",
+    "water",
+    "tide",
+    "beach"
+  ],
+  "aliases": [
+    "surf-wave"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

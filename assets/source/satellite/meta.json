@@ -1,0 +1,24 @@
+{
+  "name": "satellite",
+  "title": "Satellite",
+  "category": "emerging",
+  "description": "Represent satellites, space tech or signal transmission.",
+  "tags": [
+    "space",
+    "orbit",
+    "signal",
+    "gps",
+    "communication",
+    "broadcast",
+    "telemetry",
+    "iot"
+  ],
+  "aliases": [
+    "space-satellite"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

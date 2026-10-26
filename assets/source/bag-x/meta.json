@@ -1,0 +1,24 @@
+{
+  "name": "bag-x",
+  "title": "Bag X",
+  "category": "commerce",
+  "description": "Delete, cancel or reject a bag.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "bag"
+  ],
+  "aliases": [
+    "delete-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

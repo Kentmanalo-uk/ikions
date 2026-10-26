@@ -1,0 +1,22 @@
+{
+  "name": "calendar-alert",
+  "title": "Calendar Alert",
+  "category": "time",
+  "description": "Calendar with a warning or problem that needs attention.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

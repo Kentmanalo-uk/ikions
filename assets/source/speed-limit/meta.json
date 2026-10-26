@@ -1,0 +1,23 @@
+{
+  "name": "speed-limit",
+  "title": "Speed Limit",
+  "category": "maps",
+  "description": "Shows a round speed limit road sign with a maximum speed.",
+  "tags": [
+    "max speed",
+    "road sign",
+    "traffic sign",
+    "speeding",
+    "mph",
+    "kmh"
+  ],
+  "aliases": [
+    "speed-sign",
+    "max-speed"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

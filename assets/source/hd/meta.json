@@ -1,0 +1,23 @@
+{
+  "name": "hd",
+  "title": "HD",
+  "category": "media",
+  "description": "Marks high-definition video quality.",
+  "tags": [
+    "high-definition",
+    "quality",
+    "resolution",
+    "video",
+    "1080p",
+    "720p"
+  ],
+  "aliases": [
+    "high-definition",
+    "hd-quality"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "avocado",
+  "title": "Avocado",
+  "category": "food",
+  "description": "Represent an avocado, healthy fats, guacamole or a plant-based diet.",
+  "tags": [
+    "fruit",
+    "guacamole",
+    "healthy",
+    "vegan",
+    "keto",
+    "produce"
+  ],
+  "aliases": [
+    "guacamole"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

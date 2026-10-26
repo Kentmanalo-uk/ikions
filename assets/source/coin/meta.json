@@ -1,0 +1,24 @@
+{
+  "name": "coin",
+  "title": "Coin",
+  "category": "finance",
+  "description": "A single coin, for change, credits, tokens or small payments.",
+  "tags": [
+    "change",
+    "credit",
+    "token",
+    "penny",
+    "cent",
+    "money",
+    "currency"
+  ],
+  "aliases": [
+    "single-coin",
+    "penny"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

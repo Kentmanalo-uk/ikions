@@ -1,0 +1,24 @@
+{
+  "name": "calendar-x",
+  "title": "Calendar X",
+  "category": "time",
+  "description": "Delete, cancel or reject a calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "calendar"
+  ],
+  "aliases": [
+    "delete-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

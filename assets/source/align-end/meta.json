@@ -1,0 +1,22 @@
+{
+  "name": "align-end",
+  "title": "Align End",
+  "category": "interface",
+  "description": "Align the selected objects to their trailing edge.",
+  "tags": [
+    "align",
+    "right edge",
+    "trailing",
+    "objects",
+    "layout",
+    "design"
+  ],
+  "aliases": [
+    "align-objects-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

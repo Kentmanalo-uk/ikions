@@ -1,0 +1,22 @@
+{
+  "name": "joystick",
+  "title": "Joystick",
+  "category": "media",
+  "description": "An arcade joystick with a ball-top stick for games and controls.",
+  "tags": [
+    "game",
+    "arcade",
+    "controller",
+    "gaming",
+    "play",
+    "retro"
+  ],
+  "aliases": [
+    "arcade-stick"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

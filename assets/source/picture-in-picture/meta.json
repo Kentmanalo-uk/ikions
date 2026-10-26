@@ -1,0 +1,23 @@
+{
+  "name": "picture-in-picture",
+  "title": "Picture in Picture",
+  "category": "media",
+  "description": "A small floating video window inside a larger screen.",
+  "tags": [
+    "pip",
+    "mini-player",
+    "overlay",
+    "video",
+    "window",
+    "float"
+  ],
+  "aliases": [
+    "pip",
+    "mini-player"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

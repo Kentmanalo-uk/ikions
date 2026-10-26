@@ -1,0 +1,19 @@
+{
+  "name": "square-asterisk",
+  "title": "Square Asterisk",
+  "category": "shapes",
+  "description": "Asterisk in a square: a required field or footnote.",
+  "tags": [
+    "square",
+    "asterisk",
+    "required",
+    "footnote",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

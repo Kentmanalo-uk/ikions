@@ -1,0 +1,23 @@
+{
+  "name": "snippet",
+  "title": "Snippet",
+  "category": "development",
+  "description": "Represents a reusable code snippet cut from a larger source file.",
+  "tags": [
+    "code",
+    "fragment",
+    "gist",
+    "excerpt",
+    "template",
+    "clip"
+  ],
+  "aliases": [
+    "code-snippet",
+    "code-fragment"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

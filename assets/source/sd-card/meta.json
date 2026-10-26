@@ -1,0 +1,22 @@
+{
+  "name": "sd-card",
+  "title": "SD Card",
+  "category": "devices",
+  "description": "A memory card with a clipped corner and contact strips.",
+  "tags": [
+    "memory card",
+    "storage",
+    "camera",
+    "flash",
+    "microsd"
+  ],
+  "aliases": [
+    "microsd",
+    "sdhc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

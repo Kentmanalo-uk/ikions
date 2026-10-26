@@ -1,0 +1,23 @@
+{
+  "name": "node-tree",
+  "title": "Node Tree",
+  "category": "editing",
+  "description": "Show a hierarchy of connected nodes.",
+  "tags": [
+    "nodes",
+    "graph",
+    "hierarchy",
+    "tree",
+    "structure",
+    "network"
+  ],
+  "aliases": [
+    "node-graph",
+    "tree-graph"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

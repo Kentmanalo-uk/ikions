@@ -1,0 +1,22 @@
+{
+  "name": "align-top",
+  "title": "Align Top",
+  "category": "interface",
+  "description": "Align the selected objects to their top edge.",
+  "tags": [
+    "align",
+    "top edge",
+    "objects",
+    "layout",
+    "design",
+    "arrange"
+  ],
+  "aliases": [
+    "align-objects-top"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

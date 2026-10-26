@@ -1,0 +1,23 @@
+{
+  "name": "query",
+  "title": "Query",
+  "category": "development",
+  "description": "Represents a database query or a question asked of stored data.",
+  "tags": [
+    "sql",
+    "select",
+    "database",
+    "request",
+    "lookup",
+    "search"
+  ],
+  "aliases": [
+    "db-query",
+    "sql-query"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

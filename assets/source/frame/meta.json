@@ -1,0 +1,22 @@
+{
+  "name": "frame",
+  "title": "Frame",
+  "category": "editing",
+  "description": "Draw a frame to group and lay out design elements.",
+  "tags": [
+    "frame",
+    "container",
+    "layout",
+    "design",
+    "group",
+    "grid"
+  ],
+  "aliases": [
+    "frame-tool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

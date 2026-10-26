@@ -1,0 +1,22 @@
+{
+  "name": "message-circle",
+  "title": "Message Circle",
+  "category": "communication",
+  "description": "A round speech bubble for messages and comments.",
+  "tags": [
+    "chat",
+    "comment",
+    "conversation",
+    "speech",
+    "bubble"
+  ],
+  "aliases": [
+    "comment-circle",
+    "chat-bubble-round"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

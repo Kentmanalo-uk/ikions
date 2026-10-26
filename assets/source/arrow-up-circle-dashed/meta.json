@@ -1,0 +1,20 @@
+{
+  "name": "arrow-up-circle-dashed",
+  "title": "Arrow Up Circle Dashed",
+  "category": "arrows",
+  "description": "An up arrow inside a dashed circle, for a pending upload or upgrade.",
+  "tags": [
+    "up",
+    "pending",
+    "upload",
+    "upgrade",
+    "draft",
+    "dashed"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

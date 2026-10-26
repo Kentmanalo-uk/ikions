@@ -1,0 +1,22 @@
+{
+  "name": "mailbox",
+  "title": "Mailbox",
+  "category": "communication",
+  "description": "Represent a physical mailbox or postal delivery.",
+  "tags": [
+    "post",
+    "letterbox",
+    "postal",
+    "delivery",
+    "mail",
+    "letters"
+  ],
+  "aliases": [
+    "postbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

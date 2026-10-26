@@ -1,0 +1,22 @@
+{
+  "name": "artboard",
+  "title": "Artboard",
+  "category": "editing",
+  "description": "Add or select an artboard, the canvas a design is drawn on.",
+  "tags": [
+    "canvas",
+    "artboard",
+    "page",
+    "design",
+    "board",
+    "workspace"
+  ],
+  "aliases": [
+    "design-canvas"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "arrow-square-up",
+  "title": "Arrow Square Up",
+  "category": "arrows",
+  "description": "Arrow pointing up inside a square; a direction button or step control.",
+  "tags": [
+    "arrow",
+    "direction",
+    "square",
+    "button",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

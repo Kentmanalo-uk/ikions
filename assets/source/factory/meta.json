@@ -1,0 +1,25 @@
+{
+  "name": "factory",
+  "title": "Factory",
+  "category": "buildings",
+  "description": "Represent manufacturing, industry, production or a plant.",
+  "tags": [
+    "industry",
+    "manufacturing",
+    "plant",
+    "production",
+    "industrial",
+    "warehouse",
+    "mill",
+    "works"
+  ],
+  "aliases": [
+    "industry",
+    "manufacturing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

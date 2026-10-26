@@ -1,0 +1,24 @@
+{
+  "name": "balance-scale",
+  "title": "Balance Scale",
+  "category": "finance",
+  "description": "A two-pan balance scale for weighing, fairness and law.",
+  "tags": [
+    "justice",
+    "law",
+    "legal",
+    "balance",
+    "weigh",
+    "fairness",
+    "compare"
+  ],
+  "aliases": [
+    "scales-of-justice",
+    "justice-scale"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

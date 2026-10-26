@@ -1,0 +1,23 @@
+{
+  "name": "tune",
+  "title": "Tune",
+  "category": "interface",
+  "description": "Fine-tune a setting with a rotary dial or knob.",
+  "tags": [
+    "knob",
+    "dial",
+    "adjust",
+    "settings",
+    "control",
+    "volume"
+  ],
+  "aliases": [
+    "knob",
+    "dial"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "profile-card",
+  "title": "Profile Card",
+  "category": "people",
+  "description": "Show a person's profile summary on a portrait card.",
+  "tags": [
+    "profile",
+    "card",
+    "bio",
+    "member",
+    "account",
+    "about"
+  ],
+  "aliases": [
+    "user-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

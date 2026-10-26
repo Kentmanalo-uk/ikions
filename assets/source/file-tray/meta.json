@@ -1,0 +1,23 @@
+{
+  "name": "file-tray",
+  "title": "File Tray",
+  "category": "files",
+  "description": "Represents a tray or bin that holds folders and filed papers.",
+  "tags": [
+    "tray",
+    "bin",
+    "folders",
+    "organizer",
+    "desk",
+    "sorting"
+  ],
+  "aliases": [
+    "folder-tray",
+    "document-tray"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

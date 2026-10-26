@@ -1,0 +1,22 @@
+{
+  "name": "free-shipping",
+  "title": "Free Shipping",
+  "category": "commerce",
+  "description": "Represents delivery offered free of charge.",
+  "tags": [
+    "free",
+    "delivery",
+    "no-cost",
+    "truck",
+    "promotion",
+    "gift"
+  ],
+  "aliases": [
+    "free-delivery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

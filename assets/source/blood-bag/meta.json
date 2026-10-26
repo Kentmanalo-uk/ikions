@@ -1,0 +1,23 @@
+{
+  "name": "blood-bag",
+  "title": "Blood Bag",
+  "category": "health",
+  "description": "A blood bag for transfusions, blood donation and blood banks.",
+  "tags": [
+    "transfusion",
+    "blood donation",
+    "blood bank",
+    "plasma",
+    "donor",
+    "hematology"
+  ],
+  "aliases": [
+    "transfusion",
+    "blood-pack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

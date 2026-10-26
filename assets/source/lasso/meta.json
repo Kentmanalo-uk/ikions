@@ -1,0 +1,23 @@
+{
+  "name": "lasso",
+  "title": "Lasso",
+  "category": "editing",
+  "description": "Select an irregular area freehand with the lasso tool.",
+  "tags": [
+    "select",
+    "freehand",
+    "lasso",
+    "selection",
+    "rope",
+    "area"
+  ],
+  "aliases": [
+    "lasso-select",
+    "freeform-select"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "filter-list",
+  "title": "Filter List",
+  "category": "interface",
+  "description": "Narrow a list down with filters.",
+  "tags": [
+    "filter",
+    "refine",
+    "narrow",
+    "funnel",
+    "sort",
+    "options"
+  ],
+  "aliases": [
+    "filter-lines"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

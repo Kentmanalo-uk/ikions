@@ -1,0 +1,23 @@
+{
+  "name": "piggy-bank-coin",
+  "title": "Piggy Bank Coin",
+  "category": "finance",
+  "description": "Drop a coin into a piggy bank to save or deposit money.",
+  "tags": [
+    "savings",
+    "deposit",
+    "save money",
+    "coin",
+    "piggy bank",
+    "budget"
+  ],
+  "aliases": [
+    "save-coin",
+    "deposit-coin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

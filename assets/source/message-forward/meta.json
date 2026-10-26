@@ -1,0 +1,21 @@
+{
+  "name": "message-forward",
+  "title": "Message Forward",
+  "category": "communication",
+  "description": "Forward a message to another conversation.",
+  "tags": [
+    "chat",
+    "forward",
+    "share",
+    "send",
+    "redirect"
+  ],
+  "aliases": [
+    "message-share"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

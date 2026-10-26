@@ -1,0 +1,24 @@
+{
+  "name": "euro-coin",
+  "title": "Euro Coin",
+  "category": "finance",
+  "description": "A coin marked with a euro sign for money in euros.",
+  "tags": [
+    "euro",
+    "eur",
+    "money",
+    "coin",
+    "currency",
+    "europe",
+    "cash"
+  ],
+  "aliases": [
+    "eur-coin",
+    "coin-euro"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

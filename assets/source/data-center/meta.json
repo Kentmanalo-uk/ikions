@@ -1,0 +1,23 @@
+{
+  "name": "data-center",
+  "title": "Data Center",
+  "category": "devices",
+  "description": "Represents a data center with rows of server racks.",
+  "tags": [
+    "datacenter",
+    "servers",
+    "hosting",
+    "cloud",
+    "infrastructure",
+    "colocation"
+  ],
+  "aliases": [
+    "server-farm",
+    "server-room"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

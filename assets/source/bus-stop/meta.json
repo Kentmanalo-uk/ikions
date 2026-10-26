@@ -1,0 +1,23 @@
+{
+  "name": "bus-stop",
+  "title": "Bus Stop",
+  "category": "transport",
+  "description": "Represents a bus stop, a transit stop or where to catch the bus.",
+  "tags": [
+    "bus",
+    "stop",
+    "transit",
+    "public transport",
+    "shelter",
+    "station"
+  ],
+  "aliases": [
+    "bus-station-stop",
+    "transit-stop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

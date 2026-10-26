@@ -1,0 +1,22 @@
+{
+  "name": "badge",
+  "title": "Badge",
+  "category": "interface",
+  "description": "Label an item with a small status pill.",
+  "tags": [
+    "status",
+    "label",
+    "pill",
+    "indicator",
+    "state",
+    "lozenge"
+  ],
+  "aliases": [
+    "status-pill"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

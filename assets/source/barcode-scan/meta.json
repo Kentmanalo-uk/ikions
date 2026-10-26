@@ -1,0 +1,22 @@
+{
+  "name": "barcode-scan",
+  "title": "Barcode Scan",
+  "category": "interface",
+  "description": "Scan a product barcode to look it up or check it out.",
+  "tags": [
+    "barcode",
+    "scanner",
+    "product",
+    "checkout",
+    "inventory",
+    "upc"
+  ],
+  "aliases": [
+    "scan-barcode"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

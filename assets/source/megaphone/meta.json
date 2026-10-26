@@ -1,0 +1,25 @@
+{
+  "name": "megaphone",
+  "title": "Megaphone",
+  "category": "communication",
+  "description": "Make an announcement, promote something or broadcast a message.",
+  "tags": [
+    "announcement",
+    "bullhorn",
+    "loudspeaker",
+    "marketing",
+    "promote",
+    "campaign",
+    "shout",
+    "news"
+  ],
+  "aliases": [
+    "bullhorn",
+    "loudspeaker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

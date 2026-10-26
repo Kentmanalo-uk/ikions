@@ -1,0 +1,21 @@
+{
+  "name": "chat-heart",
+  "title": "Chat Heart",
+  "category": "communication",
+  "description": "A liked or favourite chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "liked",
+    "favorite",
+    "love",
+    "chat"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

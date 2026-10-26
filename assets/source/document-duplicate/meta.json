@@ -1,0 +1,22 @@
+{
+  "name": "document-duplicate",
+  "title": "Document Duplicate",
+  "category": "files",
+  "description": "Duplicate a document to create an identical copy.",
+  "tags": [
+    "duplicate",
+    "copy",
+    "clone",
+    "replicate",
+    "new copy"
+  ],
+  "aliases": [
+    "duplicate-file",
+    "clone-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

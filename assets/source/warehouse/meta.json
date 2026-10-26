@@ -1,0 +1,23 @@
+{
+  "name": "warehouse",
+  "title": "Warehouse",
+  "category": "commerce",
+  "description": "Represents a warehouse or distribution center that stores goods.",
+  "tags": [
+    "storage",
+    "distribution",
+    "depot",
+    "logistics",
+    "fulfilment",
+    "stock"
+  ],
+  "aliases": [
+    "distribution-center",
+    "depot"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

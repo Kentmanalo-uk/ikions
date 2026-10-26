@@ -1,0 +1,23 @@
+{
+  "name": "calculator-device",
+  "title": "Calculator Device",
+  "category": "devices",
+  "description": "Represents a desktop printing calculator or adding machine.",
+  "tags": [
+    "adding machine",
+    "printing calculator",
+    "accounting",
+    "desk",
+    "receipt",
+    "math"
+  ],
+  "aliases": [
+    "adding-machine",
+    "printing-calculator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

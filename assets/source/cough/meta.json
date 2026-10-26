@@ -1,0 +1,23 @@
+{
+  "name": "cough",
+  "title": "Cough",
+  "category": "health",
+  "description": "A face coughing out a burst of air for coughs and respiratory symptoms.",
+  "tags": [
+    "coughing",
+    "cold",
+    "flu",
+    "respiratory",
+    "sick",
+    "illness",
+    "symptom"
+  ],
+  "aliases": [
+    "coughing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

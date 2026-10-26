@@ -1,0 +1,23 @@
+{
+  "name": "file-font",
+  "title": "File Font",
+  "category": "files",
+  "description": "Represents a font file such as a typeface or web font.",
+  "tags": [
+    "font",
+    "typeface",
+    "typography",
+    "ttf",
+    "otf",
+    "woff"
+  ],
+  "aliases": [
+    "font-file",
+    "typeface-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

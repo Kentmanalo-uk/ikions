@@ -1,0 +1,23 @@
+{
+  "name": "shop-window",
+  "title": "Shop Window",
+  "category": "commerce",
+  "description": "A display window showing clothing to passers-by.",
+  "tags": [
+    "display",
+    "window display",
+    "showcase",
+    "storefront",
+    "retail",
+    "fashion"
+  ],
+  "aliases": [
+    "display-window",
+    "window-display"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

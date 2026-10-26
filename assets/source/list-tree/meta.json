@@ -1,0 +1,23 @@
+{
+  "name": "list-tree",
+  "title": "List Tree",
+  "category": "interface",
+  "description": "A nested tree list for hierarchies such as folders or outlines.",
+  "tags": [
+    "tree",
+    "hierarchy",
+    "nested",
+    "outline",
+    "structure",
+    "indent"
+  ],
+  "aliases": [
+    "tree-view",
+    "hierarchy-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

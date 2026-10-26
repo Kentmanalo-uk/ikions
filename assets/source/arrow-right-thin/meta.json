@@ -1,0 +1,20 @@
+{
+  "name": "arrow-right-thin",
+  "title": "Arrow Right Thin",
+  "category": "arrows",
+  "description": "A long right arrow with a slim, narrow head.",
+  "tags": [
+    "right",
+    "forward",
+    "east",
+    "next",
+    "direction",
+    "slim"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

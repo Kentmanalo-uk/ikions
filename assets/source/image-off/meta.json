@@ -1,0 +1,22 @@
+{
+  "name": "image-off",
+  "title": "Image Off",
+  "category": "media",
+  "description": "Turn off, disable or mute the image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-image"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

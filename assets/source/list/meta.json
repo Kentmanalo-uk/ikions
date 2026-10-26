@@ -1,0 +1,30 @@
+{
+  "name": "list",
+  "title": "List",
+  "category": "interface",
+  "description": "Switch to a list view or show items as rows.",
+  "tags": [
+    "bullets",
+    "rows",
+    "view",
+    "items",
+    "unordered",
+    "layout",
+    "lines",
+    "details",
+    "list",
+    "points"
+  ],
+  "aliases": [
+    "bullet-list",
+    "list-view",
+    "unordered-list",
+    "list-unordered",
+    "bulleted-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "archive",
+  "title": "Archive",
+  "category": "files",
+  "description": "Archive items, store old records or open a storage box.",
+  "tags": [
+    "box",
+    "storage",
+    "store",
+    "backup",
+    "records",
+    "zip",
+    "compress",
+    "inbox",
+    "archive box"
+  ],
+  "aliases": [
+    "storage-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "headphone-jack",
+  "title": "Headphone Jack",
+  "category": "devices",
+  "description": "Represents a 3.5 mm audio jack plug for headphones.",
+  "tags": [
+    "audio jack",
+    "aux",
+    "3.5mm",
+    "plug",
+    "headphones",
+    "audio"
+  ],
+  "aliases": [
+    "audio-jack",
+    "aux-cable"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

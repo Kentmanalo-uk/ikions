@@ -1,0 +1,22 @@
+{
+  "name": "server-check",
+  "title": "Server Check",
+  "category": "devices",
+  "description": "Server confirmed, completed or verified.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "server"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

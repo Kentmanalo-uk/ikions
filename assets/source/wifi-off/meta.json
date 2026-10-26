@@ -1,0 +1,22 @@
+{
+  "name": "wifi-off",
+  "title": "Wi-Fi Off",
+  "category": "devices",
+  "description": "Turn off, disable or mute the wi-fi.",
+  "tags": [
+    "wireless",
+    "internet",
+    "network",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-wifi"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "token",
+  "title": "Token",
+  "category": "development",
+  "description": "Represents an access token or digital token used for authorization.",
+  "tags": [
+    "jwt",
+    "auth",
+    "session",
+    "credential",
+    "bearer",
+    "crypto"
+  ],
+  "aliases": [
+    "access-token",
+    "auth-token"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

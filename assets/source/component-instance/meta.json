@@ -1,0 +1,23 @@
+{
+  "name": "component-instance",
+  "title": "Component Instance",
+  "category": "editing",
+  "description": "Mark a layer as an instance of a reusable component.",
+  "tags": [
+    "component",
+    "instance",
+    "symbol",
+    "reusable",
+    "design-system",
+    "library"
+  ],
+  "aliases": [
+    "instance",
+    "symbol-instance"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

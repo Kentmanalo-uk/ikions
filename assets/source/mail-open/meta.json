@@ -1,0 +1,22 @@
+{
+  "name": "mail-open",
+  "title": "Mail Open",
+  "category": "communication",
+  "description": "Show an opened or read email message.",
+  "tags": [
+    "email",
+    "envelope",
+    "read",
+    "opened",
+    "letter",
+    "message"
+  ],
+  "aliases": [
+    "envelope-open"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

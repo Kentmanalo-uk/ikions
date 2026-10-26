@@ -1,0 +1,24 @@
+{
+  "name": "id-card",
+  "title": "ID Card",
+  "category": "people",
+  "description": "Show an identity card, badge, membership or personal details.",
+  "tags": [
+    "identity",
+    "badge",
+    "license",
+    "pass",
+    "membership",
+    "credentials",
+    "profile",
+    "contact"
+  ],
+  "aliases": [
+    "identity-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "antenna",
+  "title": "Antenna",
+  "category": "communication",
+  "description": "Represent a TV antenna or signal reception.",
+  "tags": [
+    "aerial",
+    "signal",
+    "reception",
+    "tv",
+    "rabbit ears",
+    "broadcast"
+  ],
+  "aliases": [
+    "aerial"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "face-wink",
+  "title": "Face Wink",
+  "category": "people",
+  "description": "Show a playful wink, a joke or a friendly hint.",
+  "tags": [
+    "wink",
+    "playful",
+    "joke",
+    "flirt",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "winking-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

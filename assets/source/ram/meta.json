@@ -1,0 +1,23 @@
+{
+  "name": "ram",
+  "title": "RAM",
+  "category": "devices",
+  "description": "Represents a stick of RAM with its keyed contact edge.",
+  "tags": [
+    "memory",
+    "ram",
+    "dimm",
+    "module",
+    "hardware",
+    "upgrade"
+  ],
+  "aliases": [
+    "memory-stick",
+    "dimm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

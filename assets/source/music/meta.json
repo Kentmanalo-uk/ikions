@@ -1,0 +1,25 @@
+{
+  "name": "music",
+  "title": "Music",
+  "category": "media",
+  "description": "Represent music, songs, audio tracks or a music player.",
+  "tags": [
+    "song",
+    "audio",
+    "note",
+    "melody",
+    "track",
+    "sound",
+    "playlist",
+    "tune",
+    "music note"
+  ],
+  "aliases": [
+    "song"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

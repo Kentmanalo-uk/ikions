@@ -1,0 +1,22 @@
+{
+  "name": "crowd",
+  "title": "Crowd",
+  "category": "people",
+  "description": "Represent a large group of people, such as an audience or community.",
+  "tags": [
+    "audience",
+    "community",
+    "people",
+    "public",
+    "many",
+    "attendees"
+  ],
+  "aliases": [
+    "audience"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

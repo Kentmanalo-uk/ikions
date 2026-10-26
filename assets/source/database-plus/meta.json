@@ -1,0 +1,23 @@
+{
+  "name": "database-plus",
+  "title": "Database Plus",
+  "category": "development",
+  "description": "Add a new database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "add",
+    "new",
+    "create",
+    "database"
+  ],
+  "aliases": [
+    "add-database"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

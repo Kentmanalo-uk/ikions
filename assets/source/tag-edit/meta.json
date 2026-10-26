@@ -1,0 +1,24 @@
+{
+  "name": "tag-edit",
+  "title": "Tag Edit",
+  "category": "commerce",
+  "description": "Edit or rename a tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "tag"
+  ],
+  "aliases": [
+    "edit-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

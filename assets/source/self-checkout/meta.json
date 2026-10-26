@@ -1,0 +1,23 @@
+{
+  "name": "self-checkout",
+  "title": "Self Checkout",
+  "category": "commerce",
+  "description": "A self-service checkout where shoppers scan and pay for items themselves.",
+  "tags": [
+    "self service",
+    "scan",
+    "checkout",
+    "till",
+    "supermarket",
+    "pay"
+  ],
+  "aliases": [
+    "self-service-checkout",
+    "scan-and-go"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

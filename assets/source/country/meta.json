@@ -1,0 +1,23 @@
+{
+  "name": "country",
+  "title": "Country",
+  "category": "maps",
+  "description": "Shows a country's territory marked with a national flag.",
+  "tags": [
+    "nation",
+    "territory",
+    "region",
+    "border",
+    "state",
+    "land"
+  ],
+  "aliases": [
+    "nation",
+    "territory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

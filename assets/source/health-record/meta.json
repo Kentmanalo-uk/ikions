@@ -1,0 +1,23 @@
+{
+  "name": "health-record",
+  "title": "Health Record",
+  "category": "health",
+  "description": "Open a patient chart, medical history or health record.",
+  "tags": [
+    "medical record",
+    "patient chart",
+    "history",
+    "ehr",
+    "report",
+    "clipboard"
+  ],
+  "aliases": [
+    "medical-record",
+    "patient-chart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

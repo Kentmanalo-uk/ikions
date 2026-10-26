@@ -1,0 +1,23 @@
+{
+  "name": "captions",
+  "title": "Captions",
+  "category": "media",
+  "description": "Shows or hides closed captions on a video.",
+  "tags": [
+    "subtitles",
+    "closed-captions",
+    "cc",
+    "accessibility",
+    "transcript",
+    "video"
+  ],
+  "aliases": [
+    "cc",
+    "caption-toggle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

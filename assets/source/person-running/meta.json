@@ -1,0 +1,22 @@
+{
+  "name": "person-running",
+  "title": "Person Running",
+  "category": "people",
+  "description": "Show a person running, such as a workout, jog or quick action.",
+  "tags": [
+    "run",
+    "jog",
+    "sprint",
+    "fitness",
+    "exercise",
+    "fast"
+  ],
+  "aliases": [
+    "jogger"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

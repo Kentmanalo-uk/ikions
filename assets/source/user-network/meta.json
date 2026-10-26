@@ -1,0 +1,23 @@
+{
+  "name": "user-network",
+  "title": "User Network",
+  "category": "people",
+  "description": "Represent a networked user, shared workspace or connected account.",
+  "tags": [
+    "network",
+    "connected",
+    "lan",
+    "shared",
+    "directory",
+    "domain"
+  ],
+  "aliases": [
+    "network-user",
+    "connected-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

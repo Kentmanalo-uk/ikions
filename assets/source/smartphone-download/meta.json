@@ -1,0 +1,21 @@
+{
+  "name": "smartphone-download",
+  "title": "Smartphone Download",
+  "category": "devices",
+  "description": "Download or import a smartphone.",
+  "tags": [
+    "mobile",
+    "phone",
+    "cell",
+    "download",
+    "save",
+    "import",
+    "smartphone"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

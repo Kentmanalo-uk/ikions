@@ -1,0 +1,21 @@
+{
+  "name": "square-play",
+  "title": "Square Play",
+  "category": "shapes",
+  "description": "Play in a square: start playback.",
+  "tags": [
+    "square",
+    "play",
+    "start",
+    "media",
+    "button"
+  ],
+  "aliases": [
+    "play-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "contrast",
+  "title": "Contrast",
+  "category": "editing",
+  "description": "Adjust the contrast between light and dark tones.",
+  "tags": [
+    "adjust",
+    "tone",
+    "light",
+    "dark",
+    "photo",
+    "image"
+  ],
+  "aliases": [
+    "adjust-contrast"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

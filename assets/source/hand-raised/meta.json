@@ -1,0 +1,23 @@
+{
+  "name": "hand-raised",
+  "title": "Hand Raised",
+  "category": "people",
+  "description": "Raise a hand to ask a question, volunteer or request to speak.",
+  "tags": [
+    "raise",
+    "hand",
+    "question",
+    "volunteer",
+    "stop",
+    "palm"
+  ],
+  "aliases": [
+    "raise-hand",
+    "open-palm"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

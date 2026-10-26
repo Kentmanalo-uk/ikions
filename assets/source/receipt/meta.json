@@ -1,0 +1,27 @@
+{
+  "name": "receipt",
+  "title": "Receipt",
+  "category": "commerce",
+  "description": "Show a receipt, invoice or bill for a completed purchase.",
+  "tags": [
+    "invoice",
+    "bill",
+    "payment",
+    "pay",
+    "purchase",
+    "order",
+    "transaction",
+    "expense",
+    "proof",
+    "checkout",
+    "money"
+  ],
+  "aliases": [
+    "bill"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "headset",
+  "title": "Headset",
+  "category": "communication",
+  "description": "Represent customer support, voice chat or a headset with a microphone.",
+  "tags": [
+    "support",
+    "call center",
+    "voice chat",
+    "gaming",
+    "help desk",
+    "audio"
+  ],
+  "aliases": [
+    "headset-mic"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

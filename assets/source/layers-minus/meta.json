@@ -1,0 +1,22 @@
+{
+  "name": "layers-minus",
+  "title": "Layers Minus",
+  "category": "editing",
+  "description": "Remove a layers.",
+  "tags": [
+    "stack",
+    "levels",
+    "depth",
+    "remove",
+    "subtract",
+    "layers"
+  ],
+  "aliases": [
+    "remove-layers"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

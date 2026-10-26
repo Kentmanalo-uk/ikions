@@ -1,0 +1,20 @@
+{
+  "name": "quote-bubble",
+  "title": "Quote Bubble",
+  "category": "communication",
+  "description": "Show a quoted message, testimonial or citation.",
+  "tags": [
+    "quote",
+    "testimonial",
+    "citation",
+    "message",
+    "review",
+    "blockquote"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

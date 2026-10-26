@@ -1,0 +1,32 @@
+{
+  "name": "puzzle",
+  "title": "Puzzle",
+  "category": "development",
+  "description": "A jigsaw puzzle piece for extensions, add-ons or problem solving.",
+  "tags": [
+    "puzzle",
+    "piece",
+    "jigsaw",
+    "extension",
+    "fit",
+    "solution",
+    "plugin",
+    "component",
+    "add-on",
+    "integration",
+    "game"
+  ],
+  "aliases": [
+    "jigsaw",
+    "module",
+    "plugin-module",
+    "code-module",
+    "puzzle-piece",
+    "jigsaw-piece"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

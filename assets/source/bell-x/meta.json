@@ -1,0 +1,24 @@
+{
+  "name": "bell-x",
+  "title": "Bell X",
+  "category": "communication",
+  "description": "Delete, cancel or reject a bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "bell"
+  ],
+  "aliases": [
+    "delete-bell"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bone",
+  "title": "Bone",
+  "category": "health",
+  "description": "Represent a bone, orthopedics, a fracture or the skeleton.",
+  "tags": [
+    "orthopedics",
+    "fracture",
+    "skeleton",
+    "joint",
+    "calcium",
+    "anatomy"
+  ],
+  "aliases": [
+    "orthopedics"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

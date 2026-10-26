@@ -1,0 +1,22 @@
+{
+  "name": "stamp-mail",
+  "title": "Postage Stamp",
+  "category": "communication",
+  "description": "Represent a postage stamp, postal fees or sending physical mail.",
+  "tags": [
+    "postage",
+    "stamp",
+    "post office",
+    "postal",
+    "mail",
+    "philately"
+  ],
+  "aliases": [
+    "postage-stamp"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "@ikions/vue",
+  "version": "0.1.0",
+  "description": "Vue 3 components for the Ikions icon library (Outline and Filled).",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./icons/*": {
+      "types": "./dist/icons/*.d.ts",
+      "default": "./dist/icons/*.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": ["dist", "LICENSE", "README.md"],
+  "keywords": ["icons", "vue", "vue3", "svg", "ikions", "components"],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "vue": ">=3.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7",
+    "vue": "^3.5.0"
+  }
+}

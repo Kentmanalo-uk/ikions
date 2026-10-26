@@ -1,0 +1,23 @@
+{
+  "name": "car-crash",
+  "title": "Car Crash",
+  "category": "transport",
+  "description": "A car with an impact burst, for accidents, collisions and insurance claims.",
+  "tags": [
+    "accident",
+    "collision",
+    "crash",
+    "insurance",
+    "damage",
+    "car"
+  ],
+  "aliases": [
+    "car-accident",
+    "collision"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

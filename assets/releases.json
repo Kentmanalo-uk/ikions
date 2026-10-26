@@ -1,0 +1,14 @@
+[
+  {
+    "version": "0.1.0",
+    "date": null,
+    "status": "unreleased",
+    "summary": "Foundation release: the Ikions design language, the first original icon set in Outline and Filled, and packages for React, Vue, Svelte and plain SVG.",
+    "notes": [
+      "Original 24 × 24 icon grid with a 1.75 outline stroke and independently drawn filled variants.",
+      "Packages: @ikions/icons, @ikions/react, @ikions/vue, @ikions/svelte and @ikions/metadata.",
+      "Website with icon explorer, search, category browsing, detail pages, copy and download (SVG, PNG, ZIP, sprite).",
+      "Automated SVG validation, optimisation and code generation from a single source per variant."
+    ]
+  }
+]

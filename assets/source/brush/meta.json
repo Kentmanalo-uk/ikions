@@ -1,0 +1,25 @@
+{
+  "name": "brush",
+  "title": "Brush",
+  "category": "editing",
+  "description": "Paint with a brush tool or apply a brush stroke.",
+  "tags": [
+    "paint",
+    "paintbrush",
+    "art",
+    "draw",
+    "stroke",
+    "design",
+    "artist",
+    "color"
+  ],
+  "aliases": [
+    "paintbrush",
+    "paint-brush"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

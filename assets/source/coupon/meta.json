@@ -1,0 +1,29 @@
+{
+  "name": "coupon",
+  "title": "Coupon",
+  "category": "commerce",
+  "description": "Represents a discount coupon or voucher to redeem at checkout.",
+  "tags": [
+    "voucher",
+    "promo",
+    "code",
+    "discount",
+    "deal",
+    "redeem",
+    "offer",
+    "percent off",
+    "promotion"
+  ],
+  "aliases": [
+    "promo-code",
+    "discount-coupon",
+    "voucher",
+    "discount-voucher",
+    "promo-voucher"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

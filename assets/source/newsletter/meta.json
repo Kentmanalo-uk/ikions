@@ -1,0 +1,22 @@
+{
+  "name": "newsletter",
+  "title": "Newsletter",
+  "category": "communication",
+  "description": "Subscribe to or send an email newsletter or digest.",
+  "tags": [
+    "subscribe",
+    "email",
+    "digest",
+    "bulletin",
+    "mailing list",
+    "updates"
+  ],
+  "aliases": [
+    "mailing-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

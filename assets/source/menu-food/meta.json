@@ -1,0 +1,22 @@
+{
+  "name": "menu-food",
+  "title": "Food Menu",
+  "category": "food",
+  "description": "Represent a restaurant menu, dishes on offer or ordering food.",
+  "tags": [
+    "restaurant",
+    "menu",
+    "order",
+    "dishes",
+    "dining",
+    "card"
+  ],
+  "aliases": [
+    "restaurant-menu"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sun",
+  "title": "Sun",
+  "category": "weather",
+  "description": "Represent sunny weather, daytime or light mode.",
+  "tags": [
+    "weather",
+    "day",
+    "light",
+    "brightness",
+    "summer"
+  ],
+  "aliases": [
+    "light-mode",
+    "sunny"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

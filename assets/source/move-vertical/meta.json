@@ -1,0 +1,19 @@
+{
+  "name": "move-vertical",
+  "title": "Move Vertical",
+  "category": "arrows",
+  "description": "Double-headed vertical arrow: move, resize or stretch vertically.",
+  "tags": [
+    "move",
+    "resize",
+    "stretch",
+    "drag",
+    "vertical"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "therapy",
+  "title": "Therapy",
+  "category": "health",
+  "description": "A therapist's couch for counselling, psychotherapy and talk therapy.",
+  "tags": [
+    "counseling",
+    "psychotherapy",
+    "therapist",
+    "psychology",
+    "session",
+    "talk therapy",
+    "couch"
+  ],
+  "aliases": [
+    "counselling",
+    "psychotherapy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

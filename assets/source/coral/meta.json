@@ -1,0 +1,23 @@
+{
+  "name": "coral",
+  "title": "Coral",
+  "category": "weather",
+  "description": "Represents branching coral, a reef or marine life.",
+  "tags": [
+    "reef",
+    "ocean",
+    "sea",
+    "marine",
+    "underwater",
+    "diving",
+    "aquarium"
+  ],
+  "aliases": [
+    "coral-reef"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

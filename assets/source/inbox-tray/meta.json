@@ -1,0 +1,23 @@
+{
+  "name": "inbox-tray",
+  "title": "Inbox Tray",
+  "category": "files",
+  "description": "Represents a desk tray holding incoming papers and documents.",
+  "tags": [
+    "tray",
+    "incoming",
+    "papers",
+    "desk",
+    "in tray",
+    "documents"
+  ],
+  "aliases": [
+    "incoming-tray",
+    "letter-tray"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

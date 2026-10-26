@@ -1,0 +1,19 @@
+{
+  "name": "arrow-big-right",
+  "title": "Arrow Big Right",
+  "category": "arrows",
+  "description": "Large block arrow pointing right; bold direction or upgrade cue.",
+  "tags": [
+    "arrow",
+    "big",
+    "bold",
+    "block",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "text-highlight",
+  "title": "Text Highlight",
+  "category": "editing",
+  "description": "Highlight selected text with a background colour.",
+  "tags": [
+    "highlight",
+    "marker",
+    "background",
+    "text",
+    "emphasis",
+    "mark"
+  ],
+  "aliases": [
+    "highlight-text",
+    "text-background"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

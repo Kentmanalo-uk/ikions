@@ -1,0 +1,23 @@
+{
+  "name": "whisky",
+  "title": "Whisky",
+  "category": "food",
+  "description": "Represent a glass of whisky on the rocks, spirits or a bar.",
+  "tags": [
+    "whiskey",
+    "spirits",
+    "bourbon",
+    "bar",
+    "alcohol",
+    "drink"
+  ],
+  "aliases": [
+    "whiskey",
+    "on-the-rocks"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

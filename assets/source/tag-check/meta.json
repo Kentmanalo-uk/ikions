@@ -1,0 +1,22 @@
+{
+  "name": "tag-check",
+  "title": "Tag Check",
+  "category": "commerce",
+  "description": "Tag confirmed, completed or verified.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "tag"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

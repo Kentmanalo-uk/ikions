@@ -1,0 +1,22 @@
+{
+  "name": "child",
+  "title": "Child",
+  "category": "people",
+  "description": "Represent a young child, such as a kids account or a children's section.",
+  "tags": [
+    "kid",
+    "kids",
+    "boy",
+    "girl",
+    "youth",
+    "junior"
+  ],
+  "aliases": [
+    "kid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

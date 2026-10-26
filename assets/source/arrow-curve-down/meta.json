@@ -1,0 +1,21 @@
+{
+  "name": "arrow-curve-down",
+  "title": "Arrow Curve Down",
+  "category": "arrows",
+  "description": "A curved arrow that bends round to point downward.",
+  "tags": [
+    "curve",
+    "curved",
+    "bend",
+    "down",
+    "arrow"
+  ],
+  "aliases": [
+    "curved-arrow-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

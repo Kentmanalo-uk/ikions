@@ -1,0 +1,25 @@
+{
+  "name": "pen-tool",
+  "title": "Pen Tool",
+  "category": "editing",
+  "description": "Draw vector paths and bezier curves with a pen nib.",
+  "tags": [
+    "vector",
+    "bezier",
+    "path",
+    "draw",
+    "nib",
+    "design",
+    "illustrator",
+    "anchor",
+    "curve"
+  ],
+  "aliases": [
+    "vector-pen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

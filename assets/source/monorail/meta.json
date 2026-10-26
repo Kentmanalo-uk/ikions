@@ -1,0 +1,23 @@
+{
+  "name": "monorail",
+  "title": "Monorail",
+  "category": "transport",
+  "description": "Represents a monorail train running on a single elevated beam.",
+  "tags": [
+    "elevated train",
+    "skytrain",
+    "people mover",
+    "airport train",
+    "rail",
+    "transit"
+  ],
+  "aliases": [
+    "sky-train",
+    "people-mover"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

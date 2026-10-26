@@ -1,0 +1,24 @@
+{
+  "name": "school",
+  "title": "School",
+  "category": "education",
+  "description": "A schoolhouse for schools, campuses or class locations.",
+  "tags": [
+    "schoolhouse",
+    "education",
+    "building",
+    "campus",
+    "classes",
+    "kindergarten",
+    "elementary"
+  ],
+  "aliases": [
+    "schoolhouse",
+    "primary-school"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

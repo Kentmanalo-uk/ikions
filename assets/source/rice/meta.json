@@ -1,0 +1,22 @@
+{
+  "name": "rice",
+  "title": "Rice",
+  "category": "food",
+  "description": "Represent a bowl of rice, such as Asian cuisine, a side dish or a meal.",
+  "tags": [
+    "bowl",
+    "grain",
+    "asian",
+    "meal",
+    "side-dish",
+    "steamed"
+  ],
+  "aliases": [
+    "rice-bowl"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

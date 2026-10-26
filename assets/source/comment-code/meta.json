@@ -1,0 +1,23 @@
+{
+  "name": "comment-code",
+  "title": "Comment Code",
+  "category": "development",
+  "description": "Add or toggle a code comment that explains or disables a line of source.",
+  "tags": [
+    "comment",
+    "annotate",
+    "note",
+    "slashes",
+    "documentation",
+    "toggle"
+  ],
+  "aliases": [
+    "code-comment",
+    "line-comment"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

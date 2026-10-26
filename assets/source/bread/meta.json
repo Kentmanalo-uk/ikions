@@ -1,0 +1,22 @@
+{
+  "name": "bread",
+  "title": "Bread",
+  "category": "food",
+  "description": "Represent bread or a bakery, such as a loaf, baked goods or breakfast.",
+  "tags": [
+    "loaf",
+    "bakery",
+    "baked",
+    "breakfast",
+    "carbs",
+    "wheat"
+  ],
+  "aliases": [
+    "loaf"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

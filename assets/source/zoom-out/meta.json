@@ -1,0 +1,22 @@
+{
+  "name": "zoom-out",
+  "title": "Zoom Out",
+  "category": "interface",
+  "description": "Shrink the view to see more of the content.",
+  "tags": [
+    "minify",
+    "reduce",
+    "minus",
+    "scale",
+    "farther",
+    "view"
+  ],
+  "aliases": [
+    "magnify-minus"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

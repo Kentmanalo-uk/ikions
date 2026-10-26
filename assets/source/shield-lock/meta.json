@@ -1,0 +1,22 @@
+{
+  "name": "shield-lock",
+  "title": "Shield Lock",
+  "category": "security",
+  "description": "A locked, private or protected shield.",
+  "tags": [
+    "security",
+    "protection",
+    "safe",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "shield"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "plug-device",
+  "title": "Plug Device",
+  "category": "devices",
+  "description": "Represents a plug-in power adapter or mains-powered device.",
+  "tags": [
+    "ac adapter",
+    "power supply",
+    "mains",
+    "plug",
+    "electric",
+    "transformer"
+  ],
+  "aliases": [
+    "ac-adapter",
+    "power-supply"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

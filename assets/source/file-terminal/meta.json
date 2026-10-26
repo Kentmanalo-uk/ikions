@@ -1,0 +1,23 @@
+{
+  "name": "file-terminal",
+  "title": "File Terminal",
+  "category": "files",
+  "description": "Represents a shell script or command-line executable file.",
+  "tags": [
+    "script",
+    "shell",
+    "bash",
+    "command",
+    "console",
+    "executable"
+  ],
+  "aliases": [
+    "terminal-file",
+    "shell-script"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

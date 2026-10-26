@@ -1,0 +1,22 @@
+{
+  "name": "folder-zip",
+  "title": "Folder Zip",
+  "category": "files",
+  "description": "Represents a compressed folder or zipped directory.",
+  "tags": [
+    "zip",
+    "compressed",
+    "archive",
+    "bundle",
+    "download"
+  ],
+  "aliases": [
+    "zipped-folder",
+    "compressed-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "heart-minus",
+  "title": "Heart Minus",
+  "category": "social",
+  "description": "Remove a heart.",
+  "tags": [
+    "like",
+    "love",
+    "favorite",
+    "remove",
+    "subtract",
+    "heart"
+  ],
+  "aliases": [
+    "remove-heart"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

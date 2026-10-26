@@ -1,0 +1,22 @@
+{
+  "name": "file-xml",
+  "title": "File XML",
+  "category": "files",
+  "description": "Represents an XML file with tagged markup and structured data.",
+  "tags": [
+    "xml",
+    "markup",
+    "tags",
+    "feed",
+    "sitemap",
+    "data"
+  ],
+  "aliases": [
+    "xml-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

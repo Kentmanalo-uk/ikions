@@ -1,0 +1,22 @@
+{
+  "name": "arrow-big-up-line",
+  "title": "Arrow Big Up Line",
+  "category": "arrows",
+  "description": "A bold up arrow resting on a line, for caps lock or raising to the top.",
+  "tags": [
+    "up",
+    "caps lock",
+    "uppercase",
+    "upgrade",
+    "top",
+    "raise"
+  ],
+  "aliases": [
+    "caps-lock-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "moon-full",
+  "title": "Full Moon",
+  "category": "weather",
+  "description": "The full moon phase with its round, cratered face.",
+  "tags": [
+    "moon phase",
+    "lunar",
+    "night",
+    "astronomy",
+    "craters",
+    "calendar"
+  ],
+  "aliases": [
+    "full-moon-phase"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

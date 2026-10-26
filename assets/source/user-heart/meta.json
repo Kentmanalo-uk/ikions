@@ -1,0 +1,21 @@
+{
+  "name": "user-heart",
+  "title": "User Heart",
+  "category": "people",
+  "description": "A liked or favourite user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "liked",
+    "favorite",
+    "love",
+    "user"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "brain",
+  "title": "Brain",
+  "category": "health",
+  "description": "Represent the brain, neurology, mental health or thinking.",
+  "tags": [
+    "neurology",
+    "mind",
+    "mental health",
+    "intelligence",
+    "thinking",
+    "cognitive",
+    "psychology"
+  ],
+  "aliases": [
+    "mind"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

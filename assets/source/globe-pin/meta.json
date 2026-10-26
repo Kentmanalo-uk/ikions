@@ -1,0 +1,23 @@
+{
+  "name": "globe-pin",
+  "title": "Globe Pin",
+  "category": "maps",
+  "description": "A globe with a location pin for worldwide locations and international places.",
+  "tags": [
+    "world location",
+    "global",
+    "international",
+    "country",
+    "place",
+    "earth"
+  ],
+  "aliases": [
+    "world-pin",
+    "global-location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

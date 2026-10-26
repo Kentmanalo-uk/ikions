@@ -1,0 +1,21 @@
+{
+  "name": "step-over",
+  "title": "Step Over",
+  "category": "development",
+  "description": "Run the current line in the debugger without entering the function it calls.",
+  "tags": [
+    "debug",
+    "debugger",
+    "step",
+    "next line",
+    "skip"
+  ],
+  "aliases": [
+    "debug-step-over"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

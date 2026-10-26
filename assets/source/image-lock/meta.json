@@ -1,0 +1,22 @@
+{
+  "name": "image-lock",
+  "title": "Image Lock",
+  "category": "media",
+  "description": "A locked, private or protected image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

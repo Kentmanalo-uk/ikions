@@ -1,0 +1,23 @@
+{
+  "name": "shopping-basket",
+  "title": "Shopping Basket",
+  "category": "commerce",
+  "description": "Represents a hand-held store basket for collecting items while shopping.",
+  "tags": [
+    "shopping",
+    "store",
+    "supermarket",
+    "groceries",
+    "add",
+    "retail"
+  ],
+  "aliases": [
+    "store-basket",
+    "grocery-basket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

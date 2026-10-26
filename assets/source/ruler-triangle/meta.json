@@ -1,0 +1,23 @@
+{
+  "name": "ruler-triangle",
+  "title": "Ruler Triangle",
+  "category": "editing",
+  "description": "Draw precise angles with a triangle set square.",
+  "tags": [
+    "set-square",
+    "angle",
+    "measure",
+    "drafting",
+    "geometry",
+    "technical"
+  ],
+  "aliases": [
+    "set-square",
+    "triangle-ruler"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

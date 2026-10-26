@@ -1,0 +1,23 @@
+{
+  "name": "bed",
+  "title": "Bed",
+  "category": "transport",
+  "description": "A bed with a pillow, for hotel rooms, sleeping and accommodation.",
+  "tags": [
+    "sleep",
+    "bedroom",
+    "room",
+    "rest",
+    "night",
+    "accommodation",
+    "hotel-room"
+  ],
+  "aliases": [
+    "bedroom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "step-out",
+  "title": "Step Out",
+  "category": "development",
+  "description": "Finish the current function in the debugger and return to its caller.",
+  "tags": [
+    "debug",
+    "debugger",
+    "step",
+    "return",
+    "exit function"
+  ],
+  "aliases": [
+    "debug-step-out"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "smartphone",
+  "title": "Smartphone",
+  "category": "devices",
+  "description": "Represent a mobile phone, mobile app or handheld device.",
+  "tags": [
+    "mobile",
+    "phone",
+    "cell",
+    "device",
+    "app",
+    "handheld",
+    "iphone",
+    "android"
+  ],
+  "aliases": [
+    "mobile",
+    "cellphone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

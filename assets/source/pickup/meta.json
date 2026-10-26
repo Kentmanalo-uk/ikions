@@ -1,0 +1,23 @@
+{
+  "name": "pickup",
+  "title": "Pickup",
+  "category": "commerce",
+  "description": "Marks a pickup point where customers collect their orders.",
+  "tags": [
+    "collect",
+    "click-and-collect",
+    "pickup-point",
+    "location",
+    "parcel",
+    "store"
+  ],
+  "aliases": [
+    "pickup-point",
+    "collection-point"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

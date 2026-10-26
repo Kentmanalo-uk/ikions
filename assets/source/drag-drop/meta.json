@@ -1,0 +1,22 @@
+{
+  "name": "drag-drop",
+  "title": "Drag and Drop",
+  "category": "interface",
+  "description": "Drag an item with the pointer and drop it into a target area.",
+  "tags": [
+    "drag",
+    "drop",
+    "move",
+    "upload",
+    "pointer",
+    "dropzone"
+  ],
+  "aliases": [
+    "drag-and-drop"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "panel-bottom",
+  "title": "Panel Bottom",
+  "category": "interface",
+  "description": "Toggle a panel docked along the bottom edge of the window.",
+  "tags": [
+    "console",
+    "footer",
+    "panel",
+    "drawer",
+    "layout",
+    "pane"
+  ],
+  "aliases": [
+    "bottom-panel",
+    "dock-bottom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

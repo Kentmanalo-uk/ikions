@@ -1,0 +1,25 @@
+{
+  "name": "loader",
+  "title": "Loader",
+  "category": "status",
+  "description": "Show that content is loading or a task is in progress.",
+  "tags": [
+    "loading",
+    "spinner",
+    "progress",
+    "wait",
+    "busy",
+    "pending",
+    "processing",
+    "buffering"
+  ],
+  "aliases": [
+    "spinner",
+    "loading"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

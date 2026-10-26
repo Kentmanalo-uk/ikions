@@ -1,0 +1,23 @@
+{
+  "name": "serving-dome",
+  "title": "Serving Dome",
+  "category": "food",
+  "description": "Represent a serving cloche, a dish being served or room service.",
+  "tags": [
+    "cloche",
+    "dish",
+    "serve",
+    "restaurant",
+    "room-service",
+    "catering"
+  ],
+  "aliases": [
+    "cloche",
+    "room-service"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

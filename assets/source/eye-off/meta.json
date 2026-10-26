@@ -1,0 +1,24 @@
+{
+  "name": "eye-off",
+  "title": "Eye Off",
+  "category": "security",
+  "description": "Hide content, mask a password or indicate that something is not visible.",
+  "tags": [
+    "hide",
+    "hidden",
+    "invisible",
+    "private",
+    "mask",
+    "conceal",
+    "visibility"
+  ],
+  "aliases": [
+    "hide",
+    "invisible"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

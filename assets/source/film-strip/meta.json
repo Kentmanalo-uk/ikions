@@ -1,0 +1,23 @@
+{
+  "name": "film-strip",
+  "title": "Film Strip",
+  "category": "media",
+  "description": "Represents a strip of film frames, footage or cinema.",
+  "tags": [
+    "footage",
+    "frames",
+    "cinema",
+    "movie",
+    "reel",
+    "analog"
+  ],
+  "aliases": [
+    "filmstrip",
+    "film-frames"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

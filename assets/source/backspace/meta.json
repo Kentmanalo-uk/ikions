@@ -1,0 +1,23 @@
+{
+  "name": "backspace",
+  "title": "Backspace",
+  "category": "interface",
+  "description": "Delete the character before the cursor, as the backspace key does.",
+  "tags": [
+    "delete",
+    "erase",
+    "keyboard",
+    "remove",
+    "key",
+    "clear"
+  ],
+  "aliases": [
+    "delete-left",
+    "backspace-key"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

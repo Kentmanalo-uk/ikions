@@ -1,0 +1,23 @@
+{
+  "name": "fever",
+  "title": "Fever",
+  "category": "health",
+  "description": "A face with a thermometer in its mouth for fever and high temperature.",
+  "tags": [
+    "high temperature",
+    "sick",
+    "illness",
+    "flu",
+    "thermometer",
+    "temperature",
+    "unwell"
+  ],
+  "aliases": [
+    "high-temperature"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

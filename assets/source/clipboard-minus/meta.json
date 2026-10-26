@@ -1,0 +1,22 @@
+{
+  "name": "clipboard-minus",
+  "title": "Clipboard Minus",
+  "category": "files",
+  "description": "Remove a clipboard.",
+  "tags": [
+    "paste",
+    "copy",
+    "board",
+    "remove",
+    "subtract",
+    "clipboard"
+  ],
+  "aliases": [
+    "remove-clipboard"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

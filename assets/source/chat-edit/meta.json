@@ -1,0 +1,24 @@
+{
+  "name": "chat-edit",
+  "title": "Chat Edit",
+  "category": "communication",
+  "description": "Edit or rename a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "chat"
+  ],
+  "aliases": [
+    "edit-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

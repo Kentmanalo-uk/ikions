@@ -1,0 +1,23 @@
+{
+  "name": "cloud-plus",
+  "title": "Cloud Plus",
+  "category": "weather",
+  "description": "Add a new cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "add",
+    "new",
+    "create",
+    "cloud"
+  ],
+  "aliases": [
+    "add-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

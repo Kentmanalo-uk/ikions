@@ -1,0 +1,24 @@
+{
+  "name": "inbox",
+  "title": "Inbox",
+  "category": "communication",
+  "description": "Show incoming messages, received items or an inbox folder.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "mailbox",
+    "incoming",
+    "email",
+    "unread"
+  ],
+  "aliases": [
+    "tray",
+    "in-tray"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

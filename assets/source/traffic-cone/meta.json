@@ -1,0 +1,23 @@
+{
+  "name": "traffic-cone",
+  "title": "Traffic Cone",
+  "category": "transport",
+  "description": "Represents roadworks, a traffic cone or a closed lane.",
+  "tags": [
+    "roadworks",
+    "construction",
+    "detour",
+    "caution",
+    "pylon",
+    "under construction"
+  ],
+  "aliases": [
+    "safety-cone",
+    "road-cone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

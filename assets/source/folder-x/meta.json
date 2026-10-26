@@ -1,0 +1,24 @@
+{
+  "name": "folder-x",
+  "title": "Folder X",
+  "category": "files",
+  "description": "Delete, cancel or reject a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "folder"
+  ],
+  "aliases": [
+    "delete-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

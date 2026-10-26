@@ -1,0 +1,23 @@
+{
+  "name": "users-search",
+  "title": "Users Search",
+  "category": "people",
+  "description": "Search for a users.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "find",
+    "lookup",
+    "browse",
+    "users"
+  ],
+  "aliases": [
+    "find-users"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

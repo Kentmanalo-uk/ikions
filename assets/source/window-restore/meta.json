@@ -1,0 +1,23 @@
+{
+  "name": "window-restore",
+  "title": "Window Restore",
+  "category": "interface",
+  "description": "Restore a maximized window to its previous size and position.",
+  "tags": [
+    "restore",
+    "window",
+    "resize",
+    "unmaximize",
+    "overlap",
+    "desktop"
+  ],
+  "aliases": [
+    "restore-down",
+    "unmaximize"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

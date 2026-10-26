@@ -1,0 +1,24 @@
+{
+  "name": "user-remove",
+  "title": "User Remove",
+  "category": "people",
+  "description": "Remove a person, revoke access or delete a member.",
+  "tags": [
+    "delete user",
+    "remove person",
+    "member",
+    "kick",
+    "unfollow",
+    "revoke",
+    "contact"
+  ],
+  "aliases": [
+    "user-minus",
+    "remove-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

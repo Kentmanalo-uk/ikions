@@ -1,0 +1,22 @@
+{
+  "name": "water-intake",
+  "title": "Water Intake",
+  "category": "health",
+  "description": "A glass of water with a droplet for hydration and daily water intake.",
+  "tags": [
+    "hydration",
+    "drink water",
+    "glass of water",
+    "fluid intake",
+    "water tracker",
+    "thirst"
+  ],
+  "aliases": [
+    "hydration"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

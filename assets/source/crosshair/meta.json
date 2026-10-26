@@ -1,0 +1,23 @@
+{
+  "name": "crosshair",
+  "title": "Crosshair",
+  "category": "interface",
+  "description": "A crosshair for precise aiming, picking a point or positioning.",
+  "tags": [
+    "aim",
+    "precision",
+    "reticle",
+    "position",
+    "pick",
+    "coordinates"
+  ],
+  "aliases": [
+    "reticle",
+    "crosshair-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

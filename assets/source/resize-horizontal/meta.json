@@ -1,0 +1,23 @@
+{
+  "name": "resize-horizontal",
+  "title": "Resize Horizontal",
+  "category": "interface",
+  "description": "Drag to change the width of a column, panel or element.",
+  "tags": [
+    "width",
+    "column",
+    "split",
+    "drag",
+    "cursor",
+    "resize"
+  ],
+  "aliases": [
+    "col-resize",
+    "resize-width"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

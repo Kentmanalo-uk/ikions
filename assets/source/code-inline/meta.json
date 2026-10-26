@@ -1,0 +1,22 @@
+{
+  "name": "code-inline",
+  "title": "Code Inline",
+  "category": "editing",
+  "description": "Format a word or phrase as inline code.",
+  "tags": [
+    "code",
+    "monospace",
+    "snippet",
+    "inline",
+    "developer",
+    "markdown"
+  ],
+  "aliases": [
+    "inline-code"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

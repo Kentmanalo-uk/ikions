@@ -1,0 +1,23 @@
+{
+  "name": "path-edit",
+  "title": "Edit Path",
+  "category": "editing",
+  "description": "Edit the anchor points of a vector path.",
+  "tags": [
+    "vector",
+    "anchor",
+    "nodes",
+    "bezier",
+    "points",
+    "curve"
+  ],
+  "aliases": [
+    "edit-points",
+    "anchor-points"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

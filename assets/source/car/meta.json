@@ -1,0 +1,26 @@
+{
+  "name": "car",
+  "title": "Car",
+  "category": "transport",
+  "description": "Represent driving, a car journey, parking or a vehicle.",
+  "tags": [
+    "vehicle",
+    "automobile",
+    "drive",
+    "auto",
+    "parking",
+    "taxi",
+    "road",
+    "commute"
+  ],
+  "aliases": [
+    "automobile",
+    "vehicle",
+    "car-side"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "file-markdown",
+  "title": "File Markdown",
+  "category": "files",
+  "description": "Represents a Markdown text file used for docs and readmes.",
+  "tags": [
+    "markdown",
+    "md",
+    "readme",
+    "docs",
+    "text",
+    "formatting"
+  ],
+  "aliases": [
+    "markdown-file",
+    "md-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

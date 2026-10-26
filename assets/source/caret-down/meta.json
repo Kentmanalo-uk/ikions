@@ -1,0 +1,19 @@
+{
+  "name": "caret-down",
+  "title": "Caret Down",
+  "category": "arrows",
+  "description": "Small triangle pointing down: open a menu, sort or indicate direction.",
+  "tags": [
+    "caret",
+    "triangle",
+    "dropdown",
+    "sort",
+    "down"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

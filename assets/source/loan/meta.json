@@ -1,0 +1,23 @@
+{
+  "name": "loan",
+  "title": "Loan",
+  "category": "finance",
+  "description": "Lend or borrow money, shown as a hand holding out a coin.",
+  "tags": [
+    "borrow",
+    "lend",
+    "credit",
+    "debt",
+    "finance",
+    "advance"
+  ],
+  "aliases": [
+    "lending",
+    "borrowing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

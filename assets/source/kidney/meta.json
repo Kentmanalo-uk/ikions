@@ -1,0 +1,23 @@
+{
+  "name": "kidney",
+  "title": "Kidney",
+  "category": "health",
+  "description": "Represent the kidneys, nephrology, dialysis or urinary health.",
+  "tags": [
+    "kidneys",
+    "nephrology",
+    "renal",
+    "dialysis",
+    "organ",
+    "urology"
+  ],
+  "aliases": [
+    "kidneys",
+    "renal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

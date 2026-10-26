@@ -1,0 +1,22 @@
+{
+  "name": "music-notes",
+  "title": "Music Notes",
+  "category": "media",
+  "description": "Two separate music notes for melodies, songs and soundtracks.",
+  "tags": [
+    "music",
+    "melody",
+    "song",
+    "notes",
+    "soundtrack",
+    "tune"
+  ],
+  "aliases": [
+    "melody"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

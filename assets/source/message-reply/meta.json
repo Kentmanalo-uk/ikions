@@ -1,0 +1,21 @@
+{
+  "name": "message-reply",
+  "title": "Message Reply",
+  "category": "communication",
+  "description": "Reply to a message in a conversation.",
+  "tags": [
+    "chat",
+    "reply",
+    "respond",
+    "answer",
+    "thread"
+  ],
+  "aliases": [
+    "reply-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

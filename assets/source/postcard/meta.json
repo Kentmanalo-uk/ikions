@@ -1,0 +1,22 @@
+{
+  "name": "postcard",
+  "title": "Postcard",
+  "category": "communication",
+  "description": "Represent a postcard, travel greeting or short postal message.",
+  "tags": [
+    "greeting",
+    "travel",
+    "post",
+    "mail",
+    "card",
+    "souvenir"
+  ],
+  "aliases": [
+    "post-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

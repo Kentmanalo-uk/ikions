@@ -1,0 +1,22 @@
+{
+  "name": "wrench",
+  "title": "Wrench",
+  "category": "development",
+  "description": "An open-ended wrench for tools, settings, maintenance and repairs.",
+  "tags": [
+    "tool",
+    "spanner",
+    "repair",
+    "fix",
+    "maintenance",
+    "configure"
+  ],
+  "aliases": [
+    "spanner"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

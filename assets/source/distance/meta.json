@@ -1,0 +1,23 @@
+{
+  "name": "distance",
+  "title": "Distance",
+  "category": "maps",
+  "description": "Two location pins above a measured line for the distance between places.",
+  "tags": [
+    "measure",
+    "length",
+    "between",
+    "how far",
+    "kilometers",
+    "miles"
+  ],
+  "aliases": [
+    "place-distance",
+    "distance-between"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

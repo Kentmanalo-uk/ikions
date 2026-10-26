@@ -1,0 +1,22 @@
+{
+  "name": "bell-off",
+  "title": "Bell Off",
+  "category": "communication",
+  "description": "Turn off, disable or mute the bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-bell"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

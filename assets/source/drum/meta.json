@@ -1,0 +1,23 @@
+{
+  "name": "drum",
+  "title": "Drum",
+  "category": "media",
+  "description": "Represents a snare drum, percussion or a drum beat.",
+  "tags": [
+    "percussion",
+    "snare",
+    "beat",
+    "rhythm",
+    "instrument",
+    "band"
+  ],
+  "aliases": [
+    "snare-drum",
+    "percussion-drum"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

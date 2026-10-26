@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-plus",
+  "title": "Bookmark Plus",
+  "category": "social",
+  "description": "Add a new bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "add",
+    "new",
+    "create",
+    "bookmark"
+  ],
+  "aliases": [
+    "add-bookmark"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

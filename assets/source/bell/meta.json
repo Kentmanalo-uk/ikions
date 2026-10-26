@@ -1,0 +1,22 @@
+{
+  "name": "bell",
+  "title": "Bell",
+  "category": "communication",
+  "description": "Show notifications, alerts or reminders.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "reminder",
+    "ring"
+  ],
+  "aliases": [
+    "notification",
+    "alert"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

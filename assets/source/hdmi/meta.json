@@ -1,0 +1,23 @@
+{
+  "name": "hdmi",
+  "title": "HDMI",
+  "category": "devices",
+  "description": "An HDMI port for connecting displays and audio.",
+  "tags": [
+    "port",
+    "display",
+    "video",
+    "connector",
+    "monitor",
+    "tv"
+  ],
+  "aliases": [
+    "hdmi-port",
+    "video-port"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

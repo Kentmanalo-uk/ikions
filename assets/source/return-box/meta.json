@@ -1,0 +1,23 @@
+{
+  "name": "return-box",
+  "title": "Return Box",
+  "category": "commerce",
+  "description": "Represents a parcel being sent back as a product return.",
+  "tags": [
+    "return",
+    "parcel",
+    "send-back",
+    "exchange",
+    "package",
+    "rma"
+  ],
+  "aliases": [
+    "product-return",
+    "parcel-return"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

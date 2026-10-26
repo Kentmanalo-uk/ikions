@@ -1,0 +1,21 @@
+{
+  "name": "bookmark-star",
+  "title": "Bookmark Star",
+  "category": "social",
+  "description": "A starred or featured bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "starred",
+    "favorite",
+    "featured",
+    "bookmark"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "microphone-off",
+  "title": "Microphone Off",
+  "category": "communication",
+  "description": "Turn off, disable or mute the microphone.",
+  "tags": [
+    "mic",
+    "audio",
+    "voice",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-microphone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

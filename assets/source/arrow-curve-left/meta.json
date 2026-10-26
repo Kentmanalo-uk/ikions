@@ -1,0 +1,21 @@
+{
+  "name": "arrow-curve-left",
+  "title": "Arrow Curve Left",
+  "category": "arrows",
+  "description": "A curved arrow that bends round to point left.",
+  "tags": [
+    "curve",
+    "curved",
+    "bend",
+    "left",
+    "arrow"
+  ],
+  "aliases": [
+    "curved-arrow-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

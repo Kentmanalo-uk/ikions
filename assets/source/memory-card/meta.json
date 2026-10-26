@@ -1,0 +1,23 @@
+{
+  "name": "memory-card",
+  "title": "Memory Card",
+  "category": "files",
+  "description": "Represents a micro memory card used for removable storage.",
+  "tags": [
+    "microsd",
+    "storage",
+    "camera",
+    "flash",
+    "phone",
+    "removable"
+  ],
+  "aliases": [
+    "microsd-card",
+    "flash-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

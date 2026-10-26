@@ -1,0 +1,24 @@
+{
+  "name": "appointment",
+  "title": "Appointment",
+  "category": "health",
+  "description": "A calendar with a pulse line for a medical appointment or check-up.",
+  "tags": [
+    "booking",
+    "doctor visit",
+    "check-up",
+    "schedule",
+    "consultation",
+    "medical calendar",
+    "visit"
+  ],
+  "aliases": [
+    "medical-appointment",
+    "doctor-visit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "layers-check",
+  "title": "Layers Check",
+  "category": "editing",
+  "description": "Layers confirmed, completed or verified.",
+  "tags": [
+    "stack",
+    "levels",
+    "depth",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "layers"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "coin-stack-up",
+  "title": "Coin Stack Up",
+  "category": "finance",
+  "description": "A stack of coins with an upward arrow for growing savings or income.",
+  "tags": [
+    "increase",
+    "growth",
+    "savings",
+    "profit",
+    "earnings",
+    "money up",
+    "gain"
+  ],
+  "aliases": [
+    "coins-increase",
+    "coins-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

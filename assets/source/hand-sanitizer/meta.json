@@ -1,0 +1,24 @@
+{
+  "name": "hand-sanitizer",
+  "title": "Hand Sanitizer",
+  "category": "health",
+  "description": "A pump bottle of hand sanitizer for hygiene and clean hands.",
+  "tags": [
+    "sanitizer",
+    "hygiene",
+    "disinfectant",
+    "alcohol gel",
+    "clean hands",
+    "pump bottle",
+    "germs"
+  ],
+  "aliases": [
+    "sanitiser",
+    "hand-gel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

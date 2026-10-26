@@ -1,0 +1,23 @@
+{
+  "name": "escape-key",
+  "title": "Escape Key",
+  "category": "interface",
+  "description": "Represent the Escape key used to cancel or exit.",
+  "tags": [
+    "esc",
+    "escape",
+    "cancel",
+    "exit",
+    "keyboard",
+    "dismiss"
+  ],
+  "aliases": [
+    "esc-key",
+    "esc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

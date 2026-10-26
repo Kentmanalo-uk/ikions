@@ -1,0 +1,21 @@
+{
+  "name": "circle-play",
+  "title": "Circle Play",
+  "category": "shapes",
+  "description": "Play in a circle: start playback.",
+  "tags": [
+    "circle",
+    "play",
+    "start",
+    "media",
+    "button"
+  ],
+  "aliases": [
+    "play-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

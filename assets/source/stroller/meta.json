@@ -1,0 +1,24 @@
+{
+  "name": "stroller",
+  "title": "Stroller",
+  "category": "transport",
+  "description": "Represents a baby stroller, pram or family-friendly travel.",
+  "tags": [
+    "pram",
+    "pushchair",
+    "baby",
+    "buggy",
+    "family",
+    "parent"
+  ],
+  "aliases": [
+    "pram",
+    "pushchair",
+    "baby-carriage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

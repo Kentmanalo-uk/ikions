@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "title": "Server",
+  "category": "devices",
+  "description": "Represent a server, data center rack or backend hosting.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "backend",
+    "storage",
+    "network",
+    "infrastructure",
+    "data center"
+  ],
+  "aliases": [
+    "rack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

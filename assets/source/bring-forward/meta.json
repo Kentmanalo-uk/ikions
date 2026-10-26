@@ -1,0 +1,23 @@
+{
+  "name": "bring-forward",
+  "title": "Bring Forward",
+  "category": "interface",
+  "description": "Move the selected object one layer closer to the front.",
+  "tags": [
+    "arrange",
+    "layer",
+    "order",
+    "front",
+    "stack",
+    "design"
+  ],
+  "aliases": [
+    "move-forward",
+    "raise-layer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

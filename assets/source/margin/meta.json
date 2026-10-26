@@ -1,0 +1,22 @@
+{
+  "name": "margin",
+  "title": "Margin",
+  "category": "editing",
+  "description": "Set the outer space around a box.",
+  "tags": [
+    "outer",
+    "space",
+    "box-model",
+    "layout",
+    "css",
+    "offset"
+  ],
+  "aliases": [
+    "outer-spacing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

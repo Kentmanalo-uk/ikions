@@ -1,0 +1,22 @@
+{
+  "name": "align-justify",
+  "title": "Align Justify",
+  "category": "editing",
+  "description": "Justify text so lines stretch evenly between both edges.",
+  "tags": [
+    "align",
+    "justify",
+    "text",
+    "paragraph",
+    "block"
+  ],
+  "aliases": [
+    "text-align-justify",
+    "justify"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

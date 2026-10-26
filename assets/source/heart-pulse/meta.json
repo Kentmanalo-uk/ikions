@@ -1,0 +1,26 @@
+{
+  "name": "heart-pulse",
+  "title": "Heart Pulse",
+  "category": "health",
+  "description": "Show heart rate, vital signs, health tracking or cardiology.",
+  "tags": [
+    "heartbeat",
+    "pulse",
+    "heart-rate",
+    "cardio",
+    "vitals",
+    "health",
+    "ecg",
+    "fitness",
+    "heart rate"
+  ],
+  "aliases": [
+    "heartbeat",
+    "heart-rate"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

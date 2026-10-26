@@ -1,0 +1,22 @@
+{
+  "name": "family",
+  "title": "Family",
+  "category": "people",
+  "description": "Represent a family of two adults and a child, such as a household plan.",
+  "tags": [
+    "parents",
+    "household",
+    "kids",
+    "home",
+    "relatives",
+    "group"
+  ],
+  "aliases": [
+    "household"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

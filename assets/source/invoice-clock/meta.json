@@ -1,0 +1,23 @@
+{
+  "name": "invoice-clock",
+  "title": "Invoice Clock",
+  "category": "finance",
+  "description": "An invoice that is pending, scheduled or awaiting payment.",
+  "tags": [
+    "pending",
+    "due",
+    "scheduled",
+    "invoice",
+    "bill",
+    "awaiting payment"
+  ],
+  "aliases": [
+    "pending-invoice",
+    "scheduled-invoice"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

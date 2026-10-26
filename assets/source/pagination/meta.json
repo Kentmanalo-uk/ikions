@@ -1,0 +1,22 @@
+{
+  "name": "pagination",
+  "title": "Pagination",
+  "category": "interface",
+  "description": "Move between pages of results with previous and next controls.",
+  "tags": [
+    "pages",
+    "pager",
+    "next",
+    "previous",
+    "results",
+    "navigation"
+  ],
+  "aliases": [
+    "page-navigation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

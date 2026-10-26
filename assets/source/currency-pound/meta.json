@@ -1,0 +1,24 @@
+{
+  "name": "currency-pound",
+  "title": "Currency Pound",
+  "category": "finance",
+  "description": "The pound sterling sign, for British pound prices or amounts.",
+  "tags": [
+    "pound",
+    "gbp",
+    "sterling",
+    "uk",
+    "price",
+    "money",
+    "currency symbol"
+  ],
+  "aliases": [
+    "gbp",
+    "sterling"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

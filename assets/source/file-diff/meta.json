@@ -1,0 +1,23 @@
+{
+  "name": "file-diff",
+  "title": "File Diff",
+  "category": "files",
+  "description": "Compare two versions of a file and show added or removed changes.",
+  "tags": [
+    "diff",
+    "compare",
+    "changes",
+    "version",
+    "patch",
+    "git"
+  ],
+  "aliases": [
+    "compare-file",
+    "file-compare"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

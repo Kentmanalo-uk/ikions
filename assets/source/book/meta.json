@@ -1,0 +1,25 @@
+{
+  "name": "book",
+  "title": "Book",
+  "category": "education",
+  "description": "Represent reading, a guide, documentation or a library.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "guide",
+    "manual",
+    "documentation",
+    "novel",
+    "study"
+  ],
+  "aliases": [
+    "reading",
+    "manual"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

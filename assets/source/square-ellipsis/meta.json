@@ -1,0 +1,19 @@
+{
+  "name": "square-ellipsis",
+  "title": "Square Ellipsis",
+  "category": "shapes",
+  "description": "Ellipsis in a square: more options.",
+  "tags": [
+    "square",
+    "more",
+    "options",
+    "menu",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

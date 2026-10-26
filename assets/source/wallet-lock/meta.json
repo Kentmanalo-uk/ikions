@@ -1,0 +1,22 @@
+{
+  "name": "wallet-lock",
+  "title": "Wallet Lock",
+  "category": "finance",
+  "description": "A locked, private or protected wallet.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "wallet"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

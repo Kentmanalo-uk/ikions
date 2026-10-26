@@ -1,0 +1,23 @@
+{
+  "name": "thermostat",
+  "title": "Thermostat",
+  "category": "devices",
+  "description": "Represents a thermostat for controlling heating and cooling.",
+  "tags": [
+    "temperature",
+    "heating",
+    "cooling",
+    "climate",
+    "hvac",
+    "smart home"
+  ],
+  "aliases": [
+    "climate-control",
+    "temperature-control"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

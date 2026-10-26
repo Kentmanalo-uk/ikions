@@ -1,0 +1,25 @@
+{
+  "name": "file-image",
+  "title": "File Image",
+  "category": "files",
+  "description": "Represent an image file such as a photo, graphic or picture.",
+  "tags": [
+    "image",
+    "photo",
+    "picture",
+    "graphic",
+    "jpg",
+    "png",
+    "media",
+    "document"
+  ],
+  "aliases": [
+    "image-file",
+    "photo-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

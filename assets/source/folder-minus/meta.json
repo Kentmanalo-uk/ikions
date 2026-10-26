@@ -1,0 +1,22 @@
+{
+  "name": "folder-minus",
+  "title": "Folder Minus",
+  "category": "files",
+  "description": "Remove a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "remove",
+    "subtract",
+    "folder"
+  ],
+  "aliases": [
+    "remove-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

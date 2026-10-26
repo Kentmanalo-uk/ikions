@@ -1,0 +1,19 @@
+{
+  "name": "square-plus",
+  "title": "Square Plus",
+  "category": "shapes",
+  "description": "Plus in a square: add or create.",
+  "tags": [
+    "square",
+    "add",
+    "plus",
+    "new",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

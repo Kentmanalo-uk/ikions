@@ -1,0 +1,23 @@
+{
+  "name": "delivery",
+  "title": "Delivery",
+  "category": "commerce",
+  "description": "Represents a parcel delivered to a home address.",
+  "tags": [
+    "home",
+    "doorstep",
+    "parcel",
+    "drop-off",
+    "courier",
+    "address"
+  ],
+  "aliases": [
+    "home-delivery",
+    "doorstep-delivery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

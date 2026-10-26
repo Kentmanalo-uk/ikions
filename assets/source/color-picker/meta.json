@@ -1,0 +1,23 @@
+{
+  "name": "color-picker",
+  "title": "Color Picker",
+  "category": "editing",
+  "description": "Choose a colour from a colour field and hue slider.",
+  "tags": [
+    "colour",
+    "picker",
+    "hue",
+    "select",
+    "gradient",
+    "spectrum"
+  ],
+  "aliases": [
+    "colour-picker",
+    "color-selector"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

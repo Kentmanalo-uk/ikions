@@ -1,0 +1,27 @@
+{
+  "name": "user-question",
+  "title": "User Question",
+  "category": "people",
+  "description": "Help or questions about a user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "help",
+    "unknown",
+    "support",
+    "user",
+    "anonymous",
+    "who",
+    "faq"
+  ],
+  "aliases": [
+    "user-question-mark",
+    "unknown-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

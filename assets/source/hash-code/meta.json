@@ -1,0 +1,23 @@
+{
+  "name": "hash-code",
+  "title": "Hash Code",
+  "category": "development",
+  "description": "A hash value or checksum computed from data.",
+  "tags": [
+    "hash",
+    "checksum",
+    "digest",
+    "sha",
+    "fingerprint",
+    "integrity"
+  ],
+  "aliases": [
+    "checksum",
+    "hash-value"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

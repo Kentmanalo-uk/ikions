@@ -1,0 +1,23 @@
+{
+  "name": "flower",
+  "title": "Flower",
+  "category": "weather",
+  "description": "A blooming flower with petals, a stem and a leaf.",
+  "tags": [
+    "flower",
+    "bloom",
+    "garden",
+    "spring",
+    "nature",
+    "plant",
+    "blossom"
+  ],
+  "aliases": [
+    "blossom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

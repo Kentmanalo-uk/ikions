@@ -1,0 +1,24 @@
+{
+  "name": "calendar-edit",
+  "title": "Calendar Edit",
+  "category": "time",
+  "description": "Edit or rename a calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "calendar"
+  ],
+  "aliases": [
+    "edit-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

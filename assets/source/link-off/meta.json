@@ -1,0 +1,22 @@
+{
+  "name": "link-off",
+  "title": "Link Off",
+  "category": "interface",
+  "description": "Turn off, disable or mute the link.",
+  "tags": [
+    "chain",
+    "url",
+    "hyperlink",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-link"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

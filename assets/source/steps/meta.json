@@ -1,0 +1,24 @@
+{
+  "name": "steps",
+  "title": "Steps",
+  "category": "health",
+  "description": "Two footprints for a step count, walking goals or activity tracking.",
+  "tags": [
+    "step count",
+    "footprints",
+    "walking",
+    "pedometer",
+    "activity",
+    "fitness",
+    "steps goal"
+  ],
+  "aliases": [
+    "footprints",
+    "step-count"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

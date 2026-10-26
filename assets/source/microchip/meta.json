@@ -1,0 +1,28 @@
+{
+  "name": "microchip",
+  "title": "Microchip",
+  "category": "devices",
+  "description": "An integrated circuit chip with pins on two sides.",
+  "tags": [
+    "ic",
+    "integrated circuit",
+    "semiconductor",
+    "electronics",
+    "hardware",
+    "memory chip",
+    "flash",
+    "dram"
+  ],
+  "aliases": [
+    "integrated-circuit",
+    "ic-chip",
+    "memory",
+    "memory-chip",
+    "flash-chip"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

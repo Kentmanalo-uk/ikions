@@ -1,0 +1,26 @@
+{
+  "name": "ban",
+  "title": "Ban",
+  "category": "status",
+  "description": "Block an action or mark something as forbidden or disabled.",
+  "tags": [
+    "block",
+    "forbidden",
+    "prohibited",
+    "disabled",
+    "deny",
+    "restricted",
+    "not-allowed",
+    "stop"
+  ],
+  "aliases": [
+    "forbidden",
+    "prohibited",
+    "not-allowed"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

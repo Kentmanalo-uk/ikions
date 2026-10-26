@@ -1,0 +1,24 @@
+{
+  "name": "bicycle",
+  "title": "Bicycle",
+  "category": "transport",
+  "description": "Represent cycling, bike routes or bike sharing.",
+  "tags": [
+    "bike",
+    "cycling",
+    "cycle",
+    "ride",
+    "bike-lane",
+    "commute",
+    "sport",
+    "pedal"
+  ],
+  "aliases": [
+    "bike"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

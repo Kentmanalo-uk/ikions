@@ -1,0 +1,22 @@
+{
+  "name": "liver",
+  "title": "Liver",
+  "category": "health",
+  "description": "Represent the liver, hepatology or liver function.",
+  "tags": [
+    "hepatology",
+    "organ",
+    "hepatitis",
+    "digestion",
+    "detox",
+    "anatomy"
+  ],
+  "aliases": [
+    "hepatic"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

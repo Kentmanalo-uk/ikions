@@ -1,0 +1,26 @@
+{
+  "name": "thumbs-up",
+  "title": "Thumbs Up",
+  "category": "social",
+  "description": "Approve, agree with or give positive feedback on something.",
+  "tags": [
+    "approve",
+    "agree",
+    "upvote",
+    "good",
+    "positive",
+    "feedback",
+    "recommend",
+    "ok",
+    "vote"
+  ],
+  "aliases": [
+    "approve",
+    "upvote"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

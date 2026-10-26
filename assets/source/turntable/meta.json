@@ -1,0 +1,23 @@
+{
+  "name": "turntable",
+  "title": "Turntable",
+  "category": "media",
+  "description": "A record player deck with a platter and tonearm for vinyl and DJ sets.",
+  "tags": [
+    "record-player",
+    "dj",
+    "vinyl",
+    "deck",
+    "music",
+    "retro"
+  ],
+  "aliases": [
+    "record-player",
+    "phonograph"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

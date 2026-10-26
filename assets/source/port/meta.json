@@ -1,0 +1,23 @@
+{
+  "name": "port",
+  "title": "Port",
+  "category": "development",
+  "description": "Represents a network or hardware port that accepts a connection.",
+  "tags": [
+    "network",
+    "connection",
+    "socket",
+    "interface",
+    "listen",
+    "number"
+  ],
+  "aliases": [
+    "network-port",
+    "connection-port"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

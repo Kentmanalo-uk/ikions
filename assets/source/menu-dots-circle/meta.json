@@ -1,0 +1,23 @@
+{
+  "name": "menu-dots-circle",
+  "title": "Menu Dots Circle",
+  "category": "interface",
+  "description": "Open more options from a round button with three dots.",
+  "tags": [
+    "more",
+    "options",
+    "overflow",
+    "ellipsis",
+    "actions",
+    "kebab"
+  ],
+  "aliases": [
+    "more-circle",
+    "circle-ellipsis"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

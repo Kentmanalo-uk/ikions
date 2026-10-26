@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "title": "API",
+  "category": "development",
+  "description": "An application programming interface connecting two services.",
+  "tags": [
+    "api",
+    "endpoint",
+    "interface",
+    "integration",
+    "service",
+    "connection",
+    "http",
+    "request",
+    "response",
+    "web-service",
+    "json"
+  ],
+  "aliases": [
+    "rest-api",
+    "api-endpoint",
+    "rest",
+    "restful",
+    "restful-api"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

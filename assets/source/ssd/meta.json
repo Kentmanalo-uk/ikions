@@ -1,0 +1,22 @@
+{
+  "name": "ssd",
+  "title": "SSD",
+  "category": "devices",
+  "description": "Represents a solid-state drive used for fast storage.",
+  "tags": [
+    "solid state drive",
+    "storage",
+    "drive",
+    "disk",
+    "flash",
+    "hardware"
+  ],
+  "aliases": [
+    "solid-state"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

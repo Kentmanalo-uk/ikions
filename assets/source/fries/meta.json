@@ -1,0 +1,23 @@
+{
+  "name": "fries",
+  "title": "Fries",
+  "category": "food",
+  "description": "Represent French fries, such as fast food, a side order or a snack.",
+  "tags": [
+    "french-fries",
+    "chips",
+    "fast-food",
+    "side",
+    "snack",
+    "potato"
+  ],
+  "aliases": [
+    "french-fries",
+    "chips"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

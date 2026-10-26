@@ -1,0 +1,23 @@
+{
+  "name": "compass-needle",
+  "title": "Compass Needle",
+  "category": "maps",
+  "description": "A magnetic compass needle with a solid north tip for bearings and orientation.",
+  "tags": [
+    "compass",
+    "north",
+    "bearing",
+    "orientation",
+    "magnetic",
+    "heading"
+  ],
+  "aliases": [
+    "magnetic-needle",
+    "north-needle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

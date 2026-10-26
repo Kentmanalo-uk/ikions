@@ -1,0 +1,22 @@
+{
+  "name": "eggplant",
+  "title": "Eggplant",
+  "category": "food",
+  "description": "Represent an eggplant, aubergine, vegetables or cooking ingredients.",
+  "tags": [
+    "aubergine",
+    "vegetable",
+    "produce",
+    "brinjal",
+    "garden",
+    "cooking"
+  ],
+  "aliases": [
+    "aubergine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

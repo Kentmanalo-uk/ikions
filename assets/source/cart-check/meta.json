@@ -1,0 +1,22 @@
+{
+  "name": "cart-check",
+  "title": "Cart Check",
+  "category": "commerce",
+  "description": "Cart confirmed, completed or verified.",
+  "tags": [
+    "shopping",
+    "basket",
+    "buy",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "cart"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

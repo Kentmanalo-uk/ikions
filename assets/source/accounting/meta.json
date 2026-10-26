@@ -1,0 +1,24 @@
+{
+  "name": "accounting",
+  "title": "Accounting",
+  "category": "finance",
+  "description": "Represent accounting or bookkeeping with a debit and credit T-account.",
+  "tags": [
+    "bookkeeping",
+    "debit",
+    "credit",
+    "balance sheet",
+    "ledger",
+    "accounts",
+    "finance"
+  ],
+  "aliases": [
+    "bookkeeping",
+    "t-account"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

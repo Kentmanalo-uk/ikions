@@ -1,0 +1,23 @@
+{
+  "name": "forklift",
+  "title": "Forklift",
+  "category": "commerce",
+  "description": "Represents a forklift truck for lifting and moving pallets.",
+  "tags": [
+    "lift",
+    "warehouse",
+    "logistics",
+    "pallet",
+    "loader",
+    "vehicle"
+  ],
+  "aliases": [
+    "lift-truck",
+    "fork-truck"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

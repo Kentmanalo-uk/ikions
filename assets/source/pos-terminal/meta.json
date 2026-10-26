@@ -1,0 +1,24 @@
+{
+  "name": "pos-terminal",
+  "title": "POS Terminal",
+  "category": "devices",
+  "description": "Represents a point-of-sale card terminal taking a card payment.",
+  "tags": [
+    "point of sale",
+    "card reader",
+    "checkout",
+    "payment",
+    "pin pad",
+    "retail"
+  ],
+  "aliases": [
+    "card-terminal",
+    "card-machine",
+    "payment-terminal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "vinyl",
+  "title": "Vinyl",
+  "category": "media",
+  "description": "A vinyl record with a large centre label for music and albums.",
+  "tags": [
+    "record",
+    "lp",
+    "album",
+    "music",
+    "retro",
+    "dj"
+  ],
+  "aliases": [
+    "vinyl-record",
+    "lp-record"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

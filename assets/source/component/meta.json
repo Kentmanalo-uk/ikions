@@ -1,0 +1,23 @@
+{
+  "name": "component",
+  "title": "Component",
+  "category": "development",
+  "description": "A reusable software component with its interface ports.",
+  "tags": [
+    "component",
+    "module",
+    "uml",
+    "architecture",
+    "reusable",
+    "part"
+  ],
+  "aliases": [
+    "software-component",
+    "uml-component"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

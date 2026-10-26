@@ -1,0 +1,23 @@
+{
+  "name": "badge-percent",
+  "title": "Badge Percent",
+  "category": "commerce",
+  "description": "Shows a rosette badge with a percent sign for special offers.",
+  "tags": [
+    "discount",
+    "offer",
+    "promotion",
+    "deal",
+    "seal",
+    "sticker"
+  ],
+  "aliases": [
+    "discount-badge",
+    "offer-badge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "location-history",
+  "title": "Location History",
+  "category": "maps",
+  "description": "A location pin with a clock for location history and places visited over time.",
+  "tags": [
+    "timeline",
+    "visited places",
+    "past locations",
+    "travel history",
+    "tracking",
+    "recent"
+  ],
+  "aliases": [
+    "places-history",
+    "location-timeline"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

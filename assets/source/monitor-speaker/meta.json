@@ -1,0 +1,22 @@
+{
+  "name": "monitor-speaker",
+  "title": "Monitor Speaker",
+  "category": "devices",
+  "description": "A computer monitor playing sound.",
+  "tags": [
+    "audio",
+    "sound",
+    "volume",
+    "display",
+    "screen"
+  ],
+  "aliases": [
+    "monitor-audio",
+    "display-sound"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

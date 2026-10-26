@@ -1,0 +1,23 @@
+{
+  "name": "unpin",
+  "title": "Unpin",
+  "category": "interface",
+  "description": "Remove a pin so the item no longer stays fixed in place.",
+  "tags": [
+    "unstick",
+    "detach",
+    "release",
+    "remove pin",
+    "pushpin",
+    "unfix"
+  ],
+  "aliases": [
+    "pin-off",
+    "unfasten"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

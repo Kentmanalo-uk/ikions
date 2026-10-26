@@ -1,0 +1,22 @@
+{
+  "name": "user-lock",
+  "title": "User Lock",
+  "category": "people",
+  "description": "A locked, private or protected user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "user"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

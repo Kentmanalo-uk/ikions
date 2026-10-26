@@ -1,0 +1,22 @@
+{
+  "name": "eclipse",
+  "title": "Eclipse",
+  "category": "weather",
+  "description": "A solar eclipse with the moon passing in front of the sun.",
+  "tags": [
+    "eclipse",
+    "solar eclipse",
+    "sun",
+    "moon",
+    "astronomy",
+    "sky"
+  ],
+  "aliases": [
+    "solar-eclipse"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

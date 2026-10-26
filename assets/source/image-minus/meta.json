@@ -1,0 +1,22 @@
+{
+  "name": "image-minus",
+  "title": "Image Minus",
+  "category": "media",
+  "description": "Remove a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "remove",
+    "subtract",
+    "image"
+  ],
+  "aliases": [
+    "remove-image"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

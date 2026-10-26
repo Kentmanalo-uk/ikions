@@ -1,0 +1,23 @@
+{
+  "name": "canoe",
+  "title": "Canoe",
+  "category": "transport",
+  "description": "Represents canoeing, a river trip or an open boat with a single paddle.",
+  "tags": [
+    "paddle",
+    "rowing",
+    "river",
+    "lake",
+    "outdoor",
+    "boat"
+  ],
+  "aliases": [
+    "canoeing",
+    "open-canoe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

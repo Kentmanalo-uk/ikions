@@ -1,0 +1,22 @@
+{
+  "name": "outbox",
+  "title": "Outbox",
+  "category": "communication",
+  "description": "Show outgoing messages waiting to be sent.",
+  "tags": [
+    "outgoing",
+    "sent",
+    "tray",
+    "send",
+    "email",
+    "queue"
+  ],
+  "aliases": [
+    "out-tray"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

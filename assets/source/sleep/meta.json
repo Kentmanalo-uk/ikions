@@ -1,0 +1,23 @@
+{
+  "name": "sleep",
+  "title": "Sleep",
+  "category": "health",
+  "description": "Track sleep, bedtime or rest for health and wellbeing.",
+  "tags": [
+    "sleep tracking",
+    "bedtime",
+    "rest",
+    "night",
+    "insomnia",
+    "zzz"
+  ],
+  "aliases": [
+    "sleep-tracking",
+    "bedtime"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

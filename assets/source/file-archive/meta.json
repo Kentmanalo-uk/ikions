@@ -1,0 +1,23 @@
+{
+  "name": "file-archive",
+  "title": "File Archive",
+  "category": "files",
+  "description": "Represents a compressed archive file that bundles other files.",
+  "tags": [
+    "zip",
+    "compressed",
+    "rar",
+    "bundle",
+    "package",
+    "tar"
+  ],
+  "aliases": [
+    "archive-file",
+    "compressed-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

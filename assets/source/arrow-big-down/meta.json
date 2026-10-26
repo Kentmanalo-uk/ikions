@@ -1,0 +1,19 @@
+{
+  "name": "arrow-big-down",
+  "title": "Arrow Big Down",
+  "category": "arrows",
+  "description": "Large block arrow pointing down; bold direction or upgrade cue.",
+  "tags": [
+    "arrow",
+    "big",
+    "bold",
+    "block",
+    "down"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

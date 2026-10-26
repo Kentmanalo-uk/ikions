@@ -1,0 +1,23 @@
+{
+  "name": "tire",
+  "title": "Tire",
+  "category": "transport",
+  "description": "A tire with tread and wheel nuts, for tire shops, wheels and vehicle service.",
+  "tags": [
+    "tyre",
+    "wheel",
+    "tread",
+    "rim",
+    "puncture",
+    "service",
+    "rubber"
+  ],
+  "aliases": [
+    "tyre"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

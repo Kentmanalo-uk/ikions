@@ -1,0 +1,22 @@
+{
+  "name": "radio",
+  "title": "Radio",
+  "category": "communication",
+  "description": "Represent a radio receiver or audio broadcast.",
+  "tags": [
+    "receiver",
+    "fm",
+    "am",
+    "broadcast",
+    "music",
+    "station"
+  ],
+  "aliases": [
+    "transistor-radio"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

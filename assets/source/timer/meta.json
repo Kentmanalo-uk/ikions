@@ -1,0 +1,21 @@
+{
+  "name": "timer",
+  "title": "Timer",
+  "category": "time",
+  "description": "Start a countdown, measure elapsed time or open a stopwatch.",
+  "tags": [
+    "stopwatch",
+    "countdown",
+    "duration",
+    "elapsed",
+    "time",
+    "measure",
+    "lap"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

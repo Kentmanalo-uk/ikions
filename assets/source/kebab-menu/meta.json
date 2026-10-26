@@ -1,0 +1,22 @@
+{
+  "name": "kebab-menu",
+  "title": "Kebab Menu",
+  "category": "interface",
+  "description": "Open a vertical overflow menu from a rounded options button.",
+  "tags": [
+    "more",
+    "options",
+    "overflow",
+    "vertical dots",
+    "actions",
+    "menu"
+  ],
+  "aliases": [
+    "vertical-ellipsis"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

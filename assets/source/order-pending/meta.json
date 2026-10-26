@@ -1,0 +1,23 @@
+{
+  "name": "order-pending",
+  "title": "Order Pending",
+  "category": "commerce",
+  "description": "Shows an order that is waiting to be processed or shipped.",
+  "tags": [
+    "waiting",
+    "processing",
+    "queued",
+    "status",
+    "awaiting",
+    "clock"
+  ],
+  "aliases": [
+    "pending-order",
+    "awaiting-order"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "user-round",
+  "title": "User Round",
+  "category": "people",
+  "description": "Represent a person or profile with a soft, rounded silhouette.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "avatar",
+    "member",
+    "contact"
+  ],
+  "aliases": [
+    "person-round",
+    "profile-round"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

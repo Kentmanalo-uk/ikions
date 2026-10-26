@@ -1,0 +1,23 @@
+{
+  "name": "tag-search",
+  "title": "Tag Search",
+  "category": "commerce",
+  "description": "Search for a tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "find",
+    "lookup",
+    "browse",
+    "tag"
+  ],
+  "aliases": [
+    "find-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

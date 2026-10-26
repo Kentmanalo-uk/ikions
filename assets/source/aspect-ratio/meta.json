@@ -1,0 +1,23 @@
+{
+  "name": "aspect-ratio",
+  "title": "Aspect Ratio",
+  "category": "media",
+  "description": "Changes the aspect ratio or frame proportions of an image or video.",
+  "tags": [
+    "ratio",
+    "proportions",
+    "frame",
+    "resize",
+    "widescreen",
+    "dimensions"
+  ],
+  "aliases": [
+    "frame-ratio",
+    "screen-ratio"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

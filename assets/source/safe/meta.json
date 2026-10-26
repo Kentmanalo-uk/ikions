@@ -1,0 +1,24 @@
+{
+  "name": "safe",
+  "title": "Safe",
+  "category": "finance",
+  "description": "Represent a safe or strongbox for storing money and valuables securely.",
+  "tags": [
+    "strongbox",
+    "vault",
+    "secure",
+    "valuables",
+    "deposit box",
+    "security",
+    "storage"
+  ],
+  "aliases": [
+    "strongbox",
+    "money-safe"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

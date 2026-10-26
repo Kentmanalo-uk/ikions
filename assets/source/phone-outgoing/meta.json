@@ -1,0 +1,20 @@
+{
+  "name": "phone-outgoing",
+  "title": "Phone Outgoing",
+  "category": "communication",
+  "description": "Show an outgoing or dialled phone call.",
+  "tags": [
+    "call",
+    "outgoing",
+    "dialled",
+    "phone",
+    "outbound",
+    "dial"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "phone",
+  "title": "Phone",
+  "category": "communication",
+  "description": "Start a voice call, show a phone number or open the dialer.",
+  "tags": [
+    "call",
+    "telephone",
+    "handset",
+    "dial",
+    "contact",
+    "ring",
+    "voice"
+  ],
+  "aliases": [
+    "call",
+    "telephone",
+    "handset"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

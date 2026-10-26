@@ -1,0 +1,22 @@
+{
+  "name": "clouds",
+  "title": "Clouds",
+  "category": "weather",
+  "description": "Several clouds for cloudy or overcast skies.",
+  "tags": [
+    "weather",
+    "cloudy",
+    "overcast",
+    "sky",
+    "forecast",
+    "grey"
+  ],
+  "aliases": [
+    "cloudy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

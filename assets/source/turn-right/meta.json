@@ -1,0 +1,22 @@
+{
+  "name": "turn-right",
+  "title": "Turn Right",
+  "category": "arrows",
+  "description": "Show a right turn ahead on a route or in directions.",
+  "tags": [
+    "turn",
+    "right",
+    "direction",
+    "navigation",
+    "road",
+    "route"
+  ],
+  "aliases": [
+    "road-turn-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

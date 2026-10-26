@@ -1,0 +1,22 @@
+{
+  "name": "paint-roller",
+  "title": "Paint Roller",
+  "category": "editing",
+  "description": "Paint walls, apply a theme or cover an area with colour.",
+  "tags": [
+    "paint",
+    "roller",
+    "decorate",
+    "theme",
+    "colour",
+    "wall"
+  ],
+  "aliases": [
+    "roller-brush"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

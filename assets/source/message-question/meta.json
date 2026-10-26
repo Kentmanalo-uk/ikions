@@ -1,0 +1,21 @@
+{
+  "name": "message-question",
+  "title": "Message Question",
+  "category": "communication",
+  "description": "Ask a question or get help in a chat.",
+  "tags": [
+    "help",
+    "faq",
+    "support",
+    "question",
+    "chat"
+  ],
+  "aliases": [
+    "ask-question"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

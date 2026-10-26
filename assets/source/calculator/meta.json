@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "title": "Calculator",
+  "category": "education",
+  "description": "Open a calculator, run numbers or estimate a total.",
+  "tags": [
+    "math",
+    "calculate",
+    "numbers",
+    "arithmetic",
+    "accounting",
+    "estimate",
+    "sum"
+  ],
+  "aliases": [
+    "calc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

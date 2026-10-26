@@ -1,0 +1,24 @@
+{
+  "name": "git-pull-request",
+  "title": "Git Pull Request",
+  "category": "development",
+  "description": "Open, review or merge a pull request.",
+  "tags": [
+    "git",
+    "pull-request",
+    "pr",
+    "review",
+    "merge-request",
+    "version-control",
+    "contribute",
+    "merge request"
+  ],
+  "aliases": [
+    "pull-request"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

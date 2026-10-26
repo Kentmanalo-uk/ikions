@@ -1,0 +1,23 @@
+{
+  "name": "package-search",
+  "title": "Package Search",
+  "category": "commerce",
+  "description": "Search for a package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "find",
+    "lookup",
+    "browse",
+    "package"
+  ],
+  "aliases": [
+    "find-package"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

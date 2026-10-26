@@ -1,0 +1,22 @@
+{
+  "name": "transparency",
+  "title": "Transparency",
+  "category": "editing",
+  "description": "Adjust opacity or show a transparent background.",
+  "tags": [
+    "opacity",
+    "transparent",
+    "alpha",
+    "checkerboard",
+    "background"
+  ],
+  "aliases": [
+    "opacity",
+    "alpha-channel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "broadcast",
+  "title": "Broadcast",
+  "category": "communication",
+  "description": "Go live, transmit a signal or broadcast to an audience.",
+  "tags": [
+    "live",
+    "radio",
+    "signal",
+    "transmit",
+    "stream",
+    "antenna",
+    "tower",
+    "podcast",
+    "on-air",
+    "radio tower"
+  ],
+  "aliases": [
+    "on-air"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

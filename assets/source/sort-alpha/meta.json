@@ -1,0 +1,22 @@
+{
+  "name": "sort-alpha",
+  "title": "Sort Alphabetically",
+  "category": "interface",
+  "description": "Sort items alphabetically from A to Z.",
+  "tags": [
+    "alphabetical",
+    "a-z",
+    "sort",
+    "order",
+    "name",
+    "letters"
+  ],
+  "aliases": [
+    "sort-a-z"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

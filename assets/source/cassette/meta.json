@@ -1,0 +1,23 @@
+{
+  "name": "cassette",
+  "title": "Cassette",
+  "category": "media",
+  "description": "An audio cassette tape with two reels for mixtapes and retro audio.",
+  "tags": [
+    "tape",
+    "mixtape",
+    "audio",
+    "retro",
+    "music",
+    "recording"
+  ],
+  "aliases": [
+    "cassette-tape",
+    "mixtape"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

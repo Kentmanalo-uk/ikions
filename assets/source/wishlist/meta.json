@@ -1,0 +1,23 @@
+{
+  "name": "wishlist",
+  "title": "Wishlist",
+  "category": "commerce",
+  "description": "Represents a saved wishlist of items someone would like to buy.",
+  "tags": [
+    "favorites",
+    "saved",
+    "want",
+    "list",
+    "heart",
+    "later"
+  ],
+  "aliases": [
+    "wish-list",
+    "saved-items"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

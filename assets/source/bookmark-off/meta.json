@@ -1,0 +1,22 @@
+{
+  "name": "bookmark-off",
+  "title": "Bookmark Off",
+  "category": "social",
+  "description": "Turn off, disable or mute the bookmark.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-bookmark"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

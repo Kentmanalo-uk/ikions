@@ -1,0 +1,24 @@
+{
+  "name": "calculator-money",
+  "title": "Calculator Money",
+  "category": "finance",
+  "description": "Calculate a price, budget or cost in money.",
+  "tags": [
+    "calculate",
+    "budget",
+    "cost",
+    "price",
+    "accounting",
+    "estimate",
+    "expenses"
+  ],
+  "aliases": [
+    "money-calculator",
+    "cost-calculator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

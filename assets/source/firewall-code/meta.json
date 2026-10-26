@@ -1,0 +1,23 @@
+{
+  "name": "firewall-code",
+  "title": "Firewall Code",
+  "category": "development",
+  "description": "Represents firewall rules or network policies defined as code.",
+  "tags": [
+    "firewall",
+    "security",
+    "rules",
+    "policy",
+    "network",
+    "infrastructure"
+  ],
+  "aliases": [
+    "firewall-rules",
+    "policy-as-code"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tablet-landscape",
+  "title": "Tablet Landscape",
+  "category": "devices",
+  "description": "A tablet held sideways in landscape orientation.",
+  "tags": [
+    "ipad",
+    "horizontal",
+    "device",
+    "touchscreen",
+    "orientation"
+  ],
+  "aliases": [
+    "tablet-horizontal"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

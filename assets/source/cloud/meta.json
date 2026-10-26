@@ -1,0 +1,21 @@
+{
+  "name": "cloud",
+  "title": "Cloud",
+  "category": "weather",
+  "description": "Represent cloudy weather or cloud storage.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "sky",
+    "online"
+  ],
+  "aliases": [
+    "overcast"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

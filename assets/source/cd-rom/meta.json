@@ -1,0 +1,23 @@
+{
+  "name": "cd-rom",
+  "title": "CD-ROM",
+  "category": "files",
+  "description": "Represents a CD-ROM, DVD or other optical disc.",
+  "tags": [
+    "cd",
+    "dvd",
+    "disc",
+    "optical",
+    "media",
+    "install"
+  ],
+  "aliases": [
+    "cdrom",
+    "optical-disc"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

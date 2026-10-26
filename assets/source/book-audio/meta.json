@@ -1,0 +1,23 @@
+{
+  "name": "book-audio",
+  "title": "Audiobook",
+  "category": "education",
+  "description": "A book framed by headphones for audiobooks and spoken stories.",
+  "tags": [
+    "audiobook",
+    "listen",
+    "headphones",
+    "spoken word",
+    "story",
+    "podcast"
+  ],
+  "aliases": [
+    "audiobook",
+    "audio-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

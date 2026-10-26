@@ -1,0 +1,23 @@
+{
+  "name": "audit",
+  "title": "Audit",
+  "category": "finance",
+  "description": "Inspect financial records closely with a magnifier over money.",
+  "tags": [
+    "inspection",
+    "review",
+    "accounting",
+    "examine",
+    "compliance",
+    "investigate"
+  ],
+  "aliases": [
+    "financial-audit",
+    "money-search"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

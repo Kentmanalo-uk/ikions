@@ -1,0 +1,22 @@
+{
+  "name": "fitness-band",
+  "title": "Fitness Band",
+  "category": "devices",
+  "description": "A fitness tracker with a rounded screen pod on a slim strap.",
+  "tags": [
+    "tracker",
+    "wearable",
+    "activity",
+    "steps",
+    "health"
+  ],
+  "aliases": [
+    "activity-band",
+    "activity-tracker"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

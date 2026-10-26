@@ -1,0 +1,21 @@
+{
+  "name": "folder-star",
+  "title": "Folder Star",
+  "category": "files",
+  "description": "A starred or featured folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "starred",
+    "favorite",
+    "featured",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

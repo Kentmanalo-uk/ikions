@@ -1,0 +1,21 @@
+{
+  "name": "image-settings",
+  "title": "Image Settings",
+  "category": "media",
+  "description": "Settings and preferences for a image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "settings",
+    "preferences",
+    "configure",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

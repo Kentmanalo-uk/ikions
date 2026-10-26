@@ -1,0 +1,24 @@
+{
+  "name": "thermometer-snow",
+  "title": "Thermometer Snow",
+  "category": "weather",
+  "description": "Shows a freezing temperature reading or cold, snowy weather.",
+  "tags": [
+    "cold",
+    "freezing",
+    "frost",
+    "temperature",
+    "winter",
+    "chill",
+    "weather"
+  ],
+  "aliases": [
+    "cold-weather",
+    "low-temperature"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

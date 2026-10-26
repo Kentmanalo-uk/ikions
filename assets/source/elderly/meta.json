@@ -1,0 +1,23 @@
+{
+  "name": "elderly",
+  "title": "Elderly",
+  "category": "people",
+  "description": "Represent senior citizens, older adults or priority assistance.",
+  "tags": [
+    "senior",
+    "old",
+    "aged",
+    "retired",
+    "cane",
+    "priority"
+  ],
+  "aliases": [
+    "senior",
+    "old-person"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "loyalty",
+  "title": "Loyalty",
+  "category": "commerce",
+  "description": "A loyalty card that rewards returning customers.",
+  "tags": [
+    "loyalty program",
+    "rewards",
+    "repeat customer",
+    "card",
+    "retention",
+    "perks"
+  ],
+  "aliases": [
+    "loyalty-card",
+    "rewards-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

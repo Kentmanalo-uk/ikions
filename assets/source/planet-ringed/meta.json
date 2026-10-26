@@ -1,0 +1,23 @@
+{
+  "name": "planet-ringed",
+  "title": "Ringed Planet",
+  "category": "weather",
+  "description": "A planet circled by a ring, like Saturn.",
+  "tags": [
+    "planet",
+    "saturn",
+    "space",
+    "astronomy",
+    "orbit",
+    "universe",
+    "ring"
+  ],
+  "aliases": [
+    "saturn"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

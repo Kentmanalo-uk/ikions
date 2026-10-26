@@ -1,0 +1,22 @@
+{
+  "name": "cast",
+  "title": "Cast",
+  "category": "media",
+  "description": "Send audio or video from this device to a nearby screen.",
+  "tags": [
+    "chromecast",
+    "airplay",
+    "mirror",
+    "tv",
+    "stream",
+    "screen"
+  ],
+  "aliases": [
+    "cast-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bell-snooze",
+  "title": "Bell Snooze",
+  "category": "communication",
+  "description": "Snooze or postpone a notification or alarm.",
+  "tags": [
+    "snooze",
+    "notification",
+    "later",
+    "postpone",
+    "sleep",
+    "reminder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

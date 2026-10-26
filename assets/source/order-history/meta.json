@@ -1,0 +1,23 @@
+{
+  "name": "order-history",
+  "title": "Order History",
+  "category": "commerce",
+  "description": "Review a list of past orders and purchases.",
+  "tags": [
+    "past orders",
+    "purchases",
+    "receipts",
+    "recent orders",
+    "history",
+    "transactions"
+  ],
+  "aliases": [
+    "past-orders",
+    "purchase-history"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

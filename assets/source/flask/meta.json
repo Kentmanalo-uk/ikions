@@ -1,0 +1,26 @@
+{
+  "name": "flask",
+  "title": "Flask",
+  "category": "science",
+  "description": "Represent a laboratory, experiment or chemistry test.",
+  "tags": [
+    "lab",
+    "chemistry",
+    "experiment",
+    "beaker",
+    "science",
+    "test",
+    "potion",
+    "research"
+  ],
+  "aliases": [
+    "erlenmeyer",
+    "lab-flask",
+    "laboratory"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

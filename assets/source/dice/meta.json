@@ -1,0 +1,23 @@
+{
+  "name": "dice",
+  "title": "Dice",
+  "category": "media",
+  "description": "A die showing five pips for games, chance and random picks.",
+  "tags": [
+    "die",
+    "game",
+    "random",
+    "chance",
+    "board-game",
+    "luck"
+  ],
+  "aliases": [
+    "die",
+    "random-roll"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "limited-offer",
+  "title": "Limited Offer",
+  "category": "commerce",
+  "description": "A time-limited deal that ends when the countdown runs out.",
+  "tags": [
+    "limited time",
+    "countdown",
+    "deal",
+    "offer",
+    "ending soon",
+    "promotion",
+    "timer"
+  ],
+  "aliases": [
+    "limited-time",
+    "deal-timer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

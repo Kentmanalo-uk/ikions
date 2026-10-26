@@ -1,0 +1,23 @@
+{
+  "name": "file-audio",
+  "title": "File Audio",
+  "category": "files",
+  "description": "Represents an audio file such as a recording, podcast or sound clip.",
+  "tags": [
+    "sound",
+    "recording",
+    "waveform",
+    "podcast",
+    "wav",
+    "mp3"
+  ],
+  "aliases": [
+    "audio-file",
+    "sound-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "smartphone-lock",
+  "title": "Smartphone Lock",
+  "category": "devices",
+  "description": "A locked, private or protected smartphone.",
+  "tags": [
+    "mobile",
+    "phone",
+    "cell",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "smartphone"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

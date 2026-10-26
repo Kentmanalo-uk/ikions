@@ -1,0 +1,21 @@
+{
+  "name": "camera-settings",
+  "title": "Camera Settings",
+  "category": "media",
+  "description": "Settings and preferences for a camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "settings",
+    "preferences",
+    "configure",
+    "camera"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

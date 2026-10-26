@@ -1,0 +1,23 @@
+{
+  "name": "stop",
+  "title": "Stop",
+  "category": "media",
+  "description": "End playback or recording and return to the beginning.",
+  "tags": [
+    "end",
+    "halt",
+    "media",
+    "player",
+    "square",
+    "recording",
+    "finish"
+  ],
+  "aliases": [
+    "stop-button"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

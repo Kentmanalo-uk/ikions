@@ -1,0 +1,23 @@
+{
+  "name": "globe-school",
+  "title": "School Globe",
+  "category": "education",
+  "description": "A desk globe on a stand for geography lessons and world studies.",
+  "tags": [
+    "geography",
+    "desk globe",
+    "world",
+    "earth",
+    "classroom",
+    "atlas"
+  ],
+  "aliases": [
+    "desk-globe",
+    "geography"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

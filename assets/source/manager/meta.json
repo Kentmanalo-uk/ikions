@@ -1,0 +1,22 @@
+{
+  "name": "manager",
+  "title": "Manager",
+  "category": "people",
+  "description": "Represent a manager, supervisor or business lead.",
+  "tags": [
+    "boss",
+    "supervisor",
+    "executive",
+    "business",
+    "lead",
+    "tie"
+  ],
+  "aliases": [
+    "supervisor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

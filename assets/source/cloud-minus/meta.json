@@ -1,0 +1,22 @@
+{
+  "name": "cloud-minus",
+  "title": "Cloud Minus",
+  "category": "weather",
+  "description": "Remove a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "remove",
+    "subtract",
+    "cloud"
+  ],
+  "aliases": [
+    "remove-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

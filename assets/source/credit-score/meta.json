@@ -1,0 +1,23 @@
+{
+  "name": "credit-score",
+  "title": "Credit Score",
+  "category": "finance",
+  "description": "A gauge showing a credit score or rating.",
+  "tags": [
+    "credit rating",
+    "score",
+    "gauge",
+    "rating",
+    "creditworthiness",
+    "meter"
+  ],
+  "aliases": [
+    "credit-rating",
+    "score-gauge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

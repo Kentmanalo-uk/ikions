@@ -1,0 +1,21 @@
+{
+  "name": "volume-medium",
+  "title": "Volume Medium",
+  "category": "media",
+  "description": "Shows a moderate sound level with two sound waves.",
+  "tags": [
+    "sound",
+    "audio",
+    "speaker",
+    "level",
+    "medium"
+  ],
+  "aliases": [
+    "sound-medium"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

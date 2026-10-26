@@ -1,0 +1,21 @@
+{
+  "name": "file-settings",
+  "title": "File Settings",
+  "category": "files",
+  "description": "Settings and preferences for a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "settings",
+    "preferences",
+    "configure",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

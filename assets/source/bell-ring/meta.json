@@ -1,0 +1,20 @@
+{
+  "name": "bell-ring",
+  "title": "Bell Ring",
+  "category": "communication",
+  "description": "Show an active alert or a notification that is ringing.",
+  "tags": [
+    "notification",
+    "alert",
+    "ringing",
+    "alarm",
+    "reminder",
+    "sound"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

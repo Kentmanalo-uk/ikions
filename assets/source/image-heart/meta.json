@@ -1,0 +1,21 @@
+{
+  "name": "image-heart",
+  "title": "Image Heart",
+  "category": "media",
+  "description": "A liked or favourite image.",
+  "tags": [
+    "photo",
+    "picture",
+    "gallery",
+    "liked",
+    "favorite",
+    "love",
+    "image"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

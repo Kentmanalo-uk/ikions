@@ -1,0 +1,23 @@
+{
+  "name": "prescription",
+  "title": "Prescription",
+  "category": "health",
+  "description": "Show a medical prescription, a script or medication order.",
+  "tags": [
+    "rx",
+    "script",
+    "medication",
+    "pharmacy",
+    "doctor",
+    "refill"
+  ],
+  "aliases": [
+    "rx",
+    "medical-prescription"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

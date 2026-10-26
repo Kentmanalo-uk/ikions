@@ -1,0 +1,23 @@
+{
+  "name": "strikethrough",
+  "title": "Strikethrough",
+  "category": "editing",
+  "description": "Draw a line through selected text to mark it as removed.",
+  "tags": [
+    "strike",
+    "delete",
+    "cross-out",
+    "text",
+    "font",
+    "style"
+  ],
+  "aliases": [
+    "strike-through",
+    "text-strike"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

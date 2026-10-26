@@ -1,0 +1,22 @@
+{
+  "name": "lunch-box",
+  "title": "Lunch Box",
+  "category": "food",
+  "description": "Represent a lunch box, a packed lunch or school meals.",
+  "tags": [
+    "lunch",
+    "packed-lunch",
+    "school",
+    "meal",
+    "bento",
+    "pail"
+  ],
+  "aliases": [
+    "lunch-pail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "expand-arrows",
+  "title": "Expand Arrows",
+  "category": "arrows",
+  "description": "Unfold or expand content outward from a centre line.",
+  "tags": [
+    "expand",
+    "unfold",
+    "open",
+    "grow",
+    "vertical",
+    "show more"
+  ],
+  "aliases": [
+    "unfold-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

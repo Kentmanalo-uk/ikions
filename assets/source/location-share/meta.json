@@ -1,0 +1,23 @@
+{
+  "name": "location-share",
+  "title": "Share Location",
+  "category": "maps",
+  "description": "A location pin with a forward arrow for sharing your position.",
+  "tags": [
+    "share",
+    "send location",
+    "position",
+    "live location",
+    "forward",
+    "pin"
+  ],
+  "aliases": [
+    "send-location",
+    "share-position"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

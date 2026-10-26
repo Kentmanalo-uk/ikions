@@ -1,0 +1,23 @@
+{
+  "name": "mail-search",
+  "title": "Mail Search",
+  "category": "communication",
+  "description": "Search for a mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "find",
+    "lookup",
+    "browse",
+    "mail"
+  ],
+  "aliases": [
+    "find-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

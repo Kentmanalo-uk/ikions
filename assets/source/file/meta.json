@@ -1,0 +1,22 @@
+{
+  "name": "file",
+  "title": "File",
+  "category": "files",
+  "description": "Represent a generic file or document.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "sheet",
+    "blank"
+  ],
+  "aliases": [
+    "page",
+    "blank-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

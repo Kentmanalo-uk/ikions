@@ -1,0 +1,23 @@
+{
+  "name": "parchment",
+  "title": "Parchment",
+  "category": "files",
+  "description": "Represents an old parchment document hanging between two rolls.",
+  "tags": [
+    "document",
+    "ancient",
+    "certificate",
+    "manuscript",
+    "decree",
+    "proclamation"
+  ],
+  "aliases": [
+    "old-paper",
+    "hanging-scroll"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

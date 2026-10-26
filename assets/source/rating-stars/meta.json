@@ -1,0 +1,23 @@
+{
+  "name": "rating-stars",
+  "title": "Rating Stars",
+  "category": "commerce",
+  "description": "Show a product's star rating from customer reviews.",
+  "tags": [
+    "rating",
+    "reviews",
+    "stars",
+    "feedback",
+    "score",
+    "rate"
+  ],
+  "aliases": [
+    "star-rating",
+    "review-stars"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

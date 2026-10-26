@@ -1,0 +1,24 @@
+{
+  "name": "truck-cargo",
+  "title": "Cargo Truck",
+  "category": "transport",
+  "description": "A flatbed truck carrying a crate, for freight, cargo and logistics.",
+  "tags": [
+    "cargo",
+    "freight",
+    "flatbed",
+    "logistics",
+    "haulage",
+    "shipment",
+    "lorry"
+  ],
+  "aliases": [
+    "flatbed-truck",
+    "freight-truck"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

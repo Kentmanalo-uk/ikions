@@ -1,0 +1,25 @@
+{
+  "name": "line-chart",
+  "title": "Line Chart",
+  "category": "charts",
+  "description": "Show a line chart, trend over time or performance data.",
+  "tags": [
+    "chart",
+    "graph",
+    "statistics",
+    "analytics",
+    "trend",
+    "report",
+    "data",
+    "metrics",
+    "timeline"
+  ],
+  "aliases": [
+    "line-graph"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

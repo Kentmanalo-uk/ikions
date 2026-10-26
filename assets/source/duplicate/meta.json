@@ -1,0 +1,20 @@
+{
+  "name": "duplicate",
+  "title": "Duplicate",
+  "category": "interface",
+  "description": "Create a copy of the selected item right next to it.",
+  "tags": [
+    "clone",
+    "copy",
+    "replicate",
+    "double",
+    "new copy",
+    "add"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

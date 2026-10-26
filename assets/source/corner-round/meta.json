@@ -1,0 +1,23 @@
+{
+  "name": "corner-round",
+  "title": "Round Corner",
+  "category": "editing",
+  "description": "Turn a sharp corner into a rounded one.",
+  "tags": [
+    "round",
+    "corner",
+    "fillet",
+    "smooth",
+    "radius",
+    "shape"
+  ],
+  "aliases": [
+    "round-corner",
+    "fillet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

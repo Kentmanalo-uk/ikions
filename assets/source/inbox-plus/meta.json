@@ -1,0 +1,23 @@
+{
+  "name": "inbox-plus",
+  "title": "Inbox Plus",
+  "category": "communication",
+  "description": "Add a new inbox.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "add",
+    "new",
+    "create",
+    "inbox"
+  ],
+  "aliases": [
+    "add-inbox"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

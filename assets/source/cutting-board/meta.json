@@ -1,0 +1,22 @@
+{
+  "name": "cutting-board",
+  "title": "Cutting Board",
+  "category": "food",
+  "description": "Represent a cutting board, chopping or food preparation.",
+  "tags": [
+    "chopping",
+    "board",
+    "prep",
+    "kitchen",
+    "cooking",
+    "butcher"
+  ],
+  "aliases": [
+    "chopping-board"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

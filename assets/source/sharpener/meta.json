@@ -1,0 +1,22 @@
+{
+  "name": "sharpener",
+  "title": "Pencil Sharpener",
+  "category": "education",
+  "description": "A pencil going into a sharpener for school supplies and stationery.",
+  "tags": [
+    "pencil",
+    "sharpen",
+    "stationery",
+    "school supplies",
+    "blade",
+    "desk"
+  ],
+  "aliases": [
+    "pencil-sharpener"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

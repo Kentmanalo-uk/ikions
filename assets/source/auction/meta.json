@@ -1,0 +1,22 @@
+{
+  "name": "auction",
+  "title": "Auction",
+  "category": "commerce",
+  "description": "A gavel striking its block to close a sale at auction.",
+  "tags": [
+    "gavel",
+    "bidding",
+    "sold",
+    "hammer",
+    "sale",
+    "lot"
+  ],
+  "aliases": [
+    "auction-gavel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

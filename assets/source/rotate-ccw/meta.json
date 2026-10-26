@@ -1,0 +1,22 @@
+{
+  "name": "rotate-ccw",
+  "title": "Rotate Counterclockwise",
+  "category": "arrows",
+  "description": "Rotate an item, image or view counterclockwise around its centre.",
+  "tags": [
+    "rotate",
+    "counterclockwise",
+    "anticlockwise",
+    "turn",
+    "orientation"
+  ],
+  "aliases": [
+    "rotate-counterclockwise",
+    "rotate-anticlockwise"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

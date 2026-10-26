@@ -1,0 +1,24 @@
+{
+  "name": "folder-edit",
+  "title": "Folder Edit",
+  "category": "files",
+  "description": "Edit or rename a folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "folder"
+  ],
+  "aliases": [
+    "edit-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

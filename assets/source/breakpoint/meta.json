@@ -1,0 +1,22 @@
+{
+  "name": "breakpoint",
+  "title": "Breakpoint",
+  "category": "development",
+  "description": "A breakpoint marker beside a line of code where the debugger will pause.",
+  "tags": [
+    "debug",
+    "debugger",
+    "pause",
+    "marker",
+    "gutter",
+    "stop"
+  ],
+  "aliases": [
+    "debug-breakpoint"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

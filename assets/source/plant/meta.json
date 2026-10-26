@@ -1,0 +1,23 @@
+{
+  "name": "plant",
+  "title": "Plant",
+  "category": "weather",
+  "description": "A leafy plant growing from the ground.",
+  "tags": [
+    "plant",
+    "nature",
+    "garden",
+    "grow",
+    "leaves",
+    "botany",
+    "green"
+  ],
+  "aliases": [
+    "leafy-plant"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

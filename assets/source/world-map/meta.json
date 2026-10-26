@@ -1,0 +1,23 @@
+{
+  "name": "world-map",
+  "title": "World Map",
+  "category": "maps",
+  "description": "A flat world map with continents for global coverage and international regions.",
+  "tags": [
+    "world",
+    "continents",
+    "global",
+    "international",
+    "atlas",
+    "earth"
+  ],
+  "aliases": [
+    "global-map",
+    "map-of-the-world"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

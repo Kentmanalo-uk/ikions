@@ -1,0 +1,29 @@
+{
+  "name": "coins",
+  "title": "Coins",
+  "category": "finance",
+  "description": "Represent coins, cash payments, credits or change.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "checkout",
+    "purchase",
+    "cash",
+    "change",
+    "currency",
+    "credits",
+    "tokens",
+    "savings",
+    "finance",
+    "coin"
+  ],
+  "aliases": [
+    "coin-stack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

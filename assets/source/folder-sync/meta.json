@@ -1,0 +1,23 @@
+{
+  "name": "folder-sync",
+  "title": "Folder Sync",
+  "category": "files",
+  "description": "Sync a folder so its contents stay up to date across devices.",
+  "tags": [
+    "sync",
+    "synchronize",
+    "refresh",
+    "backup",
+    "update",
+    "mirror"
+  ],
+  "aliases": [
+    "synced-folder",
+    "sync-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

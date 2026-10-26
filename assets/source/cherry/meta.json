@@ -1,0 +1,22 @@
+{
+  "name": "cherry",
+  "title": "Cherry",
+  "category": "food",
+  "description": "Represent cherries, such as fruit, summer, dessert toppings or sweetness.",
+  "tags": [
+    "fruit",
+    "berry",
+    "summer",
+    "dessert",
+    "sweet",
+    "red"
+  ],
+  "aliases": [
+    "cherries"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

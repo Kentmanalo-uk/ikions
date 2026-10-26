@@ -1,0 +1,22 @@
+{
+  "name": "cloud-sun",
+  "title": "Cloud Sun",
+  "category": "weather",
+  "description": "Partly cloudy weather with the sun peeking out from behind a cloud.",
+  "tags": [
+    "weather",
+    "partly cloudy",
+    "forecast",
+    "sunny spells",
+    "day",
+    "clouds"
+  ],
+  "aliases": [
+    "partly-cloudy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

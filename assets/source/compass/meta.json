@@ -1,0 +1,24 @@
+{
+  "name": "compass",
+  "title": "Compass",
+  "category": "maps",
+  "description": "Find a direction, explore an area or orient a map.",
+  "tags": [
+    "direction",
+    "explore",
+    "navigation",
+    "north",
+    "orientation",
+    "discover",
+    "safari"
+  ],
+  "aliases": [
+    "explore",
+    "orientation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

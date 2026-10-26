@@ -1,0 +1,22 @@
+{
+  "name": "phone-off",
+  "title": "Phone Off",
+  "category": "communication",
+  "description": "Turn off, disable or mute the phone.",
+  "tags": [
+    "call",
+    "telephone",
+    "handset",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-phone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

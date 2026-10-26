@@ -1,0 +1,23 @@
+{
+  "name": "map-pin-plus",
+  "title": "Map Pin Plus",
+  "category": "maps",
+  "description": "Add a new map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "add",
+    "new",
+    "create",
+    "map"
+  ],
+  "aliases": [
+    "add-map-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

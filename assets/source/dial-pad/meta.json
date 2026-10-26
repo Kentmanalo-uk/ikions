@@ -1,0 +1,22 @@
+{
+  "name": "dial-pad",
+  "title": "Dial Pad",
+  "category": "communication",
+  "description": "Open the phone keypad to dial a number.",
+  "tags": [
+    "keypad",
+    "dialer",
+    "phone",
+    "numbers",
+    "call",
+    "keys"
+  ],
+  "aliases": [
+    "dialer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

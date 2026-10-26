@@ -1,0 +1,23 @@
+{
+  "name": "calendar-plus",
+  "title": "Calendar Plus",
+  "category": "time",
+  "description": "Add a new calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "add",
+    "new",
+    "create",
+    "calendar"
+  ],
+  "aliases": [
+    "add-calendar"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "moon-star",
+  "title": "Moon Star",
+  "category": "weather",
+  "description": "A crescent moon with a twinkling star for clear nights.",
+  "tags": [
+    "night",
+    "clear night",
+    "sleep",
+    "bedtime",
+    "dark",
+    "evening",
+    "weather"
+  ],
+  "aliases": [
+    "night-sky"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

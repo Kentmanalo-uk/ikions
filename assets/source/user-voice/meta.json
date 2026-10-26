@@ -1,0 +1,22 @@
+{
+  "name": "user-voice",
+  "title": "User Voice",
+  "category": "people",
+  "description": "Show a person speaking, such as voice input, a speaker or a narrator.",
+  "tags": [
+    "speaking",
+    "speaker",
+    "voice",
+    "talk",
+    "narrator",
+    "audio"
+  ],
+  "aliases": [
+    "person-speaking"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

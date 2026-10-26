@@ -1,0 +1,23 @@
+{
+  "name": "snap-grid",
+  "title": "Snap to Grid",
+  "category": "editing",
+  "description": "Snap objects to the points of a layout grid.",
+  "tags": [
+    "snap",
+    "grid",
+    "align",
+    "points",
+    "layout",
+    "magnet"
+  ],
+  "aliases": [
+    "snap-to-grid",
+    "grid-snap"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

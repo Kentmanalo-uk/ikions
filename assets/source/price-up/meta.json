@@ -1,0 +1,23 @@
+{
+  "name": "price-up",
+  "title": "Price Up",
+  "category": "commerce",
+  "description": "Show that a product's price has gone up.",
+  "tags": [
+    "price increase",
+    "price rise",
+    "more expensive",
+    "inflation",
+    "markup",
+    "cost"
+  ],
+  "aliases": [
+    "price-increase",
+    "price-rise"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

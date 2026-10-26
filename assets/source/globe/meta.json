@@ -1,0 +1,24 @@
+{
+  "name": "globe",
+  "title": "Globe",
+  "category": "maps",
+  "description": "Represent the world, languages, regions or the public web.",
+  "tags": [
+    "world",
+    "earth",
+    "international",
+    "language",
+    "web",
+    "internet",
+    "global",
+    "planet"
+  ],
+  "aliases": [
+    "world"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

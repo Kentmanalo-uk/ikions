@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "title": "JSON",
+  "category": "development",
+  "description": "A JSON object with curly braces around key and value pairs.",
+  "tags": [
+    "json",
+    "object",
+    "data",
+    "key value",
+    "format",
+    "api response"
+  ],
+  "aliases": [
+    "json-object"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

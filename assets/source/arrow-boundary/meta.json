@@ -1,0 +1,22 @@
+{
+  "name": "arrow-boundary",
+  "title": "Arrow Boundary",
+  "category": "arrows",
+  "description": "An arrow meeting a dashed boundary line, for limits and borders.",
+  "tags": [
+    "boundary",
+    "limit",
+    "border",
+    "edge",
+    "threshold",
+    "cross"
+  ],
+  "aliases": [
+    "arrow-limit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

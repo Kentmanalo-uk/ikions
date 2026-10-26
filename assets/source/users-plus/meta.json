@@ -1,0 +1,23 @@
+{
+  "name": "users-plus",
+  "title": "Users Plus",
+  "category": "people",
+  "description": "Add a new users.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "add",
+    "new",
+    "create",
+    "users"
+  ],
+  "aliases": [
+    "add-users"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

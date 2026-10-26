@@ -1,0 +1,23 @@
+{
+  "name": "shuffle-music",
+  "title": "Shuffle Music",
+  "category": "media",
+  "description": "Play songs from a playlist in a random order.",
+  "tags": [
+    "shuffle",
+    "random",
+    "mix",
+    "playlist",
+    "music",
+    "songs"
+  ],
+  "aliases": [
+    "random-play",
+    "shuffle-songs"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

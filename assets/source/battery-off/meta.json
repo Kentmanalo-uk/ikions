@@ -1,0 +1,22 @@
+{
+  "name": "battery-off",
+  "title": "Battery Off",
+  "category": "energy",
+  "description": "Turn off, disable or mute the battery.",
+  "tags": [
+    "charge",
+    "power",
+    "energy",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-battery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

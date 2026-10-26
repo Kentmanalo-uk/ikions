@@ -1,0 +1,24 @@
+{
+  "name": "suitcase",
+  "title": "Suitcase",
+  "category": "transport",
+  "description": "Represent luggage, travel, trips or baggage.",
+  "tags": [
+    "luggage",
+    "baggage",
+    "travel",
+    "trip",
+    "vacation",
+    "holiday",
+    "packing",
+    "case"
+  ],
+  "aliases": [
+    "baggage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

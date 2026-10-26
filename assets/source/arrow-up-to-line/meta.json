@@ -1,0 +1,19 @@
+{
+  "name": "arrow-up-to-line",
+  "title": "Arrow Up To Line",
+  "category": "arrows",
+  "description": "Arrow pointing up to a line: move to the top.",
+  "tags": [
+    "arrow",
+    "align",
+    "edge",
+    "jump",
+    "up"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

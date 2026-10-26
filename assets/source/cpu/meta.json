@@ -1,0 +1,23 @@
+{
+  "name": "cpu",
+  "title": "CPU",
+  "category": "devices",
+  "description": "Represent a processor, chip or computing performance.",
+  "tags": [
+    "processor",
+    "chip",
+    "hardware",
+    "microchip",
+    "performance",
+    "compute",
+    "silicon"
+  ],
+  "aliases": [
+    "processor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

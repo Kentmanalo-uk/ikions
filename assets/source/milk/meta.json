@@ -1,0 +1,22 @@
+{
+  "name": "milk",
+  "title": "Milk",
+  "category": "food",
+  "description": "Represent a milk carton, dairy products or breakfast drinks.",
+  "tags": [
+    "dairy",
+    "carton",
+    "drink",
+    "breakfast",
+    "grocery",
+    "lactose"
+  ],
+  "aliases": [
+    "milk-carton"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

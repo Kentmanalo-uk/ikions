@@ -1,0 +1,22 @@
+{
+  "name": "font",
+  "title": "Font",
+  "category": "editing",
+  "description": "Choose a font or typeface for text.",
+  "tags": [
+    "typeface",
+    "text",
+    "typography",
+    "letters",
+    "glyph",
+    "style"
+  ],
+  "aliases": [
+    "typeface"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "whisk",
+  "title": "Whisk",
+  "category": "food",
+  "description": "Represent a whisk, baking, mixing or beating ingredients.",
+  "tags": [
+    "baking",
+    "mixing",
+    "beat",
+    "kitchen",
+    "cooking",
+    "utensil"
+  ],
+  "aliases": [
+    "egg-beater"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

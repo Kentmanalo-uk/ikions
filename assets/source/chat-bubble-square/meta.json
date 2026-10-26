@@ -1,0 +1,20 @@
+{
+  "name": "chat-bubble-square",
+  "title": "Chat Bubble Square",
+  "category": "communication",
+  "description": "A square speech bubble for messages and comments.",
+  "tags": [
+    "message",
+    "chat",
+    "bubble",
+    "comment",
+    "talk",
+    "speech"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

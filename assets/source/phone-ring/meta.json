@@ -1,0 +1,21 @@
+{
+  "name": "phone-ring",
+  "title": "Phone Ring",
+  "category": "communication",
+  "description": "A ringing phone for an incoming call.",
+  "tags": [
+    "call",
+    "ringing",
+    "incoming",
+    "ringtone",
+    "alert"
+  ],
+  "aliases": [
+    "phone-ringing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

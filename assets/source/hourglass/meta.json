@@ -1,0 +1,24 @@
+{
+  "name": "hourglass",
+  "title": "Hourglass",
+  "category": "time",
+  "description": "Show that something is waiting, loading or running out of time.",
+  "tags": [
+    "waiting",
+    "loading",
+    "sand",
+    "timer",
+    "pending",
+    "deadline",
+    "patience"
+  ],
+  "aliases": [
+    "sand-timer",
+    "waiting"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

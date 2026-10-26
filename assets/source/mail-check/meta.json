@@ -1,0 +1,22 @@
+{
+  "name": "mail-check",
+  "title": "Mail Check",
+  "category": "communication",
+  "description": "Mail confirmed, completed or verified.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

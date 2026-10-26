@@ -1,0 +1,23 @@
+{
+  "name": "parent-child",
+  "title": "Parent and Child",
+  "category": "people",
+  "description": "Represent a parent with a child, family accounts or kid-friendly content.",
+  "tags": [
+    "family",
+    "parent",
+    "child",
+    "kid",
+    "guardian",
+    "parental-controls"
+  ],
+  "aliases": [
+    "family-member",
+    "guardian-child"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

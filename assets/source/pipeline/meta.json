@@ -1,0 +1,23 @@
+{
+  "name": "pipeline",
+  "title": "Pipeline",
+  "category": "development",
+  "description": "A CI/CD pipeline moving work through stages.",
+  "tags": [
+    "pipeline",
+    "ci",
+    "cd",
+    "stages",
+    "workflow",
+    "automation"
+  ],
+  "aliases": [
+    "ci-pipeline",
+    "build-pipeline"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

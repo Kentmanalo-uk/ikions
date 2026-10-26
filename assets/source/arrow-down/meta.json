@@ -1,0 +1,24 @@
+{
+  "name": "arrow-down",
+  "title": "Arrow Down",
+  "category": "arrows",
+  "description": "Move down, scroll to the bottom or point downward.",
+  "tags": [
+    "down",
+    "south",
+    "bottom",
+    "fall",
+    "decrease",
+    "direction",
+    "scroll",
+    "descend"
+  ],
+  "aliases": [
+    "arrow-downward"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

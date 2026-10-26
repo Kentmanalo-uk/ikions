@@ -1,0 +1,25 @@
+{
+  "name": "error",
+  "title": "Error",
+  "category": "status",
+  "description": "Indicate a failure, invalid input or an action that went wrong.",
+  "tags": [
+    "failure",
+    "danger",
+    "invalid",
+    "problem",
+    "fail",
+    "cross",
+    "wrong",
+    "critical"
+  ],
+  "aliases": [
+    "x-circle",
+    "failure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

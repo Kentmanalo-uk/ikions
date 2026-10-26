@@ -1,0 +1,22 @@
+{
+  "name": "chef",
+  "title": "Chef",
+  "category": "people",
+  "description": "Represent a chef or cook, such as a recipe author or kitchen staff.",
+  "tags": [
+    "cook",
+    "kitchen",
+    "restaurant",
+    "recipe",
+    "culinary",
+    "food"
+  ],
+  "aliases": [
+    "cook"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "keypad",
+  "title": "Keypad",
+  "category": "devices",
+  "description": "Represents a numeric keypad or PIN entry pad.",
+  "tags": [
+    "pin pad",
+    "keys",
+    "numeric",
+    "access control",
+    "code",
+    "entry"
+  ],
+  "aliases": [
+    "pin-pad",
+    "number-pad"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

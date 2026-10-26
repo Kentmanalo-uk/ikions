@@ -1,0 +1,26 @@
+{
+  "name": "grid",
+  "title": "Grid",
+  "category": "interface",
+  "description": "Switch to a grid view or show items as tiles.",
+  "tags": [
+    "layout",
+    "tiles",
+    "view",
+    "apps",
+    "dashboard",
+    "gallery",
+    "squares",
+    "thumbnails",
+    "layout grid"
+  ],
+  "aliases": [
+    "tiles",
+    "grid-view"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

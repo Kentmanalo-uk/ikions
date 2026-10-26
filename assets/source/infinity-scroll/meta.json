@@ -1,0 +1,23 @@
+{
+  "name": "infinity-scroll",
+  "title": "Infinite Scroll",
+  "category": "interface",
+  "description": "Load more items continuously as the user scrolls.",
+  "tags": [
+    "feed",
+    "endless",
+    "scroll",
+    "load-more",
+    "pagination",
+    "lazy"
+  ],
+  "aliases": [
+    "infinite-scroll",
+    "endless-scroll"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

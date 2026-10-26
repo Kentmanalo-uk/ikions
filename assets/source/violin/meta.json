@@ -1,0 +1,23 @@
+{
+  "name": "violin",
+  "title": "Violin",
+  "category": "media",
+  "description": "Represents a violin, classical music or bowed string instruments.",
+  "tags": [
+    "fiddle",
+    "orchestra",
+    "classical",
+    "instrument",
+    "strings",
+    "bow"
+  ],
+  "aliases": [
+    "fiddle-instrument",
+    "bowed-strings"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ice-cream",
+  "title": "Ice Cream",
+  "category": "food",
+  "description": "Represent ice cream, such as a cone, dessert, summer or a sweet treat.",
+  "tags": [
+    "cone",
+    "dessert",
+    "gelato",
+    "summer",
+    "sweet",
+    "treat"
+  ],
+  "aliases": [
+    "ice-cream-cone",
+    "gelato"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

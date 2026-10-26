@@ -1,0 +1,23 @@
+{
+  "name": "mouse",
+  "title": "Mouse",
+  "category": "devices",
+  "description": "Represent a computer mouse, pointer input or clicking.",
+  "tags": [
+    "pointer",
+    "click",
+    "scroll",
+    "input",
+    "computer",
+    "peripheral",
+    "cursor"
+  ],
+  "aliases": [
+    "computer-mouse"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

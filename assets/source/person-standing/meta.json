@@ -1,0 +1,22 @@
+{
+  "name": "person-standing",
+  "title": "Person Standing",
+  "category": "people",
+  "description": "Show a person standing upright, such as a pedestrian or presence marker.",
+  "tags": [
+    "human",
+    "pedestrian",
+    "figure",
+    "standing",
+    "body",
+    "upright"
+  ],
+  "aliases": [
+    "human-standing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

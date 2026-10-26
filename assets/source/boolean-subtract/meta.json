@@ -1,0 +1,23 @@
+{
+  "name": "boolean-subtract",
+  "title": "Boolean Subtract",
+  "category": "editing",
+  "description": "Cut the front shape out of the shape behind it.",
+  "tags": [
+    "subtract",
+    "minus",
+    "cut",
+    "shapes",
+    "vector",
+    "pathfinder"
+  ],
+  "aliases": [
+    "shape-subtract",
+    "minus-front"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

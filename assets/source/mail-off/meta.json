@@ -1,0 +1,22 @@
+{
+  "name": "mail-off",
+  "title": "Mail Off",
+  "category": "communication",
+  "description": "Turn off, disable or mute the mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-mail"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

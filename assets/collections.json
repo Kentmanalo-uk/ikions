@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "app-essentials",
+    "name": "App essentials",
+    "description": "The icons almost every product needs on day one: navigation, account, notifications and the core editing actions.",
+    "icons": ["home", "search", "menu", "settings", "user", "bell", "mail", "plus", "close", "check", "trash", "edit", "more", "filter", "sort", "refresh", "download", "upload", "share", "heart", "star", "calendar", "clock", "lock", "log-out", "copy", "link"]
+  },
+  {
+    "slug": "ecommerce",
+    "name": "E-commerce storefront",
+    "description": "Everything for a shop: browsing, cart and checkout, payment, delivery and order states.",
+    "icons": ["store", "search", "bag", "cart", "tag", "percent", "heart", "star", "credit-card", "wallet", "coins", "banknote", "receipt", "package", "truck", "barcode", "qr-code", "user", "success"]
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer tools",
+    "description": "Code, version control, infrastructure and debugging icons for developer platforms and documentation.",
+    "icons": ["code", "terminal", "braces", "git-branch", "git-commit", "git-merge", "git-pull-request", "bug", "database", "server", "cpu", "cube", "file-code", "link", "external-link", "copy", "settings"]
+  },
+  {
+    "slug": "media-player",
+    "name": "Media player",
+    "description": "Playback, audio and video controls for music, podcast and streaming interfaces.",
+    "icons": ["play", "pause", "stop", "skip-back", "skip-forward", "repeat", "shuffle", "volume", "volume-off", "music", "headphones", "microphone", "video", "film", "tv", "maximize", "minimize"]
+  },
+  {
+    "slug": "dashboards",
+    "name": "Dashboards & analytics",
+    "description": "Charts, trends and layout icons for reporting tools and admin dashboards.",
+    "icons": ["bar-chart", "line-chart", "pie-chart", "trending-up", "trending-down", "activity", "target", "grid", "list", "sidebar", "filter", "sort", "calendar", "users", "download"]
+  },
+  {
+    "slug": "travel",
+    "name": "Travel planning",
+    "description": "Transport, places and conditions for booking flows, itineraries and maps.",
+    "icons": ["plane", "train", "bus", "car", "ship", "bicycle", "ticket", "suitcase", "map", "map-pin", "compass", "globe", "navigation", "route", "building", "sun", "umbrella", "cloud-rain"]
+  },
+  {
+    "slug": "health",
+    "name": "Health & wellness",
+    "description": "Care, medicine and fitness icons for health records, pharmacies and wellbeing apps.",
+    "icons": ["heart-pulse", "first-aid", "pill", "syringe", "stethoscope", "hospital", "thermometer", "apple", "dumbbell", "timer", "droplet", "activity"]
+  },
+  {
+    "slug": "status-feedback",
+    "name": "Status & feedback",
+    "description": "Clear signals for success, warnings, errors, progress and help across forms and notifications.",
+    "icons": ["success", "info", "warning", "error", "help", "loader", "ban", "check", "close", "bell", "shield-check", "hourglass"]
+  }
+]

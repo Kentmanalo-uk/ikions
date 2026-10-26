@@ -1,0 +1,22 @@
+{
+  "name": "smart-ring",
+  "title": "Smart Ring",
+  "category": "devices",
+  "description": "A smart ring with a sensor light on its band.",
+  "tags": [
+    "wearable",
+    "ring",
+    "health",
+    "tracker",
+    "sleep"
+  ],
+  "aliases": [
+    "wearable-ring",
+    "health-ring"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "clipboard-copy",
+  "title": "Clipboard Copy",
+  "category": "files",
+  "description": "Copy content to the clipboard or show copied clipboard content.",
+  "tags": [
+    "copy",
+    "duplicate",
+    "paste",
+    "clipboard",
+    "clone"
+  ],
+  "aliases": [
+    "copy-to-clipboard"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

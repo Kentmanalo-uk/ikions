@@ -1,0 +1,23 @@
+{
+  "name": "blood-pressure",
+  "title": "Blood Pressure",
+  "category": "health",
+  "description": "Measure blood pressure or show hypertension readings.",
+  "tags": [
+    "hypertension",
+    "sphygmomanometer",
+    "bp",
+    "cuff",
+    "vitals",
+    "cardio"
+  ],
+  "aliases": [
+    "bp-monitor",
+    "sphygmomanometer"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

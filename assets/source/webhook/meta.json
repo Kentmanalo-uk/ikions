@@ -1,0 +1,22 @@
+{
+  "name": "webhook",
+  "title": "Webhook",
+  "category": "development",
+  "description": "A webhook that calls a URL automatically when an event happens.",
+  "tags": [
+    "webhook",
+    "callback",
+    "event",
+    "http",
+    "trigger",
+    "integration"
+  ],
+  "aliases": [
+    "callback-hook"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

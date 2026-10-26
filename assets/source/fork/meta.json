@@ -1,0 +1,22 @@
+{
+  "name": "fork",
+  "title": "Fork",
+  "category": "food",
+  "description": "Represent a fork, cutlery, eating or a meal.",
+  "tags": [
+    "cutlery",
+    "silverware",
+    "eat",
+    "meal",
+    "dining",
+    "tableware"
+  ],
+  "aliases": [
+    "table-fork"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

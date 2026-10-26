@@ -1,0 +1,23 @@
+{
+  "name": "file-cabinet",
+  "title": "File Cabinet",
+  "category": "files",
+  "description": "Represents a filing cabinet with drawers for stored records.",
+  "tags": [
+    "cabinet",
+    "filing",
+    "records",
+    "storage",
+    "office",
+    "drawers"
+  ],
+  "aliases": [
+    "filing-cabinet",
+    "records-cabinet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

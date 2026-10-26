@@ -1,0 +1,26 @@
+{
+  "name": "bank",
+  "title": "Bank",
+  "category": "finance",
+  "description": "Represent a bank, financial institution or bank transfer.",
+  "tags": [
+    "finance",
+    "banking",
+    "money",
+    "institution",
+    "transfer",
+    "deposit",
+    "account",
+    "savings",
+    "payment",
+    "bank building"
+  ],
+  "aliases": [
+    "financial-institution"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

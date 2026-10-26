@@ -1,0 +1,19 @@
+{
+  "name": "move-diagonal",
+  "title": "Move Diagonal",
+  "category": "arrows",
+  "description": "Double-headed diagonal arrow: move, resize or stretch diagonally.",
+  "tags": [
+    "move",
+    "resize",
+    "stretch",
+    "drag",
+    "diagonal"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

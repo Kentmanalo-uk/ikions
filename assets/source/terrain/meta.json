@@ -1,0 +1,23 @@
+{
+  "name": "terrain",
+  "title": "Terrain",
+  "category": "maps",
+  "description": "Shows topographic contour lines describing the shape of the land.",
+  "tags": [
+    "topography",
+    "contour",
+    "elevation",
+    "landscape",
+    "hills",
+    "relief"
+  ],
+  "aliases": [
+    "topographic-map",
+    "contour-lines"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

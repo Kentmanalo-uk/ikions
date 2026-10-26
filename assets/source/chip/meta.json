@@ -1,0 +1,22 @@
+{
+  "name": "chip",
+  "title": "Chip",
+  "category": "interface",
+  "description": "Represent a removable choice, contact or filter as a compact chip.",
+  "tags": [
+    "token",
+    "pill",
+    "filter",
+    "selection",
+    "input",
+    "removable"
+  ],
+  "aliases": [
+    "input-chip"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

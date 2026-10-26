@@ -1,0 +1,22 @@
+{
+  "name": "folder-lock",
+  "title": "Folder Lock",
+  "category": "files",
+  "description": "A locked, private or protected folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

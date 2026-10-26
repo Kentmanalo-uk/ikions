@@ -1,0 +1,23 @@
+{
+  "name": "checkbox-checked",
+  "title": "Checkbox Checked",
+  "category": "interface",
+  "description": "A ticked checkbox for a selected option or completed item.",
+  "tags": [
+    "checked",
+    "selected",
+    "tick",
+    "done",
+    "form",
+    "option"
+  ],
+  "aliases": [
+    "check-square",
+    "checked-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

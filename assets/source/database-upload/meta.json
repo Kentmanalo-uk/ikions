@@ -1,0 +1,21 @@
+{
+  "name": "database-upload",
+  "title": "Database Upload",
+  "category": "development",
+  "description": "Upload or export a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "upload",
+    "send",
+    "export",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

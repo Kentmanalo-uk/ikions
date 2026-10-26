@@ -1,0 +1,22 @@
+{
+  "name": "chat-dots",
+  "title": "Chat Dots",
+  "category": "communication",
+  "description": "Show a chat bubble with an ellipsis, such as someone typing.",
+  "tags": [
+    "typing",
+    "message",
+    "ellipsis",
+    "chat",
+    "pending",
+    "conversation"
+  ],
+  "aliases": [
+    "chat-typing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

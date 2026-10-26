@@ -1,0 +1,23 @@
+{
+  "name": "returns",
+  "title": "Returns",
+  "category": "commerce",
+  "description": "Send a purchase back to the store for a refund.",
+  "tags": [
+    "return",
+    "refund",
+    "send back",
+    "return policy",
+    "money back",
+    "rma"
+  ],
+  "aliases": [
+    "return-item",
+    "return-order"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "waveform",
+  "title": "Waveform",
+  "category": "media",
+  "description": "A symmetric sound wave for audio clips, voice notes and recordings.",
+  "tags": [
+    "audio",
+    "sound",
+    "wave",
+    "voice",
+    "recording",
+    "clip",
+    "sound wave",
+    "audio wave"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

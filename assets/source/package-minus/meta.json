@@ -1,0 +1,22 @@
+{
+  "name": "package-minus",
+  "title": "Package Minus",
+  "category": "commerce",
+  "description": "Remove a package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "remove",
+    "subtract",
+    "package"
+  ],
+  "aliases": [
+    "remove-package"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

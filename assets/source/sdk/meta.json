@@ -1,0 +1,23 @@
+{
+  "name": "sdk",
+  "title": "SDK",
+  "category": "development",
+  "description": "A software package wrapped in code brackets for a software development kit.",
+  "tags": [
+    "software development kit",
+    "library",
+    "package",
+    "api",
+    "toolkit",
+    "framework"
+  ],
+  "aliases": [
+    "dev-kit",
+    "software-kit"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

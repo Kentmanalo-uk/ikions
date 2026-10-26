@@ -1,0 +1,20 @@
+{
+  "name": "comment-text",
+  "title": "Comment Text",
+  "category": "communication",
+  "description": "Show a written comment or message with text.",
+  "tags": [
+    "comment",
+    "note",
+    "feedback",
+    "text",
+    "message",
+    "remark"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

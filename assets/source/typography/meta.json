@@ -1,0 +1,24 @@
+{
+  "name": "typography",
+  "title": "Typography",
+  "category": "editing",
+  "description": "Edit text styles, fonts or insert a text box.",
+  "tags": [
+    "text",
+    "font",
+    "type",
+    "typeface",
+    "letter",
+    "format",
+    "heading",
+    "write"
+  ],
+  "aliases": [
+    "text-tool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

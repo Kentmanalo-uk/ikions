@@ -1,0 +1,21 @@
+{
+  "name": "trees",
+  "title": "Trees",
+  "category": "weather",
+  "description": "A pine and a leafy tree together for woods and parks.",
+  "tags": [
+    "nature",
+    "woods",
+    "park",
+    "outdoors",
+    "forest",
+    "garden",
+    "green"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

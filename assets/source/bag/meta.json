@@ -1,0 +1,25 @@
+{
+  "name": "bag",
+  "title": "Bag",
+  "category": "commerce",
+  "description": "Represent a shopping bag, a purchase or the items in an order.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "tote",
+    "checkout",
+    "order",
+    "retail",
+    "ecommerce"
+  ],
+  "aliases": [
+    "shopping-bag",
+    "tote-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

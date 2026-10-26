@@ -1,0 +1,22 @@
+{
+  "name": "bag-minus",
+  "title": "Bag Minus",
+  "category": "commerce",
+  "description": "Remove a bag.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "remove",
+    "subtract",
+    "bag"
+  ],
+  "aliases": [
+    "remove-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

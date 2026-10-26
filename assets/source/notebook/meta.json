@@ -1,0 +1,24 @@
+{
+  "name": "notebook",
+  "title": "Notebook",
+  "category": "education",
+  "description": "A spiral-bound notebook for notes, homework or a study journal.",
+  "tags": [
+    "notes",
+    "spiral",
+    "journal",
+    "homework",
+    "exercise book",
+    "writing",
+    "study"
+  ],
+  "aliases": [
+    "spiral-notebook",
+    "exercise-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

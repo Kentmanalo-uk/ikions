@@ -1,0 +1,23 @@
+{
+  "name": "anchor-point",
+  "title": "Anchor Point",
+  "category": "editing",
+  "description": "Select or edit a single anchor point on a path.",
+  "tags": [
+    "anchor",
+    "node",
+    "point",
+    "vertex",
+    "path",
+    "vector"
+  ],
+  "aliases": [
+    "path-node",
+    "vector-node"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

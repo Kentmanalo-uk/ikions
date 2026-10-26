@@ -1,0 +1,22 @@
+{
+  "name": "phone-hang-up",
+  "title": "Phone Hang Up",
+  "category": "communication",
+  "description": "End or decline a phone call.",
+  "tags": [
+    "end call",
+    "hang up",
+    "decline",
+    "disconnect",
+    "phone",
+    "reject"
+  ],
+  "aliases": [
+    "end-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

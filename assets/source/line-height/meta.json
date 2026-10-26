@@ -1,0 +1,22 @@
+{
+  "name": "line-height",
+  "title": "Line Height",
+  "category": "editing",
+  "description": "Set the vertical distance between lines of text.",
+  "tags": [
+    "leading",
+    "text",
+    "typography",
+    "spacing",
+    "lines",
+    "paragraph"
+  ],
+  "aliases": [
+    "leading"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "translate",
+  "title": "Translate",
+  "category": "communication",
+  "description": "Translate text between languages or switch the display language.",
+  "tags": [
+    "language",
+    "translation",
+    "localization",
+    "i18n",
+    "multilingual",
+    "convert"
+  ],
+  "aliases": [
+    "translation"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

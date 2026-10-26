@@ -1,0 +1,23 @@
+{
+  "name": "face-neutral",
+  "title": "Face Neutral",
+  "category": "people",
+  "description": "Show a neutral, indifferent or undecided mood.",
+  "tags": [
+    "neutral",
+    "meh",
+    "indifferent",
+    "emoji",
+    "reaction",
+    "mood"
+  ],
+  "aliases": [
+    "neutral-face",
+    "meh-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "juice",
+  "title": "Juice",
+  "category": "food",
+  "description": "Represent juice or a soft drink served in a glass with a straw.",
+  "tags": [
+    "drink",
+    "beverage",
+    "straw",
+    "smoothie",
+    "orange",
+    "refreshment"
+  ],
+  "aliases": [
+    "glass-with-straw"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

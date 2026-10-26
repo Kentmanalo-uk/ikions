@@ -1,0 +1,23 @@
+{
+  "name": "video-plus",
+  "title": "Video Plus",
+  "category": "media",
+  "description": "Add a new video.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "add",
+    "new",
+    "create",
+    "video"
+  ],
+  "aliases": [
+    "add-video"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

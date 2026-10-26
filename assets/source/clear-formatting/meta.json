@@ -1,0 +1,23 @@
+{
+  "name": "clear-formatting",
+  "title": "Clear Formatting",
+  "category": "editing",
+  "description": "Remove all formatting from selected text.",
+  "tags": [
+    "clear",
+    "remove",
+    "format",
+    "style",
+    "reset",
+    "plain-text"
+  ],
+  "aliases": [
+    "remove-formatting",
+    "format-clear"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

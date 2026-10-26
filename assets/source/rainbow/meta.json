@@ -1,0 +1,23 @@
+{
+  "name": "rainbow",
+  "title": "Rainbow",
+  "category": "weather",
+  "description": "A rainbow arching across the sky after rain.",
+  "tags": [
+    "rainbow",
+    "weather",
+    "colors",
+    "spectrum",
+    "pride",
+    "hope",
+    "sky"
+  ],
+  "aliases": [
+    "arc-of-colors"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

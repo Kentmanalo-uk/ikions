@@ -1,0 +1,23 @@
+{
+  "name": "bell-plus",
+  "title": "Bell Plus",
+  "category": "communication",
+  "description": "Add a new bell.",
+  "tags": [
+    "notification",
+    "alert",
+    "alarm",
+    "add",
+    "new",
+    "create",
+    "bell"
+  ],
+  "aliases": [
+    "add-bell"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

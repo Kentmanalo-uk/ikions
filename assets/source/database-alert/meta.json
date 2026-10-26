@@ -1,0 +1,22 @@
+{
+  "name": "database-alert",
+  "title": "Database Alert",
+  "category": "development",
+  "description": "Database with a warning or problem that needs attention.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

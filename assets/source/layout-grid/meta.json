@@ -1,0 +1,23 @@
+{
+  "name": "layout-grid",
+  "title": "Layout Grid",
+  "category": "interface",
+  "description": "Arrange content in an even grid of rows and columns.",
+  "tags": [
+    "grid view",
+    "layout",
+    "cells",
+    "tiles",
+    "gallery",
+    "table"
+  ],
+  "aliases": [
+    "grid-layout",
+    "view-grid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "fraud-alert",
+  "title": "Fraud Alert",
+  "category": "finance",
+  "description": "Warn about a suspicious or fraudulent card transaction.",
+  "tags": [
+    "fraud",
+    "suspicious",
+    "scam",
+    "chargeback",
+    "risk",
+    "security",
+    "warning"
+  ],
+  "aliases": [
+    "suspicious-transaction",
+    "card-fraud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

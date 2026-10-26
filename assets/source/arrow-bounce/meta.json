@@ -1,0 +1,22 @@
+{
+  "name": "arrow-bounce",
+  "title": "Arrow Bounce",
+  "category": "arrows",
+  "description": "An arrow that bounces off a surface and changes direction.",
+  "tags": [
+    "bounce",
+    "rebound",
+    "reflect",
+    "ricochet",
+    "deflect",
+    "arrow"
+  ],
+  "aliases": [
+    "rebound-arrow"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

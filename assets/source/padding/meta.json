@@ -1,0 +1,23 @@
+{
+  "name": "padding",
+  "title": "Padding",
+  "category": "editing",
+  "description": "Set the inner space between a box edge and its content.",
+  "tags": [
+    "inset",
+    "inner",
+    "space",
+    "box-model",
+    "layout",
+    "css"
+  ],
+  "aliases": [
+    "inner-spacing",
+    "inset"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "camera-plus",
+  "title": "Camera Plus",
+  "category": "media",
+  "description": "Add a new camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "add",
+    "new",
+    "create",
+    "camera"
+  ],
+  "aliases": [
+    "add-camera"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "pie-chart",
+  "title": "Pie Chart",
+  "category": "charts",
+  "description": "Show a pie chart, proportions or a share of the whole.",
+  "tags": [
+    "chart",
+    "graph",
+    "statistics",
+    "analytics",
+    "proportion",
+    "share",
+    "segment",
+    "report",
+    "data"
+  ],
+  "aliases": [
+    "pie-graph"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

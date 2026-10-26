@@ -1,0 +1,19 @@
+{
+  "name": "arrow-down-from-line",
+  "title": "Arrow Down From Line",
+  "category": "arrows",
+  "description": "Arrow moving down away from a line: lift, raise or move off an edge.",
+  "tags": [
+    "arrow",
+    "edge",
+    "move",
+    "lift",
+    "down"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

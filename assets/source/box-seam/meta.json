@@ -1,0 +1,23 @@
+{
+  "name": "box-seam",
+  "title": "Box Seam",
+  "category": "commerce",
+  "description": "Represents a sealed cardboard box with tape along its seam.",
+  "tags": [
+    "cardboard",
+    "carton",
+    "sealed",
+    "parcel",
+    "shipping",
+    "taped"
+  ],
+  "aliases": [
+    "sealed-box",
+    "taped-box"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

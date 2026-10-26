@@ -1,0 +1,24 @@
+{
+  "name": "cave",
+  "title": "Cave",
+  "category": "weather",
+  "description": "Represents a cave entrance, cavern or a rocky shelter.",
+  "tags": [
+    "cavern",
+    "grotto",
+    "tunnel",
+    "rock",
+    "explore",
+    "nature",
+    "shelter"
+  ],
+  "aliases": [
+    "cavern",
+    "grotto"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

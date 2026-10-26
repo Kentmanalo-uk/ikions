@@ -1,0 +1,20 @@
+{
+  "name": "letter-spacing",
+  "title": "Letter Spacing",
+  "category": "editing",
+  "description": "Adjust the space between letters in text.",
+  "tags": [
+    "tracking",
+    "kerning",
+    "text",
+    "typography",
+    "characters",
+    "spacing"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

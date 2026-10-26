@@ -1,0 +1,22 @@
+{
+  "name": "mail-send",
+  "title": "Mail Send",
+  "category": "communication",
+  "description": "Send an email on its way.",
+  "tags": [
+    "email",
+    "send",
+    "outgoing",
+    "deliver",
+    "envelope"
+  ],
+  "aliases": [
+    "send-email",
+    "email-sent"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

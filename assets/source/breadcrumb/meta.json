@@ -1,0 +1,23 @@
+{
+  "name": "breadcrumb",
+  "title": "Breadcrumb",
+  "category": "interface",
+  "description": "A breadcrumb trail showing the path to the current page.",
+  "tags": [
+    "navigation",
+    "path",
+    "trail",
+    "steps",
+    "location",
+    "hierarchy"
+  ],
+  "aliases": [
+    "breadcrumbs",
+    "nav-path"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

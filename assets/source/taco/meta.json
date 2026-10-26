@@ -1,0 +1,20 @@
+{
+  "name": "taco",
+  "title": "Taco",
+  "category": "food",
+  "description": "Represent a taco, such as Mexican food, street food or a takeaway.",
+  "tags": [
+    "mexican",
+    "street-food",
+    "tortilla",
+    "takeaway",
+    "fast-food",
+    "snack"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

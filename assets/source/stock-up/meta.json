@@ -1,0 +1,24 @@
+{
+  "name": "stock-up",
+  "title": "Stock Up",
+  "category": "finance",
+  "description": "A share price rising, shown with a candlestick and an up arrow.",
+  "tags": [
+    "stocks",
+    "shares",
+    "market",
+    "bull",
+    "rise",
+    "gain",
+    "investing"
+  ],
+  "aliases": [
+    "stock-rise",
+    "market-up"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "users-settings",
+  "title": "Users Settings",
+  "category": "people",
+  "description": "Settings and preferences for a users.",
+  "tags": [
+    "people",
+    "group",
+    "team",
+    "settings",
+    "preferences",
+    "configure",
+    "users"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

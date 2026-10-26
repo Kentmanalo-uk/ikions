@@ -1,0 +1,22 @@
+{
+  "name": "game-handheld",
+  "title": "Handheld Console",
+  "category": "devices",
+  "description": "A handheld game console with a screen, d-pad and buttons.",
+  "tags": [
+    "gaming",
+    "console",
+    "portable",
+    "retro",
+    "game boy"
+  ],
+  "aliases": [
+    "handheld-console",
+    "portable-console"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

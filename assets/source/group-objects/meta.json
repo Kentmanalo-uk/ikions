@@ -1,0 +1,22 @@
+{
+  "name": "group-objects",
+  "title": "Group Objects",
+  "category": "interface",
+  "description": "Combine the selected objects into a single group.",
+  "tags": [
+    "group",
+    "combine",
+    "selection",
+    "objects",
+    "design",
+    "merge"
+  ],
+  "aliases": [
+    "group-selection"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

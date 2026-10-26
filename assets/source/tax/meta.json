@@ -1,0 +1,25 @@
+{
+  "name": "tax",
+  "title": "Tax",
+  "category": "finance",
+  "description": "Represent taxes, a tax return or a tax rate document.",
+  "tags": [
+    "taxes",
+    "tax return",
+    "vat",
+    "percentage",
+    "rate",
+    "irs",
+    "duty",
+    "form"
+  ],
+  "aliases": [
+    "tax-document",
+    "tax-return"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

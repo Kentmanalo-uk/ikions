@@ -1,0 +1,22 @@
+{
+  "name": "phone-landline",
+  "title": "Landline Phone",
+  "category": "devices",
+  "description": "A desk telephone with a handset resting on its base.",
+  "tags": [
+    "telephone",
+    "desk phone",
+    "office",
+    "call",
+    "retro"
+  ],
+  "aliases": [
+    "desk-phone",
+    "home-phone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

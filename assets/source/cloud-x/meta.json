@@ -1,0 +1,24 @@
+{
+  "name": "cloud-x",
+  "title": "Cloud X",
+  "category": "weather",
+  "description": "Delete, cancel or reject a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "cloud"
+  ],
+  "aliases": [
+    "delete-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

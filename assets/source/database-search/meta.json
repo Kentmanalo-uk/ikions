@@ -1,0 +1,23 @@
+{
+  "name": "database-search",
+  "title": "Database Search",
+  "category": "development",
+  "description": "Search for a database.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "find",
+    "lookup",
+    "browse",
+    "database"
+  ],
+  "aliases": [
+    "find-database"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

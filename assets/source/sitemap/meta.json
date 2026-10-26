@@ -1,0 +1,22 @@
+{
+  "name": "sitemap",
+  "title": "Sitemap",
+  "category": "development",
+  "description": "A sitemap showing how a site's pages are organised.",
+  "tags": [
+    "sitemap",
+    "pages",
+    "hierarchy",
+    "structure",
+    "navigation",
+    "seo"
+  ],
+  "aliases": [
+    "site-structure"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

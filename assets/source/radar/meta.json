@@ -1,0 +1,23 @@
+{
+  "name": "radar",
+  "title": "Radar",
+  "category": "maps",
+  "description": "Shows a radar screen with a sweeping beam and a detected blip.",
+  "tags": [
+    "scan",
+    "sonar",
+    "detect",
+    "tracking",
+    "proximity",
+    "nearby"
+  ],
+  "aliases": [
+    "radar-scan",
+    "radar-screen"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

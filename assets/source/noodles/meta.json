@@ -1,0 +1,23 @@
+{
+  "name": "noodles",
+  "title": "Noodles",
+  "category": "food",
+  "description": "Represent a bowl of noodles with chopsticks, such as ramen, pho or pasta.",
+  "tags": [
+    "ramen",
+    "pho",
+    "pasta",
+    "chopsticks",
+    "asian",
+    "bowl",
+    "udon"
+  ],
+  "aliases": [
+    "noodle-bowl"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

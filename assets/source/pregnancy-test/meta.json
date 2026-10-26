@@ -1,0 +1,22 @@
+{
+  "name": "pregnancy-test",
+  "title": "Pregnancy Test",
+  "category": "health",
+  "description": "A pregnancy test stick showing two result lines.",
+  "tags": [
+    "pregnancy",
+    "test strip",
+    "fertility",
+    "positive test",
+    "home test",
+    "expecting"
+  ],
+  "aliases": [
+    "pregnancy-stick"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

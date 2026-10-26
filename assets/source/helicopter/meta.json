@@ -1,0 +1,22 @@
+{
+  "name": "helicopter",
+  "title": "Helicopter",
+  "category": "transport",
+  "description": "A helicopter with its rotor and skids, for air taxis, rescue and heliports.",
+  "tags": [
+    "chopper",
+    "heliport",
+    "aircraft",
+    "rotor",
+    "air-ambulance",
+    "rescue"
+  ],
+  "aliases": [
+    "chopper"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

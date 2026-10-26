@@ -1,0 +1,24 @@
+{
+  "name": "play",
+  "title": "Play",
+  "category": "media",
+  "description": "Start or resume playback of audio, video or an animation.",
+  "tags": [
+    "start",
+    "resume",
+    "media",
+    "player",
+    "video",
+    "audio",
+    "run",
+    "triangle"
+  ],
+  "aliases": [
+    "play-button"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cloud-search",
+  "title": "Cloud Search",
+  "category": "weather",
+  "description": "Search for a cloud.",
+  "tags": [
+    "weather",
+    "overcast",
+    "storage",
+    "find",
+    "lookup",
+    "browse",
+    "cloud"
+  ],
+  "aliases": [
+    "find-cloud"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "clapperboard",
+  "title": "Clapperboard",
+  "category": "media",
+  "description": "A film slate with an open striped clapper for movies and video production.",
+  "tags": [
+    "film",
+    "movie",
+    "cinema",
+    "director",
+    "scene",
+    "production"
+  ],
+  "aliases": [
+    "film-slate",
+    "clapper"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

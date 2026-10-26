@@ -1,0 +1,23 @@
+{
+  "name": "type-cursor",
+  "title": "Type Cursor",
+  "category": "editing",
+  "description": "Show the caret where typed text will appear.",
+  "tags": [
+    "caret",
+    "typing",
+    "text",
+    "insert",
+    "cursor",
+    "input"
+  ],
+  "aliases": [
+    "caret",
+    "typing-caret"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

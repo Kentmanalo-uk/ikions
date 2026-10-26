@@ -1,0 +1,27 @@
+{
+  "name": "navigation",
+  "title": "Navigation",
+  "category": "maps",
+  "description": "Show the current heading, start navigation or locate yourself.",
+  "tags": [
+    "gps",
+    "direction",
+    "heading",
+    "cursor",
+    "locate",
+    "my-location",
+    "pointer",
+    "arrow",
+    "location arrow"
+  ],
+  "aliases": [
+    "gps-arrow",
+    "location-arrow",
+    "current-location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

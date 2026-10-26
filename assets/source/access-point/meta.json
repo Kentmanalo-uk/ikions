@@ -1,0 +1,23 @@
+{
+  "name": "access-point",
+  "title": "Access Point",
+  "category": "devices",
+  "description": "Represents a wireless access point broadcasting a Wi-Fi network.",
+  "tags": [
+    "wifi",
+    "wireless",
+    "hotspot",
+    "ceiling",
+    "network",
+    "signal"
+  ],
+  "aliases": [
+    "wireless-access-point",
+    "wap"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

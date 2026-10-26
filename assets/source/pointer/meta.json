@@ -1,0 +1,23 @@
+{
+  "name": "pointer",
+  "title": "Pointer",
+  "category": "interface",
+  "description": "The arrow mouse pointer used to point at and select things.",
+  "tags": [
+    "cursor",
+    "arrow",
+    "mouse",
+    "select",
+    "click",
+    "default"
+  ],
+  "aliases": [
+    "mouse-pointer",
+    "arrow-cursor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

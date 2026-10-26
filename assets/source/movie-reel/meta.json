@@ -1,0 +1,23 @@
+{
+  "name": "movie-reel",
+  "title": "Movie Reel",
+  "category": "media",
+  "description": "Represents a film reel, movies or cinema archives.",
+  "tags": [
+    "film",
+    "cinema",
+    "movie",
+    "projector",
+    "spool",
+    "footage"
+  ],
+  "aliases": [
+    "film-reel",
+    "film-spool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

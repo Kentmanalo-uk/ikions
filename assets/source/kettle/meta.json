@@ -1,0 +1,22 @@
+{
+  "name": "kettle",
+  "title": "Kettle",
+  "category": "food",
+  "description": "Represent a kettle, boiling water or making a hot drink.",
+  "tags": [
+    "boil",
+    "water",
+    "tea",
+    "stove",
+    "hot",
+    "kitchen"
+  ],
+  "aliases": [
+    "tea-kettle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

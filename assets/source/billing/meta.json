@@ -1,0 +1,24 @@
+{
+  "name": "billing",
+  "title": "Billing",
+  "category": "finance",
+  "description": "Show a billing cycle, a payment due date or recurring charges.",
+  "tags": [
+    "bill",
+    "due date",
+    "billing cycle",
+    "recurring",
+    "subscription",
+    "invoice",
+    "charge"
+  ],
+  "aliases": [
+    "billing-cycle",
+    "bill-due"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

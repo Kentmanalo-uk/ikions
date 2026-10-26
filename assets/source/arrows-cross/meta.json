@@ -1,0 +1,22 @@
+{
+  "name": "arrows-cross",
+  "title": "Arrows Cross",
+  "category": "arrows",
+  "description": "Two arrows that cross over each other on their way.",
+  "tags": [
+    "cross",
+    "crossing",
+    "intersect",
+    "swap",
+    "arrows",
+    "transfer"
+  ],
+  "aliases": [
+    "crossing-arrows"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

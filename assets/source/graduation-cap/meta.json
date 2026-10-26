@@ -1,0 +1,25 @@
+{
+  "name": "graduation-cap",
+  "title": "Graduation Cap",
+  "category": "education",
+  "description": "Represent education, graduation, courses or academic achievement.",
+  "tags": [
+    "education",
+    "graduate",
+    "school",
+    "university",
+    "college",
+    "course",
+    "degree",
+    "student",
+    "mortarboard"
+  ],
+  "aliases": [
+    "graduate"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

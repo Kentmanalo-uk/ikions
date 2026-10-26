@@ -1,0 +1,23 @@
+{
+  "name": "caller-id",
+  "title": "Caller ID",
+  "category": "communication",
+  "description": "Show who is calling with the caller's name and photo.",
+  "tags": [
+    "phone",
+    "call",
+    "contact",
+    "identity",
+    "incoming",
+    "person"
+  ],
+  "aliases": [
+    "caller",
+    "contact-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

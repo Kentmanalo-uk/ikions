@@ -1,0 +1,23 @@
+{
+  "name": "document-scan",
+  "title": "Document Scan",
+  "category": "files",
+  "description": "Scan a paper document into a digital file.",
+  "tags": [
+    "scan",
+    "scanner",
+    "digitize",
+    "capture",
+    "ocr",
+    "paper"
+  ],
+  "aliases": [
+    "doc-scan",
+    "scanned-document"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

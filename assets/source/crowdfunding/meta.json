@@ -1,0 +1,23 @@
+{
+  "name": "crowdfunding",
+  "title": "Crowdfunding",
+  "category": "finance",
+  "description": "Raise money from a crowd of backers.",
+  "tags": [
+    "fundraising",
+    "backers",
+    "pledge",
+    "crowd",
+    "campaign",
+    "kickstart"
+  ],
+  "aliases": [
+    "crowd-funding",
+    "fundraise"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

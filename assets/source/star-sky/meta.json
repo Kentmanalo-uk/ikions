@@ -1,0 +1,22 @@
+{
+  "name": "star-sky",
+  "title": "Starry Sky",
+  "category": "weather",
+  "description": "A night sky scattered with stars.",
+  "tags": [
+    "stars",
+    "night",
+    "sky",
+    "astronomy",
+    "clear night",
+    "stargazing"
+  ],
+  "aliases": [
+    "starry-night"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

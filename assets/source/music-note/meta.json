@@ -1,0 +1,23 @@
+{
+  "name": "music-note",
+  "title": "Music Note",
+  "category": "media",
+  "description": "A single eighth note for music, songs and audio content.",
+  "tags": [
+    "music",
+    "song",
+    "audio",
+    "melody",
+    "sound",
+    "tune"
+  ],
+  "aliases": [
+    "eighth-note",
+    "quaver"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

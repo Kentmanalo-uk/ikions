@@ -1,0 +1,22 @@
+{
+  "name": "chat-minus",
+  "title": "Chat Minus",
+  "category": "communication",
+  "description": "Remove a chat.",
+  "tags": [
+    "message",
+    "conversation",
+    "speech",
+    "remove",
+    "subtract",
+    "chat"
+  ],
+  "aliases": [
+    "remove-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

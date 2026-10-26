@@ -1,0 +1,23 @@
+{
+  "name": "folder-shared",
+  "title": "Folder Shared",
+  "category": "files",
+  "description": "Represents a folder that is shared with other people.",
+  "tags": [
+    "shared",
+    "team",
+    "collaboration",
+    "access",
+    "drive",
+    "group"
+  ],
+  "aliases": [
+    "shared-folder",
+    "team-folder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

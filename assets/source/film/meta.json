@@ -1,0 +1,25 @@
+{
+  "name": "film",
+  "title": "Film",
+  "category": "media",
+  "description": "Represent movies, cinema or a strip of film footage.",
+  "tags": [
+    "movie",
+    "cinema",
+    "reel",
+    "footage",
+    "strip",
+    "video",
+    "theater",
+    "film strip"
+  ],
+  "aliases": [
+    "movie",
+    "cinema"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

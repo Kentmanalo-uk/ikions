@@ -1,0 +1,23 @@
+{
+  "name": "file-search",
+  "title": "File Search",
+  "category": "files",
+  "description": "Search for a file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "find",
+    "lookup",
+    "browse",
+    "file"
+  ],
+  "aliases": [
+    "find-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

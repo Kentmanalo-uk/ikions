@@ -1,0 +1,22 @@
+{
+  "name": "camera-lock",
+  "title": "Camera Lock",
+  "category": "media",
+  "description": "A locked, private or protected camera.",
+  "tags": [
+    "photo",
+    "picture",
+    "capture",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "camera"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

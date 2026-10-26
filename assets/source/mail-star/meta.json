@@ -1,0 +1,21 @@
+{
+  "name": "mail-star",
+  "title": "Mail Star",
+  "category": "communication",
+  "description": "A starred or featured mail.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "starred",
+    "favorite",
+    "featured",
+    "mail"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "camera-video",
+  "title": "Camera Video",
+  "category": "media",
+  "description": "A handheld camcorder with a lens barrel and viewfinder for recording video.",
+  "tags": [
+    "camcorder",
+    "record",
+    "film",
+    "footage",
+    "video",
+    "camera"
+  ],
+  "aliases": [
+    "video-recorder",
+    "handycam"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

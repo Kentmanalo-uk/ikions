@@ -1,0 +1,23 @@
+{
+  "name": "video-conference",
+  "title": "Video Conference",
+  "category": "communication",
+  "description": "Join or host a video meeting with several participants.",
+  "tags": [
+    "meeting",
+    "video call",
+    "webinar",
+    "remote",
+    "participants",
+    "zoom"
+  ],
+  "aliases": [
+    "video-meeting",
+    "group-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "smile",
+  "title": "Smile",
+  "category": "social",
+  "description": "Add an emoji or reaction, or show a happy, positive mood.",
+  "tags": [
+    "emoji",
+    "happy",
+    "face",
+    "reaction",
+    "emoticon",
+    "mood",
+    "feedback",
+    "joy"
+  ],
+  "aliases": [
+    "emoji",
+    "happy",
+    "smiley",
+    "face-smile"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

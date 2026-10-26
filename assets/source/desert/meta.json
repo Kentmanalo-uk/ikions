@@ -1,0 +1,23 @@
+{
+  "name": "desert",
+  "title": "Desert",
+  "category": "weather",
+  "description": "Rolling sand dunes under the sun for deserts and dry heat.",
+  "tags": [
+    "desert",
+    "dunes",
+    "sand",
+    "dry",
+    "hot",
+    "arid",
+    "sahara"
+  ],
+  "aliases": [
+    "sand-dunes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

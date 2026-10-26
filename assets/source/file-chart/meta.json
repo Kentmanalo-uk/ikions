@@ -1,0 +1,23 @@
+{
+  "name": "file-chart",
+  "title": "File Chart",
+  "category": "files",
+  "description": "Represents a report file containing a chart or analytics data.",
+  "tags": [
+    "report",
+    "chart",
+    "analytics",
+    "statistics",
+    "graph",
+    "trend"
+  ],
+  "aliases": [
+    "report-file",
+    "chart-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,92 @@
+export const metadata = {
+  title: "HTML & SVG",
+  description: "Use Ikions as raw SVG files, an SVG sprite, CSS masks or with the framework-free toSvg() helper.",
+  alternates: { canonical: "/docs/html" },
+};
+
+# HTML & SVG
+
+`@ikions/icons` contains the optimised SVG files and works without any framework.
+
+```bash
+npm install @ikions/icons
+```
+
+## Package contents
+
+```text
+@ikions/icons/
+  outline/<name>.svg
+  filled/<name>.svg
+  sprite/outline.svg
+  sprite/filled.svg
+```
+
+Every file uses `currentColor`, a `24 × 24` viewBox and no ids, scripts or external references.
+
+## Inline SVG
+
+Paste the SVG into your markup to style it with CSS. Copy it from any icon page, or read it from the package:
+
+```html
+<button class="icon-button" aria-label="Search">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <circle cx="10.5" cy="10.5" r="6.5"/>
+    <path d="m17.5 17.5 3.25 3.25"/>
+  </svg>
+</button>
+```
+
+## Sprite
+
+Serve `sprite/outline.svg` (or `filled.svg`) from your site and reference symbols by id. Each symbol id is `ikions-<name>`.
+
+```html
+<svg width="24" height="24" aria-hidden="true">
+  <use href="/ikions-outline.svg#ikions-home"></use>
+</svg>
+```
+
+Icons referenced from a sprite still inherit `color`, so `style="color: #5555E8"` recolours them.
+
+## As images
+
+```html
+<img src="/icons/home.svg" width="24" height="24" alt="Home">
+```
+
+Inside `<img>` the colour is fixed (black), because images cannot inherit CSS colour. Use inline SVG, the sprite or a CSS mask when you need colour control.
+
+## CSS mask
+
+A mask lets any element take the icon's shape and your text colour. Each icon page generates this snippet for you under **CSS**:
+
+```css
+.icon-home {
+  width: 24px;
+  height: 24px;
+  background-color: currentColor;
+  mask: url("/icons/home.svg") center / contain no-repeat;
+}
+```
+
+## toSvg()
+
+Generate SVG strings in any JavaScript environment — servers, build scripts or the browser:
+
+```js
+import { toSvg } from "@ikions/icons";
+
+const markup = toSvg("bell", "filled", { size: 20, color: "#5555E8", title: "Notifications" });
+```
+
+Options: `size`, `color`, `gradient` (`{ from, to, angle? }`), `strokeWidth`, `title`, `className`. Colours are validated, so untrusted input cannot inject markup; invalid colours fall back to `currentColor`.
+
+## Downloads
+
+The [explorer](/icons) exports:
+
+- **SVG** for a single icon, with your size, colour and stroke settings applied.
+- **PNG** at 24, 48, 96, 256 or 512 px with a transparent background.
+- **ZIP** of a selection, organised as `ikions-export/outline/*.svg` and `ikions-export/filled/*.svg`, plus a sprite.
+- **SVG sprite** of a selection.

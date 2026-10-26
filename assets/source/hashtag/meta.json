@@ -1,0 +1,26 @@
+{
+  "name": "hashtag",
+  "title": "Hashtag",
+  "category": "social",
+  "description": "Mark a topic, tag a post or browse trending subjects.",
+  "tags": [
+    "hash",
+    "pound",
+    "number",
+    "topic",
+    "trending",
+    "channel",
+    "tag",
+    "sharp"
+  ],
+  "aliases": [
+    "hash",
+    "pound",
+    "number-sign"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

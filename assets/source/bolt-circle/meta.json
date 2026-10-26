@@ -1,0 +1,23 @@
+{
+  "name": "bolt-circle",
+  "title": "Bolt Circle",
+  "category": "interface",
+  "description": "Mark a fast, powered or instant feature in a round badge.",
+  "tags": [
+    "lightning",
+    "power",
+    "instant",
+    "energy",
+    "fast",
+    "badge"
+  ],
+  "aliases": [
+    "lightning-circle",
+    "zap-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

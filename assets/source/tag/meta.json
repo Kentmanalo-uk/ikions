@@ -1,0 +1,27 @@
+{
+  "name": "tag",
+  "title": "Tag",
+  "category": "commerce",
+  "description": "Show a price, label a product or apply a category tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "discount",
+    "pricing",
+    "cost",
+    "category",
+    "offer",
+    "deal",
+    "price tag"
+  ],
+  "aliases": [
+    "label",
+    "product-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

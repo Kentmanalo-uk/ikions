@@ -1,0 +1,23 @@
+{
+  "name": "compass-drawing",
+  "title": "Drawing Compass",
+  "category": "editing",
+  "description": "Draw circles and arcs with a drafting compass.",
+  "tags": [
+    "circle",
+    "arc",
+    "geometry",
+    "drafting",
+    "divider",
+    "math"
+  ],
+  "aliases": [
+    "drafting-compass",
+    "geometry-compass"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

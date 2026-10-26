@@ -1,0 +1,23 @@
+{
+  "name": "north-arrow",
+  "title": "North Arrow",
+  "category": "maps",
+  "description": "Shows a map's north arrow pointing up above the letter N.",
+  "tags": [
+    "north",
+    "orientation",
+    "compass",
+    "map legend",
+    "direction",
+    "bearing"
+  ],
+  "aliases": [
+    "north-indicator",
+    "true-north"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

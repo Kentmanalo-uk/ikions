@@ -1,0 +1,23 @@
+{
+  "name": "face-angry",
+  "title": "Face Angry",
+  "category": "people",
+  "description": "Show anger, frustration or strong disapproval.",
+  "tags": [
+    "angry",
+    "mad",
+    "frustrated",
+    "annoyed",
+    "emoji",
+    "reaction"
+  ],
+  "aliases": [
+    "angry-face",
+    "mad-face"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

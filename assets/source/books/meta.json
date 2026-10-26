@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "title": "Books",
+  "category": "education",
+  "description": "A stack of books for reading lists, study material or a collection.",
+  "tags": [
+    "stack",
+    "reading",
+    "study",
+    "collection",
+    "literature",
+    "textbooks"
+  ],
+  "aliases": [
+    "book-stack",
+    "stack-of-books"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

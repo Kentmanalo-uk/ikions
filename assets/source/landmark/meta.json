@@ -1,0 +1,24 @@
+{
+  "name": "landmark",
+  "title": "Landmark",
+  "category": "buildings",
+  "description": "Mark a monument, sight or point of interest worth visiting.",
+  "tags": [
+    "monument",
+    "sight",
+    "attraction",
+    "arch",
+    "tourism",
+    "point-of-interest",
+    "historic",
+    "memorial"
+  ],
+  "aliases": [
+    "attraction"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pen-nib",
+  "title": "Pen Nib",
+  "category": "editing",
+  "description": "Write or sign with a fountain pen, or open calligraphy tools.",
+  "tags": [
+    "fountain-pen",
+    "nib",
+    "write",
+    "sign",
+    "calligraphy",
+    "ink"
+  ],
+  "aliases": [
+    "fountain-pen-nib"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

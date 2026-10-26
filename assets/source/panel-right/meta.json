@@ -1,0 +1,23 @@
+{
+  "name": "panel-right",
+  "title": "Panel Right",
+  "category": "interface",
+  "description": "Toggle a panel docked to the right edge of the window.",
+  "tags": [
+    "sidebar",
+    "panel",
+    "inspector",
+    "details",
+    "layout",
+    "pane"
+  ],
+  "aliases": [
+    "right-panel",
+    "dock-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

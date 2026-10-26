@@ -1,0 +1,23 @@
+{
+  "name": "hand-grab",
+  "title": "Hand Grab",
+  "category": "interface",
+  "description": "An open hand cursor for grabbing, dragging and panning content.",
+  "tags": [
+    "grab",
+    "drag",
+    "pan",
+    "move",
+    "hand",
+    "cursor"
+  ],
+  "aliases": [
+    "pan-tool",
+    "grab-cursor"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

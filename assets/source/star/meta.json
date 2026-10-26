@@ -1,0 +1,19 @@
+{
+  "name": "star",
+  "title": "Star",
+  "category": "social",
+  "description": "Rate, feature or mark an item as a favourite.",
+  "tags": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "featured",
+    "review"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

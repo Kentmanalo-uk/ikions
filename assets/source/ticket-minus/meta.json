@@ -1,0 +1,22 @@
+{
+  "name": "ticket-minus",
+  "title": "Ticket Minus",
+  "category": "transport",
+  "description": "Remove a ticket.",
+  "tags": [
+    "admission",
+    "pass",
+    "boarding-pass",
+    "remove",
+    "subtract",
+    "ticket"
+  ],
+  "aliases": [
+    "remove-ticket"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

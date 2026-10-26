@@ -1,0 +1,21 @@
+{
+  "name": "monitor-download",
+  "title": "Monitor Download",
+  "category": "devices",
+  "description": "Download or import a monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "download",
+    "save",
+    "import",
+    "monitor"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "budget",
+  "title": "Budget",
+  "category": "finance",
+  "description": "Plan a budget or show how money is split across categories.",
+  "tags": [
+    "budgeting",
+    "allocation",
+    "spending plan",
+    "finance",
+    "planning",
+    "breakdown",
+    "money"
+  ],
+  "aliases": [
+    "budgeting",
+    "money-split"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

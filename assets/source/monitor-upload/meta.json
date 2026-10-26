@@ -1,0 +1,21 @@
+{
+  "name": "monitor-upload",
+  "title": "Monitor Upload",
+  "category": "devices",
+  "description": "Upload or export a monitor.",
+  "tags": [
+    "display",
+    "screen",
+    "desktop",
+    "upload",
+    "send",
+    "export",
+    "monitor"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

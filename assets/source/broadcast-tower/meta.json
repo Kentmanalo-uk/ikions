@@ -1,0 +1,22 @@
+{
+  "name": "broadcast-tower",
+  "title": "Broadcast Tower",
+  "category": "communication",
+  "description": "A transmission tower sending radio, TV or cellular signals.",
+  "tags": [
+    "antenna",
+    "radio",
+    "signal",
+    "transmitter",
+    "cellular",
+    "mast"
+  ],
+  "aliases": [
+    "cell-tower"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

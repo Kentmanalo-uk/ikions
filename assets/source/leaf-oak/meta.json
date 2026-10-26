@@ -1,0 +1,23 @@
+{
+  "name": "leaf-oak",
+  "title": "Oak Leaf",
+  "category": "weather",
+  "description": "Represents an oak leaf, woodland or autumn foliage.",
+  "tags": [
+    "oak",
+    "autumn",
+    "fall",
+    "foliage",
+    "woodland",
+    "nature",
+    "tree"
+  ],
+  "aliases": [
+    "oak-leaf"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

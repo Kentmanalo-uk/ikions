@@ -1,0 +1,23 @@
+{
+  "name": "pencil-case",
+  "title": "Pencil Case",
+  "category": "education",
+  "description": "A zipped pencil case holding pens and pencils for school supplies.",
+  "tags": [
+    "pouch",
+    "school supplies",
+    "stationery",
+    "pens",
+    "pencils",
+    "zipper"
+  ],
+  "aliases": [
+    "pencil-pouch",
+    "pencil-bag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

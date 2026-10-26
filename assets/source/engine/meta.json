@@ -1,0 +1,23 @@
+{
+  "name": "engine",
+  "title": "Engine",
+  "category": "transport",
+  "description": "Represents a vehicle engine, motor diagnostics or a check-engine warning.",
+  "tags": [
+    "motor",
+    "check engine",
+    "mechanic",
+    "car repair",
+    "diagnostics",
+    "vehicle"
+  ],
+  "aliases": [
+    "motor-block",
+    "car-engine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "send-horizontal",
+  "title": "Send Horizontal",
+  "category": "communication",
+  "description": "Send a message, with the paper plane pointing to the right.",
+  "tags": [
+    "send",
+    "submit",
+    "message",
+    "paper plane",
+    "deliver",
+    "chat"
+  ],
+  "aliases": [
+    "send-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

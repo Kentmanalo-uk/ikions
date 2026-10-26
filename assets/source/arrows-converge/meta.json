@@ -1,0 +1,22 @@
+{
+  "name": "arrows-converge",
+  "title": "Arrows Converge",
+  "category": "arrows",
+  "description": "Two arrows meeting at a centre line, for bringing things together.",
+  "tags": [
+    "converge",
+    "inward",
+    "collapse",
+    "join",
+    "focus",
+    "center"
+  ],
+  "aliases": [
+    "arrows-inward"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

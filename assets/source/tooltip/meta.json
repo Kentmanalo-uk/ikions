@@ -1,0 +1,22 @@
+{
+  "name": "tooltip",
+  "title": "Tooltip",
+  "category": "interface",
+  "description": "Show a short hint in a small box that points at an element.",
+  "tags": [
+    "hint",
+    "popover",
+    "help",
+    "hover",
+    "callout",
+    "info"
+  ],
+  "aliases": [
+    "hover-hint"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "checkpoint",
+  "title": "Checkpoint",
+  "category": "maps",
+  "description": "A striped barrier gate for checkpoints, border control and controlled access.",
+  "tags": [
+    "barrier",
+    "gate",
+    "border control",
+    "boom gate",
+    "toll",
+    "control point"
+  ],
+  "aliases": [
+    "barrier-gate",
+    "boom-barrier"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

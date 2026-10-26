@@ -1,0 +1,22 @@
+{
+  "name": "donut",
+  "title": "Donut",
+  "category": "food",
+  "description": "Represent a donut, such as a sweet pastry, a bakery or a coffee break treat.",
+  "tags": [
+    "doughnut",
+    "pastry",
+    "bakery",
+    "sweet",
+    "dessert",
+    "snack"
+  ],
+  "aliases": [
+    "doughnut"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

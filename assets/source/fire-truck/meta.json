@@ -1,0 +1,23 @@
+{
+  "name": "fire-truck",
+  "title": "Fire Truck",
+  "category": "transport",
+  "description": "A fire engine with a ladder, for fire services and emergency response.",
+  "tags": [
+    "fire",
+    "firefighter",
+    "engine",
+    "emergency",
+    "rescue",
+    "ladder",
+    "911"
+  ],
+  "aliases": [
+    "fire-engine"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "comment",
+  "title": "Comment",
+  "category": "communication",
+  "description": "Add or view a comment on a post or document.",
+  "tags": [
+    "feedback",
+    "note",
+    "remark",
+    "reply",
+    "discussion",
+    "annotation"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

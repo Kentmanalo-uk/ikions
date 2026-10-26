@@ -1,0 +1,19 @@
+{
+  "name": "caret-right",
+  "title": "Caret Right",
+  "category": "arrows",
+  "description": "Small triangle pointing right: open a menu, sort or indicate direction.",
+  "tags": [
+    "caret",
+    "triangle",
+    "dropdown",
+    "sort",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

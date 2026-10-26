@@ -1,0 +1,24 @@
+{
+  "name": "route",
+  "title": "Route",
+  "category": "maps",
+  "description": "Show a path between two points or plan a journey.",
+  "tags": [
+    "path",
+    "directions",
+    "journey",
+    "trip",
+    "itinerary",
+    "waypoint",
+    "road"
+  ],
+  "aliases": [
+    "directions",
+    "path"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

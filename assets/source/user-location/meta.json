@@ -1,0 +1,23 @@
+{
+  "name": "user-location",
+  "title": "User Location",
+  "category": "people",
+  "description": "Show where a person is, share a live location or find nearby people.",
+  "tags": [
+    "location",
+    "map",
+    "nearby",
+    "pin",
+    "where",
+    "check-in"
+  ],
+  "aliases": [
+    "person-location",
+    "user-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

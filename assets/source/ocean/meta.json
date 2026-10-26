@@ -1,0 +1,23 @@
+{
+  "name": "ocean",
+  "title": "Ocean",
+  "category": "weather",
+  "description": "Rolling sea waves for the ocean, sea and open water.",
+  "tags": [
+    "sea",
+    "water",
+    "waves",
+    "beach",
+    "marine",
+    "tide",
+    "nature"
+  ],
+  "aliases": [
+    "sea"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

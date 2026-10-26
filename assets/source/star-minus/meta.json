@@ -1,0 +1,22 @@
+{
+  "name": "star-minus",
+  "title": "Star Minus",
+  "category": "social",
+  "description": "Remove a star.",
+  "tags": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "remove",
+    "subtract",
+    "star"
+  ],
+  "aliases": [
+    "remove-star"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

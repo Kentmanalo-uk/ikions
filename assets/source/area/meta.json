@@ -1,0 +1,23 @@
+{
+  "name": "area",
+  "title": "Area",
+  "category": "maps",
+  "description": "A polygon with corner points for measuring or drawing an area on a map.",
+  "tags": [
+    "polygon",
+    "region",
+    "measure area",
+    "surface",
+    "plot",
+    "zone"
+  ],
+  "aliases": [
+    "map-area",
+    "polygon-area"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

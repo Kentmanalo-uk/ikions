@@ -1,0 +1,22 @@
+{
+  "name": "arrow-fork-left",
+  "title": "Arrow Fork Left",
+  "category": "arrows",
+  "description": "A road that forks in two, keeping to the left branch.",
+  "tags": [
+    "fork",
+    "keep left",
+    "branch",
+    "junction",
+    "navigation",
+    "road"
+  ],
+  "aliases": [
+    "keep-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

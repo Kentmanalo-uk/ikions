@@ -1,0 +1,27 @@
+{
+  "name": "save",
+  "title": "Save",
+  "category": "interface",
+  "description": "Save the current document or changes.",
+  "tags": [
+    "floppy",
+    "disk",
+    "store",
+    "keep",
+    "write",
+    "document",
+    "floppy disk",
+    "save",
+    "download"
+  ],
+  "aliases": [
+    "save-disk",
+    "save-to-disk",
+    "write-to-disk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

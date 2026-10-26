@@ -1,0 +1,21 @@
+{
+  "name": "calendar-settings",
+  "title": "Calendar Settings",
+  "category": "time",
+  "description": "Settings and preferences for a calendar.",
+  "tags": [
+    "date",
+    "schedule",
+    "event",
+    "settings",
+    "preferences",
+    "configure",
+    "calendar"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

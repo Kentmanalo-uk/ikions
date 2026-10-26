@@ -1,0 +1,22 @@
+{
+  "name": "panel-right-close",
+  "title": "Panel Right Close",
+  "category": "interface",
+  "description": "Close or hide the right side panel.",
+  "tags": [
+    "inspector",
+    "close",
+    "collapse",
+    "hide",
+    "drawer",
+    "panel"
+  ],
+  "aliases": [
+    "hide-right-panel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

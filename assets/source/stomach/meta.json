@@ -1,0 +1,22 @@
+{
+  "name": "stomach",
+  "title": "Stomach",
+  "category": "health",
+  "description": "Represent the stomach, digestion or gastroenterology.",
+  "tags": [
+    "digestion",
+    "gastroenterology",
+    "gut",
+    "belly",
+    "abdomen",
+    "organ"
+  ],
+  "aliases": [
+    "gastric"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

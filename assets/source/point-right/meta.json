@@ -1,0 +1,23 @@
+{
+  "name": "point-right",
+  "title": "Point Right",
+  "category": "people",
+  "description": "Point to the right to direct attention or show the next step.",
+  "tags": [
+    "point",
+    "right",
+    "finger",
+    "direction",
+    "next",
+    "attention"
+  ],
+  "aliases": [
+    "finger-right",
+    "index-right"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

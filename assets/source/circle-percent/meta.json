@@ -1,0 +1,19 @@
+{
+  "name": "circle-percent",
+  "title": "Circle Percent",
+  "category": "shapes",
+  "description": "Percent in a circle: a percentage, discount or rate.",
+  "tags": [
+    "circle",
+    "percent",
+    "discount",
+    "rate",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

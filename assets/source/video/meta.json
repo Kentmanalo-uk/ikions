@@ -1,0 +1,24 @@
+{
+  "name": "video",
+  "title": "Video",
+  "category": "media",
+  "description": "Record or play video, or open a video camera.",
+  "tags": [
+    "camera",
+    "camcorder",
+    "record",
+    "movie",
+    "clip",
+    "stream",
+    "film"
+  ],
+  "aliases": [
+    "video-camera",
+    "camcorder"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

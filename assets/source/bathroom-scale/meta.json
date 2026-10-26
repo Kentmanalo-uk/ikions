@@ -1,0 +1,23 @@
+{
+  "name": "bathroom-scale",
+  "title": "Bathroom Scale",
+  "category": "health",
+  "description": "Track body weight on a bathroom scale or log a weigh-in.",
+  "tags": [
+    "body weight",
+    "bathroom scale",
+    "weigh in",
+    "bmi",
+    "fitness",
+    "diet"
+  ],
+  "aliases": [
+    "weight-scale",
+    "body-weight"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

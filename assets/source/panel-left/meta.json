@@ -1,0 +1,23 @@
+{
+  "name": "panel-left",
+  "title": "Panel Left",
+  "category": "interface",
+  "description": "Toggle a panel docked to the left edge of the window.",
+  "tags": [
+    "sidebar",
+    "panel",
+    "drawer",
+    "navigation",
+    "layout",
+    "pane"
+  ],
+  "aliases": [
+    "left-panel",
+    "dock-left"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

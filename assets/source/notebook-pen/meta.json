@@ -1,0 +1,23 @@
+{
+  "name": "notebook-pen",
+  "title": "Notebook Pen",
+  "category": "education",
+  "description": "A notebook with a pen for taking notes, journaling or writing homework.",
+  "tags": [
+    "notes",
+    "write",
+    "journal",
+    "diary",
+    "homework",
+    "note taking"
+  ],
+  "aliases": [
+    "notebook-with-pen",
+    "take-notes"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

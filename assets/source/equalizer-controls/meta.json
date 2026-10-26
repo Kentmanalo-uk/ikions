@@ -1,0 +1,23 @@
+{
+  "name": "equalizer-controls",
+  "title": "Equalizer Controls",
+  "category": "interface",
+  "description": "Adjust audio levels with a set of vertical mixer faders.",
+  "tags": [
+    "mixer",
+    "faders",
+    "audio",
+    "levels",
+    "eq",
+    "sound"
+  ],
+  "aliases": [
+    "faders",
+    "mixing-desk"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

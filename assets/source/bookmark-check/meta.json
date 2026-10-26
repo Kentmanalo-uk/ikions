@@ -1,0 +1,22 @@
+{
+  "name": "bookmark-check",
+  "title": "Bookmark Check",
+  "category": "social",
+  "description": "Bookmark confirmed, completed or verified.",
+  "tags": [
+    "save",
+    "later",
+    "ribbon",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "bookmark"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

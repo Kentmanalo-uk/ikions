@@ -1,0 +1,23 @@
+{
+  "name": "graphics-tablet",
+  "title": "Graphics Tablet",
+  "category": "devices",
+  "description": "A drawing tablet with a pen for digital art.",
+  "tags": [
+    "drawing",
+    "wacom",
+    "pen tablet",
+    "digital art",
+    "design",
+    "illustration"
+  ],
+  "aliases": [
+    "drawing-tablet",
+    "pen-tablet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

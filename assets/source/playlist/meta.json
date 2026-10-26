@@ -1,0 +1,23 @@
+{
+  "name": "playlist",
+  "title": "Playlist",
+  "category": "media",
+  "description": "A list of tracks with a music note for playlists and queues.",
+  "tags": [
+    "queue",
+    "tracks",
+    "songs",
+    "list",
+    "music",
+    "album"
+  ],
+  "aliases": [
+    "music-list",
+    "track-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

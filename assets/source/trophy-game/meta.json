@@ -1,0 +1,23 @@
+{
+  "name": "trophy-game",
+  "title": "Trophy Game",
+  "category": "media",
+  "description": "Represents a gaming achievement or trophy unlocked in a game.",
+  "tags": [
+    "achievement",
+    "gaming",
+    "unlock",
+    "reward",
+    "win",
+    "level-up"
+  ],
+  "aliases": [
+    "game-achievement",
+    "gaming-trophy"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

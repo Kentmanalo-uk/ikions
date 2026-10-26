@@ -1,0 +1,23 @@
+{
+  "name": "auto-layout",
+  "title": "Auto Layout",
+  "category": "editing",
+  "description": "Stack items automatically in a direction with even spacing.",
+  "tags": [
+    "stack",
+    "flex",
+    "layout",
+    "responsive",
+    "direction",
+    "flow"
+  ],
+  "aliases": [
+    "auto-stack",
+    "flex-layout"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

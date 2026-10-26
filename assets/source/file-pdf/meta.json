@@ -1,0 +1,21 @@
+{
+  "name": "file-pdf",
+  "title": "File PDF",
+  "category": "files",
+  "description": "Represents a PDF document ready to view, print or share.",
+  "tags": [
+    "pdf",
+    "document",
+    "portable",
+    "print",
+    "export"
+  ],
+  "aliases": [
+    "pdf-file"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

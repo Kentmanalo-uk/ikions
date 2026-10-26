@@ -1,0 +1,22 @@
+{
+  "name": "file-clock",
+  "title": "File Clock",
+  "category": "files",
+  "description": "A scheduled, pending or recent file.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

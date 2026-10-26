@@ -1,0 +1,23 @@
+{
+  "name": "oil-can",
+  "title": "Oil Can",
+  "category": "transport",
+  "description": "Represents engine oil, lubrication or an oil-pressure warning.",
+  "tags": [
+    "oil",
+    "lubricant",
+    "oil change",
+    "maintenance",
+    "oil pressure",
+    "garage"
+  ],
+  "aliases": [
+    "oiler",
+    "engine-oil"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "customer",
+  "title": "Customer",
+  "category": "people",
+  "description": "Represent a shopper or client, such as a customer account or profile.",
+  "tags": [
+    "shopper",
+    "client",
+    "buyer",
+    "consumer",
+    "shopping",
+    "crm"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "folder-heart",
+  "title": "Folder Heart",
+  "category": "files",
+  "description": "A liked or favourite folder.",
+  "tags": [
+    "directory",
+    "files",
+    "storage",
+    "liked",
+    "favorite",
+    "love",
+    "folder"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

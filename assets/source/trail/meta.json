@@ -1,0 +1,23 @@
+{
+  "name": "trail",
+  "title": "Trail",
+  "category": "maps",
+  "description": "Shows a winding hiking trail leading into the distance past a tree.",
+  "tags": [
+    "hiking",
+    "footpath",
+    "nature",
+    "walk",
+    "outdoors",
+    "trek"
+  ],
+  "aliases": [
+    "hiking-trail",
+    "footpath"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

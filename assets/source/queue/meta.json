@@ -1,0 +1,23 @@
+{
+  "name": "queue",
+  "title": "Queue",
+  "category": "development",
+  "description": "Represents a message or job queue where items wait in order to be processed.",
+  "tags": [
+    "fifo",
+    "jobs",
+    "messages",
+    "pipeline",
+    "buffer",
+    "worker"
+  ],
+  "aliases": [
+    "message-queue",
+    "job-queue"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

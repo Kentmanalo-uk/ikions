@@ -1,0 +1,25 @@
+{
+  "name": "trophy",
+  "title": "Trophy",
+  "category": "sports",
+  "description": "Celebrate a win, award or top achievement.",
+  "tags": [
+    "award",
+    "cup",
+    "winner",
+    "prize",
+    "achievement",
+    "champion",
+    "leaderboard",
+    "victory"
+  ],
+  "aliases": [
+    "award",
+    "prize"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

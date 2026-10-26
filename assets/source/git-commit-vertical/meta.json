@@ -1,0 +1,22 @@
+{
+  "name": "git-commit-vertical",
+  "title": "Git Commit Vertical",
+  "category": "development",
+  "description": "A single commit on a vertical history line.",
+  "tags": [
+    "git",
+    "commit",
+    "history",
+    "timeline",
+    "revision",
+    "node"
+  ],
+  "aliases": [
+    "commit-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

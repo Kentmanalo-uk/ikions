@@ -1,0 +1,23 @@
+{
+  "name": "pin",
+  "title": "Pin",
+  "category": "interface",
+  "description": "Pin an item so it stays at the top or in place.",
+  "tags": [
+    "pushpin",
+    "stick",
+    "keep",
+    "favorite",
+    "attach",
+    "fix"
+  ],
+  "aliases": [
+    "pushpin",
+    "thumbtack"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

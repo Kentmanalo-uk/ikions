@@ -1,0 +1,23 @@
+{
+  "name": "map-search",
+  "title": "Map Search",
+  "category": "maps",
+  "description": "A folded map with a magnifying glass for searching places and addresses.",
+  "tags": [
+    "search",
+    "find place",
+    "lookup",
+    "explore",
+    "address",
+    "locate"
+  ],
+  "aliases": [
+    "search-map",
+    "find-on-map"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

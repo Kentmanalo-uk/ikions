@@ -1,0 +1,22 @@
+{
+  "name": "toggle-off",
+  "title": "Toggle Off",
+  "category": "interface",
+  "description": "Show a switch in its off position to disable a setting.",
+  "tags": [
+    "switch",
+    "disabled",
+    "off",
+    "setting",
+    "preference",
+    "inactive"
+  ],
+  "aliases": [
+    "switch-off"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

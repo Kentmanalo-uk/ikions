@@ -1,0 +1,23 @@
+{
+  "name": "credit-card-plus",
+  "title": "Credit Card Plus",
+  "category": "finance",
+  "description": "Add a new credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "add",
+    "new",
+    "create",
+    "credit"
+  ],
+  "aliases": [
+    "add-credit-card"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

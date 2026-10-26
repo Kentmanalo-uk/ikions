@@ -1,0 +1,24 @@
+{
+  "name": "unlock",
+  "title": "Unlock",
+  "category": "security",
+  "description": "Indicate unlocked content or remove a lock from an item.",
+  "tags": [
+    "unlocked",
+    "open",
+    "access",
+    "unsecure",
+    "public",
+    "padlock",
+    "permission"
+  ],
+  "aliases": [
+    "unlocked",
+    "open-lock"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

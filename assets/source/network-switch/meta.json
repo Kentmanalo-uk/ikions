@@ -1,0 +1,23 @@
+{
+  "name": "network-switch",
+  "title": "Network Switch",
+  "category": "devices",
+  "description": "Represents a network switch that forwards traffic between connected devices.",
+  "tags": [
+    "ethernet",
+    "lan",
+    "ports",
+    "networking",
+    "hub",
+    "infrastructure"
+  ],
+  "aliases": [
+    "ethernet-switch",
+    "lan-switch"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

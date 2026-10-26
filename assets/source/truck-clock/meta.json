@@ -1,0 +1,22 @@
+{
+  "name": "truck-clock",
+  "title": "Truck Clock",
+  "category": "commerce",
+  "description": "A scheduled, pending or recent truck.",
+  "tags": [
+    "delivery",
+    "shipping",
+    "shipment",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "truck"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "building",
+  "title": "Building",
+  "category": "buildings",
+  "description": "Represent an office, company, apartment block or workplace.",
+  "tags": [
+    "office",
+    "company",
+    "business",
+    "apartment",
+    "workplace",
+    "organization",
+    "city",
+    "tower"
+  ],
+  "aliases": [
+    "company"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

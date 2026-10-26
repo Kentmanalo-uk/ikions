@@ -1,0 +1,22 @@
+{
+  "name": "align-middle",
+  "title": "Align Middle",
+  "category": "interface",
+  "description": "Align the selected objects along their vertical centres.",
+  "tags": [
+    "align",
+    "center",
+    "vertical center",
+    "objects",
+    "layout",
+    "design"
+  ],
+  "aliases": [
+    "align-vertical-center"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

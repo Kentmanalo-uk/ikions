@@ -1,0 +1,23 @@
+{
+  "name": "spacing",
+  "title": "Spacing",
+  "category": "editing",
+  "description": "Set the gap between items in a layout.",
+  "tags": [
+    "gap",
+    "gutter",
+    "space",
+    "layout",
+    "distance",
+    "between"
+  ],
+  "aliases": [
+    "gap",
+    "item-spacing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

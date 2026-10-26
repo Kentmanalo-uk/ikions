@@ -1,0 +1,22 @@
+{
+  "name": "ticket-check",
+  "title": "Ticket Check",
+  "category": "transport",
+  "description": "Ticket confirmed, completed or verified.",
+  "tags": [
+    "admission",
+    "pass",
+    "boarding-pass",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "ticket"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

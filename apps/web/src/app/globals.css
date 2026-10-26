@@ -1,0 +1,654 @@
+@import "tailwindcss";
+
+/*
+ * Ikions design tokens. Every colour in the interface comes from these
+ * variables; Tailwind utilities map onto them through @theme below.
+ *
+ * Accessibility adjustments to the brand palette (WCAG 2.2 AA):
+ *  - Secondary text uses #6A6C72 (5.0:1 on the page) instead of #72747A
+ *    (4.47:1), which is kept as --color-faint for non-text decoration.
+ *  - In dark mode accent text uses #8F8FFF; #5555E8 is only 3.4:1 there.
+ *    Accent fills keep #5555E8 so white labels stay above 4.5:1.
+ */
+:root {
+  --bg: #fafaf8;
+  --surface: #ffffff;
+  --elevated: #ffffff;
+  --subtle: #f2f2ef;
+  --line: #e8e8e4;
+  --line-strong: #d6d6d0;
+  --text: #18191b;
+  --text-2: #6a6c72;
+  --faint: #72747a;
+  --accent: #5555e8;
+  --accent-hover: #4444cf;
+  --accent-text: #4747d6;
+  --accent-contrast: #ffffff;
+  --selected: #eeeeff;
+  --success: #1f7a4d;
+  --danger: #b42318;
+  --code-bg: #f4f4f1;
+  --shadow: 0 1px 2px rgb(24 25 27 / 0.04), 0 8px 24px -12px rgb(24 25 27 / 0.12);
+  /* Borderless cards: a whisper of depth instead of an outline. */
+  --card-shadow: 0 1px 2px rgb(24 25 27 / 0.04), 0 6px 20px -10px rgb(24 25 27 / 0.1);
+  --checker: #e9e9e5;
+
+  /* Syntax colours for sugar-high */
+  --sh-class: #7a3fd1;
+  --sh-identifier: #18191b;
+  --sh-sign: #8b8d93;
+  --sh-property: #3b3bc4;
+  --sh-entity: #0f6f7c;
+  --sh-jsxliterals: #3b3bc4;
+  --sh-string: #1f7a4d;
+  --sh-keyword: #c2185b;
+  --sh-comment: #8b8d93;
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #121316;
+  --surface: #1b1c20;
+  --elevated: #24252a;
+  --subtle: #202126;
+  --line: #303137;
+  --line-strong: #3d3e45;
+  --text: #f5f5f2;
+  --text-2: #a1a2aa;
+  --faint: #8a8b93;
+  --accent: #5555e8;
+  --accent-hover: #4a4adb;
+  --accent-text: #8f8fff;
+  --accent-contrast: #ffffff;
+  --selected: #26264a;
+  --success: #4cc38a;
+  --danger: #ff7b72;
+  --code-bg: #17181b;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 12px 32px -16px rgb(0 0 0 / 0.6);
+  --card-shadow: 0 1px 2px rgb(0 0 0 / 0.25), 0 8px 24px -14px rgb(0 0 0 / 0.5);
+  --checker: #2a2b31;
+
+  --sh-class: #c39bff;
+  --sh-identifier: #f5f5f2;
+  --sh-sign: #8a8b93;
+  --sh-property: #a5a5ff;
+  --sh-entity: #6fd3df;
+  --sh-jsxliterals: #a5a5ff;
+  --sh-string: #7fd8a5;
+  --sh-keyword: #ff8fb8;
+  --sh-comment: #7d7e86;
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-elevated: var(--elevated);
+  --color-subtle: var(--subtle);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-ink: var(--text);
+  --color-ink-2: var(--text-2);
+  --color-faint: var(--faint);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-text: var(--accent-text);
+  --color-accent-contrast: var(--accent-contrast);
+  --color-selected: var(--selected);
+  --color-success: var(--success);
+  --color-danger: var(--danger);
+  --color-code: var(--code-bg);
+
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --shadow-soft: var(--shadow);
+  --shadow-card: var(--card-shadow);
+  --radius-ik: 10px;
+}
+
+@layer base {
+  html {
+    background: var(--bg);
+    color: var(--text);
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    min-height: 100dvh;
+  }
+
+  ::selection {
+    background: var(--selected);
+    color: var(--text);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+
+  button,
+  [role="button"],
+  summary {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  dialog {
+    color: inherit;
+  }
+
+  dialog::backdrop {
+    background: rgb(18 19 22 / 0.4);
+    backdrop-filter: blur(2px);
+  }
+}
+
+/* Theme switching fades colours without animating layout. */
+html.theme-transition,
+html.theme-transition *,
+html.theme-transition *::before,
+html.theme-transition *::after {
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease,
+    fill 180ms ease,
+    stroke 180ms ease !important;
+}
+
+/* Icon swap between Outline and Filled. */
+@keyframes ik-pop {
+  from {
+    opacity: 0.2;
+    transform: scale(0.88);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.ik-swap {
+  animation: ik-pop 220ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes ik-rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.ik-rise {
+  animation: ik-rise 200ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes ik-sheet {
+  from {
+    transform: translateY(24px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.ik-sheet {
+  animation: ik-sheet 220ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes ik-drawer {
+  from {
+    transform: translateX(16px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.ik-drawer {
+  animation: ik-drawer 200ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+/*
+ * Morphing headings (MorphText): each character is an icon, then another icon,
+ * then the letter. The letter stays in normal flow (only opacity and transform
+ * animate), so headings never shift layout. --d is the per-character stagger.
+ * Animations run only under [data-play]; [data-armed] hides letters until a
+ * below-the-fold heading scrolls into view.
+ */
+/*
+ * Each character is a one-cell grid: the letter and its icons share the cell,
+ * aligned on the text baseline and centred over the letter. --s (set per
+ * character) sizes the icon to the letter it replaces. Large negative inline
+ * margins stop icons from widening the cell, so nothing shifts.
+ */
+.ik-morph-char {
+  display: inline-grid;
+  align-items: baseline;
+  justify-items: center;
+}
+
+.ik-morph-char > * {
+  grid-area: 1 / 1;
+}
+
+.ik-morph-glyph,
+.ik-morph-hover {
+  width: var(--s, 0.52em);
+  height: var(--s, 0.52em);
+  margin-inline: -2em;
+  opacity: 0;
+  pointer-events: none;
+  color: var(--accent);
+  will-change: transform, opacity;
+}
+
+.ik-morph-glyph.ik-morph-second {
+  color: var(--text);
+}
+
+.ik-morph-letter {
+  display: inline-block;
+}
+
+@keyframes ik-glyph {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  35% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+}
+
+@keyframes ik-letter {
+  0% {
+    opacity: 0;
+    transform: translateY(0.1em) scale(0.86);
+    filter: blur(4px);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+/* Scroll-triggered headings wait, hidden, until they play (JS-enabled pages only). */
+[data-js] .ik-morph[data-trigger="view"]:not([data-play]) .ik-morph-letter {
+  opacity: 0;
+}
+
+.ik-morph[data-play] .ik-morph-first {
+  animation: ik-glyph 300ms cubic-bezier(0.22, 1, 0.36, 1) var(--d) both;
+}
+
+.ik-morph[data-play] .ik-morph-second {
+  animation: ik-glyph 300ms cubic-bezier(0.22, 1, 0.36, 1) calc(var(--d) + 240ms) both;
+}
+
+.ik-morph[data-play] .ik-morph-letter {
+  animation: ik-letter 260ms cubic-bezier(0.22, 1, 0.36, 1) calc(var(--d) + 480ms) both;
+}
+
+.ik-morph[data-play] .ik-morph-letter.ik-morph-quick {
+  animation-delay: calc(var(--d) + 240ms);
+}
+
+/*
+ * Hover: the letter under the pointer turns into its icon. Returning to the
+ * letter waits briefly, so a sweep across a heading leaves a short trail.
+ */
+.ik-morph-face {
+  display: inline-block;
+  will-change: transform, opacity;
+  transition:
+    opacity 140ms ease-out 120ms,
+    transform 180ms cubic-bezier(0.22, 1, 0.36, 1) 120ms;
+}
+
+.ik-morph-hover {
+  transform: scale(0.55);
+  transition:
+    opacity 120ms ease-out 120ms,
+    transform 180ms cubic-bezier(0.22, 1, 0.36, 1) 120ms;
+}
+
+@media (hover: hover) {
+  .ik-morph-char:hover .ik-morph-face {
+    opacity: 0;
+    transform: scale(0.7);
+    transition-delay: 0s;
+  }
+
+  .ik-morph-char:hover .ik-morph-hover {
+    opacity: 1;
+    transform: scale(1);
+    transition-delay: 0s;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ik-morph-glyph {
+    display: none;
+  }
+
+  .ik-morph .ik-morph-letter {
+    opacity: 1 !important;
+    animation: none !important;
+  }
+}
+
+/*
+ * Homepage category cards: each icon holds both variants in one cell; hovering
+ * or focusing the card flips Outline → Filled in a ripple (--fd stagger).
+ */
+.ik-flip {
+  display: grid;
+}
+
+.ik-flip > * {
+  grid-area: 1 / 1;
+  transition:
+    opacity 180ms ease-out,
+    transform 240ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition-delay: var(--fd, 0ms);
+}
+
+.ik-flip > .ik-flip-filled {
+  opacity: 0;
+  transform: scale(0.6);
+}
+
+.group:focus-visible .ik-flip > .ik-flip-outline {
+  opacity: 0;
+  transform: scale(0.6);
+}
+
+.group:focus-visible .ik-flip > .ik-flip-filled {
+  opacity: 1;
+  transform: none;
+}
+
+@media (hover: hover) {
+  .group:hover .ik-flip > .ik-flip-outline {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+
+  .group:hover .ik-flip > .ik-flip-filled {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/*
+ * Hero backdrop: soft glows in the brand's indigo, peach and pink behind the
+ * product window.
+ */
+.ik-hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.ik-hero-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(36rem 26rem at 78% 38%, color-mix(in oklab, var(--accent) 16%, transparent), transparent 70%),
+    radial-gradient(22rem 16rem at 92% 70%, color-mix(in oklab, #ffb25e 14%, transparent), transparent 70%),
+    radial-gradient(24rem 18rem at 12% 8%, color-mix(in oklab, #ff8ac2 8%, transparent), transparent 70%);
+}
+
+:root[data-theme="dark"] .ik-hero-bg::after {
+  background:
+    radial-gradient(36rem 26rem at 78% 38%, color-mix(in oklab, var(--accent) 20%, transparent), transparent 70%),
+    radial-gradient(24rem 18rem at 12% 8%, color-mix(in oklab, #ff8ac2 6%, transparent), transparent 70%);
+}
+
+/* Secondary page headers: a lighter version of the hero glow behind the title. */
+.ik-page-glow {
+  position: absolute;
+  z-index: -1;
+  left: -12rem;
+  top: -8rem;
+  width: 48rem;
+  height: 22rem;
+  pointer-events: none;
+  background:
+    radial-gradient(22rem 12rem at 35% 55%, color-mix(in oklab, var(--accent) 12%, transparent), transparent 70%),
+    radial-gradient(16rem 9rem at 72% 35%, color-mix(in oklab, #ff8ac2 9%, transparent), transparent 70%);
+}
+
+/* Closing panel: a restrained accent glow behind the headline. */
+.ik-cta::before {
+  content: "";
+  position: absolute;
+  inset: -40% 10% auto;
+  height: 80%;
+  background: radial-gradient(closest-side, color-mix(in oklab, var(--accent) 16%, transparent), transparent);
+  pointer-events: none;
+}
+
+.ik-cta > * {
+  position: relative;
+}
+
+/* Drifting icon rows; edges fade out, hovering pauses. */
+.ik-marquee {
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+}
+
+@keyframes ik-marquee {
+  to {
+    transform: translateX(calc(-50% - 6px));
+  }
+}
+
+.ik-marquee-track {
+  display: flex;
+  width: max-content;
+  gap: 12px;
+  animation: ik-marquee 60s linear infinite;
+}
+
+.ik-marquee-reverse {
+  animation-direction: reverse;
+  animation-duration: 70s;
+}
+
+.ik-marquee:hover .ik-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ik-marquee-track {
+    animation: none;
+  }
+}
+
+/* Framework logos in "Works with": brand colour per theme. */
+.ik-brand-logo {
+  fill: var(--logo-light);
+}
+
+:root[data-theme="dark"] .ik-brand-logo {
+  fill: var(--logo-dark);
+}
+
+/* Large grids: let the browser skip layout and paint for off-screen tiles. */
+.ik-tile {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 104px;
+}
+
+.checkerboard {
+  background-color: var(--surface);
+  background-image:
+    linear-gradient(45deg, var(--checker) 25%, transparent 25%),
+    linear-gradient(-45deg, var(--checker) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, var(--checker) 75%),
+    linear-gradient(-45deg, transparent 75%, var(--checker) 75%);
+  background-size: 16px 16px;
+  background-position: 0 0, 0 8px, 8px -8px, -8px 0;
+}
+
+.grid-paper {
+  background-image:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-position: -1px -1px;
+}
+
+/* Code blocks (sugar-high output). */
+.code-block pre {
+  tab-size: 2;
+}
+
+/* Long-form documentation typography. */
+.prose-ik {
+  color: var(--text);
+  font-size: 15.5px;
+  line-height: 1.7;
+}
+
+.prose-ik > * + * {
+  margin-top: 1rem;
+}
+
+.prose-ik h1 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+
+.prose-ik h2 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  padding-top: 0.25rem;
+}
+
+.prose-ik h3 {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 1.75rem;
+}
+
+.prose-ik p,
+.prose-ik li {
+  color: var(--text);
+}
+
+.prose-ik a {
+  color: var(--accent-text);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.prose-ik a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.prose-ik ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+
+.prose-ik ol {
+  list-style: decimal;
+  padding-left: 1.25rem;
+}
+
+.prose-ik li + li {
+  margin-top: 0.35rem;
+}
+
+.prose-ik :not(pre) > code {
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  background: var(--subtle);
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 0.08em 0.35em;
+}
+
+.prose-ik table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  display: block;
+  overflow-x: auto;
+}
+
+.prose-ik th,
+.prose-ik td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.55rem 0.75rem 0.55rem 0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose-ik th {
+  font-weight: 600;
+  color: var(--text-2);
+  font-size: 13px;
+}
+
+.prose-ik blockquote {
+  border-left: 2px solid var(--accent);
+  padding-left: 1rem;
+  color: var(--text-2);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

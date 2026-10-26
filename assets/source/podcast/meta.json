@@ -1,0 +1,22 @@
+{
+  "name": "podcast",
+  "title": "Podcast",
+  "category": "media",
+  "description": "A podcast symbol with signal rings around a microphone head.",
+  "tags": [
+    "audio",
+    "episode",
+    "show",
+    "listen",
+    "broadcast",
+    "radio"
+  ],
+  "aliases": [
+    "podcasts"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

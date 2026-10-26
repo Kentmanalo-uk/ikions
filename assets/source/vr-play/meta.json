@@ -1,0 +1,23 @@
+{
+  "name": "vr-play",
+  "title": "VR Play",
+  "category": "media",
+  "description": "Represents playing immersive video or games in a virtual reality headset.",
+  "tags": [
+    "virtual-reality",
+    "headset",
+    "immersive",
+    "360",
+    "video",
+    "metaverse"
+  ],
+  "aliases": [
+    "play-vr",
+    "vr-video"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

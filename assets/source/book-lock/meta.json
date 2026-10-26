@@ -1,0 +1,22 @@
+{
+  "name": "book-lock",
+  "title": "Book Lock",
+  "category": "education",
+  "description": "A locked, private or protected book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "book"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

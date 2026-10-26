@@ -1,0 +1,22 @@
+{
+  "name": "tag-off",
+  "title": "Tag Off",
+  "category": "commerce",
+  "description": "Turn off, disable or mute the tag.",
+  "tags": [
+    "price",
+    "label",
+    "sale",
+    "off",
+    "disabled",
+    "unavailable"
+  ],
+  "aliases": [
+    "no-tag"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

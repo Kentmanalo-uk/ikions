@@ -1,0 +1,23 @@
+{
+  "name": "kick-scooter",
+  "title": "Kick Scooter",
+  "category": "transport",
+  "description": "Represents a kick scooter, e-scooter rental or micromobility.",
+  "tags": [
+    "scooter",
+    "e-scooter",
+    "micromobility",
+    "push scooter",
+    "ride",
+    "commute"
+  ],
+  "aliases": [
+    "push-scooter",
+    "e-scooter"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

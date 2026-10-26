@@ -1,0 +1,24 @@
+{
+  "name": "user-x",
+  "title": "User X",
+  "category": "people",
+  "description": "Delete, cancel or reject a user.",
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "user"
+  ],
+  "aliases": [
+    "delete-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

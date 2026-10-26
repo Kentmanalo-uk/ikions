@@ -1,0 +1,22 @@
+{
+  "name": "skip-back-10",
+  "title": "Skip Back 10",
+  "category": "media",
+  "description": "Jump back ten seconds in audio or video playback.",
+  "tags": [
+    "rewind",
+    "back",
+    "seconds",
+    "seek",
+    "replay",
+    "playback"
+  ],
+  "aliases": [
+    "back-10-seconds"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

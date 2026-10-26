@@ -1,0 +1,23 @@
+{
+  "name": "gallery",
+  "title": "Gallery",
+  "category": "media",
+  "description": "A large photo above a row of thumbnails for browsing image galleries.",
+  "tags": [
+    "photos",
+    "thumbnails",
+    "album",
+    "slideshow",
+    "browse",
+    "pictures"
+  ],
+  "aliases": [
+    "photo-gallery",
+    "image-gallery"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

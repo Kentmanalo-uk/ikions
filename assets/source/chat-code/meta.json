@@ -1,0 +1,21 @@
+{
+  "name": "chat-code",
+  "title": "Chat Code",
+  "category": "communication",
+  "description": "Share or discuss a code snippet in a chat.",
+  "tags": [
+    "message",
+    "code",
+    "developer",
+    "snippet",
+    "programming"
+  ],
+  "aliases": [
+    "code-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

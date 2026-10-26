@@ -1,0 +1,20 @@
+{
+  "name": "broccoli",
+  "title": "Broccoli",
+  "category": "food",
+  "description": "Represent broccoli, such as greens, vegetables or a healthy diet.",
+  "tags": [
+    "vegetable",
+    "greens",
+    "healthy",
+    "vegan",
+    "diet",
+    "veggie"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

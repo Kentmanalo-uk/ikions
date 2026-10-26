@@ -1,0 +1,23 @@
+{
+  "name": "inventory",
+  "title": "Inventory",
+  "category": "commerce",
+  "description": "Represents stock kept on warehouse shelves.",
+  "tags": [
+    "stock",
+    "shelves",
+    "storage",
+    "supplies",
+    "goods",
+    "rack"
+  ],
+  "aliases": [
+    "stock-shelves",
+    "stockroom"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

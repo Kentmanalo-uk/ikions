@@ -1,0 +1,23 @@
+{
+  "name": "checkout",
+  "title": "Checkout",
+  "category": "commerce",
+  "description": "Represents a cash register or point-of-sale checkout counter.",
+  "tags": [
+    "register",
+    "pos",
+    "cashier",
+    "till",
+    "payment",
+    "counter"
+  ],
+  "aliases": [
+    "point-of-sale",
+    "pos-register"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

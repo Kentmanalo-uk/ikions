@@ -1,0 +1,25 @@
+{
+  "name": "eraser",
+  "title": "Eraser",
+  "category": "editing",
+  "description": "Erase marks, clear part of a drawing or remove formatting.",
+  "tags": [
+    "erase",
+    "rubber",
+    "clear",
+    "remove",
+    "delete",
+    "undo",
+    "clean",
+    "draw"
+  ],
+  "aliases": [
+    "rubber",
+    "erase"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

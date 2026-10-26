@@ -1,0 +1,23 @@
+{
+  "name": "landmark-pin",
+  "title": "Landmark Pin",
+  "category": "maps",
+  "description": "A monument with a location pin for sights, attractions and points of interest.",
+  "tags": [
+    "landmark",
+    "attraction",
+    "sightseeing",
+    "monument",
+    "poi",
+    "tourism"
+  ],
+  "aliases": [
+    "poi-pin",
+    "sight-location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

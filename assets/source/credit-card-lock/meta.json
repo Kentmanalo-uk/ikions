@@ -1,0 +1,24 @@
+{
+  "name": "credit-card-lock",
+  "title": "Credit Card Lock",
+  "category": "finance",
+  "description": "A locked, private or protected credit card.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "locked",
+    "private",
+    "secure",
+    "protected",
+    "credit"
+  ],
+  "aliases": [
+    "card-lock"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

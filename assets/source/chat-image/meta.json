@@ -1,0 +1,22 @@
+{
+  "name": "chat-image",
+  "title": "Chat Image",
+  "category": "communication",
+  "description": "Send or receive a photo in a chat message.",
+  "tags": [
+    "message",
+    "photo",
+    "picture",
+    "attachment",
+    "media"
+  ],
+  "aliases": [
+    "image-message",
+    "photo-message"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "user-unfollow",
+  "title": "User Unfollow",
+  "category": "people",
+  "description": "Stop following a person or unsubscribe from a profile.",
+  "tags": [
+    "unfollow",
+    "unsubscribe",
+    "social",
+    "disconnect",
+    "profile",
+    "remove"
+  ],
+  "aliases": [
+    "unfollow-user"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

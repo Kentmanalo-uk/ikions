@@ -1,0 +1,23 @@
+{
+  "name": "cart-arrow",
+  "title": "Cart Arrow",
+  "category": "commerce",
+  "description": "Proceed from the shopping cart to the next step of checkout.",
+  "tags": [
+    "cart",
+    "checkout",
+    "proceed",
+    "continue",
+    "next",
+    "shopping"
+  ],
+  "aliases": [
+    "cart-forward",
+    "proceed-to-checkout"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

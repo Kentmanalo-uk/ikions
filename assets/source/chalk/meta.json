@@ -1,0 +1,22 @@
+{
+  "name": "chalk",
+  "title": "Chalk",
+  "category": "editing",
+  "description": "Draw or write with a stick of chalk.",
+  "tags": [
+    "chalkboard",
+    "blackboard",
+    "school",
+    "teach",
+    "draw",
+    "write"
+  ],
+  "aliases": [
+    "chalk-stick"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

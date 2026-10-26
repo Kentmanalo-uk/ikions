@@ -1,0 +1,23 @@
+{
+  "name": "shipping-label",
+  "title": "Shipping Label",
+  "category": "commerce",
+  "description": "A parcel label with an address and a barcode for sending a package.",
+  "tags": [
+    "shipping",
+    "address label",
+    "postage",
+    "parcel",
+    "dispatch",
+    "waybill"
+  ],
+  "aliases": [
+    "parcel-label",
+    "postage-label"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

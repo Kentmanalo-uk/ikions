@@ -1,0 +1,21 @@
+{
+  "name": "mail-forward",
+  "title": "Mail Forward",
+  "category": "communication",
+  "description": "Forward an email to someone else.",
+  "tags": [
+    "email",
+    "forward",
+    "share",
+    "envelope",
+    "redirect"
+  ],
+  "aliases": [
+    "forward-email"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

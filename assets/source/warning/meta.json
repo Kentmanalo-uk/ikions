@@ -1,0 +1,25 @@
+{
+  "name": "warning",
+  "title": "Warning",
+  "category": "status",
+  "description": "Flag a caution, risk or something that needs attention.",
+  "tags": [
+    "caution",
+    "danger",
+    "attention",
+    "exclamation",
+    "risk",
+    "triangle",
+    "hazard",
+    "important"
+  ],
+  "aliases": [
+    "caution",
+    "alert-triangle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

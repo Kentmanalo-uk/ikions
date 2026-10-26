@@ -1,0 +1,22 @@
+{
+  "name": "accordion",
+  "title": "Accordion",
+  "category": "interface",
+  "description": "Expand and collapse stacked sections of content.",
+  "tags": [
+    "collapse",
+    "expand",
+    "sections",
+    "panels",
+    "faq",
+    "disclosure"
+  ],
+  "aliases": [
+    "collapsible"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

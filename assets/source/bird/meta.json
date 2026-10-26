@@ -1,0 +1,24 @@
+{
+  "name": "bird",
+  "title": "Bird",
+  "category": "animals",
+  "description": "Represent birds, wildlife, birdwatching or nature.",
+  "tags": [
+    "animal",
+    "wildlife",
+    "nature",
+    "fly",
+    "tweet",
+    "songbird",
+    "pet",
+    "wings"
+  ],
+  "aliases": [
+    "songbird"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

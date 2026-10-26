@@ -1,0 +1,22 @@
+{
+  "name": "bag-check",
+  "title": "Bag Check",
+  "category": "commerce",
+  "description": "Bag confirmed, completed or verified.",
+  "tags": [
+    "shopping",
+    "purchase",
+    "buy",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "bag"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

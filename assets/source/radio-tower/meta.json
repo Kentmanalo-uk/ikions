@@ -1,0 +1,22 @@
+{
+  "name": "radio-tower",
+  "title": "Radio Tower",
+  "category": "communication",
+  "description": "Represent a radio mast or transmission tower.",
+  "tags": [
+    "mast",
+    "transmitter",
+    "signal",
+    "broadcast",
+    "antenna",
+    "station"
+  ],
+  "aliases": [
+    "transmission-tower"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

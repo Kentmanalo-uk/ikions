@@ -1,0 +1,23 @@
+{
+  "name": "coins-stack",
+  "title": "Coins Stack",
+  "category": "finance",
+  "description": "A side view of coins piled into a staggered stack.",
+  "tags": [
+    "coins",
+    "savings",
+    "cash",
+    "money",
+    "change",
+    "wealth"
+  ],
+  "aliases": [
+    "stacked-coins",
+    "coin-pile"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

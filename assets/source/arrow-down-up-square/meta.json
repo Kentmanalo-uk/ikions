@@ -1,0 +1,22 @@
+{
+  "name": "arrow-down-up-square",
+  "title": "Arrow Down Up Square",
+  "category": "arrows",
+  "description": "Opposing down and up arrows in a rounded square, for sorting or transfer.",
+  "tags": [
+    "sort",
+    "order",
+    "transfer",
+    "exchange",
+    "up",
+    "down"
+  ],
+  "aliases": [
+    "sort-square"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "map-pin",
+  "title": "Map Pin",
+  "category": "maps",
+  "description": "Mark a place, address or point of interest on a map.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "address",
+    "gps",
+    "destination",
+    "drop-pin"
+  ],
+  "aliases": [
+    "place",
+    "pin-location",
+    "location"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

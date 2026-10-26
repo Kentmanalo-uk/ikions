@@ -1,0 +1,23 @@
+{
+  "name": "mushroom",
+  "title": "Mushroom",
+  "category": "weather",
+  "description": "A mushroom with a spotted cap, for fungi and foraging.",
+  "tags": [
+    "mushroom",
+    "fungi",
+    "fungus",
+    "nature",
+    "forest",
+    "toadstool",
+    "foraging"
+  ],
+  "aliases": [
+    "toadstool"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

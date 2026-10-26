@@ -1,0 +1,22 @@
+{
+  "name": "mail",
+  "title": "Mail",
+  "category": "communication",
+  "description": "Send, read or compose an email message.",
+  "tags": [
+    "email",
+    "envelope",
+    "message",
+    "inbox",
+    "letter"
+  ],
+  "aliases": [
+    "email",
+    "envelope"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

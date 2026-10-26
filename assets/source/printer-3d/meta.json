@@ -1,0 +1,23 @@
+{
+  "name": "printer-3d",
+  "title": "3D Printer",
+  "category": "devices",
+  "description": "Represents a 3D printer building an object layer by layer.",
+  "tags": [
+    "3d printing",
+    "additive",
+    "maker",
+    "prototype",
+    "fabrication",
+    "filament"
+  ],
+  "aliases": [
+    "3d-printing",
+    "additive-manufacturing"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

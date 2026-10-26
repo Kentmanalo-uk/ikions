@@ -1,0 +1,22 @@
+{
+  "name": "garlic",
+  "title": "Garlic",
+  "category": "food",
+  "description": "Represent garlic, a garlic bulb, seasoning or cooking ingredients.",
+  "tags": [
+    "bulb",
+    "clove",
+    "seasoning",
+    "ingredient",
+    "cooking",
+    "vegetable"
+  ],
+  "aliases": [
+    "garlic-bulb"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

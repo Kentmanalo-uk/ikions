@@ -1,0 +1,22 @@
+{
+  "name": "map-pin-minus",
+  "title": "Map Pin Minus",
+  "category": "maps",
+  "description": "Remove a map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "remove",
+    "subtract",
+    "map"
+  ],
+  "aliases": [
+    "remove-map-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

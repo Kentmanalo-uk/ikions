@@ -1,0 +1,22 @@
+{
+  "name": "steering-wheel",
+  "title": "Steering Wheel",
+  "category": "transport",
+  "description": "A steering wheel, for driving, driving lessons and vehicle controls.",
+  "tags": [
+    "steering",
+    "drive",
+    "driver",
+    "wheel",
+    "driving-lesson",
+    "control"
+  ],
+  "aliases": [
+    "driving-wheel"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

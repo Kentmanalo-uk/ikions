@@ -1,0 +1,19 @@
+{
+  "name": "square-check",
+  "title": "Square Check",
+  "category": "shapes",
+  "description": "Check in a square: a completed or selected item.",
+  "tags": [
+    "square",
+    "check",
+    "done",
+    "selected",
+    "button"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

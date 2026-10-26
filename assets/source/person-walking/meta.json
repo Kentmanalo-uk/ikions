@@ -1,0 +1,22 @@
+{
+  "name": "person-walking",
+  "title": "Person Walking",
+  "category": "people",
+  "description": "Show a person walking, such as a walking route or step count.",
+  "tags": [
+    "walk",
+    "pedestrian",
+    "steps",
+    "stroll",
+    "commute",
+    "route"
+  ],
+  "aliases": [
+    "pedestrian-walking"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

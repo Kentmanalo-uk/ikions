@@ -1,0 +1,19 @@
+{
+  "name": "arrow-right-from-line",
+  "title": "Arrow Right From Line",
+  "category": "arrows",
+  "description": "Arrow moving right away from a line: lift, raise or move off an edge.",
+  "tags": [
+    "arrow",
+    "edge",
+    "move",
+    "lift",
+    "right"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

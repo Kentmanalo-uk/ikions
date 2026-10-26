@@ -1,0 +1,22 @@
+{
+  "name": "scroll-down",
+  "title": "Scroll Down",
+  "category": "interface",
+  "description": "Scroll the content down with the mouse wheel or a gesture.",
+  "tags": [
+    "mouse",
+    "wheel",
+    "scroll",
+    "page down",
+    "navigate",
+    "more"
+  ],
+  "aliases": [
+    "mouse-scroll-down"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "network",
+  "title": "Network",
+  "category": "development",
+  "description": "A network of connected nodes or machines.",
+  "tags": [
+    "network",
+    "nodes",
+    "topology",
+    "mesh",
+    "graph",
+    "connections"
+  ],
+  "aliases": [
+    "network-topology"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

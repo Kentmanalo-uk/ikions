@@ -1,0 +1,23 @@
+{
+  "name": "distribute-vertical",
+  "title": "Distribute Vertical",
+  "category": "interface",
+  "description": "Space the selected objects evenly along the vertical axis.",
+  "tags": [
+    "distribute",
+    "spacing",
+    "even",
+    "objects",
+    "layout",
+    "design"
+  ],
+  "aliases": [
+    "distribute-vertically",
+    "space-vertical"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "bike-lane",
+  "title": "Bike Lane",
+  "category": "transport",
+  "description": "Represents a bike lane, cycle path or bicycle-friendly route.",
+  "tags": [
+    "cycle lane",
+    "bicycle",
+    "cycling",
+    "bike path",
+    "route",
+    "commute"
+  ],
+  "aliases": [
+    "cycle-lane",
+    "bike-path"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

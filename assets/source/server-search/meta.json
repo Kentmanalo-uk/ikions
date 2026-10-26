@@ -1,0 +1,23 @@
+{
+  "name": "server-search",
+  "title": "Server Search",
+  "category": "devices",
+  "description": "Search for a server.",
+  "tags": [
+    "hosting",
+    "rack",
+    "datacenter",
+    "find",
+    "lookup",
+    "browse",
+    "server"
+  ],
+  "aliases": [
+    "find-server"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

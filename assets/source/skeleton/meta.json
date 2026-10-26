@@ -1,0 +1,22 @@
+{
+  "name": "skeleton",
+  "title": "Skeleton",
+  "category": "interface",
+  "description": "Show placeholder shapes while content is loading.",
+  "tags": [
+    "placeholder",
+    "loading",
+    "shimmer",
+    "ghost",
+    "wireframe",
+    "lazy"
+  ],
+  "aliases": [
+    "skeleton-loader"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

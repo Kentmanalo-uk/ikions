@@ -1,0 +1,22 @@
+{
+  "name": "framework",
+  "title": "Framework",
+  "category": "development",
+  "description": "Building blocks stacked into a reusable application framework.",
+  "tags": [
+    "framework",
+    "library",
+    "building blocks",
+    "foundation",
+    "stack",
+    "structure"
+  ],
+  "aliases": [
+    "building-blocks"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

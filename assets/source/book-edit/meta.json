@@ -1,0 +1,24 @@
+{
+  "name": "book-edit",
+  "title": "Book Edit",
+  "category": "education",
+  "description": "Edit or rename a book.",
+  "tags": [
+    "read",
+    "reading",
+    "library",
+    "edit",
+    "modify",
+    "rename",
+    "write",
+    "book"
+  ],
+  "aliases": [
+    "edit-book"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

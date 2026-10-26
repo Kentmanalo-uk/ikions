@@ -1,0 +1,22 @@
+{
+  "name": "inbox-check",
+  "title": "Inbox Check",
+  "category": "communication",
+  "description": "Inbox confirmed, completed or verified.",
+  "tags": [
+    "messages",
+    "received",
+    "tray",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "inbox"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

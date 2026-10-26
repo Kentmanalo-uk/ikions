@@ -1,0 +1,24 @@
+{
+  "name": "hurricane",
+  "title": "Hurricane",
+  "category": "weather",
+  "description": "Represents a hurricane, cyclone or tropical storm warning.",
+  "tags": [
+    "storm",
+    "cyclone",
+    "typhoon",
+    "tropical",
+    "severe weather",
+    "warning",
+    "wind"
+  ],
+  "aliases": [
+    "typhoon",
+    "cyclone"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

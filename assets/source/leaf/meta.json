@@ -1,0 +1,25 @@
+{
+  "name": "leaf",
+  "title": "Leaf",
+  "category": "weather",
+  "description": "Represent nature, ecology, plants or eco-friendly choices.",
+  "tags": [
+    "nature",
+    "eco",
+    "plant",
+    "green",
+    "ecology",
+    "sustainable",
+    "organic",
+    "autumn"
+  ],
+  "aliases": [
+    "eco",
+    "foliage"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

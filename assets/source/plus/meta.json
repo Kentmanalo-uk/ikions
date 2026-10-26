@@ -1,0 +1,21 @@
+{
+  "name": "plus",
+  "title": "Plus",
+  "category": "interface",
+  "description": "Add a new item, create content or increase a value.",
+  "tags": [
+    "add",
+    "new",
+    "create",
+    "increase",
+    "more"
+  ],
+  "aliases": [
+    "add"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.1.0"
+}

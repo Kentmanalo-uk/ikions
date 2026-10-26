@@ -1,0 +1,22 @@
+{
+  "name": "meteor",
+  "title": "Meteor",
+  "category": "weather",
+  "description": "A meteor streaking across the sky with a fiery trail.",
+  "tags": [
+    "meteor",
+    "shooting star",
+    "space",
+    "asteroid",
+    "astronomy",
+    "sky"
+  ],
+  "aliases": [
+    "shooting-star"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

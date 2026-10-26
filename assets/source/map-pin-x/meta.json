@@ -1,0 +1,24 @@
+{
+  "name": "map-pin-x",
+  "title": "Map Pin X",
+  "category": "maps",
+  "description": "Delete, cancel or reject a map pin.",
+  "tags": [
+    "location",
+    "marker",
+    "place",
+    "delete",
+    "cancel",
+    "close",
+    "error",
+    "map"
+  ],
+  "aliases": [
+    "delete-map-pin"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "list-ordered",
+  "title": "List Ordered",
+  "category": "editing",
+  "description": "Create a numbered list of items.",
+  "tags": [
+    "numbers",
+    "list",
+    "ordered",
+    "numbered",
+    "steps",
+    "sequence"
+  ],
+  "aliases": [
+    "numbered-list",
+    "ordered-list"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

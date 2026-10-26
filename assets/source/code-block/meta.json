@@ -1,0 +1,23 @@
+{
+  "name": "code-block",
+  "title": "Code Block",
+  "category": "editing",
+  "description": "Insert a block of preformatted code.",
+  "tags": [
+    "code",
+    "snippet",
+    "pre",
+    "developer",
+    "markdown",
+    "monospace"
+  ],
+  "aliases": [
+    "codeblock",
+    "preformatted"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

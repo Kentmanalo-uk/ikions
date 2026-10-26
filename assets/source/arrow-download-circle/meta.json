@@ -1,0 +1,22 @@
+{
+  "name": "arrow-download-circle",
+  "title": "Arrow Download Circle",
+  "category": "arrows",
+  "description": "A down arrow onto a line inside a circle, for downloading.",
+  "tags": [
+    "download",
+    "save",
+    "import",
+    "get",
+    "receive",
+    "down"
+  ],
+  "aliases": [
+    "download-circle"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

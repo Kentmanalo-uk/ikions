@@ -1,0 +1,23 @@
+{
+  "name": "radio-button",
+  "title": "Radio Button",
+  "category": "interface",
+  "description": "An empty radio button for an unselected choice in a group.",
+  "tags": [
+    "radio",
+    "option",
+    "choice",
+    "unselected",
+    "form",
+    "control"
+  ],
+  "aliases": [
+    "radio-unchecked",
+    "radio-empty"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

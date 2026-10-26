@@ -1,0 +1,23 @@
+{
+  "name": "chat-lock-closed",
+  "title": "Chat Locked",
+  "category": "communication",
+  "description": "A private, end-to-end encrypted conversation.",
+  "tags": [
+    "message",
+    "private",
+    "secure",
+    "encrypted",
+    "locked"
+  ],
+  "aliases": [
+    "private-chat",
+    "secure-chat",
+    "encrypted-chat"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

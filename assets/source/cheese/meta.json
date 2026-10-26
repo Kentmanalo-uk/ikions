@@ -1,0 +1,22 @@
+{
+  "name": "cheese",
+  "title": "Cheese",
+  "category": "food",
+  "description": "Represent cheese, such as dairy, a cheese wedge or a deli counter.",
+  "tags": [
+    "dairy",
+    "wedge",
+    "swiss",
+    "deli",
+    "snack",
+    "pizza"
+  ],
+  "aliases": [
+    "cheese-wedge"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

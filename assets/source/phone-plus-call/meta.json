@@ -1,0 +1,21 @@
+{
+  "name": "phone-plus-call",
+  "title": "Phone Plus",
+  "category": "communication",
+  "description": "Add a call, a new contact or a phone number.",
+  "tags": [
+    "call",
+    "add",
+    "new",
+    "contact",
+    "conference"
+  ],
+  "aliases": [
+    "add-call"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

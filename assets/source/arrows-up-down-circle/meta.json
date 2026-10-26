@@ -1,0 +1,20 @@
+{
+  "name": "arrows-up-down-circle",
+  "title": "Arrows Up Down Circle",
+  "category": "arrows",
+  "description": "A two-way vertical arrow inside a circle, for vertical resizing or scrolling.",
+  "tags": [
+    "vertical",
+    "resize",
+    "scroll",
+    "up",
+    "down",
+    "height"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

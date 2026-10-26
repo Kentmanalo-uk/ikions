@@ -1,0 +1,22 @@
+{
+  "name": "regex",
+  "title": "Regex",
+  "category": "development",
+  "description": "A regular expression pattern, shown as dot and asterisk.",
+  "tags": [
+    "regex",
+    "regular expression",
+    "pattern",
+    "match",
+    "search",
+    "wildcard"
+  ],
+  "aliases": [
+    "regular-expression"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

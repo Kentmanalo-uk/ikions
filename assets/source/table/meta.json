@@ -1,0 +1,22 @@
+{
+  "name": "table",
+  "title": "Table",
+  "category": "interface",
+  "description": "Show data in rows and columns with a header.",
+  "tags": [
+    "grid",
+    "data",
+    "spreadsheet",
+    "cells",
+    "rows",
+    "columns"
+  ],
+  "aliases": [
+    "data-grid"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

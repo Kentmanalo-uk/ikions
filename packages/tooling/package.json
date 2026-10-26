@@ -1,0 +1,34 @@
+{
+  "name": "@ikions/tooling",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Ikions asset pipeline: SVG validation, optimization, package and metadata generation.",
+  "license": "MIT",
+  "scripts": {
+    "validate": "tsx src/cli/validate.ts",
+    "build:assets": "tsx src/cli/build.ts",
+    "sheet": "tsx src/cli/sheet.ts",
+    "new-icon": "tsx src/cli/new-icon.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "visual": "tsx src/cli/visual.ts",
+    "roadmap": "tsx src/cli/roadmap.ts",
+    "plan": "tsx src/cli/plan.ts",
+    "families": "tsx src/cli/families.ts",
+    "dupes": "tsx src/cli/dupes.ts",
+    "watch": "tsx src/cli/watch.ts"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "svgo": "^4.1.0",
+    "svgson": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "paper": "^0.12.18",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

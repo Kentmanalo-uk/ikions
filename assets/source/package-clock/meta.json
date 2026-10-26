@@ -1,0 +1,22 @@
+{
+  "name": "package-clock",
+  "title": "Package Clock",
+  "category": "commerce",
+  "description": "A scheduled, pending or recent package.",
+  "tags": [
+    "parcel",
+    "box",
+    "shipment",
+    "scheduled",
+    "pending",
+    "recent",
+    "time",
+    "package"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

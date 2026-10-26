@@ -1,0 +1,22 @@
+{
+  "name": "file-alert",
+  "title": "File Alert",
+  "category": "files",
+  "description": "File with a warning or problem that needs attention.",
+  "tags": [
+    "document",
+    "page",
+    "paper",
+    "warning",
+    "error",
+    "attention",
+    "problem",
+    "file"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

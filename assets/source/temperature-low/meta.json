@@ -1,0 +1,23 @@
+{
+  "name": "temperature-low",
+  "title": "Temperature Low",
+  "category": "weather",
+  "description": "A thermometer with a falling arrow for cold or dropping temperatures.",
+  "tags": [
+    "temperature",
+    "cold",
+    "chilly",
+    "winter",
+    "freezing",
+    "falling",
+    "weather"
+  ],
+  "aliases": [
+    "cold"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

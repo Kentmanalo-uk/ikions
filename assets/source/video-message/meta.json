@@ -1,0 +1,21 @@
+{
+  "name": "video-message",
+  "title": "Video Message",
+  "category": "communication",
+  "description": "Send or play a recorded video message.",
+  "tags": [
+    "video",
+    "message",
+    "clip",
+    "play",
+    "recording"
+  ],
+  "aliases": [
+    "video-note"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

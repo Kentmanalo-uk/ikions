@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.62c2.97 0 5.38 2.41 5.38 5.38c0 2.97-2.41 5.38-5.38 5.38c-2.97 0-5.38-2.41-5.38-5.38c0-2.97 2.41-5.38 5.38-5.38zM8.75 12.01c0 1.53 1.07 2.82 2.5 3.16v-6.33c-1.43 0.34-2.5 1.62-2.5 3.16z"/>
+  <circle cx="12" cy="3.5" r="1.5"/>
+  <circle cx="18.01" cy="5.99" r="1.5"/>
+  <circle cx="20.5" cy="12" r="1.5"/>
+  <circle cx="18.01" cy="18.01" r="1.5"/>
+  <circle cx="12" cy="20.5" r="1.5"/>
+  <circle cx="5.99" cy="18.01" r="1.5"/>
+  <circle cx="3.5" cy="12" r="1.5"/>
+  <circle cx="5.99" cy="5.99" r="1.5"/>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "loading-dots",
+  "title": "Loading Dots",
+  "category": "interface",
+  "description": "Show that content is loading or someone is typing.",
+  "tags": [
+    "loading",
+    "typing",
+    "waiting",
+    "progress",
+    "busy",
+    "pending"
+  ],
+  "aliases": [
+    "typing-indicator"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

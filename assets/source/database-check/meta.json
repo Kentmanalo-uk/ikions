@@ -1,0 +1,22 @@
+{
+  "name": "database-check",
+  "title": "Database Check",
+  "category": "development",
+  "description": "Database confirmed, completed or verified.",
+  "tags": [
+    "data",
+    "storage",
+    "sql",
+    "done",
+    "approved",
+    "verified",
+    "success",
+    "database"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "money-receive",
+  "title": "Money Receive",
+  "category": "finance",
+  "description": "Receive money or record an incoming payment.",
+  "tags": [
+    "receive",
+    "income",
+    "deposit",
+    "incoming",
+    "payment",
+    "collect",
+    "earnings",
+    "sales",
+    "money in",
+    "turnover"
+  ],
+  "aliases": [
+    "receive-money",
+    "incoming-payment",
+    "revenue",
+    "income",
+    "money-in"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "geofence",
+  "title": "Geofence",
+  "category": "maps",
+  "description": "A location pin inside a dashed boundary for geofenced zones and location triggers.",
+  "tags": [
+    "geofencing",
+    "boundary",
+    "zone",
+    "perimeter",
+    "radius",
+    "location trigger"
+  ],
+  "aliases": [
+    "location-fence",
+    "virtual-boundary"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

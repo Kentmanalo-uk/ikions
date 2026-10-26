@@ -1,0 +1,23 @@
+{
+  "name": "wallet-plus",
+  "title": "Wallet Plus",
+  "category": "finance",
+  "description": "Add a new wallet.",
+  "tags": [
+    "payment",
+    "pay",
+    "money",
+    "add",
+    "new",
+    "create",
+    "wallet"
+  ],
+  "aliases": [
+    "add-wallet"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

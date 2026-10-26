@@ -1,0 +1,20 @@
+{
+  "name": "chopsticks",
+  "title": "Chopsticks",
+  "category": "food",
+  "description": "Represent chopsticks, Asian cuisine, sushi or noodles.",
+  "tags": [
+    "asian",
+    "sushi",
+    "noodles",
+    "japanese",
+    "chinese",
+    "eating"
+  ],
+  "aliases": [],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}

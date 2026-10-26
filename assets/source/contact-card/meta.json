@@ -1,0 +1,22 @@
+{
+  "name": "contact-card",
+  "title": "Contact Card",
+  "category": "people",
+  "description": "Open an address book entry or a saved contact.",
+  "tags": [
+    "contacts",
+    "address book",
+    "phonebook",
+    "person",
+    "directory"
+  ],
+  "aliases": [
+    "contact-book",
+    "rolodex"
+  ],
+  "variants": [
+    "outline",
+    "filled"
+  ],
+  "added": "0.2.0"
+}
