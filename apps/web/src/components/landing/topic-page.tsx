@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { FaqList } from "@/components/landing/faq";
 import { MorphText } from "@/components/landing/morph-heading";
 import { buttonClass } from "@/components/ui/button";
 import { CodeBlock } from "@/components/ui/code-block";
 import { IconGallery } from "@/components/ui/icon-gallery";
 import { getIcon, stats, withNodes, type IconMetadata } from "@/lib/catalog";
 import { absoluteUrl } from "@/lib/site";
-import { faqGraph, jsonLd } from "@/lib/structured-data";
+import { jsonLd } from "@/lib/structured-data";
 import { POPULAR_ICONS, TOPICS, type Topic } from "@/lib/topics";
 
 export function topicMetadata(slug: Topic["slug"]): Metadata {
@@ -36,7 +35,6 @@ export function TopicPage({ slug }: { slug: Topic["slug"] }) {
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(breadcrumbs)} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqGraph(topic.faqs))} />
 
       <header className="relative isolate max-w-3xl">
         <div className="ik-page-glow" aria-hidden="true" />
@@ -89,15 +87,6 @@ export function TopicPage({ slug }: { slug: Topic["slug"] }) {
         </div>
         <div className="mt-6">
           <IconGallery icons={withNodes(popular.map(({ name, title }) => ({ name, title })))} />
-        </div>
-      </section>
-
-      <section className="mt-16" aria-labelledby="topic-faq-heading">
-        <h2 id="topic-faq-heading" className="text-center font-display text-[26px] font-semibold tracking-[-0.03em]">
-          {topic.heading}: questions
-        </h2>
-        <div className="mt-6">
-          <FaqList faqs={topic.faqs} />
         </div>
       </section>
 

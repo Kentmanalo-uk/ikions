@@ -1,4 +1,4 @@
-# Ikions — Free Open-Source SVG Icon Library
+# Ikions — Free SVG Icon Library
 
 **Every interface deserves a better icon.**
 
@@ -9,7 +9,7 @@
 
 **[Browse and download the icons → ikions.cloud](https://www.ikions.cloud)**
 
-Ikions is a **free, open-source icon library** with **1,900+ original SVG icons**. Every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair, under the **MIT License**, free for personal and commercial use with no attribution required.
+Ikions is a **free icon library** with **1,900+ original SVG icons**. Every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair, under the **MIT License**, free for personal and commercial use with no attribution required.
 
 - **Free and MIT licensed:** use it in websites, apps, products, slides and client work.
 - **Two styles per icon:** Outline (1.75 stroke, round caps) and Filled (solid silhouettes with real cutouts).
@@ -30,7 +30,7 @@ Each icon is also available as a raw SVG URL:
 <img src="https://www.ikions.cloud/api/v1/icons/camera/outline.svg" width="24" height="24" alt="Camera" />
 ```
 
-The React, Vue and Svelte packages live in [`packages/`](packages) and will be published to npm as `@ikions/react`, `@ikions/vue` and `@ikions/svelte`. They are not on npm yet.
+React, Vue and Svelte packages (`@ikions/react`, `@ikions/vue`, `@ikions/svelte`) are being prepared for npm.
 
 Made by [Mike Fernandez](https://www.ikions.cloud/#developer-heading) · [Instagram @dvbmike](https://www.instagram.com/dvbmike/)
 
@@ -129,7 +129,7 @@ Environment variables (all optional):
 | Variable | Purpose |
 | --- | --- |
 | `NEXT_PUBLIC_SITE_URL` | Canonical origin for metadata, sitemap and Open Graph URLs. Defaults to `https://www.ikions.cloud` in production |
-| `NEXT_PUBLIC_GITHUB_URL` | Public repository URL for the header and footer links. Defaults to this repository |
+| `NEXT_PUBLIC_GITHUB_URL` | Optional repository link for the header and footer; hidden when unset |
 
 Any Node.js host works (Vercel, a container, a VPS). Serve over HTTPS; the app already sends CSP, HSTS and other security headers (see `apps/web/next.config.ts`). The `/api/v1/search` endpoint has an in-memory rate limiter per instance; put a shared limiter or WAF rule in front when running multiple instances.
 

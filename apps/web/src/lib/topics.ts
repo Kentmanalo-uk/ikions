@@ -1,9 +1,7 @@
 /**
  * Landing pages for the searches people make when looking for an icon
  * library ("free react icons", "free svg icons"…). Each has its own copy,
- * example and FAQ so it is a useful page in its own right, not a doorway.
- * Package status is stated honestly: the component packages are in the
- * repository but not yet on npm.
+ * example and popular icons, so it is a useful page in its own right.
  */
 import type { LanguageName } from "sugar-high";
 
@@ -16,11 +14,7 @@ export interface Topic {
   steps: string[];
   example: { label: string; lang: LanguageName; code: string };
   docs: { href: string; label: string };
-  faqs: { question: string; answer: string }[];
 }
-
-const PACKAGE_NOTE =
-  "The component packages live in the open-source repository and are being prepared for npm; until they are published, copy the code for any icon straight from its page.";
 
 export const TOPICS: Topic[] = [
   {
@@ -51,17 +45,6 @@ export function Toolbar() {
 }`,
     },
     docs: { href: "/docs/react", label: "React guide" },
-    faqs: [
-      {
-        question: "Are these React icons free for commercial projects?",
-        answer: "Yes. Ikions is MIT licensed, so you can use the icons in commercial React and Next.js apps without attribution.",
-      },
-      {
-        question: "Do the React icons work with Next.js and server components?",
-        answer: "Yes. The components render plain SVG with no client-side JavaScript, so they work in server components, SSR and static export.",
-      },
-      { question: "How do I install the React icons?", answer: PACKAGE_NOTE },
-    ],
   },
   {
     slug: "vue-icons",
@@ -90,11 +73,6 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
 </template>`,
     },
     docs: { href: "/docs/vue", label: "Vue guide" },
-    faqs: [
-      { question: "Are these Vue icons free?", answer: "Yes. Every icon is free under the MIT License for personal and commercial Vue and Nuxt projects." },
-      { question: "Do the Vue icons support Nuxt and SSR?", answer: "Yes. The components output plain SVG, so they render on the server and hydrate without extra setup." },
-      { question: "How do I install the Vue icons?", answer: PACKAGE_NOTE },
-    ],
   },
   {
     slug: "svelte-icons",
@@ -121,11 +99,6 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
 </nav>`,
     },
     docs: { href: "/docs/svelte", label: "Svelte guide" },
-    faqs: [
-      { question: "Are these Svelte icons free?", answer: "Yes. Ikions icons are MIT licensed and free for personal and commercial Svelte and SvelteKit projects." },
-      { question: "Do they work with SvelteKit SSR?", answer: "Yes. The components render plain SVG markup that works on the server and in the browser." },
-      { question: "How do I install the Svelte icons?", answer: PACKAGE_NOTE },
-    ],
   },
   {
     slug: "svg-icons",
@@ -153,11 +126,6 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
 </button>`,
     },
     docs: { href: "/docs/html", label: "Plain HTML & SVG guide" },
-    faqs: [
-      { question: "Are these SVG icons free to download?", answer: "Yes. Every icon can be downloaded as SVG or PNG for free and used commercially under the MIT License." },
-      { question: "Can I change the colour of the SVG icons?", answer: "Yes. Outline icons use currentColor, so they follow your CSS text colour; you can also set a colour or gradient on the site before downloading." },
-      { question: "Can I use the icons in Figma or slides?", answer: "Yes. Download SVG for Figma, Sketch or Illustrator, or PNG at the size you need for slides and documents." },
-    ],
   },
 ];
 

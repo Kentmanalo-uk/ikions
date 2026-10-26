@@ -4,7 +4,6 @@ import { FeatureDemo } from "@/components/landing/feature-demo";
 import { FrameworkTabs, type FrameworkTab } from "@/components/landing/framework-tabs";
 import { LogoMark, Wordmark } from "@/components/layout/logo";
 import { HeroSearch } from "@/components/landing/hero-search";
-import { FaqList, homeFaqs } from "@/components/landing/faq";
 import { MeetDeveloper } from "@/components/landing/meet-developer";
 import { MorphHeading, MorphText } from "@/components/landing/morph-heading";
 import { Showcase } from "@/components/landing/showcase";
@@ -12,7 +11,7 @@ import { buttonClass } from "@/components/ui/button";
 import { CodeBlock } from "@/components/ui/code-block";
 import { IkIcon } from "@/components/ui/ik-icon";
 import { FRAMEWORK_LOGOS } from "@/lib/framework-logos";
-import { faqGraph, jsonLd, libraryGraph } from "@/lib/structured-data";
+import { jsonLd, libraryGraph } from "@/lib/structured-data";
 import { categories, getCategoryIcons, getIcon, icons, stats, withNodes, type CategoryMetadata, type IconMetadata } from "@/lib/catalog";
 
 const SHOWCASE = [
@@ -141,12 +140,9 @@ export default function HomePage() {
     (c): c is (typeof categories)[number] => Boolean(c),
   );
 
-  const faqs = homeFaqs({ icons: stats.icons, categories: stats.categories });
-
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(libraryGraph(stats))} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqGraph(faqs))} />
       {/* Hero — atmospheric backdrop, copy and search on the left, the product window on the right. */}
       <div className="relative isolate overflow-hidden">
         <div className="ik-hero-bg" aria-hidden="true" />
@@ -154,7 +150,7 @@ export default function HomePage() {
         <div>
           <MorphHeading className="font-display text-[48px] font-semibold leading-[1.02] tracking-[-0.045em] sm:text-[60px] lg:text-[64px]" />
           <p className="mt-6 max-w-lg text-[17.5px] leading-[1.7] text-ink-2">
-            A free, open-source library of {stats.icons.toLocaleString("en")} original SVG icons in Outline and Filled
+            A free library of {stats.icons.toLocaleString("en")} original SVG icons in Outline and Filled
             styles — MIT licensed for personal and commercial projects, with React, Vue and Svelte components.
           </p>
           <div className="mt-7 flex flex-wrap gap-2.5">
@@ -302,18 +298,6 @@ export default function HomePage() {
         </h2>
         <div className="mt-10">
           <MeetDeveloper />
-        </div>
-      </section>
-
-      {/* FAQ — the questions people (and AI assistants) ask about a free icon library. */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="faq-heading">
-        <MorphText
-          id="faq-heading"
-          lines={["Questions, answered"]}
-          className="text-center font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] text-balance sm:text-[40px]"
-        />
-        <div className="mt-10">
-          <FaqList faqs={faqs} />
         </div>
       </section>
 

@@ -33,7 +33,6 @@
     "icon library",
     "free icons",
     "svg icons",
-    "open source icons",
     "outline icons",
     "filled icons",
     "ikions",
@@ -50,13 +49,5 @@
     "vitest": "^3.2.7"
   },
   "homepage": "https://www.ikions.cloud",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kentmanalo-uk/ikions.git",
-    "directory": "packages/metadata"
-  },
-  "bugs": {
-    "url": "https://github.com/Kentmanalo-uk/ikions/issues"
-  },
   "author": "Mike Fernandez"
 }

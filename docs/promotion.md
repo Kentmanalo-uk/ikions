@@ -7,15 +7,14 @@ What is already built into the site, and what only you can do, in priority order
 | What | Where |
 | --- | --- |
 | Canonical URLs, sitemap, robots and Open Graph point to `https://www.ikions.cloud` (they pointed to `localhost` before) | `apps/web/src/lib/site.ts` |
-| Keyword-rich titles and descriptions ("free", "open source", "SVG", "React/Vue/Svelte", "MIT") | `layout.tsx`, icon pages, home hero |
-| Structured data: WebSite + site search box, Organization, Person, SoftwareSourceCode (free, MIT), FAQPage, per-icon ImageObject with licence (the "Licensable" badge in Google Images), breadcrumbs | `apps/web/src/lib/structured-data.ts` |
-| Visible FAQ on the home page, written to be quoted by AI assistants | `components/landing/faq.tsx` |
+| Keyword-rich titles and descriptions ("free", "SVG", "React/Vue/Svelte", "MIT") | `layout.tsx`, icon pages, home hero |
+| Structured data: WebSite + site search box, Organization, Person, SoftwareApplication (free, MIT), per-icon ImageObject with licence (the "Licensable" badge in Google Images), breadcrumbs | `apps/web/src/lib/structured-data.ts` |
 | `/llms.txt` and `/llms-full.txt`: plain-text guides for ChatGPT, Claude, Perplexity and others | `apps/web/src/app/llms*.txt` |
 | `robots.txt` explicitly welcomes AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended…) | `apps/web/src/app/robots.ts` |
 | Sitemap with every icon's SVG as an image entry | `apps/web/src/app/sitemap.ts` |
 | IndexNow (Bing, which also powers ChatGPT search and Copilot; Yandex; Seznam; Naver) | `pnpm --filter @ikions/web indexnow` |
-| Web manifest, GitHub links in header and footer, README and npm keywords | various |
-| Landing pages for high-intent searches: `/react-icons`, `/vue-icons`, `/svelte-icons`, `/svg-icons`, each with its own copy, example, popular icons and FAQ schema | `lib/topics.ts`, `components/landing/topic-page.tsx` |
+| Web manifest, README and npm keywords | various |
+| Landing pages for high-intent searches: `/react-icons`, `/vue-icons`, `/svelte-icons`, `/svg-icons`, each with its own copy, example and popular icons | `lib/topics.ts`, `components/landing/topic-page.tsx` |
 | Category and collection pages: "Free … Icons (count)" titles, CollectionPage + ItemList + BreadcrumbList schema | `app/categories/[slug]`, `app/collections/[slug]` |
 | Footer "Free icons" column linking the landing pages from every page | `components/layout/footer.tsx` |
 | `/search` set to `noindex` (it duplicates the explorer) and removed from the sitemap | `app/search/page.tsx` |
@@ -40,20 +39,9 @@ pnpm build
 pnpm --filter "./packages/{icons,metadata,react,vue,svelte}" publish --access public
 ```
 
-Then update the README and the FAQ answer about npm (both currently say "not on npm yet").
+Then update the README, which says the packages are being prepared for npm.
 
-## 3. GitHub repository settings
-
-On github.com/Kentmanalo-uk/ikions → ⚙ next to *About*:
-
-- **Description:** `Free, open-source SVG icon library — 1,900+ original icons in Outline and Filled. MIT. React, Vue, Svelte.`
-- **Website:** `https://www.ikions.cloud`
-- **Topics:** `icons` `icon-library` `svg-icons` `free-icons` `open-source` `react-icons` `vue-icons` `svelte-icons` `icon-pack` `ui-icons` `outline-icons` `design-system` `svg` `mit-license`
-- Settings → *Social preview*: upload a 1280×640 image (the home page Open Graph image works).
-
-Stars drive GitHub search ranking and "trending". Ask friends who use it to star it.
-
-## 4. Launch posts (one per day, not all at once)
+## 3. Launch posts (one per day, not all at once)
 
 Be honest, reply to every comment, and never post the same text everywhere.
 
@@ -64,7 +52,7 @@ Be honest, reply to every comment, and never post the same text everywhere.
 
 **Hacker News** (Show HN)
 - Title: `Show HN: Ikions – 1,900 free, original SVG icons in Outline and Filled`
-- Text: what you built, why (consistent Outline *and* Filled pairs, original artwork), how the pipeline works (validation, duplicate detection, generated packages), and what feedback you want.
+- Text: what you built, why (consistent Outline *and* Filled pairs, original artwork), how you keep it consistent, and what feedback you want.
 
 **Reddit**: read each subreddit's self-promotion rules first.
 - r/webdev, r/web_design, r/SideProject: "I made a free icon library with 1,900 original icons in Outline and Filled. Feedback welcome."
@@ -75,14 +63,13 @@ Be honest, reply to every comment, and never post the same text everywhere.
 
 **Indie Hackers**: build-in-public post with real numbers.
 
-## 5. Directories and lists
+## 4. Directories and lists
 
 - **AlternativeTo:** add Ikions as an alternative to other popular icon libraries.
-- **"Awesome" lists on GitHub:** search GitHub for `awesome icons`, `awesome react components`, `awesome svelte` and `awesome vue`, then open a pull request adding one line, following each list's format.
 - Free-resource roundups: search "free icon libraries 2026" and email authors with a one-paragraph pitch.
 - Figma Community: publish the icons as a Figma file or plugin. Designers search there first.
 
-## 6. Keep it growing
+## 5. Keep it growing
 
 - Ship icons regularly and add a changelog entry each time. Fresh content gets recrawled.
 - Answer real questions on Stack Overflow and Reddit where Ikions genuinely fits (no spam).

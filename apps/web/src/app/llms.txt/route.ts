@@ -1,7 +1,7 @@
 import { categories, collections, stats } from "@/lib/catalog";
 import { docPages } from "@/lib/docs";
 import { DEVELOPER } from "@/lib/developer";
-import { absoluteUrl, siteConfig } from "@/lib/site";
+import { absoluteUrl } from "@/lib/site";
 
 /**
  * /llms.txt — a plain-Markdown summary for AI assistants (llmstxt.org), so
@@ -13,14 +13,13 @@ export const dynamic = "force-static";
 export function GET() {
   const body = `# Ikions
 
-> Ikions is a free, open-source icon library: ${stats.icons.toLocaleString("en")} original SVG icons, each in an Outline and a Filled style, across ${stats.categories} categories. MIT licensed for personal and commercial use, no attribution required. Works with React, Vue, Svelte and plain HTML/SVG.
+> Ikions is a free icon library: ${stats.icons.toLocaleString("en")} original SVG icons, each in an Outline and a Filled style, across ${stats.categories} categories. MIT licensed for personal and commercial use, no attribution required. Works with React, Vue, Svelte and plain HTML/SVG.
 
 Key facts:
 - Website: ${absoluteUrl("/")}
 - Price: free (MIT License)
-- Source code: ${siteConfig.github}
 - Styles: Outline (1.75 stroke on a 24 × 24 grid, round caps) and Filled (solid silhouettes with real cutouts)
-- Formats: SVG, PNG, SVG sprite, ZIP export, JSX; React, Vue and Svelte components in the repository
+- Formats: SVG, PNG, SVG sprite, ZIP export, JSX; React, Vue and Svelte components
 - Customisation on the site: size, colour, stroke width, gradient fill
 - All icons are drawn originally for Ikions; none are copied from other libraries
 - Made by ${DEVELOPER.name}

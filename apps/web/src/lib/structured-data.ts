@@ -36,7 +36,6 @@ export function siteGraph() {
         url: absoluteUrl("/"),
         logo: { "@type": "ImageObject", url: absoluteUrl("/icon.svg") },
         founder: { "@id": PERSON_ID },
-        sameAs: [siteConfig.github],
       },
       {
         "@type": "Person",
@@ -53,31 +52,18 @@ export function siteGraph() {
 export function libraryGraph({ icons, categories }: { icons: number; categories: number }) {
   return {
     "@context": "https://schema.org",
-    "@type": "SoftwareSourceCode",
+    "@type": "SoftwareApplication",
     name: "Ikions icon library",
     description: `${icons.toLocaleString("en")} free, original SVG icons in Outline and Filled across ${categories} categories, with React, Vue and Svelte components. MIT licensed for personal and commercial use.`,
     url: absoluteUrl("/"),
-    codeRepository: siteConfig.github,
-    programmingLanguage: ["TypeScript", "SVG"],
-    runtimePlatform: ["React", "Vue", "Svelte", "HTML"],
+    applicationCategory: "DesignApplication",
+    operatingSystem: "Web",
     license: "https://opensource.org/licenses/MIT",
     isAccessibleForFree: true,
     offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
     keywords: siteConfig.keywords.join(", "),
     author: { "@id": PERSON_ID },
     publisher: { "@id": ORG_ID },
-  };
-}
-
-export function faqGraph(faqs: { question: string; answer: string }[]) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: faqs.map((f) => ({
-      "@type": "Question",
-      name: f.question,
-      acceptedAnswer: { "@type": "Answer", text: f.answer },
-    })),
   };
 }
 
