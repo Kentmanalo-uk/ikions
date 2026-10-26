@@ -1,5 +1,9 @@
 import Image from "next/image";
+import { IkIcon } from "@/components/ui/ik-icon";
 import { DEVELOPER } from "@/lib/developer";
+
+const LINK =
+  "inline-flex h-11 items-center gap-2.5 rounded-full bg-subtle px-4 text-[15px] font-medium text-ink transition-colors hover:bg-selected hover:text-accent-text focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent";
 
 export function MeetDeveloper() {
   return (
@@ -17,14 +21,21 @@ export function MeetDeveloper() {
       <div className="text-center md:text-left">
         <h3 className="font-display text-[28px] font-semibold leading-[1.15] tracking-[-0.03em] sm:text-[32px]">{DEVELOPER.name}</h3>
         <p className="mt-2 text-[16px] leading-7 text-ink-2">{DEVELOPER.role}</p>
-        <ul className="mt-6 flex flex-wrap justify-center gap-2.5 md:justify-start" aria-label={`${DEVELOPER.name} on social media`}>
+        <ul className="mt-6 flex flex-wrap justify-center gap-2.5 md:justify-start" aria-label={`Contact ${DEVELOPER.name}`}>
+          <li>
+            <a href={`mailto:${DEVELOPER.email}`} className={LINK}>
+              <IkIcon name="mail" size={18} />
+              <span>{DEVELOPER.email}</span>
+              <span className="sr-only">(send an email)</span>
+            </a>
+          </li>
           {DEVELOPER.socials.map((social) => (
             <li key={social.network}>
               <a
                 href={social.href}
                 target="_blank"
                 rel="me noopener noreferrer"
-                className="inline-flex h-11 items-center gap-2.5 rounded-full bg-subtle px-4 text-[15px] font-medium text-ink transition-colors hover:bg-selected hover:text-accent-text focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
+                className={LINK}
               >
                 <svg width={18} height={18} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                   <path d={social.path} />

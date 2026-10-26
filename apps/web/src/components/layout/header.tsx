@@ -45,9 +45,7 @@ export function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-40 border-b transition-colors ${
-        scrolled ? "border-line bg-bg/85 backdrop-blur-md" : "border-transparent bg-bg"
-      }`}
+      className={`sticky top-0 z-40 transition-colors ${scrolled ? "bg-bg/85 backdrop-blur-md" : "bg-bg"}`}
     >
       <a
         href="#main"

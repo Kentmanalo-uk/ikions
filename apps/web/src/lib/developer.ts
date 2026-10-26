@@ -15,6 +15,7 @@ export const DEVELOPER = {
   name: "Mike Fernandez",
   role: "Designer & developer of Ikions",
   photo: "/developer/mike-fernandez-v2.jpg",
+  email: "fernandezmike404@gmail.com",
   socials: [
     {
       network: "Instagram",
