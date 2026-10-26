@@ -15,6 +15,11 @@ What is already built into the site, and what only you can do, in priority order
 | Sitemap with every icon's SVG as an image entry | `apps/web/src/app/sitemap.ts` |
 | IndexNow (Bing, which also powers ChatGPT search and Copilot; Yandex; Seznam; Naver) | `pnpm --filter @ikions/web indexnow` |
 | Web manifest, GitHub links in header and footer, README and npm keywords | various |
+| Landing pages for high-intent searches: `/react-icons`, `/vue-icons`, `/svelte-icons`, `/svg-icons`, each with its own copy, example, popular icons and FAQ schema | `lib/topics.ts`, `components/landing/topic-page.tsx` |
+| Category and collection pages: "Free … Icons (count)" titles, CollectionPage + ItemList + BreadcrumbList schema | `app/categories/[slug]`, `app/collections/[slug]` |
+| Footer "Free icons" column linking the landing pages from every page | `components/layout/footer.tsx` |
+| `/search` set to `noindex` (it duplicates the explorer) and removed from the sitemap | `app/search/page.tsx` |
+| Optional "Icons by Ikions" credit snippet on `/license` to encourage backlinks | `app/license/page.mdx` |
 
 ## 1. Search engines (this week)
 

@@ -102,6 +102,13 @@ export default async function IconPage({ params }: Props) {
           className="font-display text-[36px] font-semibold leading-[1.08] tracking-[-0.04em] sm:text-[44px]"
         />
         <p className="mt-2 text-[16px] leading-7 text-ink-2">{icon.description}</p>
+        <p className="mt-1 text-[14px] leading-6 text-ink-2">
+          Free {icon.title.toLowerCase()} icon in Outline and Filled ·{" "}
+          <Link href="/license" className="text-accent-text hover:underline">
+            MIT license
+          </Link>{" "}
+          · SVG, PNG, JSX and the <code className="font-mono text-[13px]">{icon.component}</code> component for React, Vue and Svelte.
+        </p>
       </header>
 
       <Workbench icon={{ name: icon.name, title: icon.title, component: icon.component }} nodes={nodes} />

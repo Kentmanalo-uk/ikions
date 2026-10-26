@@ -6,6 +6,7 @@ import { IconGallery } from "@/components/ui/icon-gallery";
 import { IkIcon } from "@/components/ui/ik-icon";
 import { PageHeader } from "@/components/ui/page-header";
 import { categories, getCategory, getCategoryIcons, withNodes } from "@/lib/catalog";
+import { collectionGraph, jsonLd } from "@/lib/structured-data";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -19,10 +20,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const category = getCategory(slug);
   if (!category) return {};
+  const title = `Free ${category.name} Icons (${category.count}) — SVG, Outline & Filled`;
+  const description = `${category.count} free ${category.name.toLowerCase()} icons in Outline and Filled, MIT licensed. ${category.description} Copy SVG or JSX, download SVG or PNG, or use React, Vue and Svelte components.`;
   return {
-    title: `${category.name} icons`,
-    description: `${category.count} original ${category.name.toLowerCase()} icons in Outline and Filled. ${category.description}`,
+    title: { absolute: `${title} | Ikions` },
+    description,
     alternates: { canonical: `/categories/${slug}` },
+    openGraph: { title, description, url: `/categories/${slug}` },
   };
 }
 
@@ -35,8 +39,17 @@ export default async function CategoryPage({ params }: Props) {
   const previous = categories[index - 1];
   const next = categories[index + 1];
 
+  const graph = collectionGraph({
+    name: `${category.name} icons`,
+    path: `/categories/${slug}`,
+    description: category.description,
+    icons,
+    trail: [{ name: "Categories", path: "/categories" }],
+  });
+
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(graph)} />
       <nav aria-label="Breadcrumb" className="mb-5 text-[13px] text-ink-2">
         <Link href="/categories" className="hover:text-ink">
           Categories

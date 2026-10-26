@@ -6,6 +6,15 @@ import { ThemeSelect } from "./theme-toggle";
 
 const sections = [
   {
+    title: "Free icons",
+    links: [
+      { href: "/react-icons", label: "React icons" },
+      { href: "/vue-icons", label: "Vue icons" },
+      { href: "/svelte-icons", label: "Svelte icons" },
+      { href: "/svg-icons", label: "SVG icons" },
+    ],
+  },
+  {
     title: "Product",
     links: [
       { href: "/icons", label: "Icon explorer" },
@@ -37,7 +46,7 @@ const sections = [
 export function Footer() {
   return (
     <footer className="mt-24 border-t border-line">
-      <div className="mx-auto grid max-w-[1440px] gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_repeat(3,1fr)]">
+      <div className="mx-auto grid max-w-[1440px] gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_repeat(4,1fr)]">
         <div className="max-w-xs">
           <Logo />
           <p className="mt-3 text-[14px] leading-6 text-ink-2">{siteConfig.tagline}</p>

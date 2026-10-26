@@ -81,6 +81,53 @@ export function faqGraph(faqs: { question: string; answer: string }[]) {
   };
 }
 
+/** A category or collection page: the page, the icons it lists, and its breadcrumb trail. */
+export function collectionGraph({
+  name,
+  path,
+  description,
+  icons,
+  trail,
+}: {
+  name: string;
+  path: string;
+  description: string;
+  icons: { name: string; title: string }[];
+  trail: { name: string; path: string }[];
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        name,
+        description,
+        url: absoluteUrl(path),
+        isPartOf: { "@id": SITE_ID },
+        mainEntity: {
+          "@type": "ItemList",
+          numberOfItems: icons.length,
+          itemListElement: icons.slice(0, 100).map((icon, i) => ({
+            "@type": "ListItem",
+            position: i + 1,
+            name: `${icon.title} icon`,
+            url: absoluteUrl(`/icons/${icon.name}`),
+          })),
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [...trail, { name, path }].map((crumb, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: crumb.name,
+          item: absoluteUrl(crumb.path),
+        })),
+      },
+    ],
+  };
+}
+
 /** Serialise for a <script type="application/ld+json">, safe against `</script>` injection. */
 export function jsonLd(data: unknown) {
   return { __html: JSON.stringify(data).replace(/</g, "\\u003c") };

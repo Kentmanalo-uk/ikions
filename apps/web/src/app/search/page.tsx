@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Search",
   description: "Search Ikions icons, categories, collections and documentation in one place.",
   alternates: { canonical: "/search" },
+  robots: { index: false, follow: true },
 };
 
 export default function SearchPage() {
