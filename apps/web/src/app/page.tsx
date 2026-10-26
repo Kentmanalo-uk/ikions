@@ -5,6 +5,7 @@ import { FrameworkTabs, type FrameworkTab } from "@/components/landing/framework
 import { LogoMark, Wordmark } from "@/components/layout/logo";
 import { HeroSearch } from "@/components/landing/hero-search";
 import { MeetDeveloper } from "@/components/landing/meet-developer";
+import { UsageSection } from "@/components/landing/usage-section";
 import { MorphHeading, MorphText } from "@/components/landing/morph-heading";
 import { Showcase } from "@/components/landing/showcase";
 import { buttonClass } from "@/components/ui/button";
@@ -12,6 +13,10 @@ import { CodeBlock } from "@/components/ui/code-block";
 import { IkIcon } from "@/components/ui/ik-icon";
 import { FRAMEWORK_LOGOS } from "@/lib/framework-logos";
 import { jsonLd, libraryGraph } from "@/lib/structured-data";
+import { getUsageStats, hasUsage } from "@/lib/usage";
+
+// Usage numbers come from npm, jsDelivr and GitHub; re-check them every 6 hours.
+export const revalidate = 21600;
 import { categories, getCategoryIcons, getIcon, icons, stats, withNodes, type CategoryMetadata, type IconMetadata } from "@/lib/catalog";
 
 const SHOWCASE = [
@@ -135,7 +140,8 @@ function CategoryCard({ category, featured }: { category: CategoryMetadata; feat
   );
 }
 
-export default function HomePage() {
+export default async function HomePage() {
+  const usage = await getUsageStats();
   const featured = FEATURED_CATEGORIES.map((slug) => categories.find((c) => c.slug === slug)).filter(
     (c): c is (typeof categories)[number] => Boolean(c),
   );
@@ -279,6 +285,9 @@ export default function HomePage() {
           }))}
         />
       </section>
+
+      {/* Real usage, only once there is any. */}
+      {hasUsage(usage) ? <UsageSection stats={usage} /> : null}
 
       {/* Meet the developer */}
       <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="developer-heading">
