@@ -14,7 +14,7 @@ export interface SocialLink {
 export const DEVELOPER = {
   name: "Mike Fernandez",
   role: "Designer & developer of Ikions",
-  photo: "/developer/mike-fernandez.jpg",
+  photo: "/developer/mike-fernandez-v2.jpg",
   socials: [
     {
       network: "Instagram",
