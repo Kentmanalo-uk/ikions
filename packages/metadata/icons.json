@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "count": 1906,
+  "version": "0.2.0",
+  "count": 1911,
   "icons": [
     {
       "name": "access-point",
@@ -12398,6 +12398,30 @@
       "added": "0.2.0"
     },
     {
+      "name": "corn",
+      "title": "Corn",
+      "component": "CornIcon",
+      "category": "food",
+      "description": "Represent corn on the cob, maize, harvest or farming.",
+      "tags": [
+        "maize",
+        "vegetable",
+        "harvest",
+        "farm",
+        "grain",
+        "produce"
+      ],
+      "aliases": [
+        "maize",
+        "corn-cob"
+      ],
+      "variants": [
+        "outline",
+        "filled"
+      ],
+      "added": "0.2.0"
+    },
+    {
       "name": "corner-down-left",
       "title": "Corner Down Left",
       "component": "CornerDownLeftIcon",
@@ -13461,6 +13485,29 @@
         "crm"
       ],
       "aliases": [],
+      "variants": [
+        "outline",
+        "filled"
+      ],
+      "added": "0.2.0"
+    },
+    {
+      "name": "cutting-board",
+      "title": "Cutting Board",
+      "component": "CuttingBoardIcon",
+      "category": "food",
+      "description": "Represent a cutting board, chopping or food preparation.",
+      "tags": [
+        "chopping",
+        "board",
+        "prep",
+        "kitchen",
+        "cooking",
+        "butcher"
+      ],
+      "aliases": [
+        "chopping-board"
+      ],
       "variants": [
         "outline",
         "filled"
@@ -19541,6 +19588,29 @@
       "added": "0.2.0"
     },
     {
+      "name": "garlic",
+      "title": "Garlic",
+      "component": "GarlicIcon",
+      "category": "food",
+      "description": "Represent garlic, a garlic bulb, seasoning or cooking ingredients.",
+      "tags": [
+        "bulb",
+        "clove",
+        "seasoning",
+        "ingredient",
+        "cooking",
+        "vegetable"
+      ],
+      "aliases": [
+        "garlic-bulb"
+      ],
+      "variants": [
+        "outline",
+        "filled"
+      ],
+      "added": "0.2.0"
+    },
+    {
       "name": "geofence",
       "title": "Geofence",
       "component": "GeofenceIcon",
@@ -24905,6 +24975,29 @@
       "aliases": [
         "loyalty-card",
         "rewards-card"
+      ],
+      "variants": [
+        "outline",
+        "filled"
+      ],
+      "added": "0.2.0"
+    },
+    {
+      "name": "lunch-box",
+      "title": "Lunch Box",
+      "component": "LunchBoxIcon",
+      "category": "food",
+      "description": "Represent a lunch box, a packed lunch or school meals.",
+      "tags": [
+        "lunch",
+        "packed-lunch",
+        "school",
+        "meal",
+        "bento",
+        "pail"
+      ],
+      "aliases": [
+        "lunch-pail"
       ],
       "variants": [
         "outline",
@@ -34136,6 +34229,30 @@
       "aliases": [
         "on-sale",
         "store-sale"
+      ],
+      "variants": [
+        "outline",
+        "filled"
+      ],
+      "added": "0.2.0"
+    },
+    {
+      "name": "salt-pepper",
+      "title": "Salt and Pepper",
+      "component": "SaltPepperIcon",
+      "category": "food",
+      "description": "Represent salt and pepper shakers, seasoning or condiments.",
+      "tags": [
+        "salt",
+        "pepper",
+        "seasoning",
+        "condiments",
+        "shaker",
+        "spice"
+      ],
+      "aliases": [
+        "seasoning",
+        "condiments"
       ],
       "variants": [
         "outline",

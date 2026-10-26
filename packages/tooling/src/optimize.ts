@@ -23,7 +23,9 @@ const config: Config = {
           moveGroupAttrsToElems: false,
           removeUnknownsAndDefaults: { keepRoleAttr: true, keepDataAttrs: false },
           // Curve-to-arc conversion approximates geometry; keep curves exact.
-          convertPathData: { makeArcs: false as unknown as undefined },
+          // convertToQ is off because SVGO then reflects the quadratic's control
+          // point for a following smooth "s" curve, bending wave lines.
+          convertPathData: { makeArcs: false as unknown as undefined, convertToQ: false },
         },
       },
     },

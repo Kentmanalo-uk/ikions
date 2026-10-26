@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Bell Minus — Remove a bell. */
 export const BellMinusIcon = createIkion("bell-minus", "BellMinusIcon", {
   outline: [["path",{"d":"M11.32 17H5c.8-.9 1.5-2.2 1.5-4v-2.5C6.5 7.46 8.96 5 12 5s5.5 2.46 5.5 5.5v.77"}],["path",{"d":"M10.25 20c0 .97.78 1.75 1.75 1.75.12 0 .25-.01.36-.04"}],["path",{"d":"M14.5 18h7"}]],
-  filled: [["path",{"fill-rule":"evenodd","d":"M5.63 10.5c.14-3.42 2.95-6.13 6.38-6.13s6.24 2.7 6.38 6.13v1.01c-.13-.01-.25-.01-.38-.01-3.56 0-6.45 2.86-6.5 6.4H4.84c-.8 0-1.3-.6-.6-1.3.8-.8 1.4-2 1.4-3.6z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M9.75 19.5h1.92c.19.78.51 1.51.95 2.16q-.3.09-.63.09c-1.24 0-2.25-1.01-2.25-2.25z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M14.75 18h6.5"}]],
+  filled: [["path",{"fill-rule":"evenodd","d":"M5.63 10.5c.14-3.42 2.95-6.13 6.38-6.13s6.24 2.7 6.38 6.13v1.01c-.13-.01-.25-.01-.38-.01-3.56 0-6.45 2.86-6.5 6.4H4.84c-.8 0-1.3-.6-.6-1.3.8-.8 1.4-2 1.4-3.6z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M9.75 19.5h1.92c.19.78.51 1.51.95 2.16-.2.06-.41.09-.63.09-1.24 0-2.25-1.01-2.25-2.25z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M14.75 18h6.5"}]],
 });
 
 export default BellMinusIcon;

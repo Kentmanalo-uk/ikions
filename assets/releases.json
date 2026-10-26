@@ -1,8 +1,20 @@
 [
   {
+    "version": "0.2.0",
+    "date": "2026-10-26",
+    "status": "released",
+    "summary": "First public release: a much larger library, a faster explorer and gradient paint across every package.",
+    "notes": [
+      "Hundreds of new icons across every category, plus new Business, Household, Accessibility and AI categories.",
+      "Gradient fills via the gradient prop in React, Vue and Svelte, and gradientId/toSvg options in @ikions/icons.",
+      "The explorer loads the catalog once and renders incrementally, so it stays fast with thousands of icons.",
+      "Duplicate detection and alias checks keep every icon distinct and every name unique."
+    ]
+  },
+  {
     "version": "0.1.0",
-    "date": null,
-    "status": "unreleased",
+    "date": "2026-10-26",
+    "status": "released",
     "summary": "Foundation release: the Ikions design language, the first original icon set in Outline and Filled, and packages for React, Vue, Svelte and plain SVG.",
     "notes": [
       "Original 24 × 24 icon grid with a 1.75 outline stroke and independently drawn filled variants.",

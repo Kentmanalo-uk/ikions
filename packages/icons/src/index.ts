@@ -27,5 +27,8 @@ export function isIconName(name: string): name is IconName {
 /** Render a published icon as an SVG string. */
 export function toSvg(name: IconName, variant: IconVariant = "outline", options: ToSvgOptions = {}): string {
   if (!isIconName(name)) throw new Error(`Unknown Ikions icon "${name}"`);
+  if (variant !== "outline" && variant !== "filled") {
+    throw new Error(`Unknown variant ${JSON.stringify(variant)}: use "outline" or "filled", e.g. toSvg("${name}", "filled", { size: 20 })`);
+  }
   return nodesToSvg(iconNodes[name][variant], variant, options);
 }

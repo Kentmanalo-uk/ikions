@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Mail Open — Show an opened or read email message. */
 export const MailOpenIcon = createIkion("mail-open", "MailOpenIcon", {
   outline: [["path",{"d":"m3 10 9-6.25L21 10v7.5a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3Z"}],["path",{"d":"m3 10 9 5.75L21 10"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 3.75 19.55 9 12 13.82 4.45 9zm9 13.75c0 1.66-1.34 3-3 3H6c-1.66 0-3-1.34-3-3v-5.58l7.69 4.92c.13.17.28.32.47.43.52.32 1.18.32 1.7 0q.285-.18.48-.45L21 11.93z"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 3.75 19.55 9 12 13.82 4.45 9zm9 13.75c0 1.66-1.34 3-3 3H6c-1.66 0-3-1.34-3-3v-5.58l7.69 4.92c.13.17.28.32.47.43.52.32 1.18.32 1.7 0 .19-.12.35-.27.48-.45L21 11.93z"}]],
 });
 
 export default MailOpenIcon;

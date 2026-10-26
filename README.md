@@ -135,11 +135,15 @@ Any Node.js host works (Vercel, a container, a VPS). Serve over HTTPS; the app a
 
 ## Publishing packages
 
-Packages are versioned together. After `pnpm build`:
+Packages are versioned together; the version comes from the newest entry in `assets/releases.json`.
+
+One-time setup: create the free `ikions` organization on npmjs.com, then run `npm login`.
 
 ```bash
-pnpm --filter "./packages/{icons,metadata,react,vue,svelte}" publish --access public
+pnpm release:packages   # strict icon build, package builds, then publish all five
 ```
+
+`pnpm publish` refuses to run with uncommitted changes or from a branch other than `main`. Check a package before publishing with `npm pack --dry-run` inside its folder.
 
 `@ikions/tooling` and the website are private and are never published.
 

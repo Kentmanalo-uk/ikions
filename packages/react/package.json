@@ -1,6 +1,6 @@
 {
   "name": "@ikions/react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Typed, tree-shakeable React components for the Ikions icon library (Outline and Filled).",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
@@ -40,7 +40,7 @@
     "design system"
   ],
   "scripts": {
-    "build": "tsc -p tsconfig.build.json",
+    "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && tsc -p tsconfig.build.json",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
@@ -57,5 +57,8 @@
     "esbuild": "^0.25.0"
   },
   "homepage": "https://www.ikions.cloud",
-  "author": "Mike Fernandez"
+  "author": "Mike Fernandez",
+  "publishConfig": {
+    "access": "public"
+  }
 }

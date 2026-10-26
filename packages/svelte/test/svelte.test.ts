@@ -40,7 +40,7 @@ describe("@ikions/svelte", () => {
       expect(() => compile(source, { filename: file, generate: "client" }), file).not.toThrow();
       expect(() => compile(source, { filename: file, generate: "server" }), file).not.toThrow();
     }
-  });
+  }, 60_000); // compiles ~1,900 components twice; slow under parallel CI load
 
   it("exports every icon from the index", () => {
     const index = fs.readFileSync(path.join(src, "index.js"), "utf8");

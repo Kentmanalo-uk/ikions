@@ -2,8 +2,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { Resvg } from "@resvg/resvg-js";
-import { loadCatalog } from "file:///C:/Users/Kaye/mike-project/ikions/packages/tooling/src/catalog.ts";
-import { parseSvg, toNodes, nodesToMarkup } from "file:///C:/Users/Kaye/mike-project/ikions/packages/tooling/src/svg.ts";
+import { loadCatalog } from "../catalog.ts";
+import { parseSvg, toNodes, nodesToMarkup } from "../svg.ts";
 const [, , listFile, outDir] = process.argv;
 const names = fs.readFileSync(listFile!, "utf8").trim().split(/\s+/);
 const { icons } = loadCatalog();

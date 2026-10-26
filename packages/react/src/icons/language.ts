@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Language — Choose a spoken or interface language, or mark multilingual content. */
 export const LanguageIcon = createIkion("language", "LanguageIcon", {
   outline: [["path",{"d":"M6 3.5h12a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-5.98a.75.75 0 0 0-.48.18l-3.31 2.78A.75.75 0 0 1 7 18.89V17a.5.5 0 0 0-.5-.5H6a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3"}],["path",{"d":"m9 13 3-6 3 6m-5-2h4"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3.5h12a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-5.98a.75.75 0 0 0-.48.18l-3.31 2.78A.75.75 0 0 1 7 18.89V17a.5.5 0 0 0-.5-.5H6a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3Zm2.22 11.07c-.87-.43-1.22-1.48-.79-2.35l2.99-5.99.03-.06c.39-.73 1.22-1.07 1.99-.86q.195.06.39.15c.35.19.61.48.77.82l2.97 5.94c.43.87.08 1.92-.79 2.35s-1.92.08-2.35-.79l-.51-1.03h-1.83l-.51 1.03c-.43.87-1.48 1.22-2.35.79z","clipRule":"evenodd"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3.5h12a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-5.98a.75.75 0 0 0-.48.18l-3.31 2.78A.75.75 0 0 1 7 18.89V17a.5.5 0 0 0-.5-.5H6a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3Zm2.22 11.07c-.87-.43-1.22-1.48-.79-2.35l2.99-5.99.03-.06c.39-.73 1.22-1.07 1.99-.86.13.04.26.09.39.15.35.19.61.48.77.82l2.97 5.94c.43.87.08 1.92-.79 2.35s-1.92.08-2.35-.79l-.51-1.03h-1.83l-.51 1.03c-.43.87-1.48 1.22-2.35.79z","clipRule":"evenodd"}]],
 });
 
 export default LanguageIcon;

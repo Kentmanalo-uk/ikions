@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Guest — Represent a guest or visitor without a full account. */
 export const GuestIcon = createIkion("guest", "GuestIcon", {
   outline: [["path",{"d":"M8.25 7.75c0 .45.08.89.23 1.29m2.36 2.28c.37.12.75.18 1.16.18h.13m2.9-1.55c.26-.35.45-.75.57-1.17m-.57-3.23c-.26-.35-.58-.66-.94-.91m-3.25-.46c-.42.14-.81.35-1.15.61"}],["path",{"d":"M5.5 19c0-.23.02-.45.05-.67m1.9-2.7c.19-.12.38-.23.59-.33m3.28-.78c.22-.01.44-.02.67-.02m3.34.54c.21.08.42.17.62.26m2.32 2.37c.08.21.13.42.17.65m-1.69 2.18h-.67m-3.4 0h-.67m-3.4 0h-.67"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M8.25 7.75c0 .66.17 1.28.47 1.81M12 11.5q0 0 0 0c.66 0 1.28-.17 1.81-.47m1.94-3.28q0 0 0 0c0-.66-.17-1.28-.47-1.81M12 4q0 0 0 0c-.66 0-1.28.17-1.81.47"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M5.5 19c0-.22.02-.44.05-.65m2.4-3c.19-.1.39-.18.6-.26m3.93-.58c.22.01.44.02.65.05m3.74 1.29c.18.13.34.27.5.43m.93 3.65c-.12.18-.28.33-.48.43m-3.98.14h-.65m-4 0h-.65"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M8.25 7.75c0 .66.17 1.28.47 1.81M12 11.5s0 0 0 0c.66 0 1.28-.17 1.81-.47m1.94-3.28s0 0 0 0c0-.66-.17-1.28-.47-1.81M12 4s0 0 0 0c-.66 0-1.28.17-1.81.47"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M5.5 19c0-.22.02-.44.05-.65m2.4-3c.19-.1.39-.18.6-.26m3.93-.58c.22.01.44.02.65.05m3.74 1.29c.18.13.34.27.5.43m.93 3.65c-.12.18-.28.33-.48.43m-3.98.14h-.65m-4 0h-.65"}]],
 });
 
 export default GuestIcon;

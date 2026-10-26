@@ -22,7 +22,8 @@
     "icons:plan": "pnpm --filter @ikions/tooling plan",
     "icons:families": "pnpm --filter @ikions/tooling families",
     "icons:dupes": "pnpm --filter @ikions/tooling dupes",
-    "icons:watch": "pnpm --filter @ikions/tooling watch"
+    "icons:watch": "pnpm --filter @ikions/tooling watch",
+    "release:packages": "pnpm build:packages && pnpm --filter \"./packages/{icons,metadata,react,vue,svelte}\" publish --access public"
   },
   "devDependencies": {
     "turbo": "^2.11.10",
