@@ -79,19 +79,25 @@ async function getText(fetcher: Fetcher, url: string): Promise<string> {
   }
 }
 
-/** Same-site scripts and stylesheets referenced by a page (icons often live in bundles). */
+/**
+ * Same-site files referenced by a page where icons often live: SVG sprites
+ * (`<use href="/icons.svg#name">`), scripts and stylesheets. Sprites come
+ * first because they hold the artwork itself.
+ */
 function assetUrls(html: string, pageUrl: string): string[] {
   const origin = new URL(pageUrl).origin;
-  const urls = new Set<string>();
-  for (const m of html.matchAll(/(?:src|href)=["']([^"']+\.(?:js|mjs|css)(?:\?[^"']*)?)["']/g)) {
+  const sprites = new Set<string>();
+  const code = new Set<string>();
+  for (const m of html.matchAll(/(?:src|href|xlink:href)=["']([^"'#]+\.(svg|js|mjs|css)(?:\?[^"'#]*)?)(?:#[^"']*)?["']/g)) {
     try {
       const url = new URL(m[1]!, pageUrl);
-      if (url.origin === origin) urls.add(url.href);
+      if (url.origin !== origin) continue;
+      (m[2] === "svg" ? sprites : code).add(url.href);
     } catch {
       /* ignore malformed URLs */
     }
   }
-  return [...urls].slice(0, 25);
+  return [...[...sprites].slice(0, 5), ...[...code].slice(0, 25)];
 }
 
 export function findEvidence(sources: string[]): { evidence: string[]; icons: string[] } {

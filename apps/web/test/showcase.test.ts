@@ -35,3 +35,21 @@ describe("showcase verification", () => {
     expect(findEvidence([html])).toEqual({ evidence: [], icons: [] });
   });
 });
+
+describe("showcase verification of live pages", () => {
+  it("follows same-site SVG sprites referenced with <use>", async () => {
+    const { verifySite } = await import("../src/lib/showcase");
+    const sprite = `<svg><symbol id="i-camera"><path d="${pathOf("camera")}"/></symbol><symbol id="i-bed"><path d="${pathOf("bed")}"/></symbol></svg>`;
+    const pages: Record<string, string> = {
+      "https://example.com/": '<svg><use href="/images/icons.svg?v=1#i-camera"/></svg><link rel="stylesheet" href="https://cdn.example.net/x.css">',
+      "https://example.com/images/icons.svg?v=1": sprite,
+    };
+    const fetcher = async (url: string) => (url in pages ? new Response(pages[url]) : new Response("", { status: 404 }));
+    const result = await verifySite(
+      { name: "Example", url: "https://example.com/", description: "", screenshot: "", pages: ["https://example.com/"] },
+      fetcher,
+    );
+    expect(result.verified).toBe(true);
+    expect(result.icons).toEqual(expect.arrayContaining(["bed", "camera"]));
+  });
+});
