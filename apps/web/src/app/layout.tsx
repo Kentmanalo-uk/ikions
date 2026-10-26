@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     url: "/",
   },
   twitter: { card: "summary_large_image", title: DEFAULT_TITLE, description: siteConfig.description },
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/", types: { "application/rss+xml": [{ url: "/changelog/rss.xml", title: "Ikions releases" }] } },
   robots: {
     index: true,
     follow: true,

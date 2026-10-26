@@ -9,8 +9,10 @@ const sections = [
     title: "Free icons",
     links: [
       { href: "/react-icons", label: "React icons" },
+      { href: "/nextjs-icons", label: "Next.js icons" },
       { href: "/vue-icons", label: "Vue icons" },
       { href: "/svelte-icons", label: "Svelte icons" },
+      { href: "/tailwind-icons", label: "Tailwind icons" },
       { href: "/svg-icons", label: "SVG icons" },
     ],
   },

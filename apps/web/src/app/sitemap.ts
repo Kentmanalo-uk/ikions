@@ -1,11 +1,13 @@
 import type { MetadataRoute } from "next";
-import { categories, collections, icons } from "@/lib/catalog";
+import { categories, collections, icons, releases } from "@/lib/catalog";
 import { docPages } from "@/lib/docs";
 import { absoluteUrl } from "@/lib/site";
 import { TOPICS } from "@/lib/topics";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const lastModified = new Date();
+  // Real dates from the changelog: each icon page changes when its release ships.
+  const releaseDate = new Map(releases.filter((r) => r.date).map((r) => [r.version, new Date(r.date!)]));
+  const lastModified = releases.find((r) => r.date)?.date ? new Date(releases.find((r) => r.date)!.date!) : new Date();
   const pages = ["/", "/icons", "/categories", "/collections", "/changelog", "/license", "/about"];
   return [
     ...pages.map((path) => ({ url: absoluteUrl(path), lastModified, changeFrequency: "weekly" as const, priority: path === "/" ? 1 : 0.8 })),
@@ -16,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Each icon page lists its two SVGs so Google Images can index them with the page.
     ...icons.map((icon) => ({
       url: absoluteUrl(`/icons/${icon.name}`),
-      lastModified,
+      lastModified: releaseDate.get(icon.added) ?? lastModified,
       changeFrequency: "monthly" as const,
       priority: 0.6,
       images: [absoluteUrl(`/api/v1/icons/${icon.name}/outline.svg`), absoluteUrl(`/api/v1/icons/${icon.name}/filled.svg`)],

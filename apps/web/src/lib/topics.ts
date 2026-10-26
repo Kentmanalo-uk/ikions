@@ -6,7 +6,7 @@
 import type { LanguageName } from "sugar-high";
 
 export interface Topic {
-  slug: "react-icons" | "vue-icons" | "svelte-icons" | "svg-icons";
+  slug: "react-icons" | "nextjs-icons" | "vue-icons" | "svelte-icons" | "tailwind-icons" | "svg-icons";
   framework: string;
   title: string;
   heading: string;
@@ -45,6 +45,35 @@ export function Toolbar() {
 }`,
     },
     docs: { href: "/docs/react", label: "React guide" },
+  },
+  {
+    slug: "nextjs-icons",
+    framework: "Next.js",
+    title: "Free Next.js Icons (Server Component Ready)",
+    heading: "Free Next.js icons",
+    intro: "Original icons for Next.js. They render as plain SVG in Server Components, so no extra JavaScript reaches the browser.",
+    steps: [
+      "Find an icon in the explorer.",
+      "Adjust the size, colour or stroke.",
+      "Import it from @ikions/react in any page, layout or component.",
+    ],
+    example: {
+      label: "app/page.tsx",
+      lang: "javascript",
+      code: `import { SearchIcon, ArrowRightIcon } from "@ikions/react";
+
+// A Server Component: the icons render to SVG on the server.
+export default function Page() {
+  return (
+    <a href="/search" className="link">
+      <SearchIcon size={18} />
+      Search
+      <ArrowRightIcon size={16} />
+    </a>
+  );
+}`,
+    },
+    docs: { href: "/docs/nextjs", label: "Next.js guide" },
   },
   {
     slug: "vue-icons",
@@ -99,6 +128,33 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
 </nav>`,
     },
     docs: { href: "/docs/svelte", label: "Svelte guide" },
+  },
+  {
+    slug: "tailwind-icons",
+    framework: "Tailwind CSS",
+    title: "Free Icons for Tailwind CSS (SVG)",
+    heading: "Free Tailwind CSS icons",
+    intro: "Original icons that take Tailwind classes. They use currentColor, so text, size and hover utilities just work.",
+    steps: [
+      "Find an icon in the explorer.",
+      "Add Tailwind classes for size and colour.",
+      "Use hover and dark variants like any other element.",
+    ],
+    example: {
+      label: "Button.tsx",
+      lang: "javascript",
+      code: `import { HeartIcon } from "@ikions/react";
+
+export function LikeButton() {
+  return (
+    <button className="inline-flex items-center gap-2 text-slate-600 hover:text-rose-600 dark:text-slate-300">
+      <HeartIcon className="size-5" />
+      Like
+    </button>
+  );
+}`,
+    },
+    docs: { href: "/docs/styling", label: "Styling guide" },
   },
   {
     slug: "svg-icons",

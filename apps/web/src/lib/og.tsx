@@ -65,3 +65,22 @@ export function OgLogo({ size }: { size: number }) {
     </svg>
   );
 }
+
+/** A share card: logo, title, subtitle and a row of the page's own icons. */
+export function OgCard({ title, subtitle, icons }: { title: string; subtitle: string; icons: { nodes: { outline: readonly IconNode[]; filled: readonly IconNode[] } }[] }) {
+  return (
+    <div style={{ display: "flex", flexDirection: "column", width: "100%", height: "100%", background: "#FAFAF8", padding: 72, color: "#18191B" }}>
+      <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+        <OgLogo size={52} />
+        <OgWordmark height={34} color="#18191B" />
+      </div>
+      <div style={{ display: "flex", fontSize: 72, fontWeight: 600, letterSpacing: -3, lineHeight: 1.05, marginTop: 60, maxWidth: 1000 }}>{title}</div>
+      <div style={{ display: "flex", fontSize: 30, color: "#6A6C72", marginTop: 18 }}>{subtitle}</div>
+      <div style={{ display: "flex", gap: 34, marginTop: "auto" }}>
+        {icons.slice(0, 9).map((icon, i) => (
+          <OgIcon key={i} nodes={icon.nodes[i % 2 ? "filled" : "outline"]} variant={i % 2 ? "filled" : "outline"} size={60} color={i % 3 === 1 ? "#5555E8" : "#18191B"} />
+        ))}
+      </div>
+    </div>
+  );
+}

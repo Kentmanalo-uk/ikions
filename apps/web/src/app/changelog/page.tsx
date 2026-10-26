@@ -24,7 +24,7 @@ export default function ChangelogPage() {
             .map((c) => ({ category: c, icons: added.filter((i) => i.category === c.slug) }))
             .filter((g) => g.icons.length > 0);
           return (
-            <li key={release.version} className="grid gap-6 md:grid-cols-[10rem_1fr]">
+            <li key={release.version} id={`v${release.version}`} className="grid scroll-mt-24 gap-6 md:grid-cols-[10rem_1fr]">
               <div>
                 <h2 className="font-display text-[22px] font-semibold tracking-[-0.02em]">v{release.version}</h2>
                 <p className="mt-2 inline-flex items-center gap-1.5 rounded-full bg-subtle px-2.5 py-1 text-[12.5px] text-ink-2">
