@@ -58,7 +58,7 @@ export function Segmented<T extends string>({
             tabIndex={checked ? 0 : -1}
             disabled={option.disabled}
             onClick={() => onChange(option.value)}
-            className={`${size === "sm" ? "h-7 px-2.5 text-[12.5px]" : "h-8 px-3.5 text-[13px]"} rounded-full font-medium transition-colors disabled:opacity-40 ${
+            className={`${size === "sm" ? "h-9 px-3 text-[12.5px] sm:h-7 sm:px-2.5" : "h-9 px-3.5 text-[13px] sm:h-8"} rounded-full font-medium transition-colors disabled:opacity-40 ${
               checked ? "bg-surface text-ink shadow-[0_1px_2px_rgb(0_0_0/0.08)]" : "text-ink-2 hover:text-ink"
             }`}
           >

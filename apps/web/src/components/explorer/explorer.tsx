@@ -272,7 +272,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
         </div>
 
         <div className="sticky top-16 z-20 -mx-4 mt-4 flex flex-wrap items-center gap-2 border-b border-line bg-bg/95 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6">
-          <div className="relative min-w-[200px] flex-1">
+          <div className="relative basis-full sm:min-w-[200px] sm:flex-1 sm:basis-auto">
             <SearchIcon size={18} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-ink-2" />
             <label htmlFor="icon-search" className="sr-only">
               Search icons
@@ -327,7 +327,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
           </select>
           <button type="button" className={`${buttonClass.small} h-9 lg:hidden`} onClick={() => setFiltersOpen(true)} aria-haspopup="dialog">
             <FilterIcon size={16} />
-            Categories
+            <span className="max-sm:sr-only">Categories</span>
           </button>
         </div>
 
@@ -374,7 +374,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
             onKeyDown={onGridKeyDown}
             aria-label="Icons"
             aria-describedby="grid-help"
-            className="mt-4 grid grid-cols-[repeat(auto-fill,minmax(96px,1fr))] gap-1.5"
+            className="mt-4 grid grid-cols-[repeat(auto-fill,minmax(76px,1fr))] gap-1 sm:grid-cols-[repeat(auto-fill,minmax(96px,1fr))] sm:gap-1.5"
           >
             {visible.map((icon, index) => (
               <IconTile
@@ -481,7 +481,7 @@ function IconTile({
         onClick={onOpen}
         aria-pressed={active}
         title={icon.title}
-        className={`flex h-[104px] w-full flex-col items-center justify-center gap-2.5 rounded-[18px] border px-1.5 pt-2 transition-colors ${
+        className={`flex h-[92px] w-full flex-col sm:h-[104px] items-center justify-center gap-2.5 rounded-[18px] border px-1.5 pt-2 transition-colors ${
           active
             ? "border-accent bg-selected text-ink"
             : selected

@@ -21,7 +21,7 @@ export function UsageSection({ stats }: { stats: UsageStats }) {
   const updated = new Date(stats.updatedAt).toLocaleDateString("en", { dateStyle: "medium" });
 
   return (
-    <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="usage-heading">
+    <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="usage-heading">
       <MorphText
         id="usage-heading"
         lines={["Used in real projects"]}

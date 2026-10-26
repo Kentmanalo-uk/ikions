@@ -45,7 +45,7 @@ export function IconGallery({
           ) : null}
         </div>
       ) : null}
-      <ul className="grid grid-cols-[repeat(auto-fill,minmax(104px,1fr))] gap-1 rounded-[24px] bg-surface p-2.5 shadow-card">
+      <ul className="grid grid-cols-[repeat(auto-fill,minmax(76px,1fr))] sm:grid-cols-[repeat(auto-fill,minmax(104px,1fr))] gap-1 rounded-[24px] bg-surface p-2.5 shadow-card">
         {icons.map((icon) => (
           <li key={icon.name} className="ik-tile">
             <Link

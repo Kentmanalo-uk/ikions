@@ -58,7 +58,7 @@ export function HeroSearch() {
             prepare();
             setQuery(e.target.value.slice(0, 100));
           }}
-          placeholder="Try “payment”, “message” or “trash”"
+          placeholder="Search icons…"
           autoComplete="off"
           spellCheck={false}
           aria-describedby={`${id}-status`}
@@ -111,7 +111,7 @@ export function HeroSearch() {
                   prepare();
                   setQuery(s);
                 }}
-                className="rounded-full bg-surface/80 px-2.5 py-0.5 text-ink-2 shadow-card transition-colors hover:bg-subtle hover:text-ink"
+                className="rounded-full bg-surface/80 px-3 py-1.5 text-ink-2 sm:px-2.5 sm:py-0.5 shadow-card transition-colors hover:bg-subtle hover:text-ink"
               >
                 {s}
               </button>

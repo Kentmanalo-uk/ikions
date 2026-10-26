@@ -33,7 +33,7 @@ export function CodeBlock({
           className={`${buttonClass.icon} absolute right-2 top-2 h-8 w-8 bg-code opacity-100 sm:opacity-0 sm:group-hover:opacity-100 sm:focus-visible:opacity-100`}
         />
       )}
-      <pre tabIndex={0} role="region" aria-label={label ? `${label} code` : "Code example"} className="overflow-x-auto p-4 font-mono text-[13px] leading-[1.65]">
+      <pre tabIndex={0} role="region" aria-label={label ? `${label} code` : "Code example"} className={`overflow-x-auto p-4 font-mono text-[13px] leading-[1.65] ${label ? "" : "pr-12"}`}>
         <code dangerouslySetInnerHTML={{ __html: html }} />
       </pre>
     </div>

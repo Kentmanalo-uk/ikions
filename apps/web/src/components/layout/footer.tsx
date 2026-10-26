@@ -48,8 +48,8 @@ const sections = [
 export function Footer() {
   return (
     <footer className="mt-24 border-t border-line">
-      <div className="mx-auto grid max-w-[1440px] gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_repeat(4,1fr)]">
-        <div className="max-w-xs">
+      <div className="mx-auto grid max-w-[1440px] grid-cols-2 gap-x-6 gap-y-10 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_repeat(4,1fr)]">
+        <div className="col-span-2 max-w-xs md:col-span-1">
           <Logo />
           <p className="mt-3 text-[14px] leading-6 text-ink-2">{siteConfig.tagline}</p>
           <p className="mt-3 text-[13px] text-ink-2">
@@ -62,17 +62,17 @@ export function Footer() {
         {sections.map((section) => (
           <nav key={section.title} aria-label={section.title}>
             <h2 className="text-[13px] font-semibold text-ink">{section.title}</h2>
-            <ul className="mt-3 space-y-2">
+            <ul className="mt-2 space-y-0.5 sm:mt-3">
               {section.links.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-[14px] text-ink-2 hover:text-ink">
+                  <Link href={link.href} className="inline-block py-1.5 text-[14px] text-ink-2 hover:text-ink">
                     {link.label}
                   </Link>
                 </li>
               ))}
               {section.title === "Resources" && siteConfig.github ? (
                 <li>
-                  <a href={siteConfig.github} rel="noopener noreferrer" className="text-[14px] text-ink-2 hover:text-ink">
+                  <a href={siteConfig.github} rel="noopener noreferrer" className="inline-block py-1.5 text-[14px] text-ink-2 hover:text-ink">
                     GitHub
                   </a>
                 </li>

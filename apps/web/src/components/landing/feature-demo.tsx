@@ -87,7 +87,7 @@ export function FeatureDemo({ icons }: { icons: DemoIcon[] }) {
               { value: "filled", label: "Filled" },
             ]}
           />
-          <div className="flex gap-1.5" role="group" aria-label="Colour">
+          <div className="flex flex-wrap gap-2 sm:gap-1.5" role="group" aria-label="Colour">
             {COLOR_PRESETS.map((preset) => (
               <button
                 key={preset.value}
@@ -95,7 +95,7 @@ export function FeatureDemo({ icons }: { icons: DemoIcon[] }) {
                 aria-label={preset.label}
                 aria-pressed={!options.gradient && options.color === preset.value}
                 onClick={() => update({ color: preset.value, gradient: null })}
-                className={`h-7 w-7 rounded-full border-2 transition-transform hover:scale-110 ${!options.gradient && options.color === preset.value ? "border-ink" : "border-transparent"}`}
+                className={`h-8 w-8 rounded-full border-2 transition-transform hover:scale-110 sm:h-7 sm:w-7 ${!options.gradient && options.color === preset.value ? "border-ink" : "border-transparent"}`}
                 style={{ background: preset.value === "currentColor" ? "var(--text)" : preset.value }}
               />
             ))}
@@ -108,7 +108,7 @@ export function FeatureDemo({ icons }: { icons: DemoIcon[] }) {
                 title={`${g.label} gradient`}
                 aria-pressed={gradientActive(g)}
                 onClick={() => update({ gradient: { from: g.from, to: g.to, angle: 135 } })}
-                className={`h-7 w-7 rounded-full border-2 transition-transform hover:scale-110 ${gradientActive(g) ? "border-ink" : "border-transparent"}`}
+                className={`h-8 w-8 rounded-full border-2 transition-transform hover:scale-110 sm:h-7 sm:w-7 ${gradientActive(g) ? "border-ink" : "border-transparent"}`}
                 style={{ background: `linear-gradient(135deg, ${g.from}, ${g.to})` }}
               />
             ))}

@@ -222,7 +222,7 @@ export default async function HomePage() {
       </section>
 
       {/* Features */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="features-heading">
+      <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="features-heading">
         <div className="grid grid-cols-1 items-end gap-6 lg:grid-cols-2 lg:gap-16">
           <MorphText
             id="features-heading"
@@ -245,7 +245,7 @@ export default async function HomePage() {
       </section>
 
       {/* Categories — bento grid; hovering a card flips its icons to Filled. */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="categories-heading">
+      <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="categories-heading">
         <div className="flex flex-wrap items-end justify-between gap-4">
           <MorphText
             id="categories-heading"
@@ -264,7 +264,7 @@ export default async function HomePage() {
       </section>
 
       {/* Developers */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="dev-heading">
+      <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="dev-heading">
         <FrameworkTabs
           intro={
             <>
@@ -290,7 +290,7 @@ export default async function HomePage() {
       {hasUsage(usage) ? <UsageSection stats={usage} /> : null}
 
       {/* Meet the developer */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="developer-heading">
+      <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="developer-heading">
         <h2
           id="developer-heading"
           className="flex flex-wrap items-center justify-center gap-x-[0.32em] gap-y-2 font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] sm:text-[40px]"
@@ -308,7 +308,7 @@ export default async function HomePage() {
       </section>
 
       {/* Closing — headline, actions and two rows of drifting icons. */}
-      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="cta-heading">
+      <section className="mx-auto max-w-[1200px] px-4 pt-20 sm:px-6 sm:pt-28" aria-labelledby="cta-heading">
         <div className="ik-cta relative overflow-hidden rounded-[28px] bg-surface shadow-card px-6 pb-10 pt-16 text-center sm:px-10 sm:pt-20">
           <MorphText
             id="cta-heading"
