@@ -8,7 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Real dates from the changelog: each icon page changes when its release ships.
   const releaseDate = new Map(releases.filter((r) => r.date).map((r) => [r.version, new Date(r.date!)]));
   const lastModified = releases.find((r) => r.date)?.date ? new Date(releases.find((r) => r.date)!.date!) : new Date();
-  const pages = ["/", "/icons", "/categories", "/collections", "/changelog", "/license", "/about"];
+  const pages = ["/", "/icons", "/categories", "/collections", "/changelog", "/license", "/about", "/showcase"];
   return [
     ...pages.map((path) => ({ url: absoluteUrl(path), lastModified, changeFrequency: "weekly" as const, priority: path === "/" ? 1 : 0.8 })),
     ...TOPICS.map((t) => ({ url: absoluteUrl(`/${t.slug}`), lastModified, changeFrequency: "weekly" as const, priority: 0.9 })),

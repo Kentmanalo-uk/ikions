@@ -22,6 +22,7 @@ const sections = [
       { href: "/icons", label: "Icon explorer" },
       { href: "/categories", label: "Categories" },
       { href: "/collections", label: "Collections" },
+      { href: "/showcase", label: "Showcase" },
       { href: "/search", label: "Search" },
     ],
   },
