@@ -29,17 +29,9 @@ What is already built into the site, and what only you can do, in priority order
 2. **Bing Webmaster Tools** (bing.com/webmasters): *Import from Google Search Console*. One click, no extra verification. Bing results feed ChatGPT search, Copilot and DuckDuckGo.
 3. After every deploy that adds icons: `pnpm --filter @ikions/web indexnow`.
 
-## 2. Publish the npm packages
+## 2. npm packages (done)
 
-Developers search npm and ask AI assistants "which React icon library…". Packages on npm also appear on jsDelivr, unpkg, Socket, npmtrends and bundlephobia, which are all backlinks.
-
-```bash
-npm login                       # create the free "ikions" org on npmjs.com first
-pnpm build
-pnpm --filter "./packages/{icons,metadata,react,vue,svelte}" publish --access public
-```
-
-Then update the README, which says the packages are being prepared for npm.
+`@ikions/icons`, `@ikions/metadata`, `@ikions/react`, `@ikions/vue` and `@ikions/svelte` 0.2.0 are published. For later releases, add a new entry to `assets/releases.json`, then run `pnpm release:packages` from an interactive terminal (npm asks for approval with your security key).
 
 ## 3. Launch posts (one per day, not all at once)
 

@@ -3,6 +3,7 @@
 **Every interface deserves a better icon.**
 
 [![Website](https://img.shields.io/badge/website-ikions.cloud-5555E8)](https://www.ikions.cloud)
+[![npm](https://img.shields.io/npm/v/@ikions/react?label=npm&color=cb3837)](https://www.npmjs.com/package/@ikions/react)
 [![License: free use](https://img.shields.io/badge/license-free%20use-22c55e)](LICENSE)
 ![Icons](https://img.shields.io/badge/icons-1%2C900%2B-8b5cf6)
 ![Styles](https://img.shields.io/badge/styles-Outline%20%2B%20Filled-0ea5e9)
@@ -30,7 +31,20 @@ Each icon is also available as a raw SVG URL:
 <img src="https://www.ikions.cloud/api/v1/icons/camera/outline.svg" width="24" height="24" alt="Camera" />
 ```
 
-React, Vue and Svelte packages (`@ikions/react`, `@ikions/vue`, `@ikions/svelte`) are being prepared for npm.
+Or install a package from npm:
+
+```bash
+npm install @ikions/react    # React and Next.js
+npm install @ikions/vue      # Vue 3 and Nuxt
+npm install @ikions/svelte   # Svelte 5 and SvelteKit
+npm install @ikions/icons    # SVG files, sprites and toSvg()
+```
+
+```tsx
+import { CameraIcon } from "@ikions/react";
+
+<CameraIcon size={20} variant="filled" />;
+```
 
 Made by [Mike Fernandez](https://www.ikions.cloud/#developer-heading) · [Instagram @dvbmike](https://www.instagram.com/dvbmike/)
 
