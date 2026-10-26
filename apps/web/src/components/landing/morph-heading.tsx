@@ -58,7 +58,8 @@ function glyphSize(char: string): number {
 interface MorphTextProps {
   /** One string per line; long lines wrap between words. */
   lines: string[];
-  as?: "h1" | "h2";
+  /** `span` lets the text sit inside a larger heading, e.g. next to the logo. */
+  as?: "h1" | "h2" | "span";
   id?: string;
   className?: string;
   /** `load` plays immediately; `view` plays when the heading scrolls into view. */

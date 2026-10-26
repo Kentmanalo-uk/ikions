@@ -2,7 +2,9 @@ import type { CSSProperties } from "react";
 import Link from "next/link";
 import { FeatureDemo } from "@/components/landing/feature-demo";
 import { FrameworkTabs, type FrameworkTab } from "@/components/landing/framework-tabs";
+import { LogoMark, Wordmark } from "@/components/layout/logo";
 import { HeroSearch } from "@/components/landing/hero-search";
+import { MeetDeveloper } from "@/components/landing/meet-developer";
 import { MorphHeading, MorphText } from "@/components/landing/morph-heading";
 import { Showcase } from "@/components/landing/showcase";
 import { buttonClass } from "@/components/ui/button";
@@ -277,6 +279,24 @@ export default function HomePage() {
             code: <CodeBlock code={source} lang={lang} label={file} />,
           }))}
         />
+      </section>
+
+      {/* Meet the developer */}
+      <section className="mx-auto max-w-[1200px] px-4 pt-28 sm:px-6" aria-labelledby="developer-heading">
+        <h2
+          id="developer-heading"
+          className="flex flex-wrap items-center justify-center gap-x-[0.32em] gap-y-2 font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] sm:text-[40px]"
+        >
+          <MorphText as="span" lines={["Behind the"]} className="inline-block" />
+          <span className="inline-flex items-center gap-[0.04em] text-ink">
+            <LogoMark className="h-[1.3em] w-auto" />
+            <Wordmark className="h-[0.74em] w-auto" />
+            <span className="sr-only">Ikions</span>
+          </span>
+        </h2>
+        <div className="mt-10">
+          <MeetDeveloper />
+        </div>
       </section>
 
       {/* Closing — headline, actions and two rows of drifting icons. */}
