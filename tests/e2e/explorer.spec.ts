@@ -129,7 +129,7 @@ test.describe("icon explorer", () => {
 test.describe("icon detail page", () => {
   test("has unique metadata", async ({ page }) => {
     await page.goto("/icons/camera");
-    await expect(page).toHaveTitle("Camera Icon — Free SVG, Outline & Filled | Ikions");
+    await expect(page).toHaveTitle("Free Camera Icon (SVG) | Ikions");
     await expect(page.locator('link[rel="canonical"]')).toHaveAttribute("href", /\/icons\/camera$/);
   });
 

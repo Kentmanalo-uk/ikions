@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const icon = getIcon(slug);
   if (!icon) return {};
-  const title = `${icon.title} Icon — Free SVG, Outline & Filled`;
-  const description = `Free ${icon.title.toLowerCase()} icon in Outline and Filled, free for commercial use. ${icon.description} Copy SVG or JSX, download SVG or PNG, or use the ${icon.component} component in React, Vue or Svelte.`;
+  const title = `Free ${icon.title} Icon (SVG)`;
+  const description = `Free ${icon.title.toLowerCase()} icon. ${icon.description} Copy SVG or JSX, or download SVG and PNG.`;
   return {
     title,
     description,
@@ -56,7 +56,7 @@ export default async function IconPage({ params }: Props) {
         acquireLicensePage: absoluteUrl("/license"),
         isAccessibleForFree: true,
         creditText: "Ikions",
-        copyrightNotice: "© Ikions — free under the Ikions License",
+        copyrightNotice: "© Ikions. Free under the Ikions License",
         creator: { "@type": "Organization", name: "Ikions", url: absoluteUrl("/") },
       },
       {
@@ -102,13 +102,6 @@ export default async function IconPage({ params }: Props) {
           className="font-display text-[36px] font-semibold leading-[1.08] tracking-[-0.04em] sm:text-[44px]"
         />
         <p className="mt-2 text-[16px] leading-7 text-ink-2">{icon.description}</p>
-        <p className="mt-1 text-[14px] leading-6 text-ink-2">
-          Free {icon.title.toLowerCase()} icon in Outline and Filled ·{" "}
-          <Link href="/license" className="text-accent-text hover:underline">
-            free license
-          </Link>{" "}
-          · SVG, PNG, JSX and the <code className="font-mono text-[13px]">{icon.component}</code> component for React, Vue and Svelte.
-        </p>
       </header>
 
       <Workbench icon={{ name: icon.name, title: icon.title, component: icon.component }} nodes={nodes} />

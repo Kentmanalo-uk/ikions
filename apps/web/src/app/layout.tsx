@@ -13,7 +13,7 @@ const geist = Geist({ subsets: ["latin"], variable: "--font-geist", display: "sw
 // Code only appears below the fold, so the mono font is not preloaded.
 const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains", display: "swap", preload: false });
 
-const DEFAULT_TITLE = "Ikions — Free Icon Library (SVG, React, Vue, Svelte)";
+const DEFAULT_TITLE = "Ikions | Free Icon Library for React, Vue, Svelte and SVG";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),

@@ -20,8 +20,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const category = getCategory(slug);
   if (!category) return {};
-  const title = `Free ${category.name} Icons (${category.count}) — SVG, Outline & Filled`;
-  const description = `${category.count} free ${category.name.toLowerCase()} icons in Outline and Filled, for personal and commercial use. ${category.description} Copy SVG or JSX, download SVG or PNG, or use React, Vue and Svelte components.`;
+  const title = `Free ${category.name} Icons (${category.count})`;
+  const description = `${category.count} free ${category.name.toLowerCase()} icons. ${category.description}`;
   return {
     title: { absolute: `${title} | Ikions` },
     description,
@@ -61,7 +61,7 @@ export default async function CategoryPage({ params }: Props) {
       </nav>
       <div className="flex flex-wrap items-end justify-between gap-6">
         <PageHeader title={`${category.name} icons`}>
-          {category.description} {icons.length} {icons.length === 1 ? "icon" : "icons"}, each in Outline and Filled.
+          {category.description} {icons.length} {icons.length === 1 ? "icon" : "icons"}.
         </PageHeader>
         <Link href={`/icons?category=${slug}`} className={buttonClass.secondary}>
           Open in explorer

@@ -150,8 +150,7 @@ export default function HomePage() {
         <div>
           <MorphHeading className="font-display text-[48px] font-semibold leading-[1.02] tracking-[-0.045em] sm:text-[60px] lg:text-[64px]" />
           <p className="mt-6 max-w-lg text-[17.5px] leading-[1.7] text-ink-2">
-            A free library of {stats.icons.toLocaleString("en")} original SVG icons in Outline and Filled
-            styles — free for personal and commercial projects, with React, Vue and Svelte components.
+            Original SVG icons for every interface. Free to use in any project.
           </p>
           <div className="mt-7 flex flex-wrap gap-2.5">
             <Link href="/icons" className={`${buttonClass.primary} h-11 px-5 text-[15px]`}>
@@ -180,7 +179,7 @@ export default function HomePage() {
         <dl className="grid grid-cols-2 gap-y-8 rounded-[24px] bg-surface px-6 py-7 shadow-card md:grid-cols-[1fr_1fr_1fr_1.4fr] md:px-8">
           {[
             { label: "Published icons", value: stats.icons.toLocaleString("en") },
-            { label: "SVG assets, Outline + Filled", value: stats.assets.toLocaleString("en") },
+            { label: "SVG files", value: stats.assets.toLocaleString("en") },
             { label: "Categories", value: stats.categories },
           ].map((item) => (
             <div key={item.label} className="flex flex-col-reverse md:px-8 md:first:pl-0">
@@ -221,12 +220,11 @@ export default function HomePage() {
         <div className="grid grid-cols-1 items-end gap-6 lg:grid-cols-2 lg:gap-16">
           <MorphText
             id="features-heading"
-            lines={["Two variants, drawn separately, behaving identically."]}
+            lines={["Consistent by design."]}
             className="font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] text-balance sm:text-[40px]"
           />
           <p className="max-w-lg text-[16px] leading-7 text-ink-2">
-            Outline icons share a 1.75 stroke on a 24-unit grid with soft corners and round terminals. Filled icons are not filled
-            outlines — each is its own silhouette with real cutouts, tuned to the same visual weight. Try it:
+            Every icon shares one grid, one stroke and the same soft corners, so they sit well together. Try it:
           </p>
         </div>
         <div className="mt-10">
@@ -270,8 +268,7 @@ export default function HomePage() {
                 className="font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] text-balance sm:text-[40px]"
               />
               <p className="mt-5 text-[16px] leading-7 text-ink-2">
-                Each icon is its own ES module, so bundlers drop everything you do not import. Components accept size, colour,
-                variant, strokeWidth, title and any SVG attribute, and render accessible markup on the server.
+                Each icon is its own module, so only what you import ends up in your bundle.
               </p>
             </>
           }
@@ -310,7 +307,7 @@ export default function HomePage() {
             className="mx-auto max-w-2xl font-display text-[36px] font-semibold leading-[1.08] tracking-[-0.04em] text-balance sm:text-[48px]"
           />
           <p className="mx-auto mt-4 max-w-md text-[16px] leading-7 text-ink-2">
-            Browse the full library, customise what you need and ship it in the format your project uses.
+            Find an icon, adjust it and copy it into your project.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-2.5">
             <Link href="/icons" className={`${buttonClass.primary} h-11 px-5 text-[15px]`}>

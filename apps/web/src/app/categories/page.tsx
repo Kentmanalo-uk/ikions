@@ -6,7 +6,7 @@ import { PageHeader } from "@/components/ui/page-header";
 import { categories, getCategoryIcons, plannedCategories } from "@/lib/catalog";
 
 export const metadata: Metadata = {
-  title: "Free Icon Categories — Browse SVG Icons by Topic",
+  title: "Free Icon Categories",
   description: "Browse Ikions icons by category: interface, arrows, communication, files, media, devices, commerce, finance and more.",
   alternates: { canonical: "/categories" },
 };

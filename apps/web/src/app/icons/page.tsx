@@ -3,8 +3,8 @@ import { Explorer } from "@/components/explorer/explorer";
 import { categories, icons, stats, withNodes } from "@/lib/catalog";
 
 export const metadata: Metadata = {
-  title: `Free Icon Search — ${stats.icons.toLocaleString("en")} SVG Icons, Outline & Filled`,
-  description: `Search and browse ${stats.icons.toLocaleString("en")} original Ikions icons in Outline and Filled. Copy SVG or JSX, download SVG and PNG, or export a selection as ZIP.`,
+  title: `Search ${stats.icons.toLocaleString("en")} Free SVG Icons`,
+  description: `Search ${stats.icons.toLocaleString("en")} free, original SVG icons. Copy SVG or JSX, or download SVG and PNG.`,
   alternates: { canonical: "/icons" },
 };
 

@@ -98,7 +98,7 @@ export function HeroSearch() {
             })}
           </ul>
         ) : (
-          <p className="mt-3 text-[14px] text-ink-2">No icons match yet — try a synonym.</p>
+          <p className="mt-3 text-[14px] text-ink-2">No icons match yet. Try a synonym.</p>
         )
       ) : (
         <ul className="mt-3 flex flex-wrap items-center gap-1 text-[13px]" aria-label="Example searches">

@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 import { getNodes, stats } from "@/lib/catalog";
 import { OG_SIZE, OgIcon, OgLogo, OgWordmark } from "@/lib/og";
 
-export const alt = "Ikions — original icons in Outline and Filled";
+export const alt = "Ikions free icon library";
 export const size = OG_SIZE;
 export const contentType = "image/png";
 
@@ -20,7 +20,7 @@ export default function OpengraphImage() {
           Icons for everything you imagine.
         </div>
         <div style={{ display: "flex", fontSize: 30, color: "#6A6C72", marginTop: 20 }}>
-          {`${stats.icons.toLocaleString("en")} free icons · Commercial use · Outline + Filled · React, Vue, Svelte, SVG`}
+          {`${stats.icons.toLocaleString("en")} free icons for React, Vue, Svelte and SVG`}
         </div>
         <div style={{ display: "flex", gap: 36, marginTop: "auto" }}>
           {ROW.map((name, i) => {

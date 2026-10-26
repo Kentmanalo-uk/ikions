@@ -54,7 +54,7 @@ export function libraryGraph({ icons, categories }: { icons: number; categories:
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     name: "Ikions icon library",
-    description: `${icons.toLocaleString("en")} free, original SVG icons in Outline and Filled across ${categories} categories, with React, Vue and Svelte components. Free for personal and commercial use.`,
+    description: `${icons.toLocaleString("en")} free, original SVG icons across ${categories} categories, with React, Vue and Svelte components.`,
     url: absoluteUrl("/"),
     applicationCategory: "DesignApplication",
     operatingSystem: "Web",

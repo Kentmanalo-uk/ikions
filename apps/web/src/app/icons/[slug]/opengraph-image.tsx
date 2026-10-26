@@ -24,7 +24,7 @@ export default async function IconOgImage({ params }: { params: Promise<{ slug: 
           <div style={{ display: "flex", fontSize: 80, fontWeight: 600, letterSpacing: -3, marginTop: 70 }}>{`${icon.title} icon`}</div>
           <div style={{ display: "flex", fontSize: 30, color: "#6A6C72", marginTop: 16, maxWidth: 560 }}>{icon.description}</div>
           <div style={{ display: "flex", fontSize: 26, color: "#4747D6", marginTop: "auto" }}>
-            {`${category?.name ?? ""} · Outline & Filled SVG`}
+            {`${category?.name ?? ""} · Free SVG icon`}
           </div>
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 28, justifyContent: "center" }}>

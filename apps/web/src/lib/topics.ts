@@ -20,13 +20,13 @@ export const TOPICS: Topic[] = [
   {
     slug: "react-icons",
     framework: "React",
-    title: "Free React Icons — SVG Icon Components (Outline & Filled)",
+    title: "Free React Icons (SVG Components)",
     heading: "Free React icons",
     intro:
-      "Original, free icons for React and Next.js. Every icon comes in Outline and Filled, renders as accessible inline SVG, and accepts size, colour, variant, stroke width and any SVG attribute.",
+      "Original icons for React and Next.js. Each one renders accessible SVG and takes size, colour and stroke props.",
     steps: [
       "Find an icon in the explorer by name or concept.",
-      "Pick Outline or Filled and adjust size, colour, stroke or gradient.",
+      "Adjust the size, colour or stroke.",
       "Copy JSX into your component, or import it from @ikions/react.",
     ],
     example: {
@@ -49,13 +49,13 @@ export function Toolbar() {
   {
     slug: "vue-icons",
     framework: "Vue",
-    title: "Free Vue Icons — SVG Icon Components for Vue 3 (Outline & Filled)",
+    title: "Free Vue 3 Icons (SVG Components)",
     heading: "Free Vue icons",
     intro:
-      "Original, free icons for Vue 3 and Nuxt. Each icon is a typed component in Outline and Filled that renders inline SVG and takes size, colour, variant and stroke width props.",
+      "Original icons for Vue 3 and Nuxt, as typed components that render inline SVG.",
     steps: [
       "Search the explorer for the icon you need.",
-      "Choose Outline or Filled and tune the size and colour.",
+      "Adjust the size and colour.",
       "Copy the SVG into your template, or import the component from @ikions/vue.",
     ],
     example: {
@@ -77,13 +77,13 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
   {
     slug: "svelte-icons",
     framework: "Svelte",
-    title: "Free Svelte Icons — SVG Icon Components for Svelte 5 (Outline & Filled)",
+    title: "Free Svelte 5 Icons (SVG Components)",
     heading: "Free Svelte icons",
     intro:
-      "Original, free icons for Svelte 5 and SvelteKit. Every icon comes in Outline and Filled as a lightweight component with size, colour, variant and stroke width props.",
+      "Original icons for Svelte 5 and SvelteKit, as lightweight components.",
     steps: [
       "Browse or search the icon explorer.",
-      "Pick a style and adjust it to match your design.",
+      "Adjust it to match your design.",
       "Copy the SVG into your markup, or import the component from @ikions/svelte.",
     ],
     example: {
@@ -103,10 +103,10 @@ import { SearchIcon, BellIcon } from "@ikions/vue";
   {
     slug: "svg-icons",
     framework: "SVG",
-    title: "Free SVG Icons — Download Outline & Filled SVG and PNG",
+    title: "Free SVG Icons (SVG and PNG Download)",
     heading: "Free SVG icons",
     intro:
-      "Download original SVG icons for websites, apps, slides and design tools. Every icon is drawn on a 24 × 24 grid, comes in Outline and Filled, and is free for personal and commercial use.",
+      "Original SVG icons for websites, apps, slides and design tools. Free for personal and commercial use.",
     steps: [
       "Search the explorer by name or concept, like “payment” or “weather”.",
       "Set the size, colour, stroke width or a gradient.",

@@ -3,7 +3,7 @@ import { siteConfig } from "@/lib/site";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Ikions — Free Icon Library",
+    name: "Ikions Free Icon Library",
     short_name: "Ikions",
     description: siteConfig.description,
     start_url: "/",

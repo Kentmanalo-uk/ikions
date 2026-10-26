@@ -51,7 +51,7 @@ export function Footer() {
           <Logo />
           <p className="mt-3 text-[14px] leading-6 text-ink-2">{siteConfig.tagline}</p>
           <p className="mt-3 text-[13px] text-ink-2">
-            Version {version} · {stats.icons} icons in Outline and Filled
+            Version {version} · {stats.icons} icons
           </p>
           <div className="mt-5">
             <ThemeSelect />

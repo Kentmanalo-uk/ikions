@@ -10,7 +10,7 @@ export const siteConfig = {
   name: "Ikions",
   tagline: "Every interface deserves a better icon.",
   description:
-    "Ikions is a free icon library: thousands of original SVG icons in Outline and Filled, free for personal and commercial use, ready for React, Vue, Svelte and plain HTML.",
+    "Ikions is a free icon library with thousands of original SVG icons for React, Vue, Svelte and HTML.",
   url:
     normalizeUrl(process.env.NEXT_PUBLIC_SITE_URL) ??
     (process.env.NODE_ENV === "production" ? PRODUCTION_URL : "http://localhost:3000"),

@@ -11,7 +11,7 @@ import { POPULAR_ICONS, TOPICS, type Topic } from "@/lib/topics";
 
 export function topicMetadata(slug: Topic["slug"]): Metadata {
   const topic = TOPICS.find((t) => t.slug === slug)!;
-  const description = `${stats.icons.toLocaleString("en")} free ${topic.framework === "SVG" ? "SVG" : `${topic.framework} SVG`} icons in Outline and Filled. ${topic.intro}`;
+  const description = `${stats.icons.toLocaleString("en")} free ${topic.framework === "SVG" ? "SVG" : `${topic.framework} SVG`} icons. ${topic.intro}`;
   return {
     title: { absolute: topic.title },
     description,
@@ -45,7 +45,7 @@ export function TopicPage({ slug }: { slug: Topic["slug"] }) {
           className="font-display text-[40px] font-semibold leading-[1.05] tracking-[-0.04em] sm:text-[52px]"
         />
         <p className="mt-5 text-[17px] leading-[1.7] text-ink-2">
-          {stats.icons.toLocaleString("en")} icons, {stats.categories} categories. {topic.intro}
+          {topic.intro}
         </p>
         <div className="mt-7 flex flex-wrap gap-2.5">
           <Link href="/icons" className={`${buttonClass.primary} h-11 px-5 text-[15px]`}>
