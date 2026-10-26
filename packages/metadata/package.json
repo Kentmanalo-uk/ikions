@@ -1,6 +1,6 @@
 {
   "name": "@ikions/metadata",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Searchable metadata for the Ikions icon library: names, aliases, tags, categories and a ranked search engine.",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",

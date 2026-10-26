@@ -16,6 +16,15 @@ import { toSvg } from "@ikions/icons";
 const svg = toSvg("bell", "filled", { size: 20, color: "#5555E8", title: "Notifications" });
 ```
 
+`toSvg()` looks icons up by name, so it includes every icon. That is fine on a server or at build time. In browser code, import only the icons you use:
+
+```js
+import { nodesToSvg } from "@ikions/icons";
+import bell from "@ikions/icons/nodes/bell";
+
+const svg = nodesToSvg(bell.filled, "filled", { size: 20 });
+```
+
 Files: `@ikions/icons/outline/<name>.svg`, `@ikions/icons/filled/<name>.svg`, `@ikions/icons/sprite/outline.svg`, `@ikions/icons/sprite/filled.svg` (symbol ids `ikions-<name>`).
 
 See the documentation on the Ikions website (/docs).

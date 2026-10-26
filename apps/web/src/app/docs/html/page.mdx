@@ -72,12 +72,21 @@ A mask lets any element take the icon's shape and your text colour. Each icon pa
 
 ## toSvg()
 
-Generate SVG strings in any JavaScript environment, such as servers, build scripts or the browser:
+Generate SVG strings on a server or at build time by name:
 
 ```js
 import { toSvg } from "@ikions/icons";
 
 const markup = toSvg("bell", "filled", { size: 20, color: "#5555E8", title: "Notifications" });
+```
+
+`toSvg()` can render any icon, so it includes all of them. In browser code, import only the icons you use:
+
+```js
+import { nodesToSvg } from "@ikions/icons";
+import bell from "@ikions/icons/nodes/bell";
+
+const markup = nodesToSvg(bell.filled, "filled", { size: 20 });
 ```
 
 Options: `size`, `color`, `gradient` (`{ from, to, angle? }`), `strokeWidth`, `title`, `className`. Colours are validated, so untrusted input cannot inject markup; invalid colours fall back to `currentColor`.

@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.2.1",
+    "date": "2026-10-26",
+    "status": "released",
+    "summary": "Smaller browser bundles for @ikions/icons.",
+    "notes": [
+      "New per-icon modules: import bell from \"@ikions/icons/nodes/bell\" and render it with nodesToSvg(), so browser code only ships the icons it uses.",
+      "toSvg() explains an invalid variant instead of failing with an unclear error."
+    ]
+  },
+  {
     "version": "0.2.0",
     "date": "2026-10-26",
     "status": "released",

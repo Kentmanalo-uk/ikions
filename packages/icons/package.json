@@ -1,6 +1,6 @@
 {
   "name": "@ikions/icons",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Original Ikions SVG icons in Outline and Filled variants, framework independent.",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
@@ -11,6 +11,10 @@
     ".": {
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
+    },
+    "./nodes/*": {
+      "types": "./dist/generated/icons/*.d.ts",
+      "default": "./dist/generated/icons/*.js"
     },
     "./outline/*": "./outline/*",
     "./filled/*": "./filled/*",

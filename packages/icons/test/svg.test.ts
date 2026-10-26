@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { gradientCoords, gradientId, iconNames, iconNodes, isIconName, isSafeColor, normalizeColor, normalizeGradient, toSvg } from "../src/index.js";
+import { gradientCoords, gradientId, iconNames, iconNodes, isIconName, isSafeColor, nodesToSvg, normalizeColor, normalizeGradient, toSvg } from "../src/index.js";
 
 describe("toSvg", () => {
   it("renders an outline icon with defaults", () => {
@@ -101,5 +101,26 @@ describe("gradients", () => {
     const svg = toSvg("home", "outline", { gradient: { from: "</svg><script>", to: "blue" } });
     expect(svg).not.toContain("linearGradient");
     expect(svg).not.toContain("<script>");
+  });
+});
+
+describe("per-icon modules", () => {
+  it("export the same nodes as the full map and render with nodesToSvg", async () => {
+    const camera = (await import("../src/generated/icons/camera.js")).default;
+    expect(camera).toEqual(iconNodes.camera);
+    expect(nodesToSvg(camera.filled, "filled", { size: 20 })).toBe(toSvg("camera", "filled", { size: 20 }));
+  });
+
+  it("exist for every icon", async () => {
+    const fs = await import("node:fs");
+    const files = fs.readdirSync(new URL("../src/generated/icons/", import.meta.url)).filter((f) => f.endsWith(".ts"));
+    expect(files.length).toBe(iconNames.length);
+  });
+});
+
+describe("toSvg variant check", () => {
+  it("explains an invalid variant", () => {
+    // @ts-expect-error deliberately wrong argument order
+    expect(() => toSvg("camera", { size: 20 })).toThrow(/Unknown variant/);
   });
 });

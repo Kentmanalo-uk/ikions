@@ -92,6 +92,18 @@ export function writeIconsPackage(icons: BuiltIcon[]) {
       `export type IconName = (typeof iconNames)[number];\n\n` +
       `export const iconNodes: Record<IconName, IconVariants> = {\n${nodeEntries}\n};\n`,
   );
+
+  // One module per icon (`@ikions/icons/nodes/<name>`), so browser code can
+  // render a single icon with nodesToSvg() without bundling the whole map.
+  const perIcon = path.join(pkg, "src", "generated", "icons");
+  emptyDir(perIcon);
+  for (const icon of icons) {
+    writeFile(
+      path.join(perIcon, `${icon.meta.name}.ts`),
+      `${GENERATED_HEADER}import type { IconVariants } from "../../types.js";\n\n` +
+        `const icon: IconVariants = { outline: ${json(icon.nodes.outline)}, filled: ${json(icon.nodes.filled)} };\n\nexport default icon;\n`,
+    );
+  }
 }
 
 /** @ikions/metadata — searchable metadata, categories, collections and releases. */

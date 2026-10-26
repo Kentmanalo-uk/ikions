@@ -1,6 +1,6 @@
 {
   "name": "@ikions/react",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Typed, tree-shakeable React components for the Ikions icon library (Outline and Filled).",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
