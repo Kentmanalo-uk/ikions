@@ -4,14 +4,35 @@
  */
 const normalizeUrl = (value: string | undefined) => value?.replace(/\/+$/, "") || undefined;
 
+/** The canonical production origin. Every deployment (including previews) points search engines here. */
+const PRODUCTION_URL = "https://www.ikions.cloud";
+
 export const siteConfig = {
   name: "Ikions",
   tagline: "Every interface deserves a better icon.",
   description:
-    "Ikions is an original icon library with carefully drawn Outline and Filled variants, ready for React, Vue, Svelte and plain SVG.",
-  url: normalizeUrl(process.env.NEXT_PUBLIC_SITE_URL) ?? "http://localhost:3000",
-  /** Public source repository, e.g. https://github.com/your-org/ikions. Hidden when unset. */
-  github: normalizeUrl(process.env.NEXT_PUBLIC_GITHUB_URL),
+    "Ikions is a free, open-source icon library: thousands of original SVG icons in Outline and Filled, MIT licensed, ready for React, Vue, Svelte and plain HTML.",
+  url:
+    normalizeUrl(process.env.NEXT_PUBLIC_SITE_URL) ??
+    (process.env.NODE_ENV === "production" ? PRODUCTION_URL : "http://localhost:3000"),
+  github: normalizeUrl(process.env.NEXT_PUBLIC_GITHUB_URL) ?? "https://github.com/Kentmanalo-uk/ikions",
+  /** Search phrases the site should be found for; used in metadata and structured data. */
+  keywords: [
+    "free icons",
+    "free icon library",
+    "open source icons",
+    "svg icons",
+    "free svg icons",
+    "react icons",
+    "vue icons",
+    "svelte icons",
+    "icon pack",
+    "outline icons",
+    "filled icons",
+    "mit license icons",
+    "web icons",
+    "ui icons",
+  ],
 } as const;
 
 export const mainNav = [

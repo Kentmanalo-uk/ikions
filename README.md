@@ -1,10 +1,46 @@
-# Ikions
+# Ikions — Free Open-Source SVG Icon Library
 
 **Every interface deserves a better icon.**
 
-Ikions is an original icon library: every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair. This repository contains the source artwork, the asset pipeline, the npm packages and the website.
+[![Website](https://img.shields.io/badge/website-ikions.cloud-5555E8)](https://www.ikions.cloud)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
+![Icons](https://img.shields.io/badge/icons-1%2C900%2B-8b5cf6)
+![Styles](https://img.shields.io/badge/styles-Outline%20%2B%20Filled-0ea5e9)
 
-Current catalog: **248 icons (496 SVG assets) in 30 categories.** See [docs/catalog-roadmap.md](docs/catalog-roadmap.md) for planned concepts — planned icons are never counted as published.
+**[Browse and download the icons → ikions.cloud](https://www.ikions.cloud)**
+
+Ikions is a **free, open-source icon library** with **1,900+ original SVG icons**. Every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair, under the **MIT License**, free for personal and commercial use with no attribution required.
+
+- **Free and MIT licensed:** use it in websites, apps, products, slides and client work.
+- **Two styles per icon:** Outline (1.75 stroke, round caps) and Filled (solid silhouettes with real cutouts).
+- **Works everywhere:** copy SVG or JSX, download SVG or PNG, export sprites and ZIPs, or use the React, Vue and Svelte components.
+- **Customisable:** size, colour, stroke width and gradient fills, live on the site.
+- **Original:** every icon is drawn for Ikions; nothing is copied from other icon sets.
+- **Accessible and tree-shakeable:** typed components, SSR-safe, with only the icons you import ending up in your bundle.
+
+## Use the icons
+
+1. Open **[ikions.cloud/icons](https://www.ikions.cloud/icons)** and search ("arrow", "payment", "weather"…).
+2. Pick Outline or Filled, adjust size, colour or gradient.
+3. **Copy SVG** / **Copy JSX**, or **Download SVG / PNG**. Select several icons to export a ZIP or sprite.
+
+Each icon is also available as a raw SVG URL:
+
+```html
+<img src="https://www.ikions.cloud/api/v1/icons/camera/outline.svg" width="24" height="24" alt="Camera" />
+```
+
+The React, Vue and Svelte packages live in [`packages/`](packages) and will be published to npm as `@ikions/react`, `@ikions/vue` and `@ikions/svelte`. They are not on npm yet.
+
+Made by [Mike Fernandez](https://www.ikions.cloud/#developer-heading) · [Instagram @dvbmike](https://www.instagram.com/dvbmike/)
+
+---
+
+## For contributors
+
+This repository contains the source artwork, the asset pipeline, the packages and the website.
+
+See [docs/catalog-roadmap.md](docs/catalog-roadmap.md) for planned concepts — planned icons are never counted as published.
 
 ## Repository layout
 
@@ -58,7 +94,7 @@ pnpm dev            # builds assets + packages, then starts the website on http:
 
 ## Quality status
 
-Measured on 2026-10-26 against a local production build (`next start`):
+Last full measurement (2026-10-26, at 248 icons) against a local production build (`next start`); to be re-run for the expanded catalog:
 
 | Check | Result |
 | --- | --- |
@@ -92,8 +128,8 @@ Environment variables (all optional):
 
 | Variable | Purpose |
 | --- | --- |
-| `NEXT_PUBLIC_SITE_URL` | Canonical origin for metadata, sitemap and Open Graph URLs, e.g. `https://ikions.example` |
-| `NEXT_PUBLIC_GITHUB_URL` | Public repository URL. The GitHub links in the header and footer only appear when this is set. |
+| `NEXT_PUBLIC_SITE_URL` | Canonical origin for metadata, sitemap and Open Graph URLs. Defaults to `https://www.ikions.cloud` in production |
+| `NEXT_PUBLIC_GITHUB_URL` | Public repository URL for the header and footer links. Defaults to this repository |
 
 Any Node.js host works (Vercel, a container, a VPS). Serve over HTTPS; the app already sends CSP, HSTS and other security headers (see `apps/web/next.config.ts`). The `/api/v1/search` endpoint has an in-memory rate limiter per instance; put a shared limiter or WAF rule in front when running multiple instances.
 

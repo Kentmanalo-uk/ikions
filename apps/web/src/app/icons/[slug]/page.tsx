@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const icon = getIcon(slug);
   if (!icon) return {};
-  const title = `${icon.title} Icon — Outline & Filled SVG`;
-  const description = `${icon.description} Free ${icon.title.toLowerCase()} icon in Outline and Filled styles. Copy SVG or JSX, download SVG or PNG, or use the ${icon.component} component.`;
+  const title = `${icon.title} Icon — Free SVG, Outline & Filled`;
+  const description = `Free ${icon.title.toLowerCase()} icon (MIT) in Outline and Filled. ${icon.description} Copy SVG or JSX, download SVG or PNG, or use the ${icon.component} component in React, Vue or Svelte.`;
   return {
     title,
     description,
@@ -40,17 +40,34 @@ export default async function IconPage({ params }: Props) {
   const category = getCategory(icon.category);
   const related = getRelatedIcons(icon);
 
+  // Image licence metadata lets Google Images label the icon as free to use.
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "ImageObject",
-    name: `${icon.title} icon`,
-    description: icon.description,
-    contentUrl: absoluteUrl(`/api/v1/icons/${icon.name}/outline.svg`),
-    encodingFormat: "image/svg+xml",
-    keywords: [...icon.aliases, ...icon.tags].join(", "),
-    license: absoluteUrl("/license"),
-    acquireLicensePage: absoluteUrl("/license"),
-    creditText: "Ikions",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        name: `${icon.title} icon`,
+        description: icon.description,
+        contentUrl: absoluteUrl(`/api/v1/icons/${icon.name}/outline.svg`),
+        thumbnailUrl: absoluteUrl(`/api/v1/icons/${icon.name}/outline.svg`),
+        encodingFormat: "image/svg+xml",
+        keywords: [icon.name, ...icon.aliases, ...icon.tags, "free icon", "svg icon"].join(", "),
+        license: absoluteUrl("/license"),
+        acquireLicensePage: absoluteUrl("/license"),
+        isAccessibleForFree: true,
+        creditText: "Ikions",
+        copyrightNotice: "Ikions — MIT License",
+        creator: { "@type": "Organization", name: "Ikions", url: absoluteUrl("/") },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Icons", item: absoluteUrl("/icons") },
+          { "@type": "ListItem", position: 2, name: category?.name ?? icon.category, item: absoluteUrl(`/categories/${icon.category}`) },
+          { "@type": "ListItem", position: 3, name: icon.title, item: absoluteUrl(`/icons/${icon.name}`) },
+        ],
+      },
+    ],
   };
 
   return (

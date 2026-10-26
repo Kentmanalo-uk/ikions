@@ -19,8 +19,28 @@
     },
     "./package.json": "./package.json"
   },
-  "files": ["src", "LICENSE", "README.md"],
-  "keywords": ["icons", "svelte", "svelte5", "svg", "ikions", "components"],
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "svelte",
+    "svelte5",
+    "svelte icons",
+    "svelte components",
+    "icons",
+    "icon",
+    "icon library",
+    "free icons",
+    "svg icons",
+    "open source icons",
+    "outline icons",
+    "filled icons",
+    "ikions",
+    "ui",
+    "design system"
+  ],
   "scripts": {
     "test": "vitest run"
   },
@@ -30,5 +50,15 @@
   "devDependencies": {
     "svelte": "^5.30.0",
     "vitest": "^3.2.7"
-  }
+  },
+  "homepage": "https://www.ikions.cloud",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kentmanalo-uk/ikions.git",
+    "directory": "packages/svelte"
+  },
+  "bugs": {
+    "url": "https://github.com/Kentmanalo-uk/ikions/issues"
+  },
+  "author": "Mike Fernandez"
 }

@@ -19,8 +19,27 @@
     "./icons.json": "./icons.json",
     "./package.json": "./package.json"
   },
-  "files": ["dist", "icons.json", "LICENSE", "README.md"],
-  "keywords": ["icons", "metadata", "search", "ikions"],
+  "files": [
+    "dist",
+    "icons.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "search",
+    "metadata",
+    "icons",
+    "icon",
+    "icon library",
+    "free icons",
+    "svg icons",
+    "open source icons",
+    "outline icons",
+    "filled icons",
+    "ikions",
+    "ui",
+    "design system"
+  ],
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "test": "vitest run",
@@ -29,5 +48,15 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "vitest": "^3.2.7"
-  }
+  },
+  "homepage": "https://www.ikions.cloud",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kentmanalo-uk/ikions.git",
+    "directory": "packages/metadata"
+  },
+  "bugs": {
+    "url": "https://github.com/Kentmanalo-uk/ikions/issues"
+  },
+  "author": "Mike Fernandez"
 }

@@ -1,7 +1,8 @@
-import type { CSSProperties } from "react";
+import { createElement, type CSSProperties } from "react";
 import { getNodes } from "@/lib/catalog";
-import { NodeIcon } from "../ui/node-icon";
 import { MorphTrigger } from "./morph-trigger";
+
+const camel = (key: string) => key.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase());
 
 /**
  * Headings that assemble themselves from icons: every letter first appears as
@@ -66,44 +67,76 @@ interface MorphTextProps {
   trigger?: "load" | "view";
 }
 
+/** Short stable hash, so each heading's sprite symbols get unique ids. */
+function hash(text: string): string {
+  let h = 5381;
+  for (let i = 0; i < text.length; i++) h = ((h << 5) + h + text.charCodeAt(i)) >>> 0;
+  return h.toString(36);
+}
+
 export function MorphText({ lines, as: Tag = "h2", id, className, trigger = "view" }: MorphTextProps) {
   let index = 0;
   const text = lines.join(" ");
+  const prefix = `ikm-${hash(text)}`;
+
+  // Each icon's artwork is written once per heading as a <symbol>; every letter
+  // references it with <use>, which keeps long headings light in the HTML.
+  const used = new Set<string>();
+  const glyph = (name: string | undefined, className: string) => {
+    if (!name || !getNodes(name)) return null;
+    used.add(name);
+    return (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.75} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className={className}>
+        <use href={`#${prefix}-${name}`} />
+      </svg>
+    );
+  };
+
+  const content = lines.map((line, lineIndex) => (
+    <span key={line} className="block">
+      {line.split(" ").map((word, wordIndex) => (
+        <span key={`${word}-${wordIndex}`}>
+          {wordIndex > 0 ? " " : null}
+          <span className="inline-block whitespace-nowrap">
+            {[...word].map((char) => {
+              const i = index++;
+              const options = BY_LETTER[char.toLowerCase()];
+              const second = options ? options[i % options.length] : undefined;
+              const first = FIRST[(i * 7 + lineIndex) % FIRST.length];
+              const hasSecond = Boolean(second && getNodes(second));
+              const style = { "--d": `${i * STAGGER_MS}ms`, "--s": `${glyphSize(char)}em` } as CSSProperties;
+              return (
+                <span key={i} className="ik-morph-char" style={style}>
+                  {glyph(first, "ik-morph-glyph ik-morph-first")}
+                  {glyph(second, "ik-morph-glyph ik-morph-second")}
+                  {/* The face wrapper takes the hover transition; the letter inside keeps the intro animation. */}
+                  <span className="ik-morph-face">
+                    <span className={hasSecond ? "ik-morph-letter" : "ik-morph-letter ik-morph-quick"}>{char}</span>
+                  </span>
+                  {glyph(hasSecond ? second : first, "ik-morph-hover")}
+                </span>
+              );
+            })}
+          </span>
+        </span>
+      ))}
+    </span>
+  ));
 
   return (
     <Tag id={id} className={className}>
       <span className="sr-only">{text}</span>
       <MorphTrigger trigger={trigger}>
-        {lines.map((line, lineIndex) => (
-          <span key={line} className="block">
-            {line.split(" ").map((word, wordIndex) => (
-              <span key={`${word}-${wordIndex}`}>
-                {wordIndex > 0 ? " " : null}
-                <span className="inline-block whitespace-nowrap">
-                  {[...word].map((char) => {
-                    const i = index++;
-                    const options = BY_LETTER[char.toLowerCase()];
-                    const second = options ? getNodes(options[i % options.length]!) : undefined;
-                    const first = getNodes(FIRST[(i * 7 + lineIndex) % FIRST.length]!);
-                    const hover = second ?? first;
-                    const style = { "--d": `${i * STAGGER_MS}ms`, "--s": `${glyphSize(char)}em` } as CSSProperties;
-                    return (
-                      <span key={i} className="ik-morph-char" style={style}>
-                        {first ? <NodeIcon nodes={first} className="ik-morph-glyph ik-morph-first" /> : null}
-                        {second ? <NodeIcon nodes={second} className="ik-morph-glyph ik-morph-second" /> : null}
-                        {/* The face wrapper takes the hover transition; the letter inside keeps the intro animation. */}
-                        <span className="ik-morph-face">
-                          <span className={second ? "ik-morph-letter" : "ik-morph-letter ik-morph-quick"}>{char}</span>
-                        </span>
-                        {hover ? <NodeIcon nodes={hover} className="ik-morph-hover" /> : null}
-                      </span>
-                    );
-                  })}
-                </span>
-              </span>
-            ))}
-          </span>
-        ))}
+        <svg width="0" height="0" className="absolute" aria-hidden="true" focusable="false">
+          {[...used].map((name) => (
+            <symbol key={name} id={`${prefix}-${name}`} viewBox="0 0 24 24">
+              {getNodes(name)!.outline.map(([tag, attrs], k) =>
+                createElement(tag, { key: k, ...Object.fromEntries(Object.entries(attrs).map(([a, v]) => [camel(a), v])) }),
+              )}
+            </symbol>
+          ))}
+        </svg>
+        {content}
       </MorphTrigger>
     </Tag>
   );
