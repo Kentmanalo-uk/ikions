@@ -91,10 +91,10 @@ export const docsNav: DocSection[] = [
     title: "Project",
     pages: [
       {
-        href: "/docs/contributing",
-        title: "Contributing",
-        description: "Design rules, the asset pipeline and how to submit new icons.",
-        keywords: ["contribute", "design spec", "pipeline", "pull request", "new icon", "validation"],
+        href: "/docs/design",
+        title: "Design principles",
+        description: "The grid, stroke, corner and Filled-variant rules every icon follows.",
+        keywords: ["design", "design spec", "grid", "stroke", "style", "quality"],
       },
       {
         href: "/docs/troubleshooting",

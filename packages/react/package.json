@@ -2,7 +2,7 @@
   "name": "@ikions/react",
   "version": "0.1.0",
   "description": "Typed, tree-shakeable React components for the Ikions icon library (Outline and Filled).",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.js",

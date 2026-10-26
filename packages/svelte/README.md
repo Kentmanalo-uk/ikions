@@ -24,4 +24,4 @@ See the documentation on the Ikions website (/docs).
 
 ## License
 
-MIT. The Ikions name and logo are not covered by the license.
+Free for personal and commercial use under the Ikions License (see `LICENSE`). Ikions is free, not open source: the icons may not be resold or redistributed as a set. The Ikions name and logo are not covered by the license.

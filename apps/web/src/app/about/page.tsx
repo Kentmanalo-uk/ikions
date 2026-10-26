@@ -85,8 +85,8 @@ export default function AboutPage() {
           <Link href="/changelog" className={buttonClass.secondary}>
             Read the changelog
           </Link>
-          <Link href="/docs/contributing" className={buttonClass.primary}>
-            Contribute an icon
+          <Link href="/icons" className={buttonClass.primary}>
+            Explore the icons
           </Link>
         </div>
       </section>

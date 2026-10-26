@@ -1,6 +1,6 @@
 /**
  * schema.org structured data (JSON-LD). Search engines and AI assistants read
- * it to understand what Ikions is: a free, MIT-licensed icon library, made by
+ * it to understand what Ikions is: a free icon library, made by
  * a named person, with a site search they can link into.
  */
 import { DEVELOPER } from "@/lib/developer";
@@ -54,11 +54,11 @@ export function libraryGraph({ icons, categories }: { icons: number; categories:
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     name: "Ikions icon library",
-    description: `${icons.toLocaleString("en")} free, original SVG icons in Outline and Filled across ${categories} categories, with React, Vue and Svelte components. MIT licensed for personal and commercial use.`,
+    description: `${icons.toLocaleString("en")} free, original SVG icons in Outline and Filled across ${categories} categories, with React, Vue and Svelte components. Free for personal and commercial use.`,
     url: absoluteUrl("/"),
     applicationCategory: "DesignApplication",
     operatingSystem: "Web",
-    license: "https://opensource.org/licenses/MIT",
+    license: absoluteUrl("/license"),
     isAccessibleForFree: true,
     offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
     keywords: siteConfig.keywords.join(", "),

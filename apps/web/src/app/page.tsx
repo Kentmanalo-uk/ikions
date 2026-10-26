@@ -151,7 +151,7 @@ export default function HomePage() {
           <MorphHeading className="font-display text-[48px] font-semibold leading-[1.02] tracking-[-0.045em] sm:text-[60px] lg:text-[64px]" />
           <p className="mt-6 max-w-lg text-[17.5px] leading-[1.7] text-ink-2">
             A free library of {stats.icons.toLocaleString("en")} original SVG icons in Outline and Filled
-            styles — MIT licensed for personal and commercial projects, with React, Vue and Svelte components.
+            styles — free for personal and commercial projects, with React, Vue and Svelte components.
           </p>
           <div className="mt-7 flex flex-wrap gap-2.5">
             <Link href="/icons" className={`${buttonClass.primary} h-11 px-5 text-[15px]`}>

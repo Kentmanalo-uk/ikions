@@ -2,7 +2,7 @@
   "name": "@ikions/svelte",
   "version": "0.1.0",
   "description": "Svelte 5 components for the Ikions icon library (Outline and Filled).",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "sideEffects": false,
   "svelte": "./src/index.js",

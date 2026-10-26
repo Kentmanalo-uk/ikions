@@ -2,7 +2,7 @@
   "name": "ikions-monorepo",
   "private": true,
   "description": "Ikions — an original icon library for everything.",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "packageManager": "pnpm@9.15.9",
   "engines": {
     "node": ">=20.11"

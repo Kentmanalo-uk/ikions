@@ -7,8 +7,8 @@ What is already built into the site, and what only you can do, in priority order
 | What | Where |
 | --- | --- |
 | Canonical URLs, sitemap, robots and Open Graph point to `https://www.ikions.cloud` (they pointed to `localhost` before) | `apps/web/src/lib/site.ts` |
-| Keyword-rich titles and descriptions ("free", "SVG", "React/Vue/Svelte", "MIT") | `layout.tsx`, icon pages, home hero |
-| Structured data: WebSite + site search box, Organization, Person, SoftwareApplication (free, MIT), per-icon ImageObject with licence (the "Licensable" badge in Google Images), breadcrumbs | `apps/web/src/lib/structured-data.ts` |
+| Keyword-rich titles and descriptions ("free", "SVG", "React/Vue/Svelte", "commercial use") | `layout.tsx`, icon pages, home hero |
+| Structured data: WebSite + site search box, Organization, Person, SoftwareApplication (free), per-icon ImageObject with licence (the "Licensable" badge in Google Images), breadcrumbs | `apps/web/src/lib/structured-data.ts` |
 | `/llms.txt` and `/llms-full.txt`: plain-text guides for ChatGPT, Claude, Perplexity and others | `apps/web/src/app/llms*.txt` |
 | `robots.txt` explicitly welcomes AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended…) | `apps/web/src/app/robots.ts` |
 | Sitemap with every icon's SVG as an image entry | `apps/web/src/app/sitemap.ts` |
@@ -48,7 +48,7 @@ Be honest, reply to every comment, and never post the same text everywhere.
 **Product Hunt** (launch on a Tuesday–Thursday, 12:01 am PT)
 - Name: Ikions
 - Tagline: `1,900+ free, original icons in Outline and Filled`
-- Description: `Ikions is a free, MIT-licensed icon library I drew from scratch: every icon comes as a matched Outline and Filled pair on one 24px grid. Search, tweak size, colour, stroke or gradient, then copy SVG/JSX or download SVG, PNG, sprites and ZIPs. React, Vue and Svelte components included.`
+- Description: `Ikions is a free icon library I drew from scratch: every icon comes as a matched Outline and Filled pair on one 24px grid. Search, tweak size, colour, stroke or gradient, then copy SVG/JSX or download SVG, PNG, sprites and ZIPs. React, Vue and Svelte components included.`
 
 **Hacker News** (Show HN)
 - Title: `Show HN: Ikions – 1,900 free, original SVG icons in Outline and Filled`

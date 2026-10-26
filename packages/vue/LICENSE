@@ -1,26 +1,38 @@
-MIT License
+Ikions License
 
-Copyright (c) Ikions contributors
+Copyright (c) 2026 Mike Fernandez (Ikions). All rights reserved, except as
+granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+"Icons" means the Ikions icon artwork in any format (SVG, PNG, sprites,
+components and the data that describes their shapes). "Packages" means the
+published Ikions packages that deliver the Icons.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Free use. You are granted a free, worldwide, non-exclusive, perpetual,
+   royalty-free license to use, copy, modify and incorporate the Icons and
+   Packages in personal and commercial projects, including websites,
+   applications, software, products, documents, presentations, print and
+   merchandise, and to distribute them as part of those projects.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. No attribution required. Credit is appreciated but not required.
 
----
+3. Restrictions. You may not:
+   a. sell, sublicense or redistribute the Icons on their own or as a
+      collection (for example an icon set, icon font, icon library, design
+      kit or asset pack), whether free or paid, modified or unmodified,
+      except as an incidental part of a project described in section 1;
+   b. use the Icons to create or offer a competing icon library, icon
+      search, icon download or icon generation product or service;
+   c. claim the Icons as your own original artwork.
 
-Trademark notice: this license covers the icon artwork and source code. It
-does not grant any right to use the Ikions name, logo or brand mark.
+4. Source code. The Ikions website, tooling and source code are proprietary.
+   Apart from using the Packages in your projects as described above, no
+   rights are granted to them.
+
+5. Trademark. This license does not grant rights to the Ikions name, logo or
+   brand mark. You may say your product "uses Ikions icons", but may not
+   suggest that it is made or endorsed by Ikions.
+
+6. No warranty. THE ICONS AND PACKAGES ARE PROVIDED "AS IS", WITHOUT WARRANTY
+   OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE ICONS, THE PACKAGES OR THEIR USE.

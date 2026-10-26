@@ -2,7 +2,7 @@
   "name": "@ikions/metadata",
   "version": "0.1.0",
   "description": "Searchable metadata for the Ikions icon library: names, aliases, tags, categories and a ranked search engine.",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.js",

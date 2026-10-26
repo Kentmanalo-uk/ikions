@@ -13,7 +13,7 @@ export function GET() {
   });
   const body = `# Ikions — full icon index
 
-> ${stats.icons.toLocaleString("en")} free, MIT-licensed SVG icons in Outline and Filled. Each icon is at ${absoluteUrl("/icons/{name}")}; raw SVG at ${absoluteUrl("/api/v1/icons/{name}/outline.svg")} or filled.svg.
+> ${stats.icons.toLocaleString("en")} free SVG icons (personal and commercial use) in Outline and Filled. Each icon is at ${absoluteUrl("/icons/{name}")}; raw SVG at ${absoluteUrl("/api/v1/icons/{name}/outline.svg")} or filled.svg.
 
 ${sections.join("\n\n")}
 `;

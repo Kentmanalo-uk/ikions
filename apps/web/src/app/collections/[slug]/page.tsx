@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const collection = getCollection(slug);
   if (!collection) return {};
   const title = `${collection.name} — Free Icon Set (${collection.icons.length} icons)`;
-  const description = `${collection.description} ${collection.icons.length} free, MIT-licensed icons in Outline and Filled. Select the set and export it as SVG, PNG, sprite or ZIP.`;
+  const description = `${collection.description} ${collection.icons.length} free icons in Outline and Filled. Select the set and export it as SVG, PNG, sprite or ZIP.`;
   return {
     title: { absolute: `${title} | Ikions` },
     description,

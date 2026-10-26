@@ -20,7 +20,7 @@ export default function OpengraphImage() {
           Icons for everything you imagine.
         </div>
         <div style={{ display: "flex", fontSize: 30, color: "#6A6C72", marginTop: 20 }}>
-          {`${stats.icons.toLocaleString("en")} free icons · MIT · Outline + Filled · React, Vue, Svelte, SVG`}
+          {`${stats.icons.toLocaleString("en")} free icons · Commercial use · Outline + Filled · React, Vue, Svelte, SVG`}
         </div>
         <div style={{ display: "flex", gap: 36, marginTop: "auto" }}>
           {ROW.map((name, i) => {

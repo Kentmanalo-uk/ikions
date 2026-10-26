@@ -1,0 +1,21 @@
+export const metadata = {
+  title: "Design principles",
+  description: "How Ikions icons are drawn: the 24 × 24 grid, stroke and corner rules, separately drawn Filled variants and the quality checks every icon passes.",
+  alternates: { canonical: "/docs/design" },
+};
+
+# Design principles
+
+Every Ikions icon follows the same drawing rules, and both variants ship together or not at all.
+
+## Drawing rules
+
+- **Grid:** 24 × 24 artboard, 20 × 20 live area, keylines for square, circle, portrait and landscape shapes.
+- **Outline:** 1.75 stroke, round caps and joins, `currentColor`, no fills except small solid accents.
+- **Filled:** a separate silhouette sized to the outline's outer edge, with real cutouts (even-odd holes 1.5–2 units wide) instead of filled outlines.
+- **Character:** soft corner radii that scale with shape size, breathing gaps between primary and secondary parts, calm detail.
+- **Originality:** draw from the object itself. Never trace or adapt artwork from another icon library.
+
+## Quality checks
+
+Every icon is checked automatically before it is published: no scripts, external references, raster images or hard-coded colours; valid path data inside the artboard; both variants present; and no duplicate names or near-identical drawings. Icons are also reviewed by eye at 16–32 px in light and dark.

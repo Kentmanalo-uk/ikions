@@ -2,7 +2,7 @@
   "name": "@ikions/icons",
   "version": "0.1.0",
   "description": "Original Ikions SVG icons in Outline and Filled variants, framework independent.",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.js",

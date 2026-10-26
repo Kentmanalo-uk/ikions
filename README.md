@@ -3,15 +3,15 @@
 **Every interface deserves a better icon.**
 
 [![Website](https://img.shields.io/badge/website-ikions.cloud-5555E8)](https://www.ikions.cloud)
-[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
+[![License: free use](https://img.shields.io/badge/license-free%20use-22c55e)](LICENSE)
 ![Icons](https://img.shields.io/badge/icons-1%2C900%2B-8b5cf6)
 ![Styles](https://img.shields.io/badge/styles-Outline%20%2B%20Filled-0ea5e9)
 
 **[Browse and download the icons → ikions.cloud](https://www.ikions.cloud)**
 
-Ikions is a **free icon library** with **1,900+ original SVG icons**. Every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair, under the **MIT License**, free for personal and commercial use with no attribution required.
+Ikions is a **free icon library** with **1,900+ original SVG icons**. Every icon is drawn on a 24 × 24 grid and published as a matched **Outline** and **Filled** pair, **free for personal and commercial use** under the Ikions License, with no attribution required.
 
-- **Free and MIT licensed:** use it in websites, apps, products, slides and client work.
+- **Free to use:** in websites, apps, products, slides and client work. Ikions is free, not open source: the icons may not be resold or redistributed as a set.
 - **Two styles per icon:** Outline (1.75 stroke, round caps) and Filled (solid silhouettes with real cutouts).
 - **Works everywhere:** copy SVG or JSX, download SVG or PNG, export sprites and ZIPs, or use the React, Vue and Svelte components.
 - **Customisable:** size, colour, stroke width and gradient fills, live on the site.
@@ -36,7 +36,7 @@ Made by [Mike Fernandez](https://www.ikions.cloud/#developer-heading) · [Instag
 
 ---
 
-## For contributors
+## Development
 
 This repository contains the source artwork, the asset pipeline, the packages and the website.
 
@@ -145,4 +145,4 @@ pnpm --filter "./packages/{icons,metadata,react,vue,svelte}" publish --access pu
 
 ## License
 
-Icons and code: [MIT](LICENSE). The Ikions name and logo are not covered by the license.
+Icons: free for personal and commercial use under the [Ikions License](LICENSE). Website, tooling and source code are proprietary. The Ikions name and logo are not covered by the license.

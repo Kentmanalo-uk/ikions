@@ -38,7 +38,7 @@ const sections = [
       { href: "/changelog", label: "Changelog" },
       { href: "/license", label: "License" },
       { href: "/about", label: "About" },
-      { href: "/docs/contributing", label: "Contributing" },
+      { href: "/docs/design", label: "Design principles" },
     ],
   },
 ];
@@ -81,7 +81,7 @@ export function Footer() {
       </div>
       <div className="border-t border-line">
         <p className="mx-auto max-w-[1440px] px-4 py-5 text-[12.5px] text-ink-2 sm:px-6">
-          Icon artwork and code are released under the MIT License. The Ikions name and logo are not covered by that license.
+          Ikions icons are free for personal and commercial use under the Ikions License. © 2026 Mike Fernandez. All rights reserved.
         </p>
       </div>
     </footer>

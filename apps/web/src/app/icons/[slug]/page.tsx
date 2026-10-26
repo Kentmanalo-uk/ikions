@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const icon = getIcon(slug);
   if (!icon) return {};
   const title = `${icon.title} Icon — Free SVG, Outline & Filled`;
-  const description = `Free ${icon.title.toLowerCase()} icon (MIT) in Outline and Filled. ${icon.description} Copy SVG or JSX, download SVG or PNG, or use the ${icon.component} component in React, Vue or Svelte.`;
+  const description = `Free ${icon.title.toLowerCase()} icon in Outline and Filled, free for commercial use. ${icon.description} Copy SVG or JSX, download SVG or PNG, or use the ${icon.component} component in React, Vue or Svelte.`;
   return {
     title,
     description,
@@ -56,7 +56,7 @@ export default async function IconPage({ params }: Props) {
         acquireLicensePage: absoluteUrl("/license"),
         isAccessibleForFree: true,
         creditText: "Ikions",
-        copyrightNotice: "Ikions — MIT License",
+        copyrightNotice: "© Ikions — free under the Ikions License",
         creator: { "@type": "Organization", name: "Ikions", url: absoluteUrl("/") },
       },
       {
@@ -105,7 +105,7 @@ export default async function IconPage({ params }: Props) {
         <p className="mt-1 text-[14px] leading-6 text-ink-2">
           Free {icon.title.toLowerCase()} icon in Outline and Filled ·{" "}
           <Link href="/license" className="text-accent-text hover:underline">
-            MIT license
+            free license
           </Link>{" "}
           · SVG, PNG, JSX and the <code className="font-mono text-[13px]">{icon.component}</code> component for React, Vue and Svelte.
         </p>

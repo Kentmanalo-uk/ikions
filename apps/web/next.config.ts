@@ -43,6 +43,10 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    // The contribution guide became the public design principles page.
+    return [{ source: "/docs/contributing", destination: "/docs/design", permanent: true }];
+  },
 };
 
 // Plugins are referenced by name so the config stays serialisable for Turbopack.

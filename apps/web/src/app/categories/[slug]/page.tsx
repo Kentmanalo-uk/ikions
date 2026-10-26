@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const category = getCategory(slug);
   if (!category) return {};
   const title = `Free ${category.name} Icons (${category.count}) — SVG, Outline & Filled`;
-  const description = `${category.count} free ${category.name.toLowerCase()} icons in Outline and Filled, MIT licensed. ${category.description} Copy SVG or JSX, download SVG or PNG, or use React, Vue and Svelte components.`;
+  const description = `${category.count} free ${category.name.toLowerCase()} icons in Outline and Filled, for personal and commercial use. ${category.description} Copy SVG or JSX, download SVG or PNG, or use React, Vue and Svelte components.`;
   return {
     title: { absolute: `${title} | Ikions` },
     description,

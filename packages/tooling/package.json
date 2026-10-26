@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Ikions asset pipeline: SVG validation, optimization, package and metadata generation.",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "scripts": {
     "validate": "tsx src/cli/validate.ts",
     "build:assets": "tsx src/cli/build.ts",
