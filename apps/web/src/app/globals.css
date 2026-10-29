@@ -673,91 +673,322 @@ nav[aria-label="Breadcrumb"] a {
   opacity: 1;
 }
 
-.ik-device-screen {
-  position: relative;
-  overflow: hidden;
-  background: #e9e9ec;
+/* MacBook: sizes in cqw so the whole device scales with its width. */
+.ik-mac {
+  container-type: inline-size;
 }
 
-.ik-laptop-lid {
+.ik-mac-lid {
   position: relative;
-  border-radius: 18px 18px 6px 6px;
-  background: linear-gradient(180deg, #2a2b31, #111216);
-  padding: 2.4% 2.4% 3.2%;
+  border-radius: 2.1cqw 2.1cqw 0.7cqw 0.7cqw;
+  padding: 1.55cqw 1.55cqw 1.9cqw;
+  background: #0b0b0d;
   box-shadow:
-    0 0 0 1px rgb(255 255 255 / 0.06) inset,
-    0 30px 60px -20px rgb(15 16 30 / 0.45),
-    0 12px 24px -12px rgb(15 16 30 / 0.3);
+    0 0 0 0.18cqw #a6a7ad,
+    0 0 0 0.32cqw #d4d5da,
+    0 2.6cqw 5cqw -1.6cqw rgb(15 16 30 / 0.45);
 }
 
-.ik-laptop-camera {
+.ik-mac-screen {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 1.54;
+  overflow: hidden;
+  border-radius: 0.9cqw 0.9cqw 0.25cqw 0.25cqw;
+  background: #f5f5f7;
+}
+
+.ik-mac-menubar {
+  position: relative;
+  display: flex;
+  height: 2.9cqw;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.4cqw;
+  background: rgb(246 246 248 / 0.92);
+  color: #1d1d1f;
+  font-size: 1.05cqw;
+  line-height: 1;
+}
+
+.ik-mac-menus {
+  display: flex;
+  gap: 1.4cqw;
+}
+
+.ik-mac-menus b {
+  font-weight: 650;
+}
+
+.ik-mac-notch {
   position: absolute;
   left: 50%;
-  top: 0.9%;
-  width: 6px;
-  height: 6px;
-  margin-left: -3px;
+  top: 0;
+  width: 15cqw;
+  height: 2.9cqw;
+  transform: translateX(-50%);
+  border-radius: 0 0 1.1cqw 1.1cqw;
+  background: #0b0b0d;
+}
+
+.ik-mac-notch::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0.7cqw;
+  height: 0.7cqw;
+  transform: translate(-50%, -50%);
   border-radius: 50%;
-  background: #3a3c44;
-  box-shadow: 0 0 0 1.5px #1b1c21;
+  background: radial-gradient(circle at 35% 35%, #3b4a6b, #10131c 70%);
 }
 
-.ik-laptop-base {
+.ik-mac-toolbar {
+  display: flex;
+  height: 4cqw;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 2cqw;
+  padding: 0 1.6cqw;
+  background: #ececee;
+  border-bottom: 0.08cqw solid #d9d9dd;
+}
+
+.ik-mac-lights {
+  display: flex;
+  gap: 0.7cqw;
+}
+
+.ik-mac-lights i {
+  width: 1.05cqw;
+  height: 1.05cqw;
+  border-radius: 50%;
+  background: #ff5f57;
+}
+
+.ik-mac-lights i:nth-child(2) {
+  background: #febc2e;
+}
+
+.ik-mac-lights i:nth-child(3) {
+  background: #28c840;
+}
+
+.ik-mac-url {
+  display: flex;
+  width: 38%;
+  height: 2.5cqw;
+  margin-left: 18%;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5cqw;
+  border-radius: 0.8cqw;
+  background: #fff;
+  color: #3a3a3c;
+  font-size: 1.15cqw;
+  box-shadow: 0 0 0 0.08cqw rgb(0 0 0 / 0.06);
+}
+
+.ik-mac-url svg {
+  width: 1.05cqw;
+  height: 1.05cqw;
+  color: #8e8e93;
+}
+
+.ik-mac-viewport {
   position: relative;
-  height: clamp(10px, 2.2vw, 18px);
-  margin: 0 -7%;
-  border-radius: 2px 2px 18px 18px;
-  background: linear-gradient(180deg, #e4e4e8 0%, #c9c9cf 55%, #a6a6ae 100%);
-  box-shadow: 0 18px 30px -14px rgb(15 16 30 / 0.45);
+  flex: 1;
+  overflow: hidden;
+  background: #fff;
 }
 
-.ik-laptop-base::before {
+.ik-mac-base {
+  position: relative;
+  height: 2.2cqw;
+  margin: 0 -6.5%;
+  border-radius: 0.3cqw 0.3cqw 2.4cqw 2.4cqw / 0.3cqw 0.3cqw 1.8cqw 1.8cqw;
+  background: linear-gradient(180deg, #f4f4f6 0%, #dcdde1 30%, #c3c4c9 70%, #9d9ea4 100%);
+  box-shadow:
+    inset 0 0.12cqw 0 rgb(255 255 255 / 0.8),
+    0 2.4cqw 3.6cqw -1.8cqw rgb(15 16 30 / 0.55);
+}
+
+.ik-mac-base::before {
+  /* thumb scoop for opening the lid */
   content: "";
   position: absolute;
   left: 50%;
   top: 0;
-  width: 16%;
-  height: 45%;
+  width: 13%;
+  height: 0.75cqw;
   transform: translateX(-50%);
-  border-radius: 0 0 10px 10px;
-  background: #b4b4bb;
+  border-radius: 0 0 1cqw 1cqw;
+  background: linear-gradient(180deg, #a9aab0, #c6c7cc);
 }
 
-.ik-phone {
-  border-radius: 2.1rem;
-  background: linear-gradient(160deg, #2c2d33, #0e0f12);
-  padding: 5.5%;
+/* iPhone 17: sizes in cqw of the phone's width. */
+.ik-iphone {
+  position: relative;
+  isolation: isolate; /* keeps the side buttons just behind the frame, never behind other elements */
+  container-type: inline-size;
+}
+
+.ik-iphone-body {
+  position: relative;
+  border-radius: 15.5cqw;
+  padding: 3.4cqw;
+  background: #050506;
   box-shadow:
-    0 0 0 1px rgb(255 255 255 / 0.08) inset,
-    0 30px 50px -18px rgb(15 16 30 / 0.55),
-    0 10px 18px -8px rgb(15 16 30 / 0.35);
+    0 0 0 0.9cqw #c9cad0,
+    0 0 0 1.4cqw #8d8e95,
+    0 0 0 1.7cqw #d9dadf,
+    0 6cqw 10cqw -3cqw rgb(15 16 30 / 0.55),
+    0 2cqw 4cqw -1cqw rgb(15 16 30 / 0.3);
 }
 
-.ik-phone-island {
+.ik-iphone-screen {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 9 / 19.5;
+  overflow: hidden;
+  border-radius: 12.4cqw;
+  background: #fff;
+}
+
+.ik-iphone-status {
+  position: relative;
+  display: flex;
+  height: 15.5cqw;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2.4cqw 8cqw 0 9.5cqw;
+  background: #fff;
+  color: #000;
+}
+
+.ik-iphone-time {
+  font-size: 5cqw;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.ik-iphone-island {
   position: absolute;
   left: 50%;
-  top: 2.2%;
-  z-index: 2;
-  width: 32%;
-  height: 3.2%;
+  top: 3.6cqw;
+  width: 31cqw;
+  height: 9.2cqw;
   transform: translateX(-50%);
   border-radius: 999px;
-  background: #0e0f12;
+  background: #000;
 }
 
-:root[data-theme="dark"] .ik-laptop-base {
-  background: linear-gradient(180deg, #55565e 0%, #3c3d44 55%, #2a2b31 100%);
+.ik-iphone-indicators {
+  display: flex;
+  align-items: center;
+  gap: 1.4cqw;
 }
-:root[data-theme="dark"] .ik-laptop-base::before {
-  background: #34353c;
+
+.ik-iphone-indicators svg {
+  height: 3.3cqw;
+  width: auto;
+  fill: currentColor;
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .ik-laptop-base {
-    background: linear-gradient(180deg, #55565e 0%, #3c3d44 55%, #2a2b31 100%);
-  }
-  :root:not([data-theme="light"]) .ik-laptop-base::before {
-    background: #34353c;
-  }
+
+.ik-iphone-viewport {
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+}
+
+.ik-iphone-urlbar {
+  position: absolute;
+  left: 7cqw;
+  right: 7cqw;
+  bottom: 9cqw;
+  display: grid;
+  height: 12.5cqw;
+  place-items: center;
+  border-radius: 999px;
+  background: rgb(255 255 255 / 0.82);
+  backdrop-filter: blur(6px);
+  color: #1d1d1f;
+  font-size: 4.2cqw;
+  font-weight: 500;
+  box-shadow:
+    0 0 0 0.3cqw rgb(0 0 0 / 0.05),
+    0 2cqw 5cqw -1cqw rgb(0 0 0 / 0.22);
+}
+
+.ik-iphone-home {
+  position: absolute;
+  left: 50%;
+  bottom: 2.6cqw;
+  width: 36cqw;
+  height: 1.4cqw;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: #111;
+}
+
+.ik-iphone-btn {
+  position: absolute;
+  z-index: -1;
+  width: 2.6cqw;
+  border-radius: 1cqw;
+  background: linear-gradient(90deg, #8d8e95, #d9dadf 60%, #a5a6ac);
+}
+
+.ik-iphone-action {
+  left: -3.4cqw;
+  top: 21%;
+  height: 7%;
+}
+.ik-iphone-vol-up {
+  left: -3.4cqw;
+  top: 31%;
+  height: 11%;
+}
+.ik-iphone-vol-down {
+  left: -3.4cqw;
+  top: 44%;
+  height: 11%;
+}
+.ik-iphone-power {
+  right: -3.4cqw;
+  top: 33%;
+  height: 16%;
+}
+
+/* Space-black finish in dark mode. */
+:root[data-theme="dark"] .ik-mac-lid {
+  box-shadow:
+    0 0 0 0.18cqw #4a4b52,
+    0 0 0 0.32cqw #2e2f35,
+    0 2.6cqw 5cqw -1.6cqw rgb(0 0 0 / 0.6);
+}
+:root[data-theme="dark"] .ik-mac-base {
+  background: linear-gradient(180deg, #5b5c64 0%, #44454c 35%, #34353b 75%, #26272c 100%);
+  box-shadow:
+    inset 0 0.12cqw 0 rgb(255 255 255 / 0.18),
+    0 2.4cqw 3.6cqw -1.8cqw rgb(0 0 0 / 0.7);
+}
+:root[data-theme="dark"] .ik-mac-base::before {
+  background: linear-gradient(180deg, #26272c, #3a3b41);
+}
+:root[data-theme="dark"] .ik-iphone-body {
+  box-shadow:
+    0 0 0 0.9cqw #3a3b41,
+    0 0 0 1.4cqw #1f2024,
+    0 0 0 1.7cqw #4d4e55,
+    0 6cqw 10cqw -3cqw rgb(0 0 0 / 0.7);
+}
+:root[data-theme="dark"] .ik-iphone-btn {
+  background: linear-gradient(90deg, #1f2024, #4d4e55 60%, #2b2c31);
 }
 
 /* Screens glide through the real page, pause, and glide back. */
