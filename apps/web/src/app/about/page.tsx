@@ -38,7 +38,7 @@ const principles = [
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-[960px] px-4 pt-10 sm:px-6">
-      <PageHeader eyebrow="About" title="Every interface deserves a better icon.">
+      <PageHeader title="Every interface deserves a better icon.">
         Original icons, drawn with care and free to use.
       </PageHeader>
 

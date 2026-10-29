@@ -20,7 +20,7 @@ export default async function ShowcasePage() {
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
-      <PageHeader eyebrow="Showcase" title="Built with Ikions">
+      <PageHeader title="Built with Ikions">
         Real websites using Ikions icons. Each one is checked against its live pages, so every site here really uses them.
       </PageHeader>
 

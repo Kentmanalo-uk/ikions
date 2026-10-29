@@ -140,21 +140,15 @@ export default async function IconPage({ params }: Props) {
           {icon.aliases.length ? (
             <div>
               <h3 className="text-ink-2">Also known as</h3>
-              <ul className="mt-2 flex flex-wrap gap-1.5">
-                {icon.aliases.map((alias) => (
-                  <li key={alias} className="rounded-full bg-subtle px-2.5 py-0.5 font-mono text-[12.5px]">
-                    {alias}
-                  </li>
-                ))}
-              </ul>
+              <p className="mt-1.5 font-mono text-[13px] leading-6">{icon.aliases.join(", ")}</p>
             </div>
           ) : null}
           <div>
             <h3 className="text-ink-2">Tags</h3>
-            <ul className="mt-2 flex flex-wrap gap-1.5">
+            <ul className="mt-1.5 flex flex-wrap gap-x-3 gap-y-1">
               {icon.tags.map((tag) => (
                 <li key={tag}>
-                  <Link href={`/icons?q=${encodeURIComponent(tag)}`} className="inline-block rounded-full bg-subtle px-2.5 py-0.5 text-[12.5px] text-ink-2 transition-colors hover:bg-selected hover:text-accent-text">
+                  <Link href={`/icons?q=${encodeURIComponent(tag)}`} className="inline-block py-0.5 text-[13.5px] text-ink-2 underline-offset-2 transition-colors hover:text-accent-text hover:underline">
                     {tag}
                   </Link>
                 </li>

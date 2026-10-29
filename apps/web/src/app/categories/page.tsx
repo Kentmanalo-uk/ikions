@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function CategoriesPage() {
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
-      <PageHeader eyebrow="Categories" title="Browse by category">
+      <PageHeader title="Browse by category">
         {categories.length} categories with published icons. Every icon belongs to exactly one category and can also be found
         through its aliases and tags.
       </PageHeader>
@@ -55,13 +55,7 @@ export default function CategoriesPage() {
           <p className="mt-1 max-w-2xl text-[14px] text-ink-2">
             These categories are planned but have no published icons yet. They appear in the explorer once their first batch passes review.
           </p>
-          <ul className="mt-4 flex flex-wrap gap-2">
-            {plannedCategories.map((c) => (
-              <li key={c.slug} className="rounded-full bg-subtle px-3.5 py-1.5 text-[13px] text-ink-2">
-                {c.name}
-              </li>
-            ))}
-          </ul>
+          <p className="mt-3 text-[14px] leading-6 text-ink">{plannedCategories.map((c) => c.name).join(", ")}</p>
         </section>
       ) : null}
     </div>

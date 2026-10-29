@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function CollectionsPage() {
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
-      <PageHeader eyebrow="Collections" title="Curated sets for real products">
+      <PageHeader title="Curated sets for real products">
         Starting points assembled from the published catalog. Open a collection to preview it, then select the icons you need and
         export them together.
       </PageHeader>

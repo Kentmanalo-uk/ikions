@@ -117,13 +117,7 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
           ) : null}
           <div>
             <dt className="font-medium text-ink-2">Tags</dt>
-            <dd className="mt-1 flex flex-wrap gap-1.5">
-              {icon.tags.map((tag) => (
-                <span key={tag} className="rounded-full bg-subtle px-2.5 py-0.5 text-[12px] text-ink-2">
-                  {tag}
-                </span>
-              ))}
-            </dd>
+            <dd className="mt-1 text-[13px] leading-6 text-ink-2">{icon.tags.join(", ")}</dd>
           </div>
         </dl>
       </div>

@@ -60,7 +60,7 @@ export function ShowcaseGrid({ sites }: { sites: { site: ShowcaseSite; verificat
             </div>
 
             <div className={flip ? "lg:order-1" : ""}>
-              <span className="inline-flex items-center gap-1.5 rounded-full bg-selected px-3 py-1 text-[12.5px] font-medium text-accent-text">
+              <span className="inline-flex items-center gap-1.5 text-[13.5px] font-medium text-accent-text">
                 <IkIcon name="shield-check" size={14} />
                 Verified on the live site
               </span>

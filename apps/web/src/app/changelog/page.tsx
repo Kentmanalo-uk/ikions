@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 export default function ChangelogPage() {
   return (
     <div className="mx-auto max-w-[860px] px-4 pt-10 sm:px-6">
-      <PageHeader eyebrow="Changelog" title="Releases">
+      <PageHeader title="Releases">
         Every release lists what changed in the library and its packages. Icon counts are computed from the catalog.
       </PageHeader>
 
@@ -27,7 +27,7 @@ export default function ChangelogPage() {
             <li key={release.version} id={`v${release.version}`} className="grid scroll-mt-24 gap-6 md:grid-cols-[10rem_1fr]">
               <div>
                 <h2 className="font-display text-[22px] font-semibold tracking-[-0.02em]">v{release.version}</h2>
-                <p className="mt-2 inline-flex items-center gap-1.5 rounded-full bg-subtle px-2.5 py-1 text-[12.5px] text-ink-2">
+                <p className="mt-2 inline-flex items-center gap-1.5 text-[13px] text-ink-2">
                   <span className={`h-1.5 w-1.5 rounded-full ${release.status === "released" ? "bg-success" : "bg-accent"}`} aria-hidden="true" />
                   {release.status === "released" && release.date
                     ? new Date(release.date).toLocaleDateString("en", { dateStyle: "long" })
@@ -50,12 +50,12 @@ export default function ChangelogPage() {
                       {byCategory.map(({ category, icons: list }) => (
                         <div key={category.slug}>
                           <h3 className="text-[13px] font-semibold text-ink-2">{category.name}</h3>
-                          <ul className="mt-2 flex flex-wrap gap-1.5">
+                          <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
                             {list.map((icon) => (
                               <li key={icon.name}>
                                 <Link
                                   href={`/icons/${icon.name}`}
-                                  className="inline-flex items-center gap-1.5 rounded-full bg-surface px-2.5 py-1 text-[12.5px] hover:text-accent-text"
+                                  className="inline-flex items-center gap-1.5 py-1 text-[13px] text-ink-2 hover:text-accent-text"
                                 >
                                   <IkIcon name={icon.name} size={14} />
                                   {icon.name}
