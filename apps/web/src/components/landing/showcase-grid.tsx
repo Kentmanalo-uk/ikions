@@ -26,6 +26,11 @@ function VerifiedBadge() {
   );
 }
 
+/**
+ * Screenshots are full-page captures: desktop 1280 × 2600, mobile 390 × 2200 at 2×
+ * (see the showcase capture script). They scroll inside the device screens.
+ */
+
 /** A MacBook showing the desktop site in Safari; the page scrolls slowly. */
 function MacBook({ src, alt, host }: { src: string; alt: string; host: string }) {
   return (
@@ -58,7 +63,7 @@ function MacBook({ src, alt, host }: { src: string; alt: string; host: string })
             </span>
           </div>
           <div className="ik-mac-viewport">
-            <Image src={src} alt={alt} fill sizes="(min-width: 1024px) 640px, 90vw" className="ik-screen-scroll object-cover" />
+            <Image src={src} alt={alt} width={1280} height={2600} sizes="(min-width: 1024px) 640px, 90vw" className="ik-screen-scroll" />
           </div>
         </div>
       </div>
@@ -100,7 +105,7 @@ function IPhone({ src, alt, host }: { src: string; alt: string; host: string }) 
             </span>
           </div>
           <div className="ik-iphone-viewport">
-            <Image src={src} alt={alt} fill sizes="(min-width: 1024px) 180px, 30vw" className="ik-screen-scroll ik-screen-scroll-late object-cover" />
+            <Image src={src} alt={alt} width={780} height={4400} sizes="(min-width: 1024px) 180px, 30vw" className="ik-screen-scroll ik-screen-scroll-late" />
           </div>
           <div className="ik-iphone-urlbar" aria-hidden="true">
             {host}

@@ -802,6 +802,8 @@ nav[aria-label="Breadcrumb"] a {
   flex: 1;
   overflow: hidden;
   background: #fff;
+  container-type: size;
+  contain: strict;
 }
 
 .ik-mac-base {
@@ -903,6 +905,8 @@ nav[aria-label="Breadcrumb"] a {
   position: relative;
   flex: 1;
   overflow: hidden;
+  container-type: size;
+  contain: strict;
 }
 
 .ik-iphone-urlbar {
@@ -992,13 +996,22 @@ nav[aria-label="Breadcrumb"] a {
 }
 
 /* Screens glide through the real page, pause, and glide back. */
+/* Only transform is animated, so the GPU moves the screenshot without
+   repainting it: smooth on low-end phones. 100cqh is the screen height. */
 @keyframes ik-screen-scroll {
-  0%, 12% { object-position: 50% 0%; }
-  50%, 62% { object-position: 50% 100%; }
-  100% { object-position: 50% 0%; }
+  0%, 12% { transform: translate3d(0, 0, 0); }
+  50%, 62% { transform: translate3d(0, calc(-100% + 100cqh), 0); }
+  100% { transform: translate3d(0, 0, 0); }
 }
 .ik-screen-scroll {
-  object-position: 50% 0%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  will-change: transform;
+  backface-visibility: hidden;
   animation: ik-screen-scroll 22s ease-in-out infinite;
 }
 .ik-screen-scroll-late {
