@@ -30,12 +30,24 @@ function readPreference(): ThemePreference {
   }
 }
 
+/**
+ * Switches the theme with a View Transition: the browser cross-fades one
+ * snapshot of the page instead of animating the colours of every element,
+ * which stays smooth on pages with thousands of icons. Browsers without View
+ * Transitions, and reduced motion, switch instantly.
+ */
 function apply(preference: ThemePreference) {
   const root = document.documentElement;
   const dark = preference === "dark" || (preference === "system" && matchMedia("(prefers-color-scheme: dark)").matches);
-  root.classList.add("theme-transition");
-  root.dataset.theme = dark ? "dark" : "light";
-  window.setTimeout(() => root.classList.remove("theme-transition"), 250);
+  const theme = dark ? "dark" : "light";
+  if (root.dataset.theme === theme) return;
+  // The transition applies the theme a frame later; listeners then re-read it.
+  const swap = () => {
+    root.dataset.theme = theme;
+    listeners.forEach((l) => l());
+  };
+  if (!document.startViewTransition || matchMedia("(prefers-reduced-motion: reduce)").matches) swap();
+  else document.startViewTransition(swap);
 }
 
 function setPreference(preference: ThemePreference) {

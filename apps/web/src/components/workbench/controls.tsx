@@ -19,8 +19,9 @@ const HEX = /^#(?:[0-9a-f]{3}|[0-9a-f]{6})$/i;
 export const MIN_SIZE = 8;
 export const MAX_SIZE = 512;
 
+// Below lg (phones and the mobile inspector sheet) controls grow to finger-sized targets.
 const chip =
-  "h-8 min-w-9 rounded-full border px-2.5 text-[12.5px] font-medium tabular-nums transition-colors";
+  "h-8 min-w-9 rounded-full border px-2.5 text-[12.5px] font-medium tabular-nums transition-colors max-lg:h-10 max-lg:flex-1 max-lg:text-[13.5px]";
 
 export function SizeControl({ value, onChange }: { value: number; onChange: (size: number) => void }) {
   const id = useId();
@@ -60,7 +61,7 @@ export function SizeControl({ value, onChange }: { value: number; onChange: (siz
             onChange={(e) => setDraft(e.target.value)}
             onBlur={commit}
             onKeyDown={(e) => e.key === "Enter" && commit()}
-            className="h-8 w-[4.75rem] rounded-full border border-line bg-surface pl-2 pr-7 text-[12.5px] tabular-nums text-ink"
+            className="h-8 w-[4.75rem] rounded-full border border-line bg-surface pl-2 pr-7 text-[12.5px] tabular-nums text-ink max-lg:h-10 max-lg:pl-3 max-lg:text-[16px]"
           />
           <span className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-[11px] text-ink-2">px</span>
         </div>
@@ -159,7 +160,7 @@ function GradientEditor({ gradient, onChange }: { gradient: IconGradient; onChan
   );
   return (
     <div className="space-y-3">
-      <div className="flex flex-wrap gap-1.5" role="group" aria-label="Gradient presets">
+      <div className="flex flex-wrap gap-1.5 max-lg:justify-between" role="group" aria-label="Gradient presets">
         {GRADIENT_PRESETS.map((preset) => {
           const active = sameGradient(gradient, preset);
           return (
@@ -170,7 +171,7 @@ function GradientEditor({ gradient, onChange }: { gradient: IconGradient; onChan
               title={preset.label}
               aria-pressed={active}
               onClick={() => onChange({ from: preset.from, to: preset.to, angle })}
-              className={`h-8 w-8 rounded-full transition-transform hover:scale-110 ${active ? "ring-2 ring-accent ring-offset-2 ring-offset-surface" : ""}`}
+              className={`h-8 w-8 rounded-full transition-transform hover:scale-110 max-lg:h-10 max-lg:w-10 ${active ? "ring-2 ring-accent ring-offset-2 ring-offset-surface" : ""}`}
               style={{ background: swatch(preset) }}
             />
           );
@@ -203,7 +204,7 @@ function GradientEditor({ gradient, onChange }: { gradient: IconGradient; onChan
           step={15}
           value={angle}
           onChange={(e) => onChange({ ...gradient, angle: Number(e.target.value) })}
-          className="mt-1.5 block w-full accent-[var(--accent)]"
+          className="mt-1.5 block w-full accent-[var(--accent)] max-lg:h-9"
           style={{ backgroundImage: swatch(gradient, angle) }}
         />
       </div>
@@ -219,7 +220,7 @@ function SolidColor({ value, onChange }: { value: string; onChange: (color: stri
   const invalid = draft !== "" && !HEX.test(draft);
   return (
     <div>
-      <div className="flex flex-wrap items-center gap-1.5">
+      <div className="flex flex-wrap items-center gap-1.5 max-lg:justify-between">
         {COLOR_PRESETS.map((preset) => {
           const active = value.toLowerCase() === preset.value.toLowerCase();
           return (
@@ -230,12 +231,12 @@ function SolidColor({ value, onChange }: { value: string; onChange: (color: stri
               title={preset.label}
               aria-pressed={active}
               onClick={() => onChange(preset.value)}
-              className={`grid h-8 w-8 place-items-center rounded-full border transition-shadow ${
+              className={`grid h-8 w-8 place-items-center rounded-full border transition-shadow max-lg:h-10 max-lg:w-10 ${
                 active ? "border-accent ring-2 ring-accent/30" : "border-line hover:border-line-strong"
               }`}
             >
               <span
-                className="h-5 w-5 rounded-full"
+                className="h-5 w-5 rounded-full max-lg:h-6 max-lg:w-6"
                 style={
                   preset.value === "currentColor"
                     ? { background: "conic-gradient(var(--text) 0 50%, var(--surface) 0 100%)", border: "1px solid var(--line-strong)" }
@@ -255,7 +256,7 @@ function SolidColor({ value, onChange }: { value: string; onChange: (color: stri
           type="color"
           value={HEX.test(value) && value.length === 7 ? value : "#5555e8"}
           onChange={(e) => onChange(e.target.value)}
-          className="h-8 w-9 cursor-pointer rounded-full border border-line bg-surface p-0.5"
+          className="h-8 w-9 cursor-pointer rounded-full border border-line bg-surface p-0.5 max-lg:h-10 max-lg:w-12"
         />
         <label htmlFor={hexId} className="sr-only">
           Custom hex colour
@@ -275,7 +276,7 @@ function SolidColor({ value, onChange }: { value: string; onChange: (color: stri
             setDraft(next);
             if (HEX.test(next)) onChange(next);
           }}
-          className={`h-8 w-[6.5rem] rounded-full border bg-surface px-2 font-mono text-[12.5px] uppercase text-ink ${
+          className={`h-8 w-[6.5rem] rounded-full border bg-surface px-2 font-mono text-[12.5px] uppercase text-ink max-lg:h-10 max-lg:w-auto max-lg:min-w-0 max-lg:flex-1 max-lg:px-3.5 max-lg:text-[16px] ${
             invalid ? "border-danger" : "border-line"
           }`}
         />
@@ -317,7 +318,7 @@ export function StrokeControl({
         disabled={disabled}
         aria-describedby={disabled ? `${id}-note` : undefined}
         onChange={(e) => onChange(Number(e.target.value))}
-        className="w-full accent-[var(--accent)] disabled:opacity-40"
+        className="w-full accent-[var(--accent)] disabled:opacity-40 max-lg:h-9"
       />
       {disabled ? (
         <p id={`${id}-note`} className="mt-1 text-[12px] text-ink-2">

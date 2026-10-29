@@ -80,7 +80,7 @@ export function Dialog({
 
   const position =
     variant === "sheet"
-      ? "mt-auto mb-0 w-full max-w-none rounded-t-2xl ik-sheet max-h-[88dvh]"
+      ? "mt-auto mb-0 w-full max-w-none rounded-t-2xl ik-sheet max-h-[88dvh] open:flex open:flex-col"
       : "ml-auto mr-0 h-dvh max-h-none w-[min(22rem,88vw)] ik-side-drawer";
 
   return (

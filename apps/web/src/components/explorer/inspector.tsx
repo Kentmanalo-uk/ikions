@@ -31,7 +31,7 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
   const selected = selection.has(icon.name);
 
   return (
-    <div className="flex h-full flex-col">
+    <div className="flex h-full min-h-0 flex-col">
       <div className="flex items-start justify-between gap-3 border-b border-line px-5 py-4">
         <div className="min-w-0">
           <h2 className="truncate font-display text-[18px] font-semibold tracking-[-0.02em]">{icon.title}</h2>
@@ -53,7 +53,7 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
         </div>
       </div>
 
-      <div className="flex-1 space-y-6 overflow-y-auto px-5 py-5">
+      <div className="relative flex-1 space-y-6 overflow-y-auto overscroll-contain px-5 py-5">
         <div className="grid-paper grid aspect-[4/3] place-items-center rounded-[18px] bg-bg">
           <NodeIcon
             key={`${icon.name}-${options.variant}`}

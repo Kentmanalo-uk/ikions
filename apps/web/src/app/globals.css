@@ -149,25 +149,28 @@
 
   dialog {
     color: inherit;
+    overscroll-behavior: contain;
   }
 
   dialog::backdrop {
     background: rgb(18 19 22 / 0.4);
     backdrop-filter: blur(2px);
   }
+
+  /* While a modal is open, swipes scroll the modal, not the page behind it. */
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
 }
 
-/* Theme switching fades colours without animating layout. */
-html.theme-transition,
-html.theme-transition *,
-html.theme-transition *::before,
-html.theme-transition *::after {
-  transition:
-    background-color 180ms ease,
-    border-color 180ms ease,
-    color 180ms ease,
-    fill 180ms ease,
-    stroke 180ms ease !important;
+/*
+ * Theme switching: the page cross-fades as one snapshot (see apply() in
+ * theme-toggle.tsx). Only opacity animates, on the GPU.
+ */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 320ms;
+  animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* Icon swap between Outline and Filled. */

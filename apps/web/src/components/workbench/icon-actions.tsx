@@ -32,8 +32,9 @@ export function IconActions({ icon, nodes, options, layout = "stack" }: Props) {
     }
   };
 
-  const grid = layout === "stack" ? "grid grid-cols-2 gap-2" : "flex flex-wrap gap-2";
-  const btn = `${buttonClass.small} justify-start`;
+  // `row` wraps freely on desktop and becomes an even two-column grid on phones.
+  const grid = layout === "stack" ? "grid grid-cols-2 gap-2" : "grid grid-cols-2 gap-2 lg:flex lg:flex-wrap";
+  const btn = `${buttonClass.small} justify-start ${layout === "row" ? "max-lg:h-10" : ""}`;
 
   return (
     <div className="space-y-3">
@@ -50,7 +51,7 @@ export function IconActions({ icon, nodes, options, layout = "stack" }: Props) {
           Download SVG
         </button>
       </div>
-      <div className="flex items-center gap-2">
+      <div className={layout === "row" ? "grid grid-cols-2 gap-2 lg:flex lg:items-center" : "flex items-center gap-2"}>
         <label className="sr-only" htmlFor={`png-size-${icon.name}`}>
           PNG size
         </label>
@@ -58,7 +59,7 @@ export function IconActions({ icon, nodes, options, layout = "stack" }: Props) {
           id={`png-size-${icon.name}`}
           value={pngSize}
           onChange={(e) => setPngSize(Number(e.target.value))}
-          className="h-8 rounded-full border border-line bg-surface px-3 text-[12.5px] text-ink"
+          className={`h-8 rounded-full border border-line bg-surface px-3 text-[12.5px] text-ink ${layout === "row" ? "max-lg:h-10 max-lg:text-[13.5px]" : ""}`}
         >
           {PNG_SIZES.map((size) => (
             <option key={size} value={size}>

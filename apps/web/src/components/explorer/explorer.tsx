@@ -424,7 +424,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
                 <CloseIcon size={18} />
               </button>
             </div>
-            <div className="overflow-y-auto p-3">{sidebar}</div>
+            <div className="relative min-h-0 overflow-y-auto overscroll-contain p-3">{sidebar}</div>
           </Dialog>
         </>
       ) : null}
