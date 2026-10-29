@@ -53,3 +53,16 @@ describe("showcase verification of live pages", () => {
     expect(result.icons).toEqual(expect.arrayContaining(["bed", "camera"]));
   });
 });
+
+describe("showcase verification of bundled apps", () => {
+  it("recognises @ikions/react compiled into a JavaScript bundle", () => {
+    const bundle =
+      "return{id:`ikions-gradient-${a.toString(36)}`};" +
+      "className:[`ikion`,`ikion-${e}`,d].filter(Boolean).join(` `);" +
+      `var d=u(\`camera\`,\`CameraIcon\`,{outline:[[\`path\`,{d:\`${pathOf("camera")}\`}]]});` +
+      `var h=u(\`heart\`,\`HeartIcon\`,{outline:[[\`path\`,{d:"${pathOf("heart")}"}]]});`;
+    const { evidence, icons } = findEvidence([bundle]);
+    expect(evidence).toEqual(expect.arrayContaining(["Ikions component code", "Ikions gradient"]));
+    expect(icons).toEqual(expect.arrayContaining(["camera", "heart"]));
+  });
+});

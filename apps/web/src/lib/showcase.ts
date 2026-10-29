@@ -30,6 +30,13 @@ export const SHOWCASE_SITES: ShowcaseSite[] = [
     screenshot: "/showcase/balairesort.jpg",
     pages: ["https://balairesort.site/", "https://balairesort.site/portal/rooms", "https://balairesort.site/portal/venues"],
   },
+  {
+    name: "E-MOORM",
+    url: "https://emoorm.shop/",
+    description: "A marketplace for Oriental Mindoro: buy directly from verified local sellers, delivered or ready for pickup in your municipality.",
+    screenshot: "/showcase/emoorm.jpg",
+    pages: ["https://emoorm.shop/"],
+  },
 ];
 
 export const SHOWCASE_REVALIDATE = 86_400;
@@ -107,13 +114,16 @@ export function findEvidence(sources: string[]): { evidence: string[]; icons: st
 
   for (const m of text.matchAll(/\bikion ikion-([a-z0-9-]+)/g)) icons.add(m[1]!);
   if (icons.size) evidence.push("Ikions component markup");
-  if (/ikions-gradient-[a-z0-9]+/.test(text)) evidence.push("Ikions gradient");
+  // Bundled packages: the component code builds these names at runtime (`ikion-${name}`).
+  if (/[`"']ikion-\$\{|[`"']ikion-[`"']\s*\+/.test(text)) evidence.push("Ikions component code");
+  if (/ikions-gradient-(?:[a-z0-9]+|\$\{|[`"']\s*\+)/.test(text)) evidence.push("Ikions gradient");
   if (/@ikions\/(?:icons|react|vue|svelte|metadata)/.test(text)) evidence.push("@ikions package");
   if (/ikions\.cloud\/api\/v1\/icons\//.test(text)) evidence.push("Ikions SVG files");
 
   const index = shapes();
   const matched = new Set<string>();
-  for (const m of text.matchAll(/\sd=\\?["']([^"'\\]{24,})/g)) {
+  // SVG markup (d="…") and bundled JavaScript (d:"…", d:`…`).
+  for (const m of text.matchAll(/(?:\sd=|[{,]d:)\\?["'`]([^"'`\\]{24,})/g)) {
     const name = index.get(norm(m[1]!));
     if (name) matched.add(name);
   }
