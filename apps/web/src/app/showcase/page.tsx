@@ -25,7 +25,21 @@ export default async function ShowcasePage() {
       </PageHeader>
 
       {sites.length > 0 ? (
-        <ShowcaseGrid sites={sites} />
+        <>
+          <dl className="mt-8 flex flex-wrap gap-x-10 gap-y-4">
+            <div className="flex flex-col-reverse">
+              <dt className="text-[13px] text-ink-2">verified {sites.length === 1 ? "site" : "sites"}</dt>
+              <dd className="font-display text-[30px] font-semibold leading-none tracking-[-0.03em] tabular-nums">{sites.length}</dd>
+            </div>
+            <div className="flex flex-col-reverse">
+              <dt className="text-[13px] text-ink-2">Ikions icons in use</dt>
+              <dd className="font-display text-[30px] font-semibold leading-none tracking-[-0.03em] tabular-nums">
+                {sites.reduce((sum, s) => sum + s.verification.icons.length, 0).toLocaleString("en")}
+              </dd>
+            </div>
+          </dl>
+          <ShowcaseGrid sites={sites} />
+        </>
       ) : (
         <div className="mt-12 rounded-[24px] bg-surface p-8 text-center shadow-card">
           <p className="font-display text-[18px] font-semibold">The first sites are on their way</p>
@@ -35,7 +49,7 @@ export default async function ShowcasePage() {
         </div>
       )}
 
-      <section className="mt-14 rounded-[24px] bg-surface p-8 text-center shadow-card" aria-labelledby="submit-heading">
+      <section className="mt-24 rounded-[24px] bg-surface p-8 text-center shadow-card sm:mt-32" aria-labelledby="submit-heading">
         <h2 id="submit-heading" className="font-display text-[22px] font-semibold tracking-[-0.02em]">
           Using Ikions on your site?
         </h2>

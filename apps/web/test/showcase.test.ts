@@ -46,7 +46,7 @@ describe("showcase verification of live pages", () => {
     };
     const fetcher = async (url: string) => (url in pages ? new Response(pages[url]) : new Response("", { status: 404 }));
     const result = await verifySite(
-      { name: "Example", url: "https://example.com/", description: "", screenshot: "", pages: ["https://example.com/"] },
+      { name: "Example", url: "https://example.com/", description: "", screenshots: { desktop: "", mobile: "" }, pages: ["https://example.com/"] },
       fetcher,
     );
     expect(result.verified).toBe(true);
