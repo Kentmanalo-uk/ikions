@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties } from "react";
 import { siteConfig } from "@/lib/site";
 import { buttonClass } from "../ui/button";
 import { Dialog } from "../ui/dialog";
@@ -118,8 +118,8 @@ export function Header() {
           </div>
           <nav aria-label="Mobile" className="mt-6">
             <ul className="space-y-0.5">
-              {mobileNav.map((item) => (
-                <li key={item.href}>
+              {mobileNav.map((item, i) => (
+                <li key={item.href} className="ik-drawer-row" style={{ "--i": i } as CSSProperties}>
                   <Link
                     href={item.href}
                     onClick={() => setMenuOpen(false)}
@@ -133,7 +133,7 @@ export function Header() {
                 </li>
               ))}
               {siteConfig.github ? (
-                <li>
+                <li className="ik-drawer-row" style={{ "--i": mobileNav.length } as CSSProperties}>
                   <a
                     href={siteConfig.github}
                     rel="noopener noreferrer"
@@ -145,7 +145,7 @@ export function Header() {
               ) : null}
             </ul>
           </nav>
-          <div className="mt-auto border-t border-line pt-4">
+          <div className="ik-drawer-row mt-auto border-t border-line pt-4" style={{ "--i": mobileNav.length + 1 } as CSSProperties}>
             <p className="mb-2 text-[12px] font-medium text-ink-2">Theme</p>
             <ThemeSelect />
           </div>

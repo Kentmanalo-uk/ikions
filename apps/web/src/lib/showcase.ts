@@ -16,6 +16,8 @@ export interface ShowcaseSite {
   name: string;
   url: string;
   description: string;
+  /** The site's own app icon (its apple-touch-icon), 180 × 180, in /public/showcase. */
+  icon: string;
   /** Full-page screenshots in /public/showcase: desktop 1280 px wide, mobile 390 px (iPhone). */
   screenshots: { desktop: string; mobile: string };
   /** Pages to check; the first is also the link. */
@@ -27,6 +29,7 @@ export const SHOWCASE_SITES: ShowcaseSite[] = [
     name: "Balai-Reserve",
     url: "https://balairesort.site/",
     description: "A beachfront resort in Gloria, Oriental Mindoro, with rooms, cottages, a function hall and online booking.",
+    icon: "/showcase/balairesort-icon.png",
     screenshots: { desktop: "/showcase/balairesort-desktop.jpg", mobile: "/showcase/balairesort-mobile.jpg" },
     pages: ["https://balairesort.site/", "https://balairesort.site/portal/rooms", "https://balairesort.site/portal/venues"],
   },
@@ -34,6 +37,7 @@ export const SHOWCASE_SITES: ShowcaseSite[] = [
     name: "E-MOORM",
     url: "https://emoorm.shop/",
     description: "A marketplace for Oriental Mindoro: buy directly from verified local sellers, delivered or ready for pickup in your municipality.",
+    icon: "/showcase/emoorm-icon.png",
     screenshots: { desktop: "/showcase/emoorm-desktop.jpg", mobile: "/showcase/emoorm-mobile.jpg" },
     pages: ["https://emoorm.shop/"],
   },

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { CSSProperties } from "react";
+import { BrandName } from "@/components/layout/logo";
 import { IkIcon } from "@/components/ui/ik-icon";
 import type { ShowcaseSite, Verification } from "@/lib/showcase";
 
@@ -148,6 +149,14 @@ export function ShowcaseGrid({ sites }: { sites: { site: ShowcaseSite; verificat
 
             <div className={flip ? "lg:order-1" : ""}>
               <h2 id={`showcase-${index}`} className="flex items-center gap-2.5 font-display text-[34px] font-semibold leading-[1.05] tracking-[-0.035em] sm:text-[42px]">
+                <Image
+                  src={site.icon}
+                  alt=""
+                  width={180}
+                  height={180}
+                  sizes="52px"
+                  className="mr-1 h-11 w-11 shrink-0 rounded-[24%] shadow-card sm:h-[52px] sm:w-[52px]"
+                />
                 {site.name}
                 <VerifiedBadge />
               </h2>
@@ -159,7 +168,7 @@ export function ShowcaseGrid({ sites }: { sites: { site: ShowcaseSite; verificat
               {verification.icons.length > 0 ? (
                 <div className="mt-7">
                   <p className="text-[13px] text-ink-2">
-                    <span className="font-display text-[22px] font-semibold tracking-[-0.02em] text-ink">{verification.icons.length}</span> Ikions icons in
+                    <span className="font-display text-[22px] font-semibold tracking-[-0.02em] text-ink">{verification.icons.length}</span> <BrandName /> icons in
                     use
                   </p>
                   <ul className="mt-3 flex max-w-md flex-wrap gap-1.5" aria-label={`Icons used on ${site.name}`}>

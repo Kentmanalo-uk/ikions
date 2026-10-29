@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { IkIcon } from "@/components/ui/ik-icon";
+import { BrandName } from "@/components/layout/logo";
 import { PageHeader } from "@/components/ui/page-header";
 import { DEVELOPER } from "@/lib/developer";
 import { getVerifiedShowcase } from "@/lib/showcase";
@@ -20,7 +21,7 @@ export default async function ShowcasePage() {
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 pt-10 sm:px-6">
-      <PageHeader title="Built with Ikions">
+      <PageHeader title="Built with" brand>
         Real websites using Ikions icons. Each one is checked against its live pages, so every site here really uses them.
       </PageHeader>
 
@@ -32,7 +33,9 @@ export default async function ShowcasePage() {
               <dd className="font-display text-[30px] font-semibold leading-none tracking-[-0.03em] tabular-nums">{sites.length}</dd>
             </div>
             <div className="flex flex-col-reverse">
-              <dt className="text-[13px] text-ink-2">Ikions icons in use</dt>
+              <dt className="text-[13px] text-ink-2">
+                <BrandName /> icons in use
+              </dt>
               <dd className="font-display text-[30px] font-semibold leading-none tracking-[-0.03em] tabular-nums">
                 {sites.reduce((sum, s) => sum + s.verification.icons.length, 0).toLocaleString("en")}
               </dd>
@@ -51,7 +54,7 @@ export default async function ShowcasePage() {
 
       <section className="mt-24 rounded-[24px] bg-surface p-8 text-center shadow-card sm:mt-32" aria-labelledby="submit-heading">
         <h2 id="submit-heading" className="font-display text-[22px] font-semibold tracking-[-0.02em]">
-          Using Ikions on your site?
+          Using <BrandName /> on your site?
         </h2>
         <p className="mx-auto mt-2 max-w-md text-[14.5px] leading-6 text-ink-2">Send the link and it will be added once the icons are live.</p>
         <div className="mt-5 flex flex-wrap justify-center gap-2.5">

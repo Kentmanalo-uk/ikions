@@ -41,7 +41,7 @@ export function siteGraph() {
         "@type": "Person",
         "@id": PERSON_ID,
         name: DEVELOPER.name,
-        jobTitle: DEVELOPER.role,
+        jobTitle: `${DEVELOPER.role} Ikions`,
         image: absoluteUrl(DEVELOPER.photo),
         sameAs: DEVELOPER.socials.map((s) => s.href),
       },

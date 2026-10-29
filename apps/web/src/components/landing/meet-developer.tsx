@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { IkIcon } from "@/components/ui/ik-icon";
+import { BrandName } from "@/components/layout/logo";
 import { DEVELOPER } from "@/lib/developer";
 
 const LINK =
@@ -20,7 +21,9 @@ export function MeetDeveloper() {
       </div>
       <div className="text-center md:text-left">
         <h3 className="font-display text-[28px] font-semibold leading-[1.15] tracking-[-0.03em] sm:text-[32px]">{DEVELOPER.name}</h3>
-        <p className="mt-2 text-[16px] leading-7 text-ink-2">{DEVELOPER.role}</p>
+        <p className="mt-2 text-[16px] leading-7 text-ink-2">
+          {DEVELOPER.role} <BrandName className="text-ink" />
+        </p>
         <ul className="mt-6 flex flex-wrap justify-center gap-2.5 md:justify-start" aria-label={`Contact ${DEVELOPER.name}`}>
           <li>
             <a href={`mailto:${DEVELOPER.email}`} className={LINK}>

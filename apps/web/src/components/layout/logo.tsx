@@ -69,6 +69,19 @@ export function Wordmark({ height = 20, className }: { height?: number; classNam
   );
 }
 
+/**
+ * "Ikions" set as the wordmark inside text, sized to the surrounding font: the
+ * k's ascender lines up with capitals and the letters sit on the baseline.
+ */
+export function BrandName({ className }: { className?: string }) {
+  return (
+    <span className={`inline-block whitespace-nowrap ${className ?? ""}`}>
+      <Wordmark className="inline h-[0.82em] w-auto translate-y-[0.03em] align-baseline" />
+      <span className="sr-only">Ikions</span>
+    </span>
+  );
+}
+
 export function Logo({ className }: { className?: string }) {
   return (
     <span className={`inline-flex items-center gap-2 text-ink ${className ?? ""}`}>

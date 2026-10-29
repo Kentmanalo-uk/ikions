@@ -13,7 +13,8 @@ export interface SocialLink {
 
 export const DEVELOPER = {
   name: "Mike Fernandez",
-  role: "Designer & developer of Ikions",
+  /** Followed by the Ikions wordmark in the developer card. */
+  role: "Designer & developer of",
   photo: "/developer/mike-fernandez-v2.jpg",
   email: "fernandezmike404@gmail.com",
   socials: [

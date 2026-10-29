@@ -1,6 +1,9 @@
 "use client";
 
-import { useEffect, useRef, type ReactNode } from "react";
+import { useCallback, useEffect, useRef, useState, type ReactNode } from "react";
+
+/** Length of the drawer's slide-out, matching `.ik-side-drawer[data-closing]` in globals.css. */
+const DRAWER_EXIT_MS = 240;
 
 /**
  * Modal built on the native <dialog> element: the browser provides the focus
@@ -24,6 +27,24 @@ export function Dialog({
 }) {
   const ref = useRef<HTMLDialogElement>(null);
   const returnFocus = useRef<HTMLElement | null>(null);
+  // Content stays mounted while the drawer slides out, after `open` turns false.
+  const [shown, setShown] = useState(open);
+  if (open && !shown) setShown(true);
+
+  // The drawer plays its exit animation before the native close.
+  const close = useCallback(() => {
+    const dialog = ref.current;
+    if (!dialog?.open || dialog.hasAttribute("data-closing")) return;
+    if (variant !== "drawer" || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      dialog.close();
+      return;
+    }
+    dialog.setAttribute("data-closing", "");
+    window.setTimeout(() => {
+      dialog.removeAttribute("data-closing");
+      dialog.close();
+    }, DRAWER_EXIT_MS);
+  }, [variant]);
 
   useEffect(() => {
     const dialog = ref.current;
@@ -32,25 +53,35 @@ export function Dialog({
       returnFocus.current = document.activeElement as HTMLElement | null;
       dialog.showModal();
     } else if (!open && dialog.open) {
-      dialog.close();
+      close();
     }
-  }, [open]);
+  }, [open, close]);
 
   useEffect(() => {
     const dialog = ref.current;
     if (!dialog) return;
     const handleClose = () => {
+      setShown(false);
       onClose();
       returnFocus.current?.focus?.();
     };
+    const handleCancel = (event: Event) => {
+      // Escape: animate out instead of closing at once.
+      event.preventDefault();
+      close();
+    };
     dialog.addEventListener("close", handleClose);
-    return () => dialog.removeEventListener("close", handleClose);
-  }, [onClose]);
+    dialog.addEventListener("cancel", handleCancel);
+    return () => {
+      dialog.removeEventListener("close", handleClose);
+      dialog.removeEventListener("cancel", handleCancel);
+    };
+  }, [onClose, close]);
 
   const position =
     variant === "sheet"
       ? "mt-auto mb-0 w-full max-w-none rounded-t-2xl ik-sheet max-h-[88dvh]"
-      : "ml-auto mr-0 h-dvh max-h-none w-[min(22rem,88vw)] ik-drawer";
+      : "ml-auto mr-0 h-dvh max-h-none w-[min(22rem,88vw)] ik-side-drawer";
 
   return (
     <dialog
@@ -58,11 +89,11 @@ export function Dialog({
       aria-label={label}
       onClick={(event) => {
         // Clicking the backdrop (the dialog element itself) closes it.
-        if (event.target === ref.current) ref.current.close();
+        if (event.target === ref.current) close();
       }}
       className={`m-0 border-0 bg-surface p-0 text-ink shadow-soft backdrop:bg-black/40 ${position} ${className ?? ""}`}
     >
-      {open ? children : null}
+      {open || shown ? children : null}
     </dialog>
   );
 }

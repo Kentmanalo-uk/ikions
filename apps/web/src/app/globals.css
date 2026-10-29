@@ -232,6 +232,74 @@ html.theme-transition *::after {
 }
 
 /*
+ * Mobile menu drawer: slides fully in from the right while the backdrop fades,
+ * then its rows follow one after another (--i is the row index). Only
+ * transform and opacity animate, so it stays smooth on low-end phones.
+ * [data-closing] is set by Dialog for the slide-out before the native close.
+ */
+@keyframes ik-side-drawer-in {
+  from {
+    transform: translate3d(100%, 0, 0);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes ik-side-drawer-out {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translate3d(100%, 0, 0);
+  }
+}
+
+@keyframes ik-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes ik-fade-out {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes ik-drawer-row {
+  from {
+    opacity: 0;
+    transform: translate3d(24px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.ik-side-drawer {
+  animation: ik-side-drawer-in 420ms cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.ik-side-drawer::backdrop {
+  animation: ik-fade-in 320ms ease-out;
+}
+
+.ik-side-drawer[data-closing] {
+  animation: ik-side-drawer-out 240ms cubic-bezier(0.4, 0, 1, 1) forwards;
+}
+
+.ik-side-drawer[data-closing]::backdrop {
+  animation: ik-fade-out 240ms ease-in forwards;
+}
+
+.ik-drawer-row {
+  animation: ik-drawer-row 380ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  animation-delay: calc(90ms + var(--i, 0) * 35ms);
+}
+
+/*
  * Morphing headings (MorphText): each character is an icon, then another icon,
  * then the letter. The letter stays in normal flow (only opacity and transform
  * animate), so headings never shift layout. --d is the per-character stagger.
