@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** List Checks — Mark a list as checked off or complete. */
 export const ListChecksIcon = createIkion("list-checks", "ListChecksIcon", {
-  outline: [["path",{"d":"M4 5h16M4 11h16M4 17h6"}],["path",{"d":"m14.75 17 2 2 3.75-4"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4 5h16M4 11h16M4 17h6"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14.75 17 2 2 3.75-4"}]],
+  outline: [["path",{"d":"M4 5h16M4 11h16M4 17h6"}],["path",{"d":"m14.75 17 1.611 1.611a.533.533 0 0 0 .765-.012L20.5 15"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4 5h16M4 11h16M4 17h6"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14.75 17 1.611 1.611a.533.533 0 0 0 .765-.012L20.5 15"}]],
 });
 
 export default ListChecksIcon;

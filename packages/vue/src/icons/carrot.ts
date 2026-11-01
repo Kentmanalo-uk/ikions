@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Carrot — Represent a carrot, such as vegetables, healthy food or gardening. */
 export const CarrotIcon = createIkion("carrot", "CarrotIcon", {
-  outline: [["path",{"d":"m3.5 20.5 9.2-13.8a3.25 3.25 0 0 1 4.6 4.6Z"}],["path",{"d":"m7.65 14.3 1.1 1.1m5.1-1.8-1.1-1.1"}],["path",{"d":"M17.75 6.25 17.5 2.5m.25 3.75 3.75.25m-3.75-.25L20.5 3.5"}]],
-  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m3.5 20.5 3.22-4.83.88.88c.35.31.8.44 1.23.4zm9.2-13.8c1.27-1.27 3.33-1.27 4.6 0s1.27 3.33 0 4.6l-2.07 1.38-1.33-1.33c-.65-.56-1.62-.53-2.23.07-.61.61-.64 1.58-.07 2.23l.87.87-2.36 1.57c.31-.58.25-1.32-.21-1.84l-1.34-1.34z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M17.75 6.25 17.5 2.5m.25 3.75 3.75.25m-3.75-.25L20.5 3.5"}]],
+  outline: [["path",{"d":"M5.025 18.213 12.7 6.7a3.25 3.25 0 0 1 4.6 4.6L5.787 18.975a.55.55 0 0 1-.762-.762"}],["path",{"d":"m7.65 14.3 1.1 1.1m5.1-1.8-1.1-1.1"}],["path",{"d":"M17.75 6.25 17.5 2.5m.25 3.75 3.75.25m-3.75-.25L20.5 3.5"}]],
+  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M4.401 19.148 6.72 15.67l.88.88c.35.31.8.44 1.23.4l-3.977 2.649a.325.325 0 0 1-.452-.451ZM12.7 6.7c1.27-1.27 3.33-1.27 4.6 0s1.27 3.33 0 4.6l-1.6 1.067a.69.69 0 0 1-.869-.086l-.931-.931c-.65-.56-1.62-.53-2.23.07-.61.61-.64 1.58-.07 2.23l.87.87-2.36 1.57c.31-.58.25-1.32-.21-1.84l-.938-.938a.69.69 0 0 1-.087-.875z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M17.75 6.25 17.5 2.5m.25 3.75 3.75.25m-3.75-.25L20.5 3.5"}]],
 });
 
 export default CarrotIcon;

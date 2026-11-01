@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** USB — The USB connection symbol for ports, cables and peripherals. */
 export const UsbIcon = createIkion("usb", "UsbIcon", {
-  outline: [["path",{"d":"M12 6.5v11m0-2-4.75-2.75V10M12 13.25l4.75-2.75v-2"}],["path",{"fill":"currentColor","d":"M12 2.75 14 6h-4Z"}],["circle",{"cx":"12","cy":"19","r":"1.5","fill":"currentColor"}],["circle",{"cx":"7.25","cy":"8.75","r":"1","fill":"currentColor"}],["rect",{"width":"2.5","height":"2.5","x":"15.5","y":"6","fill":"currentColor","rx":".5"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12 6.5v11m0-2-4.75-2.75V10M12 13.25l4.75-2.75v-2"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2","d":"m12 2.5 2.25 3.75h-4.5Z"}],["circle",{"cx":"12","cy":"19","r":"2.5"}],["circle",{"cx":"7.25","cy":"8.75","r":"2.1"}],["rect",{"width":"4.5","height":"4.5","x":"14.5","y":"5","rx":"1"}]],
+  outline: [["path",{"d":"M12 6.5v11m0-2-4.274-2.474a.95.95 0 0 1-.476-.826V10M12 13.25l4.404-2.55a.7.7 0 0 0 .346-.6V8.5"}],["path",{"fill":"currentColor","d":"m12.472 3.516 1.012 1.646a.55.55 0 0 1-.469.838h-2.03a.55.55 0 0 1-.469-.838l1.012-1.646a.554.554 0 0 1 .944 0"}],["circle",{"cx":"12","cy":"19","r":"1.5","fill":"currentColor"}],["circle",{"cx":"7.25","cy":"8.75","r":"1","fill":"currentColor"}],["rect",{"width":"2.5","height":"2.5","x":"15.5","y":"6","fill":"currentColor","rx":".625"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12 6.5v11m0-2-4.274-2.474a.95.95 0 0 1-.476-.826V10M12 13.25l4.404-2.55a.7.7 0 0 0 .346-.6V8.5"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2","d":"m12.472 3.286 1.278 2.131a.55.55 0 0 1-.471.833h-2.558a.55.55 0 0 1-.471-.833l1.278-2.131a.55.55 0 0 1 .944 0Z"}],["circle",{"cx":"12","cy":"19","r":"2.5"}],["circle",{"cx":"7.25","cy":"8.75","r":"2.1"}],["rect",{"width":"4.5","height":"4.5","x":"14.5","y":"5","rx":"1.125"}]],
 });
 
 export default UsbIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Forward — Forward a message or email on to someone else. */
 export const ForwardIcon = createIkion("forward", "ForwardIcon", {
-  outline: [["path",{"d":"m14.5 6 5.5 5.5-5.5 5.5m5-5.5H10a6 6 0 0 0-6 6v1"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M14.75 6.25 20 11.5l-5.25 5.25m4.75-5.25H10a6 6 0 0 0-6 6v.75"}]],
+  outline: [["path",{"d":"m14.5 6 5.111 5.111a.55.55 0 0 1 0 .778L14.5 17m5-5.5H10a6 6 0 0 0-6 6v1"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14.75 6.25 4.861 4.861a.55.55 0 0 1 0 .778L14.75 16.75m4.75-5.25H10a6 6 0 0 0-6 6v.75"}]],
 });
 
 export default ForwardIcon;

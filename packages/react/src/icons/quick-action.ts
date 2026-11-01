@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Quick Action — Run a fast shortcut or frequently used action in one tap. */
 export const QuickActionIcon = createIkion("quick-action", "QuickActionIcon", {
-  outline: [["path",{"d":"M15.92 4.59 8.9 13.17h5.27l-.78 6.24 7.21-8.77h-5.26Z"}],["path",{"d":"M4.5 7.75H9M2.75 12h2.5m-1.5 4.25h5.5"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M15.92 4.59 8.9 13.17h5.27l-.78 6.24 7.21-8.77h-5.26Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4.5 7.75H9M2.75 12h2.5m-1.5 4.25h5.5"}]],
+  outline: [["path",{"d":"m14.842 5.908-5.207 6.364a.55.55 0 0 0 .425.898h2.634a1.303 1.303 0 0 1 1.293 1.464l-.378 3.029a.51.51 0 0 0 .9.387l5.351-6.511a.55.55 0 0 0-.425-.899h-2.622a1.34 1.34 0 0 1-1.332-1.466l.276-2.89a.517.517 0 0 0-.915-.376"}],["path",{"d":"M4.5 7.75H9M2.75 12h2.5m-1.5 4.25h5.5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m14.842 5.908-5.207 6.364a.55.55 0 0 0 .425.898h2.634a1.303 1.303 0 0 1 1.293 1.464l-.379 3.029a.51.51 0 0 0 .9.387l5.352-6.511a.55.55 0 0 0-.424-.899h-2.623a1.34 1.34 0 0 1-1.332-1.466l.276-2.889a.517.517 0 0 0-.915-.377Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4.5 7.75H9M2.75 12h2.5m-1.5 4.25h5.5"}]],
 });
 
 export default QuickActionIcon;

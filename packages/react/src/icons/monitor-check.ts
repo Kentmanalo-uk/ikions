@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Monitor Check — Monitor confirmed, completed or verified. */
 export const MonitorCheckIcon = createIkion("monitor-check", "MonitorCheckIcon", {
-  outline: [["path",{"d":"M11.42 16.5H5.5c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3h13c1.66 0 3 1.34 3 3v5.73"}],["path",{"d":"M8 20.5h3.73"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M5.51 2.63H18.5c2.14 0 3.88 1.74 3.88 3.88v6.69c-1.16-1.05-2.69-1.7-4.38-1.7-3.38 0-6.16 2.58-6.47 5.88H5.51c-2.14 0-3.88-1.74-3.88-3.88V6.51c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M8 20.5h3.73"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"M11.42 16.5H5.5c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3h13c1.66 0 3 1.34 3 3v5.73"}],["path",{"d":"M8 20.5h3.73"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M5.51 2.63H18.5c2.14 0 3.88 1.74 3.88 3.88v6.69c-1.16-1.05-2.69-1.7-4.38-1.7-3.38 0-6.16 2.58-6.47 5.88H5.51c-2.14 0-3.88-1.74-3.88-3.88V6.51c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M8 20.5h3.73"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default MonitorCheckIcon;

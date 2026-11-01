@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Phone Vibrate — A smartphone buzzing in vibrate mode. */
 export const PhoneVibrateIcon = createIkion("phone-vibrate", "PhoneVibrateIcon", {
-  outline: [["rect",{"width":"9","height":"18","x":"7.5","y":"3","rx":"2.5"}],["path",{"d":"M11 18h2"}],["path",{"d":"M4.5 7.5 3 9.75 4.5 12 3 14.25l1.5 2.25m15-9L21 9.75 19.5 12l1.5 2.25-1.5 2.25"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M10 2.13h4c1.86 0 3.37 1.51 3.38 3.37v13c0 1.87-1.51 3.38-3.38 3.38h-4c-1.86-.01-3.37-1.52-3.37-3.38v-13C6.64 3.64 8.14 2.14 10 2.13m1 16.75h2c.45-.05.79-.43.79-.87 0-.45-.34-.83-.79-.87h-2c-.45.05-.79.43-.79.88s.34.83.79.88z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M4.5 7.5 3 9.75 4.5 12 3 14.25l1.5 2.25m15-9L21 9.75 19.5 12l1.5 2.25-1.5 2.25"}]],
+  outline: [["rect",{"width":"9","height":"18","x":"7.5","y":"3","rx":"2.5"}],["path",{"d":"M11 18h2"}],["path",{"d":"M4.5 7.5 3.45 9.075a1.22 1.22 0 0 0 0 1.35l.6.9a1.22 1.22 0 0 1 0 1.35l-.6.9a1.22 1.22 0 0 0 0 1.35L4.5 16.5m15-9 1.05 1.575a1.22 1.22 0 0 1 0 1.35l-.6.9a1.22 1.22 0 0 0 0 1.35l.6.9a1.22 1.22 0 0 1 0 1.35L19.5 16.5"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M10 2.13h4c1.86 0 3.37 1.51 3.38 3.37v13c0 1.87-1.51 3.38-3.38 3.38h-4c-1.86-.01-3.37-1.52-3.37-3.38v-13C6.64 3.64 8.14 2.14 10 2.13m1 16.75h2c.45-.05.79-.43.79-.87 0-.45-.34-.83-.79-.87h-2c-.45.05-.79.43-.79.88s.34.83.79.88z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M4.5 7.5 3.42 9.12a1.14 1.14 0 0 0 0 1.26l.66.99a1.14 1.14 0 0 1 0 1.26l-.66.99a1.14 1.14 0 0 0 0 1.26L4.5 16.5m15-9 1.08 1.62a1.14 1.14 0 0 1 0 1.26l-.66.99a1.14 1.14 0 0 0 0 1.26l.66.99a1.14 1.14 0 0 1 0 1.26L19.5 16.5"}]],
 });
 
 export default PhoneVibrateIcon;

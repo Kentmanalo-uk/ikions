@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Forceps — Surgical forceps for gripping tissue, splinters and small objects. */
 export const ForcepsIcon = createIkion("forceps", "ForcepsIcon", {
-  outline: [["path",{"d":"m4.4 17.13 1.59-3.71L16.6 5.64c.49-.49 1.28-.49 1.77 0s.49 1.28 0 1.77l-7.78 10.61-3.71 1.59"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m4.4 17.13 1.59-3.71L16.6 5.64c.49-.49 1.28-.49 1.77 0s.49 1.28 0 1.77l-7.78 10.61-3.71 1.59"}]],
+  outline: [["path",{"d":"m4.4 17.13 1.144-2.67A4.14 4.14 0 0 1 6.9 12.753l9.7-7.113c.49-.49 1.28-.49 1.77 0s.49 1.28 0 1.77l-7.113 9.7a4.14 4.14 0 0 1-1.707 1.356L6.88 19.61"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m4.4 17.13 1.144-2.67A4.14 4.14 0 0 1 6.9 12.753l9.7-7.113c.49-.49 1.28-.49 1.77 0s.49 1.28 0 1.77l-7.113 9.7a4.14 4.14 0 0 1-1.707 1.356L6.88 19.61"}]],
 });
 
 export default ForcepsIcon;

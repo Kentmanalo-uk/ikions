@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Wheelchair — Represent a wheelchair, patient transport or mobility assistance. */
 export const WheelchairMedicalIcon = createIkion("wheelchair-medical", "WheelchairMedicalIcon", {
-  outline: [["path",{"d":"M4.5 3.75h1.75l1.25 6.5h7.75L17 17.5h3"}],["circle",{"cx":"10","cy":"15.75","r":"5"}],["circle",{"cx":"10","cy":"15.75","r":"1","fill":"currentColor","stroke":"none"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4.5 3.75h1.75l1.25 6.5h7.75L17 17.5h3"}],["path",{"fillRule":"evenodd","d":"M7 10.46c1.85-1.11 4.16-1.11 6.01 0 1.86 1.1 2.96 3.13 2.87 5.29.09 2.16-1.01 4.19-2.87 5.29-1.85 1.11-4.16 1.11-6.01 0-1.86-1.1-2.96-3.13-2.87-5.29-.09-2.16 1.01-4.19 2.87-5.29m-1.1 5.29c0 2.26 1.84 4.1 4.1 4.1s4.1-1.84 4.1-4.1-1.84-4.1-4.1-4.1-4.1 1.84-4.1 4.1m4.1-1.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5","clipRule":"evenodd"}]],
+  outline: [["path",{"d":"M4.5 3.75h1.225a.635.635 0 0 1 .624.515L7.15 8.43a2.244 2.244 0 0 0 2.203 1.82h3.808a2.65 2.65 0 0 1 2.579 2.03l1.049 4.345a1.14 1.14 0 0 0 1.111.875H20"}],["circle",{"cx":"10","cy":"15.75","r":"5"}],["circle",{"cx":"10","cy":"15.75","r":"1","fill":"currentColor","stroke":"none"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4.5 3.75h1.225a.635.635 0 0 1 .624.515L7.15 8.43a2.244 2.244 0 0 0 2.204 1.82h3.808a2.65 2.65 0 0 1 2.578 2.03l1.063 4.404a1.07 1.07 0 0 0 1.037.816H20"}],["path",{"fillRule":"evenodd","d":"M7 10.46c1.85-1.11 4.16-1.11 6.01 0 1.86 1.1 2.96 3.13 2.87 5.29.09 2.16-1.01 4.19-2.87 5.29-1.85 1.11-4.16 1.11-6.01 0-1.86-1.1-2.96-3.13-2.87-5.29-.09-2.16 1.01-4.19 2.87-5.29m-1.1 5.29c0 2.26 1.84 4.1 4.1 4.1s4.1-1.84 4.1-4.1-1.84-4.1-4.1-4.1-4.1 1.84-4.1 4.1m4.1-1.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5","clipRule":"evenodd"}]],
 });
 
 export default WheelchairMedicalIcon;

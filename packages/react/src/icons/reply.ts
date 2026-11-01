@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Reply — Reply to a message, comment or email thread. */
 export const ReplyIcon = createIkion("reply", "ReplyIcon", {
-  outline: [["path",{"d":"M9.5 6 4 11.5 9.5 17m-5-5.5H14a6 6 0 0 1 6 6v1"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M9.25 6.25 4 11.5l5.25 5.25M4.5 11.5H14a6 6 0 0 1 6 6v.75"}]],
+  outline: [["path",{"d":"m9.5 6-5.111 5.111a.55.55 0 0 0 0 .778L9.5 17m-5-5.5H14a6 6 0 0 1 6 6v1"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m9.25 6.25-4.861 4.861a.55.55 0 0 0 0 .778L9.25 16.75M4.5 11.5H14a6 6 0 0 1 6 6v.75"}]],
 });
 
 export default ReplyIcon;

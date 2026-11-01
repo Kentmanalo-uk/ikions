@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Book — Represent reading, a guide, documentation or a library. */
 export const BookIcon = createIkion("book", "BookIcon", {
-  outline: [["path",{"d":"M5 18.5v-13A2.5 2.5 0 0 1 7.5 3H17a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7.5A2.5 2.5 0 0 1 5 18.5"}],["path",{"d":"M5 18.5A2.5 2.5 0 0 1 7.5 16H19"}],["path",{"d":"M9.5 7.5h5"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M7.5 2.13H17A2.88 2.88 0 0 1 19.88 5v14A2.88 2.88 0 0 1 17 21.88H7.5a3.38 3.38 0 0 1-3.38-3.38v-13A3.38 3.38 0 0 1 7.5 2.13m0 14.75h10.63v3.25H7.5a1.63 1.63 0 0 1 0-3.25m2-10.25h5a.88.88 0 0 1 0 1.75h-5a.88.88 0 0 1 0-1.75","clipRule":"evenodd"}]],
+  outline: [["path",{"d":"M5 17.8V6.2A3.2 3.2 0 0 1 8.2 3h7.6A3.2 3.2 0 0 1 19 6.2v11.6a3.2 3.2 0 0 1-3.2 3.2H8.2A3.2 3.2 0 0 1 5 17.8"}],["path",{"d":"M5 18.5A2.5 2.5 0 0 1 7.5 16H19"}],["path",{"d":"M9.5 7.5h5"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M7.5 2.13H17A2.88 2.88 0 0 1 19.88 5v14A2.88 2.88 0 0 1 17 21.88H7.5a3.38 3.38 0 0 1-3.38-3.38v-13A3.38 3.38 0 0 1 7.5 2.13m0 14.75h9.72a.91.91 0 0 1 .91.91v1.43a.91.91 0 0 1-.91.91H7.5a1.63 1.63 0 0 1 0-3.25m2-10.25h5a.88.88 0 0 1 0 1.75h-5a.88.88 0 0 1 0-1.75","clipRule":"evenodd"}]],
 });
 
 export default BookIcon;

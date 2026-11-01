@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Thread — Show a message thread with replies. */
 export const ThreadIcon = createIkion("thread", "ThreadIcon", {
-  outline: [["path",{"d":"M6 3h12a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3h-6.25L10 13.5 8.25 11H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3"}],["path",{"d":"M6 14v.5a3 3 0 0 0 3 3"}],["path",{"d":"M15.5 14h3a2.5 2.5 0 0 1 2.5 2.5v2a2.5 2.5 0 0 1-2.5 2.5h-3a2.5 2.5 0 0 1-2.5-2.5v-2a2.5 2.5 0 0 1 2.5-2.5"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3h12a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3h-6.25L10 13.5 8.25 11H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M6 14v.5a3 3 0 0 0 3 3"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M15.5 14h3a2.5 2.5 0 0 1 2.5 2.5v2a2.5 2.5 0 0 1-2.5 2.5h-3a2.5 2.5 0 0 1-2.5-2.5v-2a2.5 2.5 0 0 1 2.5-2.5Z"}]],
+  outline: [["path",{"d":"M6 3h12a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3h-5.35a1.73 1.73 0 0 0-1.416.738l-.718 1.025a.63.63 0 0 1-1.032 0L8.74 11.7a1.64 1.64 0 0 0-1.345-.7H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3"}],["path",{"d":"M6 14v.5a3 3 0 0 0 3 3"}],["path",{"d":"M15.5 14h3a2.5 2.5 0 0 1 2.5 2.5v2a2.5 2.5 0 0 1-2.5 2.5h-3a2.5 2.5 0 0 1-2.5-2.5v-2a2.5 2.5 0 0 1 2.5-2.5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3h12a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3h-5.395a1.64 1.64 0 0 0-1.345.7l-.809 1.156a.55.55 0 0 1-.902 0L8.74 11.7a1.64 1.64 0 0 0-1.345-.7H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M6 14v.5a3 3 0 0 0 3 3"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M15.5 14h3a2.5 2.5 0 0 1 2.5 2.5v2a2.5 2.5 0 0 1-2.5 2.5h-3a2.5 2.5 0 0 1-2.5-2.5v-2a2.5 2.5 0 0 1 2.5-2.5Z"}]],
 });
 
 export default ThreadIcon;

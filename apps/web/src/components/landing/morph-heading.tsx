@@ -1,5 +1,6 @@
 import { createElement, type CSSProperties } from "react";
 import { getNodes } from "@/lib/catalog";
+import { WEB_STROKE_WIDTH } from "@/lib/snippets";
 import { MorphTrigger } from "./morph-trigger";
 
 const camel = (key: string) => key.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase());
@@ -86,7 +87,7 @@ export function MorphText({ lines, as: Tag = "h2", id, className, trigger = "vie
     if (!name || !getNodes(name)) return null;
     used.add(name);
     return (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.75} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className={className}>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={WEB_STROKE_WIDTH} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className={className}>
         <use href={`#${prefix}-${name}`} />
       </svg>
     );

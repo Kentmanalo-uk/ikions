@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Credit Card — Pay by card or manage saved credit and debit cards. */
 export const CreditCardIcon = createIkion("credit-card", "CreditCardIcon", {
-  outline: [["rect",{"width":"18","height":"14","x":"3","y":"5","rx":"3"}],["path",{"d":"M3 9.5h18"}],["path",{"d":"M6.75 15h3"}]],
-  filled: [["path",{"d":"M2.13 8.75V8A3.88 3.88 0 0 1 6 4.13h12A3.88 3.88 0 0 1 21.88 8v.75Z"}],["path",{"fill-rule":"evenodd","d":"M2.13 10.25h19.75V16A3.88 3.88 0 0 1 18 19.88H6A3.88 3.88 0 0 1 2.13 16Zm4.62 3.88h3a.88.88 0 0 1 .88.88.88.88 0 0 1-.88.88h-3a.88.88 0 0 1-.88-.88.88.88 0 0 1 .88-.88","clip-rule":"evenodd"}]],
+  outline: [["rect",{"width":"18","height":"14","x":"3","y":"5","rx":"3.2"}],["path",{"d":"M3 9.5h18"}],["path",{"d":"M6.75 15h3"}]],
+  filled: [["path",{"d":"M2.13 7.456V8A3.87 3.87 0 0 1 6 4.13h12a3.88 3.88 0 0 1 3.88 3.88v-.554a1.294 1.294 0 0 1-1.294 1.294H3.424A1.294 1.294 0 0 1 2.13 7.456"}],["path",{"fill-rule":"evenodd","d":"M4.73 10.25h14.55a2.6 2.6 0 0 1 2.6 2.6V16A3.88 3.88 0 0 1 18 19.88H6a3.87 3.87 0 0 1-3.87-3.87v-3.16a2.6 2.6 0 0 1 2.6-2.6m2.02 3.88h3a.88.88 0 0 1 .88.88.88.88 0 0 1-.88.88h-3a.88.88 0 0 1-.88-.88.88.88 0 0 1 .88-.88","clip-rule":"evenodd"}]],
 });
 
 export default CreditCardIcon;

@@ -273,7 +273,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
 
         <div className="sticky top-16 z-20 -mx-4 mt-4 flex flex-wrap items-center gap-2 border-b border-line bg-bg/95 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6">
           <div className="relative basis-full sm:min-w-[200px] sm:flex-1 sm:basis-auto">
-            <SearchIcon size={18} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-ink-2" />
+            <SearchIcon size={22} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-ink-2" />
             <label htmlFor="icon-search" className="sr-only">
               Search icons
             </label>
@@ -326,7 +326,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
             ))}
           </select>
           <button type="button" className={`${buttonClass.small} h-9 lg:hidden`} onClick={() => setFiltersOpen(true)} aria-haspopup="dialog">
-            <FilterIcon size={16} />
+            <FilterIcon size={20} />
             <span className="max-sm:sr-only">Categories</span>
           </button>
         </div>
@@ -342,7 +342,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
               </>
             ) : (
               <span className="inline-flex items-center gap-2">
-                <LoaderIcon size={18} className="animate-spin" /> Loading {total.toLocaleString("en")} icons…
+                <LoaderIcon size={22} className="animate-spin" /> Loading {total.toLocaleString("en")} icons…
               </span>
             )}
           </div>
@@ -421,7 +421,7 @@ export function Explorer({ initial }: { initial: ExplorerInitial }) {
             <div className="flex items-center justify-between border-b border-line px-4 py-3">
               <h2 className="font-display text-[16px] font-semibold">Categories</h2>
               <button type="button" className={buttonClass.icon} aria-label="Close categories" onClick={() => setFiltersOpen(false)}>
-                <CloseIcon size={18} />
+                <CloseIcon size={22} />
               </button>
             </div>
             <div className="relative min-h-0 overflow-y-auto overscroll-contain p-3">{sidebar}</div>

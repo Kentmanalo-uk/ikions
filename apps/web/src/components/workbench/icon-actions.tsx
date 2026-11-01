@@ -47,7 +47,7 @@ export function IconActions({ icon, nodes, options, layout = "stack" }: Props) {
           className={btn}
           onClick={() => downloadText(svgFile(nodes, options.variant, fileOptions), svgFileName(icon.name, options.variant))}
         >
-          <DownloadIcon size={16} />
+          <DownloadIcon size={20} />
           Download SVG
         </button>
       </div>
@@ -68,7 +68,7 @@ export function IconActions({ icon, nodes, options, layout = "stack" }: Props) {
           ))}
         </select>
         <button type="button" className={btn} onClick={downloadPng} disabled={pngState === "working"} aria-busy={pngState === "working"}>
-          {pngState === "working" ? <LoaderIcon size={16} /> : <ImageIcon size={16} />}
+          {pngState === "working" ? <LoaderIcon size={20} /> : <ImageIcon size={20} />}
           {pngState === "working" ? "Rendering…" : "Download PNG"}
         </button>
       </div>

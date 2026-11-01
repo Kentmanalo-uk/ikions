@@ -7,10 +7,12 @@
  * - the classes the components render: `ikion ikion-<name>`
  * - gradient ids: `ikions-gradient-<hash>`
  * - package or file references: `@ikions/`, `ikions.cloud/api/v1/icons/`
- * - SVG path data identical to an Ikions icon (at least two different icons)
+ * - SVG path data identical to an Ikions icon, current or from an earlier
+ *   release (at least two different icons)
  * Results are cached for a day.
  */
 import { iconNodes } from "@/lib/catalog";
+import legacyShapes from "@/lib/showcase-legacy-shapes.json";
 
 export interface ShowcaseSite {
   name: string;
@@ -70,6 +72,8 @@ function shapes(): Map<string, string> {
       }
     }
   }
+  // Sites keep the artwork of the version they installed, so earlier drawings still count.
+  for (const [d, name] of Object.entries(legacyShapes)) if (!shapeIndex.has(d)) shapeIndex.set(d, name);
   return shapeIndex;
 }
 

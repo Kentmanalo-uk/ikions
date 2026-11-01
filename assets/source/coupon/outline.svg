@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M5 5.5h8.75a1.75 1.75 0 0 0 3.5 0H19a2.5 2.5 0 0 1 2.5 2.5v8a2.5 2.5 0 0 1-2.5 2.5h-1.75a1.75 1.75 0 0 0-3.5 0H5a2.5 2.5 0 0 1-2.5-2.5V8A2.5 2.5 0 0 1 5 5.5Z"/>
+  <path d="M5.65 5.5L13.75 5.5A1.75 1.75 0 0 0 17.25 5.5L19 5.5A2.5 2.5 0 0 1 21.5 8L21.5 16A2.5 2.5 0 0 1 19 18.5L17.25 18.5A1.75 1.75 0 0 0 13.75 18.5L5.65 18.5A3.15 3.15 0 0 1 2.5 15.35L2.5 8.65A3.15 3.15 0 0 1 5.65 5.5Z"/>
   <path d="M11.25 9 7 15"/>
   <circle cx="7.1" cy="9.6" r="1.1" fill="currentColor" stroke="none"/>
   <circle cx="11.15" cy="14.4" r="1.1" fill="currentColor" stroke="none"/>

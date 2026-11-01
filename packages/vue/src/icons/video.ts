@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Video — Record or play video, or open a video camera. */
 export const VideoIcon = createIkion("video", "VideoIcon", {
   outline: [["rect",{"width":"13","height":"12","x":"2.5","y":"6","rx":"3"}],["path",{"d":"m15.5 10.25 3.88-2.2a1.25 1.25 0 0 1 1.87 1.09v5.72a1.25 1.25 0 0 1-1.87 1.09l-3.88-2.2"}]],
-  filled: [["path",{"d":"M5.51 5.13h6.99a3.88 3.88 0 0 1 3.88 3.88V15a3.88 3.88 0 0 1-3.88 3.88H5.51A3.88 3.88 0 0 1 1.63 15V9.01a3.88 3.88 0 0 1 3.88-3.88"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m18.96 9.6 1.11-.77a.75.75 0 0 1 1.18.61v5.12a.75.75 0 0 1-1.18.61l-1.11-.77a.5.5 0 0 1-.21-.41v-3.98a.5.5 0 0 1 .21-.41Z"}]],
+  filled: [["path",{"d":"M5.51 5.13h6.99a3.88 3.88 0 0 1 3.88 3.88V15a3.88 3.88 0 0 1-3.88 3.88H5.51A3.88 3.88 0 0 1 1.63 15V9.01a3.88 3.88 0 0 1 3.88-3.88"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m19.45 9.26.62-.43a.752.752 0 0 1 1.18.618v5.112a.748.748 0 0 1-1.174.614l-.626-.434a1.63 1.63 0 0 1-.7-1.338v-2.804a1.63 1.63 0 0 1 .7-1.338Z"}]],
 });
 
 export default VideoIcon;

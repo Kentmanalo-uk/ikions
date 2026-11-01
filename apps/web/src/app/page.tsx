@@ -131,7 +131,7 @@ function CategoryCard({ category, featured }: { category: CategoryMetadata; feat
           <p className="mt-1 flex items-center gap-1.5 text-[13px] text-ink-2">
             {category.count} icons
             <span className="translate-x-[-4px] opacity-0 transition-all duration-200 group-hover:translate-x-0 group-hover:opacity-100" aria-hidden="true">
-              →
+              <IkIcon name="arrow-right" size={17} className="inline align-[-2px]" />
             </span>
           </p>
         </div>
@@ -253,7 +253,7 @@ export default async function HomePage() {
             className="font-display text-[34px] font-semibold leading-[1.1] tracking-[-0.035em] text-balance sm:text-[40px]"
           />
           <Link href="/categories" className="text-[14px] font-medium text-accent-text hover:underline">
-            All {stats.categories} categories →
+            All {stats.categories} categories <IkIcon name="arrow-right" size={16} className="inline align-[-2px]" />
           </Link>
         </div>
         <ul className="mt-10 grid grid-cols-2 gap-3 lg:grid-cols-4">

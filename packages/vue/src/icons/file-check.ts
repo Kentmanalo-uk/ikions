@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** File Check — File confirmed, completed or verified. */
 export const FileCheckIcon = createIkion("file-check", "FileCheckIcon", {
-  outline: [["path",{"d":"M19 11.32V8.5L13.5 3h-6C6.12 3 5 4.12 5 5.5v13C5 19.88 6.12 21 7.5 21h4.45"}],["path",{"d":"M13.5 3v3.5c0 1.1.9 2 2 2H19"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fill-rule":"evenodd","d":"M13 6.5C13 7.88 14.12 9 15.5 9h4.39v2.78c-.6-.18-1.23-.28-1.89-.28-3.59 0-6.5 2.91-6.5 6.5 0 1.45.48 2.8 1.28 3.88H7.51c-1.87 0-3.38-1.51-3.38-3.38v-13c.01-1.86 1.51-3.36 3.37-3.37H13z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M14.75 6c0 .69.56 1.25 1.25 1.25h3.1L14.75 2.9z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"M19 11.32V8.5L13.5 3h-6C6.12 3 5 4.12 5 5.5v13C5 19.88 6.12 21 7.5 21h4.45"}],["path",{"d":"M13.5 3v3.5c0 1.1.9 2 2 2H19"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fill-rule":"evenodd","d":"M13 6.5C13 7.88 14.12 9 15.5 9h3.612a.78.78 0 0 1 .778.778v2.002c-.6-.18-1.23-.28-1.89-.28-3.59 0-6.5 2.91-6.5 6.5 0 1.45.48 2.8 1.28 3.88H7.51c-1.87 0-3.38-1.51-3.38-3.38v-13c.01-1.86 1.51-3.36 3.37-3.37h4.276A1.224 1.224 0 0 1 13 3.354z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M14.75 6c0 .69.56 1.25 1.25 1.25h2.232a.36.36 0 0 0 .254-.614l-3.122-3.122a.36.36 0 0 0-.614.254z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default FileCheckIcon;

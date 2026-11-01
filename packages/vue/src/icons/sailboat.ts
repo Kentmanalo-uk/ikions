@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Sailboat — A sailing boat with two sails, for sailing, regattas and the sea. */
 export const SailboatIcon = createIkion("sailboat", "SailboatIcon", {
-  outline: [["path",{"d":"M12 3.5V14h6.25z"}],["path",{"d":"M8.5 7v7H4.25z"}],["path",{"d":"M12 14v3"}],["path",{"d":"M3 17h18l-1.62 2.84c-.27.47-.76.76-1.3.76H5.92c-.54 0-1.03-.29-1.3-.76z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 3.5V14h6.25z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M8.5 7v7H4.25z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14v3"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3 17h18l-1.62 2.84c-.27.47-.76.76-1.3.76H5.92c-.54 0-1.03-.29-1.3-.76z"}]],
+  outline: [["path",{"d":"M12 5.499V14h5.283a.55.55 0 0 0 .472-.831l-4.732-7.951A.55.55 0 0 0 12 5.499"}],["path",{"d":"M8.5 8.96v3.85A1.19 1.19 0 0 1 7.31 14H5.227a.55.55 0 0 1-.47-.835l2.726-4.49A.548.548 0 0 1 8.5 8.96"}],["path",{"d":"M12 14v3"}],["path",{"d":"M3.9 17h16.2a.523.523 0 0 1 .454.782L19.38 19.84c-.27.47-.76.76-1.3.76H5.92c-.54 0-1.03-.29-1.3-.76l-1.174-2.058A.523.523 0 0 1 3.9 17"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 5.5V14h5.283a.55.55 0 0 0 .472-.831l-4.732-7.951A.55.55 0 0 0 12 5.5Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M8.5 8.96v3.85A1.19 1.19 0 0 1 7.31 14H5.227a.55.55 0 0 1-.47-.835l2.726-4.49A.548.548 0 0 1 8.5 8.96Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14v3"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3.916 17h16.168a.532.532 0 0 1 .462.795L19.38 19.84c-.27.47-.76.76-1.3.76H5.92c-.54 0-1.03-.29-1.3-.76l-1.166-2.045A.532.532 0 0 1 3.916 17Z"}]],
 });
 
 export default SailboatIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Wheelchair Access — Represents wheelchair-accessible transport, step-free boarding or reserved seating. */
 export const WheelchairTransportIcon = createIkion("wheelchair-transport", "WheelchairTransportIcon", {
-  outline: [["circle",{"cx":"9","cy":"4.75","r":"1.75"}],["path",{"d":"M9 8.75v3.75h5l2 5.5h2.75"}],["path",{"d":"M6.64 11.59C5.07 12.43 4 14.09 4 16c0 2.76 2.24 5 5 5 2 0 3.73-1.17 4.53-2.87"}]],
-  filled: [["circle",{"cx":"9","cy":"4.75","r":"2.5"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M9 8.75v3.75h5l2 5.5h2.75"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M6.39 11.73C4.96 12.61 4 14.19 4 16c0 2.76 2.24 5 5 5 1.88 0 3.52-1.04 4.37-2.57"}]],
+  outline: [["circle",{"cx":"9","cy":"4.75","r":"1.75"}],["path",{"d":"M9 8.75v2.7a1.05 1.05 0 0 0 1.05 1.05h2.55a2 2 0 0 1 1.879 1.316l1.239 3.409a1.18 1.18 0 0 0 1.106.775h1.926"}],["path",{"d":"M6.64 11.59C5.07 12.43 4 14.09 4 16c0 2.76 2.24 5 5 5 2 0 3.73-1.17 4.53-2.87"}]],
+  filled: [["circle",{"cx":"9","cy":"4.75","r":"2.5"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M9 8.75v2.7a1.05 1.05 0 0 0 1.05 1.05h2.55a2 2 0 0 1 1.878 1.316l1.259 3.46A1.1 1.1 0 0 0 16.77 18h1.98"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M6.39 11.73C4.96 12.61 4 14.19 4 16c0 2.76 2.24 5 5 5 1.88 0 3.52-1.04 4.37-2.57"}]],
 });
 
 export default WheelchairTransportIcon;

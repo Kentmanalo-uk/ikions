@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Bookmark — Save an item for later or mark a page to come back to. */
 export const BookmarkIcon = createIkion("bookmark", "BookmarkIcon", {
-  outline: [["path",{"d":"M8 3h8a2.5 2.5 0 0 1 2.5 2.5v13.28a1 1 0 0 1-1.59.81l-4.32-3.16a1 1 0 0 0-1.18 0l-4.32 3.16a1 1 0 0 1-1.59-.81V5.5A2.5 2.5 0 0 1 8 3"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8 3h8a2.5 2.5 0 0 1 2.5 2.5v13.28a1 1 0 0 1-1.59.81l-4.32-3.16a1 1 0 0 0-1.18 0l-4.32 3.16a1 1 0 0 1-1.59-.81V5.5A2.5 2.5 0 0 1 8 3Z"}]],
+  outline: [["path",{"d":"M8.7 3h6.6a3.2 3.2 0 0 1 3.2 3.2v12.58a1.001 1.001 0 0 1-1.592.808L13.82 17.33a3.08 3.08 0 0 0-3.64 0l-3.09 2.26a1 1 0 0 1-1.59-.807V6.2A3.2 3.2 0 0 1 8.7 3"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8.1 3h7.8a2.6 2.6 0 0 1 2.6 2.6v13.18a1.001 1.001 0 0 1-1.592.808L13.82 17.33a3.08 3.08 0 0 0-3.64 0l-3.09 2.26a1 1 0 0 1-1.59-.807V5.6A2.6 2.6 0 0 1 8.1 3Z"}]],
 });
 
 export default BookmarkIcon;

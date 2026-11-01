@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Type Cursor — Show the caret where typed text will appear. */
 export const TypeCursorIcon = createIkion("type-cursor", "TypeCursorIcon", {
-  outline: [["path",{"d":"M3.5 18 8.25 6 13 18m-7.82-4.25h6.14"}],["path",{"d":"M18 3v18"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 18 8.25 6 13 18m-7.82-4.25h6.14"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M18 3.25v17.5"}]],
+  outline: [["path",{"d":"M3.5 18 8.048 6.511a.218.218 0 0 1 .404 0L13 18m-7.82-4.25h6.14"}],["path",{"d":"M18 3v18"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 18 8.048 6.511a.218.218 0 0 1 .404 0L13 18m-7.82-4.25h6.14"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M18 3.25v17.5"}]],
 });
 
 export default TypeCursorIcon;

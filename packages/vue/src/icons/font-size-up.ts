@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Increase Font Size — Make text larger. */
 export const FontSizeUpIcon = createIkion("font-size-up", "FontSizeUpIcon", {
-  outline: [["path",{"d":"M3 20 8 4l5 16m-8.28-5.5h6.56"}],["path",{"d":"M18.5 16V8m-2.25 2.25L18.5 8l2.25 2.25"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3 20 8 4l5 16m-8.28-5.5h6.56"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M18.5 16V8m-2.25 2.25L18.5 8l2.25 2.25"}]],
+  outline: [["path",{"d":"M3 20 7.836 4.525a.172.172 0 0 1 .328 0L13 20m-8.28-5.5h6.56"}],["path",{"d":"M18.5 16V8m-2.25 2.25L18.5 8l2.25 2.25"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3 20 7.836 4.525a.172.172 0 0 1 .328 0L13 20m-8.28-5.5h6.56"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M18.5 16V8m-2.25 2.25L18.5 8l2.25 2.25"}]],
 });
 
 export default FontSizeUpIcon;

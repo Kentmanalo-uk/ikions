@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Milestone — A signpost marking a project milestone that groups issues toward a goal. */
 export const MilestoneCodeIcon = createIkion("milestone-code", "MilestoneCodeIcon", {
-  outline: [["path",{"d":"M5.5 5.5H17l3.25 4-3.25 4H5.5A1.5 1.5 0 0 1 4 12V7a1.5 1.5 0 0 1 1.5-1.5"}],["path",{"d":"M8 2.75V5.5m0 8V21m-2.5 0h5"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M5.5 5.5H17l3.25 4-3.25 4H5.5A1.5 1.5 0 0 1 4 12V7a1.5 1.5 0 0 1 1.5-1.5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M8 2.75v3M8 13v8m-2.5 0h5"}]],
+  outline: [["path",{"d":"M6.24 5.5h9.317a3.03 3.03 0 0 1 2.353 1.12l1.43 1.76a1.776 1.776 0 0 1 0 2.24l-1.43 1.76a3.03 3.03 0 0 1-2.353 1.12H6.24A2.24 2.24 0 0 1 4 11.26V7.74A2.24 2.24 0 0 1 6.24 5.5"}],["path",{"d":"M8 2.75V5.5m0 8V21m-2.5 0h5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.24 5.5h9.317a3.03 3.03 0 0 1 2.353 1.12l1.43 1.76a1.776 1.776 0 0 1 0 2.24l-1.43 1.76a3.03 3.03 0 0 1-2.353 1.12H6.24A2.24 2.24 0 0 1 4 11.26V7.74A2.24 2.24 0 0 1 6.24 5.5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M8 2.75v3M8 13v8m-2.5 0h5"}]],
 });
 
 export default MilestoneCodeIcon;

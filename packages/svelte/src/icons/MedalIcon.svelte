@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["circle",{"cx":"12","cy":"15","r":"5.5"}],["circle",{"cx":"12","cy":"15","r":"2.25"}],["path",{"d":"M8.58 10.69 5.5 3.5h4.25l1.01 6.14"}],["path",{"d":"M15.42 10.69 18.5 3.5h-4.25l-1.01 6.14"}]],
-    filled: [["path",{"fill-rule":"evenodd","d":"M5.62 15a6.38 6.38 0 1 0 12.76 0 6.38 6.38 0 1 0-12.76 0m3.25 0a3.13 3.13 0 1 0 6.26 0 3.13 3.13 0 1 0-6.26 0m1.75 0a1.38 1.38 0 1 0 2.76 0 1.38 1.38 0 1 0-2.76 0","clip-rule":"evenodd"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5.5 3.5h4.25l.48 2.93a8.8 8.8 0 0 0-2.96 1.21Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M18.5 3.5h-4.25l-.48 2.93a8.8 8.8 0 0 1 2.96 1.21Z"}]],
+    outline: [["circle",{"cx":"12","cy":"15","r":"5.5"}],["circle",{"cx":"12","cy":"15","r":"2.25"}],["path",{"d":"M8.58 10.69 5.854 4.327a.593.593 0 0 1 .545-.827H8.56a1.4 1.4 0 0 1 1.383 1.174l.817 4.966"}],["path",{"d":"m15.42 10.69 2.726-6.363a.593.593 0 0 0-.545-.827H15.44a1.4 1.4 0 0 0-1.383 1.174L13.24 9.64"}]],
+    filled: [["path",{"fill-rule":"evenodd","d":"M5.62 15a6.38 6.38 0 1 0 12.76 0 6.38 6.38 0 1 0-12.76 0m3.25 0a3.13 3.13 0 1 0 6.26 0 3.13 3.13 0 1 0-6.26 0m1.75 0a1.38 1.38 0 1 0 2.76 0 1.38 1.38 0 1 0-2.76 0","clip-rule":"evenodd"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M6.333 3.5h2.585a.98.98 0 0 1 .966.82l.346 2.11a8.8 8.8 0 0 0-2.96 1.21L5.827 4.266a.55.55 0 0 1 .506-.766Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M17.667 3.5h-2.585a.98.98 0 0 0-.966.82l-.346 2.11a8.8 8.8 0 0 1 2.96 1.21l1.443-3.374a.55.55 0 0 0-.506-.766Z"}]],
   } as const;
 
   let props: IkionProps = $props();

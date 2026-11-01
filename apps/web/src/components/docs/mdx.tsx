@@ -79,7 +79,7 @@ function A({ href = "", children, ...rest }: ComponentProps<"a">) {
 export function Note({ children, tone = "info" }: { children: ReactNode; tone?: "info" | "warning" }) {
   return (
     <div className="not-prose my-5 flex gap-3 rounded-[18px] border border-line bg-subtle px-4 py-3 text-[14.5px] leading-6">
-      <IkIcon name={tone === "warning" ? "warning" : "info"} size={18} className="mt-0.5 shrink-0 text-accent-text" />
+      <IkIcon name={tone === "warning" ? "warning" : "info"} size={22} className="mt-0.5 shrink-0 text-accent-text" />
       <div className="[&>p]:m-0">{children}</div>
     </div>
   );

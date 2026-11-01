@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"M7.5 3.5h9m-7 0V9l-3.25 4.75h11.5L14.5 9V3.5"}],["path",{"d":"M12 13.75v6.75"}]],
-    filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m14.5 9 3.25 4.75H6.25L9.5 9V3.6h-2v-.2h9v.2h-2z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14.5v6"}]],
+    outline: [["path",{"d":"M7.5 3.5h9m-7 0v3.961a5 5 0 0 1-.87 2.811l-1.791 2.617a.55.55 0 0 0 .453.861h9.416a.55.55 0 0 0 .453-.861l-1.791-2.617a5 5 0 0 1-.87-2.811V3.5"}],["path",{"d":"M12 13.75v6.75"}]],
+    filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m15.354 10.249 1.808 2.64a.55.55 0 0 1-.454.861H7.292a.55.55 0 0 1-.454-.861l1.808-2.64a4.9 4.9 0 0 0 .854-2.76V4.2a.6.6 0 0 0-.6-.6H7.5v-.2h9v.2h-1.4a.6.6 0 0 0-.6.6v3.289a4.9 4.9 0 0 0 .854 2.76Z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14.5v6"}]],
   } as const;
 
   let props: IkionProps = $props();

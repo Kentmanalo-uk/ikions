@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Menu Open — Open a navigation menu or drawer. */
 export const MenuOpenIcon = createIkion("menu-open", "MenuOpenIcon", {
-  outline: [["path",{"d":"M4 6.5h10M4 12h7m-7 5.5h10"}],["path",{"d":"m17 8.5 3.5 3.5-3.5 3.5"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4 6.5h10M4 12h7m-7 5.5h10"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M17 8.75 20.25 12 17 15.25"}]],
+  outline: [["path",{"d":"M4 6.5h10M4 12h7m-7 5.5h10"}],["path",{"d":"m17 8.5 3.111 3.111a.55.55 0 0 1 0 .778L17 15.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M4 6.5h10M4 12h7m-7 5.5h10"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m17 8.75 2.861 2.861a.55.55 0 0 1 0 .778L17 15.25"}]],
 });
 
 export default MenuOpenIcon;

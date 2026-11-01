@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Bluetooth Off — Turn off, disable or mute the bluetooth. */
 export const BluetoothOffIcon = createIkion("bluetooth-off", "BluetoothOffIcon", {
-  outline: [["path",{"d":"M14.52 18.24 12 20.5v-4.78m0-7.44V3.5l4.75 4.25-2.85 2.43m-4.03 3.41-3.12 2.66"}],["path",{"d":"m3.5 3.5 17 17"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M14.52 18.24 12 20.5v-4.78m0-7.44V3.5l4.75 4.25-2.85 2.43m-4.03 3.41-3.12 2.66"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m3.5 3.5 17 17"}]],
+  outline: [["path",{"d":"m14.52 18.24-2.111 1.893A.246.246 0 0 1 12 19.95v-4.23m0-7.44V4.73a.55.55 0 0 1 .917-.41l3.051 2.731a.916.916 0 0 1-.016 1.38L13.9 10.18m-4.03 3.41-3.12 2.66"}],["path",{"d":"m3.5 3.5 17 17"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m14.52 18.24-2.111 1.893A.246.246 0 0 1 12 19.95v-4.23m0-7.44V4.73a.55.55 0 0 1 .917-.41l3.051 2.73a.916.916 0 0 1-.016 1.38L13.9 10.18m-4.03 3.41-3.12 2.66"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m3.5 3.5 17 17"}]],
 });
 
 export default BluetoothOffIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Pregnant — Indicate pregnancy, maternity care or expecting parents. */
 export const PregnantIcon = createIkion("pregnant", "PregnantIcon", {
-  outline: [["circle",{"cx":"11","cy":"4.5","r":"2.25"}],["path",{"d":"M9.75 9.25c-1 .65-1.25 1.75-1.25 3v3.5L9 20.5h3.25v-2.75c2.75 0 4.5-1.65 4.5-3.75s-1.65-3.4-3.5-3.6C13.1 9.75 12.6 9.25 12 9c-.75-.25-1.6-.15-2.25.25"}]],
-  filled: [["circle",{"cx":"11","cy":"4.5","r":"3.13"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9.75 9.25c-1 .65-1.25 1.75-1.25 3v3.5L9 20.5h3.25v-2.75c2.75 0 4.5-1.65 4.5-3.75s-1.65-3.4-3.5-3.6C13.1 9.75 12.6 9.25 12 9c-.75-.25-1.6-.15-2.25.25Z"}]],
+  outline: [["circle",{"cx":"11","cy":"4.5","r":"2.25"}],["path",{"d":"M9.75 9.25c-1 .65-1.25 1.75-1.25 3v3.5l.406 3.855a1 1 0 0 0 .994.895h1.525a.825.825 0 0 0 .825-.825V17.75c2.75 0 4.5-1.65 4.5-3.75s-1.65-3.4-3.5-3.6C13.1 9.75 12.6 9.25 12 9c-.75-.25-1.6-.15-2.25.25"}]],
+  filled: [["circle",{"cx":"11","cy":"4.5","r":"3.13"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9.75 9.25c-1 .65-1.25 1.75-1.25 3v3.5l.405 3.845a1.01 1.01 0 0 0 1.005.905h1.57a.77.77 0 0 0 .77-.77v-1.98c2.75 0 4.5-1.65 4.5-3.75s-1.65-3.4-3.5-3.6C13.1 9.75 12.6 9.25 12 9c-.75-.25-1.6-.15-2.25.25Z"}]],
 });
 
 export default PregnantIcon;

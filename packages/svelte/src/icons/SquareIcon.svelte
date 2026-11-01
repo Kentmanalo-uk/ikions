@@ -4,7 +4,7 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["rect",{"width":"18","height":"18","x":"3","y":"3","rx":"3"}]],
+    outline: [["rect",{"width":"18","height":"18","x":"3","y":"3","rx":"3.2"}]],
     filled: [["rect",{"width":"19.75","height":"19.75","x":"2.13","y":"2.13","rx":"3.88"}]],
   } as const;
 

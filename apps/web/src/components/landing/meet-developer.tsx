@@ -27,7 +27,7 @@ export function MeetDeveloper() {
         <ul className="mt-6 flex flex-wrap justify-center gap-2.5 md:justify-start" aria-label={`Contact ${DEVELOPER.name}`}>
           <li>
             <a href={`mailto:${DEVELOPER.email}`} className={LINK}>
-              <IkIcon name="mail" size={18} />
+              <IkIcon name="mail" size={22} />
               <span>{DEVELOPER.email}</span>
               <span className="sr-only">(send an email)</span>
             </a>

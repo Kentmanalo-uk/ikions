@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Briefcase — Represent business, work, a job or professional services. */
 export const BriefcaseIcon = createIkion("briefcase", "BriefcaseIcon", {
-  outline: [["path",{"d":"M5.5 7h13a3 3 0 0 1 3 3v7.5a3 3 0 0 1-3 3h-13a3 3 0 0 1-3-3V10a3 3 0 0 1 3-3"}],["path",{"d":"M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7"}],["path",{"d":"M2.5 12.75h7.25m4.5 0h7.25"}],["rect",{"width":"4.5","height":"3.5","x":"9.75","y":"11.25","rx":"1"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M9 6.5v-1A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5v1"}],["path",{"fillRule":"evenodd","d":"M5.51 6.13H18.5c2.14 0 3.88 1.74 3.88 3.88V12H14.5v1.5h7.88v4c0 2.14-1.74 3.88-3.88 3.88H5.51c-2.14 0-3.88-1.74-3.88-3.88v-4H9.5V12H1.63v-1.99c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}]],
+  outline: [["path",{"d":"M5.7 7h12.6a3.2 3.2 0 0 1 3.2 3.2v7.1a3.2 3.2 0 0 1-3.2 3.2H5.7a3.2 3.2 0 0 1-3.2-3.2v-7.1A3.2 3.2 0 0 1 5.7 7"}],["path",{"d":"M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7"}],["path",{"d":"M2.5 12.75h7.25m4.5 0h7.25"}],["rect",{"width":"4.5","height":"3.5","x":"9.75","y":"11.25","rx":"1"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M9 6.5v-1A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5v1"}],["path",{"fillRule":"evenodd","d":"M5.51 6.13H18.5c2.14 0 3.88 1.74 3.88 3.88v1.393a.597.597 0 0 1-.597.597H14.92a.42.42 0 0 0-.42.42v.66a.42.42 0 0 0 .42.42h6.34a1.12 1.12 0 0 1 1.12 1.12v2.88c0 2.14-1.74 3.88-3.88 3.88H5.51c-2.14 0-3.88-1.74-3.88-3.88v-2.88a1.12 1.12 0 0 1 1.12-1.12h6.33a.42.42 0 0 0 .42-.42v-.66a.42.42 0 0 0-.42-.42H2.227a.597.597 0 0 1-.597-.597V10.01c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}]],
 });
 
 export default BriefcaseIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Tram — A tram with its overhead pantograph, for streetcars and light rail. */
 export const TramIcon = createIkion("tram", "TramIcon", {
-  outline: [["rect",{"width":"13","height":"10.5","x":"5.5","y":"7.5","rx":"2.5"}],["rect",{"width":"8.5","height":"4.25","x":"7.75","y":"10.25","rx":"1"}],["path",{"d":"m12 7.5-2-2.25L12 3M9 3h6"}],["path",{"d":"M3.5 21h17"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8 7.5h8a2.5 2.5 0 0 1 2.5 2.5v5.5A2.5 2.5 0 0 1 16 18H8a2.5 2.5 0 0 1-2.5-2.5V10A2.5 2.5 0 0 1 8 7.5Zm.75 2.75h6.5a1 1 0 0 1 1 1v2.25a1 1 0 0 1-1 1h-6.5a1 1 0 0 1-1-1v-2.25a1 1 0 0 1 1-1Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"m12 7.5-2-2.25L12 3M9 3h6"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M3.5 21h17"}]],
+  outline: [["rect",{"width":"13","height":"10.5","x":"5.5","y":"7.5","rx":"2.625"}],["rect",{"width":"8.5","height":"4.25","x":"7.75","y":"10.25","rx":"1.063"}],["path",{"d":"m12 7.5-1.635-1.839a.62.62 0 0 1 0-.822L12 3M9 3h6"}],["path",{"d":"M3.5 21h17"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8.1 7.5h7.8a2.6 2.6 0 0 1 2.6 2.6v5.3a2.6 2.6 0 0 1-2.6 2.6H8.1a2.6 2.6 0 0 1-2.6-2.6v-5.3a2.6 2.6 0 0 1 2.6-2.6Zm.84 2.75h6.12a1.19 1.19 0 0 1 1.19 1.19v1.87a1.19 1.19 0 0 1-1.19 1.19H8.94a1.19 1.19 0 0 1-1.19-1.19v-1.87a1.19 1.19 0 0 1 1.19-1.19Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"m12 7.5-1.635-1.839a.62.62 0 0 1 0-.822L12 3M9 3h6"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M3.5 21h17"}]],
 });
 
 export default TramIcon;

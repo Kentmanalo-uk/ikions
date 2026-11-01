@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Sharp Right — A sharp, more-than-square turn to the right. */
 export const ArrowSharpRightIcon = createIkion("arrow-sharp-right", "ArrowSharpRightIcon", {
-  outline: [["path",{"d":"M7.5 19.5V4.75l9.5 9.5m-4.25 0H17V10"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M7.5 19.25V5l9.25 9.25m-4 0h4v-4"}]],
+  outline: [["path",{"d":"M7.5 19.5V5.3a.228.228 0 0 1 .389-.161L17 14.25m-4.25 0H17V10"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M7.5 19.25V5.55a.228.228 0 0 1 .389-.161l8.861 8.861m-4 0h4v-4"}]],
 });
 
 export default ArrowSharpRightIcon;

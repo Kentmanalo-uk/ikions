@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chevron Up — Collapse a section, close a dropdown or move up. */
 export const ChevronUpIcon = createIkion("chevron-up", "ChevronUpIcon", {
-  outline: [["path",{"d":"m6 14.5 6-6 6 6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m6 14.5 6-6 6 6"}]],
+  outline: [["path",{"d":"m6 14.5 5.611-5.611a.55.55 0 0 1 .778 0L18 14.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m6 14.5 5.611-5.611a.55.55 0 0 1 .778 0L18 14.5"}]],
 });
 
 export default ChevronUpIcon;

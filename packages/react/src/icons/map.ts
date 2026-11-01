@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Map — Open a map view, browse locations or plan where to go. */
 export const MapIcon = createIkion("map", "MapIcon", {
-  outline: [["path",{"d":"m3.59 6.23 4.54-2.06a1 1 0 0 1 .75-.03l6.24 2.22a1 1 0 0 0 .75-.03l3.72-1.69a1 1 0 0 1 1.41.91v11.31a1 1 0 0 1-.59.91l-4.54 2.06a1 1 0 0 1-.75.03l-6.24-2.22a1 1 0 0 0-.75.03l-3.72 1.69A1 1 0 0 1 3 18.45V7.14a1 1 0 0 1 .59-.91"}],["path",{"d":"M8.5 4.5v12.75M15.5 7v12.5"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m3 6.5 3.88-1.76v13.5L3 20Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m10.13 4.58 3.75 1.34v13.5l-3.75-1.34Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M17.13 5.76 21 4v13.5l-3.87 1.76Z"}]],
+  outline: [["path",{"d":"m4.539 5.799 2.419-1.097a4.18 4.18 0 0 1 3.131-.132l3.822 1.36a4.18 4.18 0 0 0 3.132-.133L19.59 4.64a.997.997 0 0 1 1.41.908v10.264a2.62 2.62 0 0 1-1.539 2.389l-2.419 1.097a4.18 4.18 0 0 1-3.131.132l-3.822-1.36a4.18 4.18 0 0 0-3.132.133L4.41 19.36A.997.997 0 0 1 3 18.452V8.188a2.62 2.62 0 0 1 1.539-2.389"}],["path",{"d":"M8.5 4.5v12.75M15.5 7v12.5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m4.086 6.007 2.017-.914a.55.55 0 0 1 .777.5v11.454a1.85 1.85 0 0 1-1.086 1.686l-2.017.914a.55.55 0 0 1-.777-.5V7.693a1.85 1.85 0 0 1 1.086-1.686Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m10.865 4.843 1.965.701a1.58 1.58 0 0 1 1.05 1.49v11.605a.55.55 0 0 1-.735.518l-1.965-.701a1.58 1.58 0 0 1-1.05-1.49V5.361a.55.55 0 0 1 .735-.518Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m18.214 5.267 2.008-.913a.55.55 0 0 1 .778.501V16.31a1.85 1.85 0 0 1-1.084 1.683l-2.008.913a.55.55 0 0 1-.778-.501V6.95a1.85 1.85 0 0 1 1.084-1.683Z"}]],
 });
 
 export default MapIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Microscope — Inspect closely, analyse samples or represent research. */
 export const MicroscopeIcon = createIkion("microscope", "MicroscopeIcon", {
-  outline: [["path",{"d":"M8.9 3.01a1 1 0 0 1 1.31.52l2.66 6.21a1 1 0 0 1-.52 1.31l-2.3.98a1 1 0 0 1-1.32-.52l-2.65-6.2a1 1 0 0 1 .52-1.32Z"}],["path",{"d":"M11.71 7.04c5.54.46 8.54 7.46 4.29 13.46"}],["path",{"d":"M6.5 15.25H18M4.5 20.5h15"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M8.9 3.01a1 1 0 0 1 1.31.52l2.66 6.21a1 1 0 0 1-.52 1.31l-2.3.98a1 1 0 0 1-1.32-.52l-2.65-6.2a1 1 0 0 1 .52-1.32Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M11.71 7.04c5.54.46 8.54 7.46 4.29 13.46"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6.5 15.25H18M4.5 20.5h15"}]],
+  outline: [["path",{"d":"m10.315 3.776 2.453 5.725a1.26 1.26 0 0 1-.664 1.654l-1.823.776a1.26 1.26 0 0 1-1.655-.665L6.178 5.538a1.26 1.26 0 0 1 .663-1.651l1.82-.775a1.26 1.26 0 0 1 1.654.664"}],["path",{"d":"M11.71 7.04c5.54.46 8.54 7.46 4.29 13.46"}],["path",{"d":"M6.5 15.25H18M4.5 20.5h15"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m10.315 3.776 2.453 5.725a1.26 1.26 0 0 1-.664 1.654l-1.823.776a1.26 1.26 0 0 1-1.655-.665L6.178 5.538a1.26 1.26 0 0 1 .663-1.651l1.82-.775a1.26 1.26 0 0 1 1.654.664Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M11.71 7.04c5.54.46 8.54 7.46 4.29 13.46"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6.5 15.25H18M4.5 20.5h15"}]],
 });
 
 export default MicroscopeIcon;

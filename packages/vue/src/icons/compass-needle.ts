@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Compass Needle — A magnetic compass needle with a solid north tip for bearings and orientation. */
 export const CompassNeedleIcon = createIkion("compass-needle", "CompassNeedleIcon", {
-  outline: [["path",{"d":"M12 2.75 16 12l-4 9.25L8 12Z"}],["path",{"fill":"currentColor","d":"M12 2.75 16 12H8Z"}]],
-  filled: [["path",{"d":"M12.88 21.41c-.02.28-.17.53-.41.68-.29.18-.65.18-.93 0-.23-.15-.38-.38-.41-.65l-3.76-8.69h9.26zM11.11 2.59c.01-.28.17-.54.41-.7l.01.01c.07-.05.15-.08.23-.1.22-.06.45-.04.65.08.02.01.03.02.05.03.24.15.39.41.41.69l3.75 8.65H7.36z"}]],
+  outline: [["path",{"d":"M12 2.75 16 12l-3.495 8.082a.55.55 0 0 1-1.01 0L8 12z"}],["path",{"fill":"currentColor","d":"M12 2.75 16 12H8Z"}]],
+  filled: [["path",{"d":"M12.88 21.41c-.02.28-.17.53-.41.68-.29.18-.65.18-.93 0-.23-.15-.38-.38-.41-.65l-3.427-7.922a.55.55 0 0 1 .504-.768h7.585a.55.55 0 0 1 .505.769zM11.11 2.59c.01-.28.17-.54.41-.7l.01.01c.07-.05.15-.08.23-.1.22-.06.45-.04.65.08.02.01.03.02.05.03.24.15.39.41.41.69l3.417 7.881a.55.55 0 0 1-.505.769H8.198a.55.55 0 0 1-.505-.769z"}]],
 });
 
 export default CompassNeedleIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Big Up Line — A bold up arrow resting on a line, for caps lock or raising to the top. */
 export const ArrowBigUpLineIcon = createIkion("arrow-big-up-line", "ArrowBigUpLineIcon", {
-  outline: [["path",{"d":"m12 3 8.5 8h-5v5h-7v-5h-5Z"}],["path",{"d":"M8.5 20h7"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12 3 8.5 8h-5v5h-7v-5h-5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M8.75 20h6.5"}]],
+  outline: [["path",{"d":"m14.33 5.194 5.161 4.855a.55.55 0 0 1-.377.951H16.9a1.4 1.4 0 0 0-1.4 1.4v2.2a1.4 1.4 0 0 1-1.4 1.4H9.9a1.4 1.4 0 0 1-1.4-1.4v-2.2A1.4 1.4 0 0 0 7.1 11H4.886a.55.55 0 0 1-.377-.951L9.67 5.194a3.4 3.4 0 0 1 4.66 0"}],["path",{"d":"M8.5 20h7"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m13.893 4.782 5.597 5.267a.55.55 0 0 1-.377.951H16.9a1.4 1.4 0 0 0-1.4 1.4v2.2a1.4 1.4 0 0 1-1.4 1.4H9.9a1.4 1.4 0 0 1-1.4-1.4v-2.2A1.4 1.4 0 0 0 7.1 11H4.887a.55.55 0 0 1-.377-.951l5.597-5.267a2.76 2.76 0 0 1 3.786 0Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M8.75 20h6.5"}]],
 });
 
 export default ArrowBigUpLineIcon;

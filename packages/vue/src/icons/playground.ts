@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Playground — Represents a code playground for writing and running code experiments. */
 export const PlaygroundIcon = createIkion("playground", "PlaygroundIcon", {
-  outline: [["path",{"d":"M7 7.5 3 12l4 4.5m10-9 4 4.5-4 4.5"}],["path",{"d":"M10 8.75v6.5L15 12Z"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M7 7.5 3 12l4 4.5m10-9 4 4.5-4 4.5"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10 8.75v6.5L15 12Z"}]],
+  outline: [["path",{"d":"m7 7.5-3.635 4.089a.62.62 0 0 0 0 .822L7 16.5m10-9 3.635 4.089a.62.62 0 0 1 0 .822L17 16.5"}],["path",{"d":"M10 9.763v4.474a.55.55 0 0 0 .85.461l3.395-2.208a.585.585 0 0 0 0-.98L10.85 9.302a.55.55 0 0 0-.85.461"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7 7.5-3.635 4.089a.62.62 0 0 0 0 .822L7 16.5m10-9 3.635 4.089a.62.62 0 0 1 0 .822L17 16.5"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10 9.763v4.474a.55.55 0 0 0 .85.461l3.44-2.237a.55.55 0 0 0 0-.922l-3.44-2.237a.55.55 0 0 0-.85.461Z"}]],
 });
 
 export default PlaygroundIcon;

@@ -20,6 +20,7 @@
     "typecheck": "turbo run typecheck",
     "e2e": "pnpm --filter @ikions/e2e test",
     "icons:plan": "pnpm --filter @ikions/tooling plan",
+    "icons:refine": "pnpm --filter @ikions/tooling refine",
     "icons:families": "pnpm --filter @ikions/tooling families",
     "icons:dupes": "pnpm --filter @ikions/tooling dupes",
     "icons:watch": "pnpm --filter @ikions/tooling watch",

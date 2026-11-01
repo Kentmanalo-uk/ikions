@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Tulip — Represents a tulip flower, spring blooms or gardening. */
 export const FlowerTulipIcon = createIkion("flower-tulip", "FlowerTulipIcon", {
-  outline: [["path",{"d":"M7.5 5.5 10 7.75l2-3.5 2 3.5 2.5-2.25V10a4.5 4.5 0 0 1-9 0Z"}],["path",{"d":"M12 14.5V21"}],["path",{"d":"M12 20.5c-.5-3-2.5-5-6-5.5 0 3.5 2.5 5.5 6 5.5"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M7.5 5.5 10 7.75l2-3.5 2 3.5 2.5-2.25V10a4.5 4.5 0 0 1-9 0Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14.5V21"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 20.5c-.5-3-2.5-5-6-5.5 0 3.5 2.5 5.5 6 5.5Z"}]],
+  outline: [["path",{"d":"m8.169 6.102 1.162 1.046a.726.726 0 0 0 1.116-.18l1.075-1.883a.55.55 0 0 1 .956 0l1.075 1.884a.725.725 0 0 0 1.115.18l1.163-1.047a.401.401 0 0 1 .669.298V10a4.5 4.5 0 0 1-9 0V6.4a.401.401 0 0 1 .669-.298"}],["path",{"d":"M12 14.5V21"}],["path",{"d":"M12 20.5c-.5-3-2.5-5-6-5.5 0 3.5 2.5 5.5 6 5.5"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m8.2 6.13 1.28 1.152a.564.564 0 0 0 .867-.139l1.176-2.057a.55.55 0 0 1 .954 0l1.176 2.056a.565.565 0 0 0 .868.139L15.8 6.13a.419.419 0 0 1 .7.312V10a4.5 4.5 0 0 1-9 0V6.442a.419.419 0 0 1 .7-.312Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 14.5V21"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 20.5c-.5-3-2.5-5-6-5.5 0 3.5 2.5 5.5 6 5.5Z"}]],
 });
 
 export default FlowerTulipIcon;

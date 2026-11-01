@@ -188,7 +188,7 @@ export function ShowcaseGrid({ sites }: { sites: { site: ShowcaseSite; verificat
                 className="mt-8 inline-flex h-11 items-center gap-2 rounded-full bg-ink px-5 text-[15px] font-medium text-bg transition-opacity hover:opacity-85"
               >
                 Visit {host}
-                <IkIcon name="external-link" size={17} />
+                <IkIcon name="external-link" size={20} />
               </a>
             </div>
           </article>

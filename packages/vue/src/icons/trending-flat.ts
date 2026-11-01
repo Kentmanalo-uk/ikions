@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Trending Flat — Show a steady, level trend with little change. */
 export const TrendingFlatIcon = createIkion("trending-flat", "TrendingFlatIcon", {
-  outline: [["path",{"d":"M3.25 15.5 8 10.75l4 4 2.25-2.25h6.5M17 16.25l3.75-3.75L17 8.75"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3.5 15.5 8 10.75l4 4 2.25-2.25h6.25M17 16l3.5-3.5L17 9"}]],
+  outline: [["path",{"d":"m3.25 15.5 3.63-3.63a1.584 1.584 0 0 1 2.24 0l2.244 2.244a.9.9 0 0 0 1.272 0l.978-.978a2.17 2.17 0 0 1 1.535-.636h5.601M17 16.25l3.75-3.75L17 8.75"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m3.5 15.5 3.411-3.6a1.54 1.54 0 0 1 2.209-.03l2.25 2.25a.89.89 0 0 0 1.26 0l.99-.99a2.15 2.15 0 0 1 1.521-.63H20.5M17 16l3.5-3.5L17 9"}]],
 });
 
 export default TrendingFlatIcon;

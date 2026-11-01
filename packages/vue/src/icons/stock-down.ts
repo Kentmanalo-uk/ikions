@@ -3,7 +3,7 @@ import { createIkion } from "../create-ikion.js";
 
 /** Stock Down — A share price falling, shown with a candlestick and a down arrow. */
 export const StockDownIcon = createIkion("stock-down", "StockDownIcon", {
-  outline: [["path",{"d":"M5.25 8h2.5a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-2.5a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1"}],["path",{"d":"M6.5 4.5V8m0 8v3.5"}],["path",{"d":"M16 4.5v15m-3.75-3.75L16 19.5l3.75-3.75"}]],
+  outline: [["path",{"d":"M5.51 8h1.98a1.26 1.26 0 0 1 1.26 1.26v5.48A1.26 1.26 0 0 1 7.49 16H5.51a1.26 1.26 0 0 1-1.26-1.26V9.26A1.26 1.26 0 0 1 5.51 8"}],["path",{"d":"M6.5 4.5V8m0 8v3.5"}],["path",{"d":"M16 4.5v15m-3.75-3.75L16 19.5l3.75-3.75"}]],
   filled: [["path",{"d":"M5.26 7.13h2.49a1.88 1.88 0 0 1 1.88 1.88V15a1.88 1.88 0 0 1-1.88 1.88H5.26A1.88 1.88 0 0 1 3.38 15V9.01a1.88 1.88 0 0 1 1.88-1.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M6.5 4.5V8m0 8v3.5"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M16 4.5v15m-3.75-3.75L16 19.5l3.75-3.75"}]],
 });
 

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cheese — Represent cheese, such as dairy, a cheese wedge or a deli counter. */
 export const CheeseIcon = createIkion("cheese", "CheeseIcon", {
-  outline: [["path",{"d":"m3 12 14.5-7.5 3.5 3v12H10.25a2.25 2.25 0 0 0-4.5 0H3Z"}],["path",{"d":"M3 12h18"}],["circle",{"cx":"15","cy":"15.75","r":"1.75"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m17.5 4.5 3.5 3v2.88H6.13z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M21 19.5H10.25c0-1.24-1.01-2.25-2.25-2.25s-2.25 1.01-2.25 2.25H3v-5.87h10.1c-.56.55-.87 1.32-.82 2.12-.06 1.01.44 1.98 1.31 2.5.87.53 1.96.53 2.82 0 .87-.53 1.37-1.49 1.31-2.5.05-.8-.26-1.57-.82-2.12h4.09z"}]],
+  outline: [["path",{"d":"m3 12 13.353-6.907a1.92 1.92 0 0 1 2.126.247l1.541 1.319A2.8 2.8 0 0 1 21 8.79v7.7a3.01 3.01 0 0 1-3.01 3.01h-7.74a2.25 2.25 0 0 0-4.5 0H3.825A.825.825 0 0 1 3 18.675z"}],["path",{"d":"M3 12h18"}],["circle",{"cx":"15","cy":"15.75","r":"1.75"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m18.48 5.34 1.907 1.634A1.75 1.75 0 0 1 21 8.306v1.267a.807.807 0 0 1-.807.807H8.39a.55.55 0 0 1-.252-1.039l8.215-4.248a1.92 1.92 0 0 1 2.127.247Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M19.357 19.5H10.25c0-1.24-1.01-2.25-2.25-2.25s-2.25 1.01-2.25 2.25H3.77a.77.77 0 0 1-.77-.77v-3.456a1.644 1.644 0 0 1 1.644-1.644H13.1c-.56.55-.87 1.32-.82 2.12-.06 1.01.44 1.98 1.31 2.5.87.53 1.96.53 2.82 0 .87-.53 1.37-1.49 1.31-2.5.05-.8-.26-1.57-.82-2.12h2.945a1.147 1.147 0 0 1 1.147 1.145l.005 3.081a1.64 1.64 0 0 1-1.64 1.644Z"}]],
 });
 
 export default CheeseIcon;

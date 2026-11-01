@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chat Check — Chat confirmed, completed or verified. */
 export const ChatCheckIcon = createIkion("chat-check", "ChatCheckIcon", {
-  outline: [["path",{"d":"m11.35 16.84-3.12 2.62c-.22.19-.53.23-.8.1-.26-.12-.43-.38-.43-.67V17c0-.28-.22-.5-.5-.5H6c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3h12c1.66 0 3 1.34 3 3v5.45"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3.5h12c1.66 0 3 1.34 3 3v5.73c-.9-.47-1.92-.73-3-.73-3.11 0-5.71 2.18-6.35 5.1-.04.02-.08.05-.11.08l-3.31 2.78c-.22.19-.53.23-.8.1-.26-.12-.43-.38-.43-.67V17c0-.28-.22-.5-.5-.5H6c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"m11.35 16.84-3.12 2.62c-.22.19-.53.23-.8.1-.26-.12-.43-.38-.43-.67V17c0-.28-.22-.5-.5-.5H6c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3h12c1.66 0 3 1.34 3 3v5.45"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6 3.5h12c1.66 0 3 1.34 3 3v5.73c-.9-.47-1.92-.73-3-.73-3.11 0-5.71 2.18-6.35 5.1-.04.02-.08.05-.11.08l-3.31 2.78c-.22.19-.53.23-.8.1-.26-.12-.43-.38-.43-.67V17c0-.28-.22-.5-.5-.5H6c-1.66 0-3-1.34-3-3v-7c0-1.66 1.34-3 3-3z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default ChatCheckIcon;

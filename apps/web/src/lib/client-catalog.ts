@@ -30,7 +30,8 @@ export interface ClientCatalog {
   getNodes(name: string): IconVariants | undefined;
 }
 
-export const CATALOG_URL = "/data/catalog.json";
+// The revision changes with every deploy, so browsers never keep an old library.
+export const CATALOG_URL = `/data/catalog.json?v=${process.env.NEXT_PUBLIC_CATALOG_REV ?? "dev"}`;
 
 let cache: ClientCatalog | null = null;
 let pending: Promise<ClientCatalog> | null = null;

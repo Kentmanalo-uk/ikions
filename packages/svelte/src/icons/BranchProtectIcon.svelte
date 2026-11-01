@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"M6.5 3v13"}],["circle",{"cx":"6.5","cy":"18.5","r":"2.5"}],["circle",{"cx":"17.5","cy":"5.5","r":"2.5"}],["path",{"d":"M17.5 8a3 3 0 0 1-3 3h-8"}],["path",{"d":"m17.5 14 2.75 1.05v2.45c0 1.85-1.15 3.05-2.75 3.8-1.6-.75-2.75-1.95-2.75-3.8v-2.45Z"}]],
-    filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6.5 3.25V16"}],["circle",{"cx":"6.5","cy":"18.5","r":"3.38"}],["circle",{"cx":"17.5","cy":"5.5","r":"3.38"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M17.5 8a3 3 0 0 1-3 3h-8"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m17.5 14 2.75 1.05v2.45c0 1.85-1.15 3.05-2.75 3.8-1.6-.75-2.75-1.95-2.75-3.8v-2.45Z"}]],
+    outline: [["path",{"d":"M6.5 3v13"}],["circle",{"cx":"6.5","cy":"18.5","r":"2.5"}],["circle",{"cx":"17.5","cy":"5.5","r":"2.5"}],["path",{"d":"M17.5 8a3 3 0 0 1-3 3h-8"}],["path",{"d":"m18.325 14.315 1.238.473a1.07 1.07 0 0 1 .687.997V17.5c0 1.85-1.15 3.05-2.75 3.8-1.6-.75-2.75-1.95-2.75-3.8v-1.715a1.07 1.07 0 0 1 .687-.997l1.238-.473a2.3 2.3 0 0 1 1.65 0"}]],
+    filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6.5 3.25V16"}],["circle",{"cx":"6.5","cy":"18.5","r":"3.38"}],["circle",{"cx":"17.5","cy":"5.5","r":"3.38"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M17.5 8a3 3 0 0 1-3 3h-8"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m18.27 14.294 1.326.506a1.02 1.02 0 0 1 .654.949V17.5c0 1.85-1.15 3.05-2.75 3.8-1.6-.75-2.75-1.95-2.75-3.8v-1.75a1.02 1.02 0 0 1 .655-.95l1.325-.506a2.16 2.16 0 0 1 1.54 0Z"}]],
   } as const;
 
   let props: IkionProps = $props();

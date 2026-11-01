@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** IV Drip — An IV drip stand with a fluid bag for infusions and hospital treatment. */
 export const IvDripIcon = createIkion("iv-drip", "IvDripIcon", {
-  outline: [["path",{"d":"M7 21V3.5h9.5V5m-12 16h5"}],["path",{"d":"M15.5 5h2a2 2 0 0 1 2 2v4.5a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2"}],["path",{"d":"M16.5 13.5v3"}],["circle",{"cx":"16.5","cy":"19.75","r":"1.25","fill":"currentColor","stroke":"none"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M7 21V3.5h9.5V5m-12 16h5"}],["path",{"d":"M15.51 4.13h1.99a2.88 2.88 0 0 1 2.88 2.88v4.49a2.88 2.88 0 0 1-2.88 2.88h-1.99a2.88 2.88 0 0 1-2.88-2.88V7.01a2.88 2.88 0 0 1 2.88-2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M16.5 14.25v2.25"}],["circle",{"cx":"16.5","cy":"19.75","r":"1.5"}]],
+  outline: [["path",{"d":"M7 21V6.16A2.66 2.66 0 0 1 9.66 3.5h6.42a.42.42 0 0 1 .42.42V5m-12 16h5"}],["path",{"d":"M15.5 5h2a2 2 0 0 1 2 2v4.5a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2"}],["path",{"d":"M16.5 13.5v3"}],["circle",{"cx":"16.5","cy":"19.75","r":"1.25","fill":"currentColor","stroke":"none"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M7 21V6.1a2.6 2.6 0 0 1 2.6-2.6h6.48a.42.42 0 0 1 .42.42V5m-12 16h5"}],["path",{"d":"M15.51 4.13h1.99a2.88 2.88 0 0 1 2.88 2.88v4.49a2.88 2.88 0 0 1-2.88 2.88h-1.99a2.88 2.88 0 0 1-2.88-2.88V7.01a2.88 2.88 0 0 1 2.88-2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M16.5 14.25v2.25"}],["circle",{"cx":"16.5","cy":"19.75","r":"1.5"}]],
 });
 
 export default IvDripIcon;

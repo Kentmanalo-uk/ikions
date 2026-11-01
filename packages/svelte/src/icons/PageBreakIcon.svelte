@@ -5,7 +5,7 @@
 
   const nodes = {
     outline: [["path",{"d":"M5 3v4a2.5 2.5 0 0 0 2.5 2.5h9A2.5 2.5 0 0 0 19 7V3"}],["path",{"d":"M5 21v-4a2.5 2.5 0 0 1 2.5-2.5h9A2.5 2.5 0 0 1 19 17v4"}],["path",{"d":"M3.25 12h1.5m3.75 0H10m4 0h1.5m3.75 0h1.5"}]],
-    filled: [["path",{"d":"M4.13 2.13h15.75V7a3.38 3.38 0 0 1-3.38 3.38h-9A3.38 3.38 0 0 1 4.13 7Z"}],["path",{"d":"M4.13 21.88h15.75V17a3.38 3.38 0 0 0-3.38-3.38h-9A3.38 3.38 0 0 0 4.13 17Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M3.25 12h1.5m3.75 0H10m4 0h1.5m3.75 0h1.5"}]],
+    filled: [["path",{"d":"M6.44 2.13h11.13a2.31 2.31 0 0 1 2.31 2.31V7a3.38 3.38 0 0 1-3.38 3.38h-9a3.37 3.37 0 0 1-3.37-3.37V4.44a2.31 2.31 0 0 1 2.31-2.31"}],["path",{"d":"M6.443 21.88h11.124a2.313 2.313 0 0 0 2.313-2.313V17a3.38 3.38 0 0 0-3.38-3.38h-9a3.37 3.37 0 0 0-3.37 3.37v2.577a2.313 2.313 0 0 0 2.313 2.313"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M3.25 12h1.5m3.75 0H10m4 0h1.5m3.75 0h1.5"}]],
   } as const;
 
   let props: IkionProps = $props();

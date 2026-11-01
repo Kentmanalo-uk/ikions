@@ -158,7 +158,7 @@ export function FeatureDemo({ icons }: { icons: DemoIcon[] }) {
               )
             }
           >
-            <DownloadIcon size={16} />
+            <DownloadIcon size={20} />
             Download SVG
           </button>
         </div>

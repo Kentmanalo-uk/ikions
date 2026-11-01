@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Big Down — Large block arrow pointing down; bold direction or upgrade cue. */
 export const ArrowBigDownIcon = createIkion("arrow-big-down", "ArrowBigDownIcon", {
-  outline: [["path",{"d":"M12 20.25 4.5 12.5h4.25V3.75h6.5v8.75h4.25z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12 20.25 4.5 12.5h4.25V3.75h6.5v8.75h4.25z"}]],
+  outline: [["path",{"d":"m9.9 18.08-4.573-4.725a.504.504 0 0 1 .363-.855h1.87a1.19 1.19 0 0 0 1.19-1.19V5.57a1.82 1.82 0 0 1 1.82-1.82h2.86a1.82 1.82 0 0 1 1.82 1.82v5.74a1.19 1.19 0 0 0 1.19 1.19h1.87a.504.504 0 0 1 .363.855L14.1 18.08a2.92 2.92 0 0 1-4.2 0"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m10.192 18.382-4.864-5.027a.504.504 0 0 1 .362-.855h1.87a1.19 1.19 0 0 0 1.19-1.19V5.57a1.82 1.82 0 0 1 1.82-1.82h2.86a1.82 1.82 0 0 1 1.82 1.82v5.74a1.19 1.19 0 0 0 1.19 1.19h1.87a.504.504 0 0 1 .362.855l-4.864 5.027a2.516 2.516 0 0 1-3.616 0Z"}]],
 });
 
 export default ArrowBigDownIcon;

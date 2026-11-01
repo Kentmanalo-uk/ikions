@@ -53,7 +53,7 @@ export function SelectionBar() {
                 className="grid h-6 w-6 place-items-center rounded-md text-ink-2 hover:bg-surface hover:text-ink"
                 aria-label={`Remove ${name} from selection`}
               >
-                <CloseIcon size={14} />
+                <CloseIcon size={16} />
               </button>
             </li>
           ))}
@@ -70,7 +70,7 @@ export function SelectionBar() {
             {names.length}
           </span>
           selected
-          {expanded ? <ChevronDownIcon size={16} /> : <ChevronUpIcon size={16} />}
+          {expanded ? <ChevronDownIcon size={20} /> : <ChevronUpIcon size={20} />}
         </button>
         <Segmented
           label="Export variant"
@@ -86,7 +86,7 @@ export function SelectionBar() {
         <div className="ml-auto flex flex-wrap items-center gap-1.5">
           <CopyButton text={() => names.join("\n")} label="Copy names" className={buttonClass.small} />
           <button type="button" className={buttonClass.small} disabled={!ready} onClick={() => downloadText(buildSprite(icons, variant), `ikions-sprite-${variant}.svg`)}>
-            <LayersIcon size={16} />
+            <LayersIcon size={20} />
             Sprite
           </button>
           <button
@@ -96,11 +96,11 @@ export function SelectionBar() {
             disabled={zipState === "working" || !ready}
             aria-busy={zipState === "working"}
           >
-            {zipState === "working" || !ready ? <LoaderIcon size={16} /> : <DownloadIcon size={16} />}
+            {zipState === "working" || !ready ? <LoaderIcon size={20} /> : <DownloadIcon size={20} />}
             {zipState === "working" ? "Zipping…" : "Download ZIP"}
           </button>
           <button type="button" className={`${buttonClass.icon} h-8 w-8`} onClick={selection.clear} aria-label="Clear selection" title="Clear selection">
-            <TrashIcon size={16} />
+            <TrashIcon size={20} />
           </button>
         </div>
       </div>

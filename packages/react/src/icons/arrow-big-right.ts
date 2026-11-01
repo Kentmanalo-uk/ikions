@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Big Right — Large block arrow pointing right; bold direction or upgrade cue. */
 export const ArrowBigRightIcon = createIkion("arrow-big-right", "ArrowBigRightIcon", {
-  outline: [["path",{"d":"m20.25 12-7.75 7.5v-4.25H3.75v-6.5h8.75V4.5z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m20.25 12-7.75 7.5v-4.25H3.75v-6.5h8.75V4.5z"}]],
+  outline: [["path",{"d":"m18.08 14.1-4.725 4.573a.504.504 0 0 1-.855-.363v-1.87a1.19 1.19 0 0 0-1.19-1.19H5.57a1.82 1.82 0 0 1-1.82-1.82v-2.86a1.82 1.82 0 0 1 1.82-1.82h5.74a1.19 1.19 0 0 0 1.19-1.19V5.69a.504.504 0 0 1 .855-.363L18.08 9.9a2.92 2.92 0 0 1 0 4.2"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m18.382 13.808-5.027 4.864a.504.504 0 0 1-.855-.362v-1.87a1.19 1.19 0 0 0-1.19-1.19H5.57a1.82 1.82 0 0 1-1.82-1.82v-2.86a1.82 1.82 0 0 1 1.82-1.82h5.74a1.19 1.19 0 0 0 1.19-1.19V5.69a.504.504 0 0 1 .855-.362l5.027 4.864a2.516 2.516 0 0 1 0 3.616Z"}]],
 });
 
 export default ArrowBigRightIcon;

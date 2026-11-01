@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Terminal — Open a command line, console or shell. */
 export const TerminalIcon = createIkion("terminal", "TerminalIcon", {
-  outline: [["rect",{"width":"18","height":"16","x":"3","y":"4","rx":"3"}],["path",{"d":"m7.5 9 3 3-3 3"}],["path",{"d":"M12.5 15h4"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M6 3.13h12A3.88 3.88 0 0 1 21.88 7v10A3.88 3.88 0 0 1 18 20.88H6A3.88 3.88 0 0 1 2.13 17V7A3.88 3.88 0 0 1 6 3.13m2.12 5.25 3 3a.875.875 0 0 1 0 1.24l-3 3a.875.875 0 0 1-1.24-1.24L9.26 12 6.88 9.62a.875.875 0 0 1 1.24-1.24m4.38 5.75h4a.875.875 0 0 1 0 1.75h-4a.875.875 0 0 1 0-1.75","clipRule":"evenodd"}]],
+  outline: [["rect",{"width":"18","height":"16","x":"3","y":"4","rx":"3.2"}],["path",{"d":"m7.5 9 2.611 2.611a.55.55 0 0 1 0 .778L7.5 15"}],["path",{"d":"M12.5 15h4"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M6 3.13h12A3.88 3.88 0 0 1 21.88 7v10A3.88 3.88 0 0 1 18 20.88H6A3.88 3.88 0 0 1 2.13 17V7A3.88 3.88 0 0 1 6 3.13m2.12 5.25 2.606 2.606a1.433 1.433 0 0 1 0 2.028L8.12 15.62a.875.875 0 0 1-1.24-1.24l1.714-1.714a.94.94 0 0 0 0-1.332L6.88 9.62a.875.875 0 0 1 1.24-1.24m4.38 5.75h4a.875.875 0 0 1 0 1.75h-4a.875.875 0 0 1 0-1.75","clipRule":"evenodd"}]],
 });
 
 export default TerminalIcon;

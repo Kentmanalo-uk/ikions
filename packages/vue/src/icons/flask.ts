@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Flask — Represent a laboratory, experiment or chemistry test. */
 export const FlaskIcon = createIkion("flask", "FlaskIcon", {
-  outline: [["path",{"d":"M10 3.5v4.89a1.5 1.5 0 0 1-.16.68l-4.35 8.52a2 2 0 0 0 1.78 2.91h9.46a2 2 0 0 0 1.78-2.91l-4.35-8.52a1.5 1.5 0 0 1-.16-.68V3.5Z"}],["path",{"d":"M8.5 3.5h7"}],["path",{"d":"M7.06 14.5h9.88"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M8.5 3.5h7"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10 3.5v4.89a1.5 1.5 0 0 1-.16.68l-1.95 3.81h8.22l-1.95-3.81a1.5 1.5 0 0 1-.16-.68V3.5Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m6.23 16.13-.74 1.46a2 2 0 0 0 1.78 2.91h9.46a2 2 0 0 0 1.78-2.91l-.74-1.46Z"}]],
+  outline: [["path",{"d":"M10 4.62v2.665a6.1 6.1 0 0 1-.669 2.783L5.49 17.59a2 2 0 0 0 1.782 2.91h9.458a2 2 0 0 0 1.781-2.909l-3.842-7.523A6.1 6.1 0 0 1 14 7.285V4.62a1.12 1.12 0 0 0-1.12-1.12h-1.76A1.12 1.12 0 0 0 10 4.62"}],["path",{"d":"M8.5 3.5h7"}],["path",{"d":"M7.06 14.5h9.88"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M8.5 3.5h7"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10 4.62v2.841a5.4 5.4 0 0 1-.591 2.451L8.3 12.079a.55.55 0 0 0 .489.801h6.422a.55.55 0 0 0 .489-.801l-1.109-2.167A5.4 5.4 0 0 1 14 7.461V4.62a1.12 1.12 0 0 0-1.12-1.12h-1.76A1.12 1.12 0 0 0 10 4.62Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m5.61 17.354-.12.236a2.004 2.004 0 0 0 1.788 2.91h9.452a2 2 0 0 0 1.783-2.903l-.123-.243a2.23 2.23 0 0 0-1.992-1.224H7.602a2.23 2.23 0 0 0-1.992 1.224Z"}]],
 });
 
 export default FlaskIcon;

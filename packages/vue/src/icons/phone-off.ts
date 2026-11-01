@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Phone Off — Turn off, disable or mute the phone. */
 export const PhoneOffIcon = createIkion("phone-off", "PhoneOffIcon", {
   outline: [["path",{"d":"M7.72 4H9c.55 0 1 .45 1 1v1.28m-2.01 5.43c.59 2.08 2.23 3.72 4.31 4.31M17.72 14H19c.55 0 1 .45 1 1v1.28M16.28 20H14C8.48 20 4 15.52 4 10V7.72m0 0V5.5C4 4.67 4.67 4 5.5 4h2.22"}],["path",{"d":"m3.5 3.5 17 17"}]],
-  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9 4c.55 0 1 .45 1 1v.94L8.06 4zm10 10c.55 0 1 .45 1 1v.94L18.06 14zm-5 6C8.48 20 4 15.52 4 10V8.06l4.15 4.15c.63 1.67 1.96 3 3.63 3.63l4.15 4.15z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m3.5 3.5 17 17"}]],
+  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9 4c.55 0 1 .45 1 1v.94L8.06 4Zm10 10c.55 0 1 .45 1 1v.94L18.06 14Zm-5 6C8.48 20 4 15.52 4 10V8.642a.241.241 0 0 1 .412-.17L8.15 12.21c.63 1.67 1.96 3 3.63 3.63l3.741 3.741a.242.242 0 0 1-.17.412z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m3.5 3.5 17 17"}]],
 });
 
 export default PhoneOffIcon;

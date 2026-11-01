@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Accessibility — Open accessibility options or mark universally accessible content. */
 export const AccessibilityIcon = createIkion("accessibility", "AccessibilityIcon", {
   outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["circle",{"cx":"12","cy":"7.25","r":"1.25","fill":"currentColor","stroke":"none"}],["path",{"d":"m7.5 9.75 4.5 1 4.5-1m-4.5 1v3M9.5 17.5l2.5-3.75 2.5 3.75"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m8.38-4.75a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0-3 0M7.69 8.89l4.31.96 4.31-.96a.88.88 0 0 1 .38 1.72l-3.81.85v2.02l2.35 3.53a.88.88 0 0 1-1.46.98L12 15.34l-1.77 2.65a.88.88 0 0 1-1.46-.98l2.35-3.53v-2.02l-3.81-.85a.88.88 0 0 1 .38-1.72","clipRule":"evenodd"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m8.38-4.75a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0-3 0M7.693 8.891l1.769.394a11.7 11.7 0 0 0 5.076 0l1.772-.395a.881.881 0 0 1 .383 1.719l-3.222.719a.755.755 0 0 0-.591.737v.809a2 2 0 0 0 .335 1.109l2.015 3.027a.879.879 0 0 1-1.463.975l-1.31-1.961a.55.55 0 0 0-.914 0L10.23 17.99a.879.879 0 0 1-1.463-.975l2.017-3.031a2 2 0 0 0 .336-1.111v-.807a.756.756 0 0 0-.592-.738L7.31 10.61a.881.881 0 0 1 .383-1.719","clipRule":"evenodd"}]],
 });
 
 export default AccessibilityIcon;

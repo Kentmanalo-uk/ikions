@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["circle",{"cx":"12","cy":"4.25","r":"2"}],["path",{"d":"m7.5 13 1.75-4.25h5.5L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
-    filled: [["circle",{"cx":"12","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7.5 13 1.75-4.25h5.5L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
+    outline: [["circle",{"cx":"12","cy":"4.25","r":"2"}],["path",{"d":"m7.5 13 1.26-3.06a1.92 1.92 0 0 1 1.776-1.19h2.928a1.92 1.92 0 0 1 1.776 1.19L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
+    filled: [["circle",{"cx":"12","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7.5 13 1.26-3.06a1.92 1.92 0 0 1 1.776-1.19h2.928a1.92 1.92 0 0 1 1.776 1.19L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
   } as const;
 
   let props: IkionProps = $props();

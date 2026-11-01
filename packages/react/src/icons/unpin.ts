@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Unpin — Remove a pin so the item no longer stays fixed in place. */
 export const UnpinIcon = createIkion("unpin", "UnpinIcon", {
-  outline: [["path",{"d":"M8.1 3.5h8.4m-9.07 8.53-1.18 1.72h2.9m7.3-1.9L14.5 9V3.5M12 16.6v3.9"}],["path",{"d":"m3.5 3.5 17 17"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m14.5 9 .82 1.2L9.5 4.38V3.6h-.78l-.2-.2h7.98v.2h-2zm-8.25 4.75.97-1.41 1.41 1.41z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M12 17.3v3.2"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.5 3.5 17 17"}]],
+  outline: [["path",{"d":"M8.1 3.5h8.4m-9.07 8.53-.944 1.376a.22.22 0 0 0 .181.344H9.15m7.3-1.9-1.639-2.396A1.8 1.8 0 0 1 14.5 8.45V3.5M12 16.6v3.9"}],["path",{"d":"m3.5 3.5 17 17"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m14.73 9.336.36.528a.038.038 0 0 1-.058.048L9.5 4.38V3.6h-.78l-.2-.2h7.98v.2h-1.4a.6.6 0 0 0-.6.6v4.393a1.3 1.3 0 0 0 .23.743Zm-8.189 3.991.388-.564a.427.427 0 0 1 .654-.06l.624.624a.248.248 0 0 1-.175.423H6.763a.27.27 0 0 1-.222-.423Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M12 17.3v3.2"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.5 3.5 17 17"}]],
 });
 
 export default UnpinIcon;

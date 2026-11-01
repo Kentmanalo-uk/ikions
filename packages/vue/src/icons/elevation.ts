@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Elevation — Shows the height of a mountain measured from its base to the summit. */
 export const ElevationIcon = createIkion("elevation", "ElevationIcon", {
-  outline: [["path",{"d":"M2.5 20 9 7.5 15.5 20Z"}],["path",{"d":"M19.5 4.5V20m-2-13.5 2-2 2 2m-4 11.5 2 2 2-2"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M2.5 20 9 7.5 15.5 20Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M19.5 4.5V20m-2-13.5 2-2 2 2m-4 11.5 2 2 2-2"}]],
+  outline: [["path",{"d":"M2.915 19.202 8.512 8.438a.55.55 0 0 1 .976 0l5.597 10.764a.546.546 0 0 1-.484.798H3.4a.546.546 0 0 1-.485-.798"}],["path",{"d":"M19.5 4.5V20m-2-13.5 2-2 2 2m-4 11.5 2 2 2-2"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M2.918 19.196 8.512 8.438a.55.55 0 0 1 .976 0l5.594 10.758a.55.55 0 0 1-.488.804H3.406a.55.55 0 0 1-.488-.804Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M19.5 4.5V20m-2-13.5 2-2 2 2m-4 11.5 2 2 2-2"}]],
 });
 
 export default ElevationIcon;

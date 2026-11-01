@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Layers — Show stacked layers, levels or overlapping content. */
 export const LayersIcon = createIkion("layers", "LayersIcon", {
-  outline: [["path",{"d":"M11.33 3.34a1.5 1.5 0 0 1 1.34 0l6.99 3.49a.75.75 0 0 1 0 1.34l-6.99 3.49a1.5 1.5 0 0 1-1.34 0L4.34 8.17a.75.75 0 0 1 0-1.34Z"}],["path",{"d":"m3 11.75 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 11.75"}],["path",{"d":"m3 16 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 16"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M11.33 3.34a1.5 1.5 0 0 1 1.34 0l6.99 3.49a.75.75 0 0 1 0 1.34l-6.99 3.49a1.5 1.5 0 0 1-1.34 0L4.34 8.17a.75.75 0 0 1 0-1.34Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"m3 11.75 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 11.75"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"m3 16 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 16"}]],
+  outline: [["path",{"d":"M14.521 4.264 19.66 6.83a.749.749 0 0 1 0 1.34l-5.139 2.566a5.64 5.64 0 0 1-5.042 0L4.34 8.17a.749.749 0 0 1 0-1.34l5.139-2.566a5.64 5.64 0 0 1 5.042 0"}],["path",{"d":"m3 11.75 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 11.75"}],["path",{"d":"m3 16 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 16"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M14.326 4.167 19.66 6.83a.749.749 0 0 1 0 1.34l-5.334 2.663a5.2 5.2 0 0 1-4.652 0L4.34 8.17a.749.749 0 0 1 0-1.34l5.334-2.663a5.2 5.2 0 0 1 4.652 0Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"m3 11.75 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 11.75"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"m3 16 8.33 4.16a1.5 1.5 0 0 0 1.34 0L21 16"}]],
 });
 
 export default LayersIcon;

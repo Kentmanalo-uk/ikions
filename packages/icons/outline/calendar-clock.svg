@@ -3,5 +3,5 @@
   <path d="M8.5 3v4m7-4v4m-12 3h17"/>
   <path fill="currentColor" fill-rule="evenodd" stroke="none" d="M7.25 15c0 .69.56 1.25 1.25 1.25s1.25-.56 1.25-1.25-.56-1.25-1.25-1.25-1.25.56-1.25 1.25" clip-rule="evenodd"/>
   <circle cx="18" cy="18" r="3.5"/>
-  <path d="M18 16.25V18l1.25 1"/>
+  <path d="M18 16.25v1.43a.67.67 0 0 0 .25.52l1 .8"/>
 </svg>

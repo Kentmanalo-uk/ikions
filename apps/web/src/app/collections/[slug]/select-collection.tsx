@@ -12,7 +12,7 @@ export function SelectCollection({ names }: { names: string[] }) {
   return (
     <div className="flex flex-wrap gap-2">
       <button type="button" className={buttonClass.secondary} onClick={() => selection.add(names)} disabled={all}>
-        {all ? <CheckIcon size={16} /> : <PlusIcon size={16} />}
+        {all ? <CheckIcon size={20} /> : <PlusIcon size={20} />}
         {all ? "All in selection" : "Add all to selection"}
       </button>
       {selection.values.length > 0 ? (

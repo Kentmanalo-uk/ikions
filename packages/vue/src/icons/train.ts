@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Train — Represent rail travel, a train station or a railway journey. */
 export const TrainIcon = createIkion("train", "TrainIcon", {
-  outline: [["path",{"d":"M5 17a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h6c5.2 0 9.5 4.4 10.2 10.1a2.6 2.6 0 0 1-2.6 2.9Z"}],["path",{"d":"M7.5 7.5h5.36a1.5 1.5 0 0 1 1.32.78l1.1 2a1.5 1.5 0 0 1-1.32 2.22H7.5A1.5 1.5 0 0 1 6 11V9a1.5 1.5 0 0 1 1.5-1.5"}],["path",{"d":"M10.5 7.5v5"}],["path",{"d":"M2.75 20.5h18.5"}]],
-  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5 17a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h6c5.2 0 9.5 4.4 10.2 10.1a2.6 2.6 0 0 1-2.6 2.9Zm2.5-9.5h3v5h-3A1.5 1.5 0 0 1 6 11V9a1.5 1.5 0 0 1 1.5-1.5Zm3 0h2.36a1.5 1.5 0 0 1 1.32.78l1.1 2a1.5 1.5 0 0 1-1.32 2.22H10.5z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M2.75 20.5h18.5"}]],
+  outline: [["path",{"d":"M3 13.8V6.24A2.24 2.24 0 0 1 5.24 4H11c5.2 0 9.5 4.4 10.2 10.1a2.6 2.6 0 0 1-2.6 2.9H6.2A3.2 3.2 0 0 1 3 13.8"}],["path",{"d":"M7.5 7.5h4.653a2.7 2.7 0 0 1 2.368 1.4l.759 1.38a1.498 1.498 0 0 1-1.313 2.22H7.5A1.5 1.5 0 0 1 6 11V9a1.5 1.5 0 0 1 1.5-1.5"}],["path",{"d":"M10.5 7.5v5"}],["path",{"d":"M2.75 20.5h18.5"}]],
+  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3 14.4V6.24A2.24 2.24 0 0 1 5.24 4H11c5.2 0 9.5 4.4 10.2 10.1a2.6 2.6 0 0 1-2.6 2.9h-13A2.6 2.6 0 0 1 3 14.4Zm4.5-6.9h3v5h-3A1.5 1.5 0 0 1 6 11V9a1.5 1.5 0 0 1 1.5-1.5Zm3 0h2.36a1.5 1.5 0 0 1 1.32.78l1.1 2a1.5 1.5 0 0 1-1.32 2.22H10.5z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M2.75 20.5h18.5"}]],
 });
 
 export default TrainIcon;

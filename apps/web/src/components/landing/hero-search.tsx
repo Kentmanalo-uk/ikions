@@ -47,7 +47,7 @@ export function HeroSearch() {
         <label htmlFor={id} className="sr-only">
           Search icons
         </label>
-        <SearchIcon size={20} className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-2" />
+        <SearchIcon size={24} className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-2" />
         <input
           id={id}
           type="search"

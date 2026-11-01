@@ -56,7 +56,7 @@ export function UsageSection({ stats }: { stats: UsageStats }) {
                   {project.name}
                   {project.stars > 0 ? (
                     <span className="flex shrink-0 items-center gap-1 text-[12.5px] text-ink-2">
-                      <IkIcon name="star" size={14} />
+                      <IkIcon name="star" size={16} />
                       {project.stars.toLocaleString("en")}
                     </span>
                   ) : null}

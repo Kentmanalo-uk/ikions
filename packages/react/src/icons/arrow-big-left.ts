@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Big Left — Large block arrow pointing left; bold direction or upgrade cue. */
 export const ArrowBigLeftIcon = createIkion("arrow-big-left", "ArrowBigLeftIcon", {
-  outline: [["path",{"d":"m3.75 12 7.75-7.5v4.25h8.75v6.5H11.5v4.25z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m3.75 12 7.75-7.5v4.25h8.75v6.5H11.5v4.25z"}]],
+  outline: [["path",{"d":"m5.92 9.9 4.725-4.573a.504.504 0 0 1 .855.363v1.87a1.19 1.19 0 0 0 1.19 1.19h5.74a1.82 1.82 0 0 1 1.82 1.82v2.86a1.82 1.82 0 0 1-1.82 1.82h-5.74a1.19 1.19 0 0 0-1.19 1.19v1.87a.504.504 0 0 1-.855.363L5.92 14.1a2.92 2.92 0 0 1 0-4.2"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m5.618 10.192 5.027-4.864a.504.504 0 0 1 .855.362v1.87a1.19 1.19 0 0 0 1.19 1.19h5.74a1.82 1.82 0 0 1 1.82 1.82v2.86a1.82 1.82 0 0 1-1.82 1.82h-5.74a1.19 1.19 0 0 0-1.19 1.19v1.87a.504.504 0 0 1-.855.362l-5.027-4.864a2.516 2.516 0 0 1 0-3.616Z"}]],
 });
 
 export default ArrowBigLeftIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cup — Represent a cup on a saucer, such as a hot drink, café or tea break. */
 export const CupIcon = createIkion("cup", "CupIcon", {
-  outline: [["path",{"d":"M5.5 6h12l-.75 5.25a5 5 0 0 1-4.95 4.25h-.6a5 5 0 0 1-4.95-4.25Z"}],["path",{"d":"M17.3 7.5H19a2.5 2.5 0 0 1 0 5h-2.55"}],["path",{"d":"M3.5 19h16"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5.5 6h12l-.75 5.25a5 5 0 0 1-4.95 4.25h-.6a5 5 0 0 1-4.95-4.25Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M17.3 7.5H19a2.5 2.5 0 0 1 0 5h-2.55"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3.5 19h16"}]],
+  outline: [["path",{"d":"M6.985 6h9.03a1.288 1.288 0 0 1 1.275 1.47l-.54 3.78a5 5 0 0 1-4.95 4.25h-.6a5 5 0 0 1-4.95-4.25l-.54-3.78A1.288 1.288 0 0 1 6.985 6"}],["path",{"d":"M17.3 7.5H19a2.5 2.5 0 0 1 0 5h-2.55"}],["path",{"d":"M3.5 19h16"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M6.985 6h9.03a1.288 1.288 0 0 1 1.275 1.47l-.54 3.78a5 5 0 0 1-4.95 4.25h-.6a5 5 0 0 1-4.95-4.25l-.54-3.78A1.288 1.288 0 0 1 6.985 6Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M17.3 7.5H19a2.5 2.5 0 0 1 0 5h-2.55"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3.5 19h16"}]],
 });
 
 export default CupIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Juice — Represent juice or a soft drink served in a glass with a straw. */
 export const JuiceIcon = createIkion("juice", "JuiceIcon", {
-  outline: [["path",{"d":"M5.5 4.5h13l-1.4 13.75a2 2 0 0 1-2 1.75H8.9a2 2 0 0 1-2-1.75Z"}],["path",{"d":"M6.03 10.5h11.94"}],["path",{"d":"m13.25 13.25 2.15-10.5H18"}]],
-  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5.5 4.5h13l-1.4 13.75a2 2 0 0 1-2 1.75H8.9a2 2 0 0 1-2-1.75Zm0 0h13l-.55 5.38H6.04z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"m14.05 9.25 1.35-6.5H18"}]],
+  outline: [["path",{"d":"M8.7 4.5h6.6a2.89 2.89 0 0 1 2.876 3.184L17.1 18.25a2 2 0 0 1-2 1.75H8.9a2 2 0 0 1-2-1.75L5.824 7.684A2.89 2.89 0 0 1 8.7 4.5"}],["path",{"d":"M6.03 10.5h11.94"}],["path",{"d":"m13.25 13.25 2.046-9.991a.64.64 0 0 1 .624-.509H18"}]],
+  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5.5 4.5h13l-1.4 13.75a2 2 0 0 1-2 1.75H8.9a2 2 0 0 1-2-1.75Zm0 0h13l-.396 3.874a1.677 1.677 0 0 1-1.668 1.506H7.554a1.674 1.674 0 0 1-1.665-1.506z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"m14.05 9.25 1.244-5.991a.64.64 0 0 1 .626-.509H18"}]],
 });
 
 export default JuiceIcon;

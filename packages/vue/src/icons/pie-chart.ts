@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Pie Chart — Show a pie chart, proportions or a share of the whole. */
 export const PieChartIcon = createIkion("pie-chart", "PieChartIcon", {
-  outline: [["path",{"d":"M10.25 6.5a7.25 7.25 0 1 0 7.25 7.25h-7.25Z"}],["path",{"d":"M13.75 10.25V3A7.25 7.25 0 0 1 21 10.25Z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10.25 6.5a7.25 7.25 0 1 0 7.25 7.25h-7.25Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M13.75 10.25V3A7.25 7.25 0 0 1 21 10.25Z"}]],
+  outline: [["path",{"d":"M10.25 6.5a7.25 7.25 0 1 0 7.25 7.25h-5.22a2.03 2.03 0 0 1-2.03-2.03z"}],["path",{"d":"M13.75 8.22V3A7.25 7.25 0 0 1 21 10.25h-5.22a2.03 2.03 0 0 1-2.03-2.03"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10.25 6.5a7.25 7.25 0 1 0 7.25 7.25h-5.22a2.03 2.03 0 0 1-2.03-2.03z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M13.75 8.22V3A7.25 7.25 0 0 1 21 10.25h-5.22a2.03 2.03 0 0 1-2.03-2.03Z"}]],
 });
 
 export default PieChartIcon;

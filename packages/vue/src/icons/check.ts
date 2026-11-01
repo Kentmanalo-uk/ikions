@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Check — Confirm, complete or mark something as done. */
 export const CheckIcon = createIkion("check", "CheckIcon", {
-  outline: [["path",{"d":"m4.5 12.75 5 5L19.5 7"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m4.5 12.75 5 5L19.5 7"}]],
+  outline: [["path",{"d":"m4.5 12.75 4.611 4.611a.53.53 0 0 0 .764-.014L19.5 7"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m4.5 12.75 4.611 4.611a.53.53 0 0 0 .764-.014L19.5 7"}]],
 });
 
 export default CheckIcon;

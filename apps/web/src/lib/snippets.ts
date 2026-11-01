@@ -21,12 +21,15 @@ export interface IconOptions {
   strokeWidth: number;
 }
 
+/** The website shows icons at this stroke. The library default stays DEFAULT_STROKE_WIDTH, so copied code states it. */
+export const WEB_STROKE_WIDTH = 1.25;
+
 export const DEFAULT_OPTIONS: IconOptions = {
   variant: "outline",
   size: 24,
   color: "currentColor",
   gradient: null,
-  strokeWidth: DEFAULT_STROKE_WIDTH,
+  strokeWidth: WEB_STROKE_WIDTH,
 };
 
 interface SnippetIcon {

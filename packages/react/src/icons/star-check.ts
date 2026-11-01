@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Star Check — Star confirmed, completed or verified. */
 export const StarCheckIcon = createIkion("star-check", "StarCheckIcon", {
-  outline: [["path",{"d":"m11.32 17.01-4.76 2.87 1.45-6.18L3.2 9.54 9.53 9 12 3.15 14.47 9l6.33.54-2.03 1.75"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M12 3.15 14.47 9l6.33.54-2.29 1.98c-.17-.01-.34-.02-.51-.02-3.19 0-5.85 2.3-6.4 5.34l-5.04 3.04 1.45-6.18L3.2 9.54 9.53 9z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"m11.32 17.01-3.642 2.196a.55.55 0 0 1-.819-.597l.745-3.179a2.94 2.94 0 0 0-.939-2.893l-2.478-2.143A.55.55 0 0 1 4.5 9.43l3.259-.279a2.95 2.95 0 0 0 2.463-1.79l1.271-3.011a.55.55 0 0 1 1.014 0l1.271 3.012a2.95 2.95 0 0 0 2.463 1.789l3.758.321a.338.338 0 0 1 .192.593L18.77 11.29"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12.507 4.351 1.272 3.011a2.95 2.95 0 0 0 2.462 1.789l3.714.317a.357.357 0 0 1 .203.627L18.51 11.52c-.17-.01-.34-.02-.51-.02-3.19 0-5.85 2.3-6.4 5.34l-3.922 2.365a.55.55 0 0 1-.819-.597l.745-3.178a2.94 2.94 0 0 0-.939-2.893l-2.479-2.143a.55.55 0 0 1 .313-.964l3.26-.279a2.95 2.95 0 0 0 2.462-1.789l1.272-3.011a.55.55 0 0 1 1.014 0Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default StarCheckIcon;

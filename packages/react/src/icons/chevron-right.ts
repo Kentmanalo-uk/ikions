@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chevron Right — Navigate forward, open a submenu or show more. */
 export const ChevronRightIcon = createIkion("chevron-right", "ChevronRightIcon", {
-  outline: [["path",{"d":"m9.5 6 6 6-6 6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m9.5 6 6 6-6 6"}]],
+  outline: [["path",{"d":"m9.5 6 5.611 5.611a.55.55 0 0 1 0 .778L9.5 18"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m9.5 6 5.611 5.611a.55.55 0 0 1 0 .778L9.5 18"}]],
 });
 
 export default ChevronRightIcon;

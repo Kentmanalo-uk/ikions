@@ -173,6 +173,14 @@
   animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/*
+ * Interface icons from @ikions/react use the website stroke, not the library
+ * default. :where() keeps this overridable; see WEB_STROKE_WIDTH in snippets.ts.
+ */
+:where(.ikion) {
+  stroke-width: 1.25;
+}
+
 /* Icon swap between Outline and Filled. */
 @keyframes ik-pop {
   from {

@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"m6.5 7.5-4 4.5 4 4.5m11-9 4 4.5-4 4.5"}],["circle",{"cx":"8.25","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}],["circle",{"cx":"12","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}],["circle",{"cx":"15.75","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}]],
-    filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m6.5 7.5-4 4.5 4 4.5m11-9 4 4.5-4 4.5"}],["circle",{"cx":"8.25","cy":"12","r":"1.63"}],["circle",{"cx":"12","cy":"12","r":"1.63"}],["circle",{"cx":"15.75","cy":"12","r":"1.63"}]],
+    outline: [["path",{"d":"m6.5 7.5-3.635 4.089a.62.62 0 0 0 0 .822L6.5 16.5m11-9 3.635 4.089a.62.62 0 0 1 0 .822L17.5 16.5"}],["circle",{"cx":"8.25","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}],["circle",{"cx":"12","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}],["circle",{"cx":"15.75","cy":"12","r":"1.25","fill":"currentColor","stroke":"none"}]],
+    filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m6.5 7.5-3.635 4.089a.62.62 0 0 0 0 .822L6.5 16.5m11-9 3.635 4.089a.62.62 0 0 1 0 .822L17.5 16.5"}],["circle",{"cx":"8.25","cy":"12","r":"1.63"}],["circle",{"cx":"12","cy":"12","r":"1.63"}],["circle",{"cx":"15.75","cy":"12","r":"1.63"}]],
   } as const;
 
   let props: IkionProps = $props();

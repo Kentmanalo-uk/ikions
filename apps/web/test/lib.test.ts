@@ -4,14 +4,16 @@ import { buildSprite, pngFileName, svgFile, svgFileName, zipEntries } from "@/li
 import { createRateLimiter } from "@/lib/rate-limit";
 import { cssSnippet, DEFAULT_OPTIONS, getSnippet, htmlSnippet, jsSnippet, jsxSnippet, reactSnippet, svgDataUri, svgMarkup, SNIPPET_TABS, vueSnippet, svelteSnippet } from "@/lib/snippets";
 
+const library = { ...DEFAULT_OPTIONS, strokeWidth: 1.75 };
 const camera = { name: "camera", title: "Camera", component: "CameraIcon" };
 const nodes = iconNodes.camera;
 
 describe("snippets", () => {
   it("omits default props in component snippets", () => {
-    expect(reactSnippet(camera, DEFAULT_OPTIONS)).toContain('<CameraIcon variant="outline" />');
-    expect(svelteSnippet(camera, DEFAULT_OPTIONS)).toContain('<CameraIcon variant="outline" />');
-    expect(vueSnippet(camera, DEFAULT_OPTIONS)).toContain('<CameraIcon variant="outline" />');
+    expect(reactSnippet(camera, DEFAULT_OPTIONS)).toContain('strokeWidth={1.25}');
+    expect(reactSnippet(camera, library)).toContain('<CameraIcon variant="outline" />');
+    expect(svelteSnippet(camera, library)).toContain('<CameraIcon variant="outline" />');
+    expect(vueSnippet(camera, library)).toContain('<CameraIcon variant="outline" />');
   });
 
   it("includes customised props", () => {
@@ -29,11 +31,11 @@ describe("snippets", () => {
   it("renders the selected variant in SVG and JSX", () => {
     const outline = svgMarkup(nodes.outline, DEFAULT_OPTIONS);
     const filled = svgMarkup(nodes.filled, { ...DEFAULT_OPTIONS, variant: "filled" });
-    expect(outline).toContain('stroke-width="1.75"');
+    expect(outline).toContain('stroke-width="1.25"');
     expect(filled).not.toMatch(/<svg[^>]*stroke-width/);
     expect(outline).not.toContain("aria-hidden");
     expect(jsxSnippet(camera, nodes.filled, { ...DEFAULT_OPTIONS, variant: "filled" })).toContain('fill="currentColor"');
-    expect(jsxSnippet(camera, nodes.outline, DEFAULT_OPTIONS)).toContain("strokeWidth={1.75}");
+    expect(jsxSnippet(camera, nodes.outline, DEFAULT_OPTIONS)).toContain("strokeWidth={1.25}");
   });
 
   it("never injects unsafe colours", () => {

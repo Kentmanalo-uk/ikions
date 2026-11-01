@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Building — Represent an office, company, apartment block or workplace. */
 export const BuildingIcon = createIkion("building", "BuildingIcon", {
-  outline: [["rect",{"width":"14","height":"18","x":"5","y":"3","rx":"2.5"}],["path",{"d":"M9 7h1m4 0h1m-6 3.75h1m4 0h1M9 14.5h1m4 0h1"}],["path",{"d":"M10 21v-1.75a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1V21"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M7.5 3h9A2.5 2.5 0 0 1 19 5.5v13a2.5 2.5 0 0 1-2.5 2.5H14v-1.75a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1V21H7.5A2.5 2.5 0 0 1 5 18.5v-13A2.5 2.5 0 0 1 7.5 3ZM9 8.75h1a1.75 1.75 0 0 0 0-3.5H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1a1.75 1.75 0 0 0 0-3.5h-1a1.75 1.75 0 0 0 0 3.5ZM9 12.5h1A1.75 1.75 0 0 0 10 9H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1A1.75 1.75 0 0 0 15 9h-1a1.75 1.75 0 0 0 0 3.5Zm-5 3.75h1a1.75 1.75 0 0 0 0-3.5H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1a1.75 1.75 0 0 0 0-3.5h-1a1.75 1.75 0 0 0 0 3.5Z","clipRule":"evenodd"}]],
+  outline: [["rect",{"width":"14","height":"18","x":"5","y":"3","rx":"3.2"}],["path",{"d":"M9 7h1m4 0h1m-6 3.75h1m4 0h1M9 14.5h1m4 0h1"}],["path",{"d":"M10 21v-1.75a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1V21"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M7.6 3h8.8A2.6 2.6 0 0 1 19 5.6v12.9a2.5 2.5 0 0 1-2.5 2.5h-1.73a.77.77 0 0 1-.77-.77v-.98a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v.98a.77.77 0 0 1-.77.77H7.5A2.5 2.5 0 0 1 5 18.5V5.6A2.6 2.6 0 0 1 7.6 3ZM9 8.75h1a1.75 1.75 0 0 0 0-3.5H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1a1.75 1.75 0 0 0 0-3.5h-1a1.75 1.75 0 0 0 0 3.5ZM9 12.5h1A1.75 1.75 0 0 0 10 9H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1A1.75 1.75 0 0 0 15 9h-1a1.75 1.75 0 0 0 0 3.5Zm-5 3.75h1a1.75 1.75 0 0 0 0-3.5H9a1.75 1.75 0 0 0 0 3.5Zm5 0h1a1.75 1.75 0 0 0 0-3.5h-1a1.75 1.75 0 0 0 0 3.5Z","clipRule":"evenodd"}]],
 });
 
 export default BuildingIcon;

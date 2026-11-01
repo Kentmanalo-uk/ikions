@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Send — Send a message, submit a form or dispatch content. */
 export const SendIcon = createIkion("send", "SendIcon", {
-  outline: [["path",{"d":"M18.88 4.14 5.54 9.44a1 1 0 0 0-.09 1.82l4.66 2.42a.5.5 0 0 1 .21.21l2.42 4.66a1 1 0 0 0 1.82-.09l5.3-13.34a.75.75 0 0 0-.98-.98"}],["path",{"d":"m11 13 4-4"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M15.55 5.46 4.01 10.05a.25.25 0 0 0-.02.45l4.58 2.38a.25.25 0 0 0 .29-.05l6.96-6.96a.25.25 0 0 0-.27-.41Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m11.12 15.43 2.38 4.58a.25.25 0 0 0 .45-.02l4.59-11.54a.25.25 0 0 0-.41-.27l-6.96 6.96a.25.25 0 0 0-.05.29Z"}]],
+  outline: [["path",{"d":"M18.88 4.14 5.54 9.44a1.001 1.001 0 0 0-.092 1.819l2.912 1.512a6.73 6.73 0 0 1 2.869 2.869l1.511 2.91a1.002 1.002 0 0 0 1.821-.092L19.86 5.12a.755.755 0 0 0-.98-.98"}],["path",{"d":"m11 13 4-4"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M14.263 5.972 4.626 9.805a.55.55 0 0 0-.051.999l2.691 1.399a2.25 2.25 0 0 0 2.627-.406l4.948-4.948a.536.536 0 0 0-.578-.877Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m11.797 16.734 1.399 2.691a.55.55 0 0 0 .999-.051l3.833-9.637a.536.536 0 0 0-.877-.578l-4.948 4.948a2.25 2.25 0 0 0-.406 2.627Z"}]],
 });
 
 export default SendIcon;

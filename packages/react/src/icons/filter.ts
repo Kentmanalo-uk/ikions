@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Filter — Narrow down a list of results by criteria. */
 export const FilterIcon = createIkion("filter", "FilterIcon", {
-  outline: [["path",{"d":"M6.13 7.76A2 2 0 0 1 7.68 4.5h8.64a2 2 0 0 1 1.55 3.26l-3.29 4.08a1.5 1.5 0 0 0-.33.94v4.47A2.25 2.25 0 0 1 12 19.5a2.25 2.25 0 0 1-2.25-2.25v-4.47a1.5 1.5 0 0 0-.33-.94Z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.13 7.76A2 2 0 0 1 7.68 4.5h8.64a2 2 0 0 1 1.55 3.26l-3.29 4.08a1.5 1.5 0 0 0-.33.94v4.47A2.25 2.25 0 0 1 12 19.5a2.25 2.25 0 0 1-2.25-2.25v-4.47a1.5 1.5 0 0 0-.33-.94Z"}]],
+  outline: [["path",{"d":"M7.689 4.5h8.631a1.998 1.998 0 0 1 1.556 3.253l-2.747 3.406a3.97 3.97 0 0 0-.879 2.49v3.601A2.25 2.25 0 0 1 12 19.5a2.25 2.25 0 0 1-2.25-2.25v-3.601a3.97 3.97 0 0 0-.879-2.49L6.13 7.76A2.003 2.003 0 0 1 7.689 4.5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M7.689 4.5h8.631a1.998 1.998 0 0 1 1.556 3.253l-2.747 3.406a3.97 3.97 0 0 0-.879 2.49v3.601A2.25 2.25 0 0 1 12 19.5a2.25 2.25 0 0 1-2.25-2.25v-3.601a3.97 3.97 0 0 0-.879-2.49L6.13 7.76A2.003 2.003 0 0 1 7.689 4.5Z"}]],
 });
 
 export default FilterIcon;

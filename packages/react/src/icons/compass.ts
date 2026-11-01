@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Compass — Find a direction, explore an area or orient a map. */
 export const CompassIcon = createIkion("compass", "CompassIcon", {
-  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m15.5 8.5-2.25 4.75L8.5 15.5l2.25-4.75Z"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0M15.5 8.5l-2.25 4.75L8.5 15.5l2.25-4.75Z","clipRule":"evenodd"}]],
+  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m14.87 9.83-.99 2.09a4.12 4.12 0 0 1-1.96 1.96l-2.09.99a.526.526 0 0 1-.7-.7l.99-2.09a4.12 4.12 0 0 1 1.96-1.96l2.09-.99a.526.526 0 0 1 .7.7"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m12.75-2.17-.99 2.09a4.12 4.12 0 0 1-1.96 1.96l-2.09.99a.526.526 0 0 1-.7-.7l.99-2.09a4.12 4.12 0 0 1 1.96-1.96l2.09-.99a.526.526 0 0 1 .7.7","clipRule":"evenodd"}]],
 });
 
 export default CompassIcon;

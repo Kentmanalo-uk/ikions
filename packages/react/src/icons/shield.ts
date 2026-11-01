@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Shield — Represent protection, security features or a safeguarded state. */
 export const ShieldIcon = createIkion("shield", "ShieldIcon", {
-  outline: [["path",{"d":"m12.34 3.12 5.84 2.13a2 2 0 0 1 1.32 1.88V11c0 4.9-3.2 8.2-7.5 10-4.3-1.8-7.5-5.1-7.5-10V7.13a2 2 0 0 1 1.32-1.88l5.84-2.13a1 1 0 0 1 .68 0"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12.34 3.12 5.84 2.13a2 2 0 0 1 1.32 1.88V11c0 4.9-3.2 8.2-7.5 10-4.3-1.8-7.5-5.1-7.5-10V7.13a2 2 0 0 1 1.32-1.88l5.84-2.13a1 1 0 0 1 .68 0Z"}]],
+  outline: [["path",{"d":"m14.1 3.762 4.014 1.464A2.11 2.11 0 0 1 19.5 7.207V11c0 4.9-3.2 8.2-7.5 10-4.3-1.8-7.5-5.1-7.5-10V7.207a2.11 2.11 0 0 1 1.386-1.981L9.9 3.762a6.13 6.13 0 0 1 4.2 0"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m14.1 3.762 4.014 1.464A2.11 2.11 0 0 1 19.5 7.207V11c0 4.9-3.2 8.2-7.5 10-4.3-1.8-7.5-5.1-7.5-10V7.207a2.11 2.11 0 0 1 1.386-1.981L9.9 3.762a6.13 6.13 0 0 1 4.2 0Z"}]],
 });
 
 export default ShieldIcon;

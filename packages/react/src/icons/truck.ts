@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Truck — Represent delivery, shipping or an order on its way. */
 export const TruckIcon = createIkion("truck", "TruckIcon", {
-  outline: [["path",{"d":"M2.75 14V6a2 2 0 0 1 2-2h7.5a2 2 0 0 1 2 2v2h3.6a1.5 1.5 0 0 1 1.3.76L21 12a1.5 1.5 0 0 1 .25.83V13a2 2 0 0 1-2 2H3.75a1 1 0 0 1-1-1"}],["path",{"d":"M14.25 8v7"}],["circle",{"cx":"7.5","cy":"18.5","r":"2.25"}],["circle",{"cx":"16.75","cy":"18.5","r":"2.25"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M2.75 14V6a2 2 0 0 1 2-2h7.5a2 2 0 0 1 2 2v2h3.6a1.5 1.5 0 0 1 1.3.76L21 12a1.5 1.5 0 0 1 .25.83V13a2 2 0 0 1-2 2h.9a4.88 4.88 0 0 0-6.8 0H10.9a4.88 4.88 0 0 0-6.8 0h-.35a1 1 0 0 1-1-1Z"}],["circle",{"cx":"7.5","cy":"18.5","r":"2.5"}],["circle",{"cx":"16.75","cy":"18.5","r":"2.5"}]],
+  outline: [["path",{"d":"M2.75 11.92V7.08A3.08 3.08 0 0 1 5.83 4h6.42a2 2 0 0 1 2 2v2h3.216a2.15 2.15 0 0 1 1.87 1.086L21 12a1.5 1.5 0 0 1 .25.83V13a2 2 0 0 1-2 2H5.83a3.08 3.08 0 0 1-3.08-3.08"}],["path",{"d":"M14.25 8v7"}],["circle",{"cx":"7.5","cy":"18.5","r":"2.25"}],["circle",{"cx":"16.75","cy":"18.5","r":"2.25"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M2.75 14V6.6A2.6 2.6 0 0 1 5.35 4h6.9a2 2 0 0 1 2 2v.88A1.12 1.12 0 0 0 15.37 8h2.096a2.15 2.15 0 0 1 1.87 1.086L21 12a1.5 1.5 0 0 1 .25.83V13a2 2 0 0 1-2 2h.9a4.88 4.88 0 0 0-6.8 0H10.9a4.88 4.88 0 0 0-6.8 0h-.35a1 1 0 0 1-1-1Z"}],["circle",{"cx":"7.5","cy":"18.5","r":"2.5"}],["circle",{"cx":"16.75","cy":"18.5","r":"2.5"}]],
 });
 
 export default TruckIcon;

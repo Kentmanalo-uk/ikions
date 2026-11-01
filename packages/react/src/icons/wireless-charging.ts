@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Wireless Charging — Represents a wireless charging pad or Qi charging. */
 export const WirelessChargingIcon = createIkion("wireless-charging", "WirelessChargingIcon", {
-  outline: [["path",{"d":"M13 3.5 8.75 9.75h3L11 14.5l4.25-6.25h-3Z"}],["path",{"d":"M5.94 12.5a7 7 0 0 1 0-7m12.12 0a7 7 0 0 1 0 7"}],["rect",{"width":"17","height":"3.5","x":"3.5","y":"17.5","rx":"1.75"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M13 3.5 8.75 9.75h3L11 14.5l4.25-6.25h-3Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M5.94 12.5a7 7 0 0 1 0-7m12.12 0a7 7 0 0 1 0 7"}],["path",{"d":"M5.25 16.63h13.5a2.63 2.63 0 0 1 2.63 2.62 2.63 2.63 0 0 1-2.63 2.63H5.25a2.63 2.63 0 0 1-2.62-2.63 2.63 2.63 0 0 1 2.62-2.62"}]],
+  outline: [["path",{"d":"M12.243 4.612 9.256 9.006a.476.476 0 0 0 .394.744h1.2a.77.77 0 0 1 .76.89l-.4 2.531a.301.301 0 0 0 .547.217l2.987-4.394a.476.476 0 0 0-.394-.744h-1.2a.77.77 0 0 1-.76-.89l.4-2.531a.301.301 0 0 0-.547-.217"}],["path",{"d":"M5.94 12.5a7 7 0 0 1 0-7m12.12 0a7 7 0 0 1 0 7"}],["rect",{"width":"17","height":"3.5","x":"3.5","y":"17.5","rx":"1.75"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12.243 4.613-3.02 4.442a.445.445 0 0 0 .367.695h1.32a.718.718 0 0 1 .709.83l-.409 2.591a.301.301 0 0 0 .547.216l3.02-4.442a.445.445 0 0 0-.367-.695h-1.32a.718.718 0 0 1-.709-.83l.409-2.591a.301.301 0 0 0-.547-.216Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M5.94 12.5a7 7 0 0 1 0-7m12.12 0a7 7 0 0 1 0 7"}],["path",{"d":"M5.25 16.63h13.5a2.63 2.63 0 0 1 2.63 2.62 2.63 2.63 0 0 1-2.63 2.63H5.25a2.63 2.63 0 0 1-2.62-2.63 2.63 2.63 0 0 1 2.62-2.62"}]],
 });
 
 export default WirelessChargingIcon;

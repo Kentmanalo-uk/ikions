@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Caret Down — Small triangle pointing down: open a menu, sort or indicate direction. */
 export const CaretDownIcon = createIkion("caret-down", "CaretDownIcon", {
-  outline: [["path",{"d":"M16.5 9.5 12 14.75 7.5 9.5z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2.5","d":"M16.5 9.5 12 14.75 7.5 9.5z"}]],
+  outline: [["path",{"d":"m15.721 10.408-2.461 2.873a1.66 1.66 0 0 1-2.52 0l-2.461-2.873a.55.55 0 0 1 .417-.908h6.608a.55.55 0 0 1 .417.908"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2.5","d":"m15.721 10.408-2.461 2.873a1.66 1.66 0 0 1-2.52 0l-2.461-2.873a.55.55 0 0 1 .418-.908h6.606a.55.55 0 0 1 .418.908Z"}]],
 });
 
 export default CaretDownIcon;

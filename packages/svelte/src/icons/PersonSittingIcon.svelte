@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["circle",{"cx":"9.25","cy":"4.25","r":"2"}],["path",{"d":"M8.75 8.5v5.75h6.5v6.5m-6.5-11.5 3.25 3M5.5 9.5v11.25m0-3.5h6.75v3.5"}]],
-    filled: [["circle",{"cx":"9.25","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M8.75 8.5v5.75h6.5v6.5m-6.5-11.5 3.25 3M5.5 9.5v11.25m0-3.5h6.75v3.5"}]],
+    outline: [["circle",{"cx":"9.25","cy":"4.25","r":"2"}],["path",{"d":"M8.75 8.5v4.14a1.61 1.61 0 0 0 1.61 1.61h3.07a1.82 1.82 0 0 1 1.82 1.82v4.68m-6.5-11.5 3.25 3M5.5 9.5v11.25m0-3.5h6.2a.55.55 0 0 1 .55.55v2.95"}]],
+    filled: [["circle",{"cx":"9.25","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M8.75 8.5v4.14a1.61 1.61 0 0 0 1.61 1.61h3.07a1.82 1.82 0 0 1 1.82 1.82v4.68m-6.5-11.5 3.25 3M5.5 9.5v11.25m0-3.5h6.2a.55.55 0 0 1 .55.55v2.95"}]],
   } as const;
 
   let props: IkionProps = $props();

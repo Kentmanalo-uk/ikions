@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Bookmark Check — Bookmark confirmed, completed or verified. */
 export const BookmarkCheckIcon = createIkion("bookmark-check", "BookmarkCheckIcon", {
-  outline: [["path",{"d":"M11.44 16.41c-.01.01-.02.01-.03.02l-4.32 3.16c-.3.22-.71.25-1.04.08-.34-.17-.55-.52-.55-.89V5.5C5.5 4.12 6.62 3 8 3h8c1.38 0 2.5 1.12 2.5 2.5v5.77"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8 3h8c1.38 0 2.5 1.12 2.5 2.5v6.02c-.17-.01-.33-.02-.5-.02-2.99 0-5.51 2.02-6.27 4.77-.11.03-.22.08-.32.16l-4.32 3.16c-.3.22-.71.25-1.04.08-.34-.17-.55-.52-.55-.89V5.5C5.5 4.12 6.62 3 8 3z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"M11.44 16.41c-.01.01-.02.01-.03.02l-4.32 3.16c-.3.22-.71.25-1.04.08-.34-.17-.55-.52-.55-.89V5.5C5.5 4.12 6.62 3 8 3h8c1.38 0 2.5 1.12 2.5 2.5v5.77"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M8 3h8c1.38 0 2.5 1.12 2.5 2.5v6.02c-.17-.01-.33-.02-.5-.02-2.99 0-5.51 2.02-6.27 4.77-.11.03-.22.08-.32.16l-4.32 3.16c-.3.22-.71.25-1.04.08-.34-.17-.55-.52-.55-.89V5.5C5.5 4.12 6.62 3 8 3z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default BookmarkCheckIcon;

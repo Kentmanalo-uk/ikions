@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Size Chart — Check garment measurements to pick the right clothing size. */
 export const SizeChartIcon = createIkion("size-chart", "SizeChartIcon", {
-  outline: [["path",{"d":"M9.79 2.75 5.88 4.79 6.9 8.02l1.53-.51v5.44c0 .75.61 1.36 1.36 1.36h4.42c.75 0 1.36-.61 1.36-1.36V7.51l1.53.51 1.02-3.23-3.91-2.04c-.34.95-1.19 1.53-2.21 1.53s-1.87-.58-2.21-1.53"}],["path",{"d":"M5.5 19.75h13m-11-2-2 2 2 2m9-4 2 2-2 2"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9.79 2.75 5.88 4.79 6.9 8.02l1.53-.51v5.44c0 .75.61 1.36 1.36 1.36h4.42c.75 0 1.36-.61 1.36-1.36V7.51l1.53.51 1.02-3.23-3.91-2.04c-.34.95-1.19 1.53-2.21 1.53s-1.87-.58-2.21-1.53z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M5.5 19.75h13m-11-2-2 2 2 2m9-4 2 2-2 2"}]],
+  outline: [["path",{"d":"M9.79 2.75 6.678 4.374a1.07 1.07 0 0 0-.527 1.274l.603 1.911a.476.476 0 0 0 .605.308l.612-.204a.35.35 0 0 1 .459.331v4.956c0 .75.61 1.36 1.36 1.36h4.42c.75 0 1.36-.61 1.36-1.36V7.994a.35.35 0 0 1 .459-.331l.612.204a.476.476 0 0 0 .605-.308l.603-1.911a1.07 1.07 0 0 0-.527-1.274L14.21 2.75c-.34.95-1.19 1.53-2.21 1.53s-1.87-.58-2.21-1.53"}],["path",{"d":"M5.5 19.75h13m-11-2-2 2 2 2m9-4 2 2-2 2"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9.79 2.75 6.721 4.351a1.13 1.13 0 0 0-.555 1.343l.588 1.865a.476.476 0 0 0 .604.308l.613-.204a.35.35 0 0 1 .459.331v4.956c0 .75.61 1.36 1.36 1.36h4.42c.75 0 1.36-.61 1.36-1.36V7.994a.35.35 0 0 1 .459-.331l.612.204a.477.477 0 0 0 .605-.309l.588-1.864a1.13 1.13 0 0 0-.555-1.343L14.21 2.75c-.34.95-1.19 1.53-2.21 1.53s-1.87-.58-2.21-1.53Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M5.5 19.75h13m-11-2-2 2 2 2m9-4 2 2-2 2"}]],
 });
 
 export default SizeChartIcon;

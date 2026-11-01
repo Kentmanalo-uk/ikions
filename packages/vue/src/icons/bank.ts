@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Bank — Represent a bank, financial institution or bank transfer. */
 export const BankIcon = createIkion("bank", "BankIcon", {
-  outline: [["path",{"d":"M3.5 9.5h17l-7.53-5.43a1.75 1.75 0 0 0-1.94 0Z"}],["path",{"d":"M6 12.75v4m4-4v4m4-4v4m4-4v4"}],["path",{"d":"M3.5 20.25h17"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3.5 9.5h17l-7.53-5.43a1.75 1.75 0 0 0-1.94 0Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6 13.1v3.4m4-3.4v3.4m4-3.4v3.4m4-3.4v3.4"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3.5 20.25h17"}]],
+  outline: [["path",{"d":"M5.204 9.5h13.592a.55.55 0 0 0 .322-.996L14.38 5.087a4.07 4.07 0 0 0-4.76 0L4.882 8.504a.55.55 0 0 0 .322.996"}],["path",{"d":"M6 12.75v4m4-4v4m4-4v4m4-4v4"}],["path",{"d":"M3.5 20.25h17"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M5.204 9.5h13.592a.55.55 0 0 0 .322-.996l-5.009-3.613a3.605 3.605 0 0 0-4.218 0L4.882 8.504a.55.55 0 0 0 .322.996Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M6 13.1v3.4m4-3.4v3.4m4-3.4v3.4m4-3.4v3.4"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M3.5 20.25h17"}]],
 });
 
 export default BankIcon;

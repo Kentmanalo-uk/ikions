@@ -3,7 +3,7 @@ import { createIkion } from "../create-ikion.js";
 
 /** Localhost — Represents localhost, the local machine running a development server. */
 export const LocalhostIcon = createIkion("localhost", "LocalhostIcon", {
-  outline: [["rect",{"width":"19","height":"13","x":"2.5","y":"3.5","rx":"3"}],["path",{"d":"M12 16.5v4m-4 0h8"}],["path",{"d":"M8.75 9.5 12 6.75l3.25 2.75V13h-6.5Z"}]],
+  outline: [["rect",{"width":"19","height":"13","x":"2.5","y":"3.5","rx":"3.2"}],["path",{"d":"M12 16.5v4m-4 0h8"}],["path",{"d":"M9.498 8.867 11.09 7.52a1.41 1.41 0 0 1 1.82 0l1.592 1.347a2.11 2.11 0 0 1 .748 1.613v1.54a.98.98 0 0 1-.98.98H9.73a.98.98 0 0 1-.98-.98v-1.54a2.11 2.11 0 0 1 .748-1.613"}]],
   filled: [["path",{"fill-rule":"evenodd","d":"M5.51 2.63H18.5c2.14 0 3.88 1.74 3.88 3.88v6.99c0 2.14-1.74 3.88-3.88 3.88H5.51c-2.14 0-3.88-1.74-3.88-3.88V6.51c0-2.14 1.74-3.88 3.88-3.88M8.5 13c0 .14.11.25.25.25h6.5c.14 0 .25-.11.25-.25V9.5c0-.09-.04-.17-.11-.21l-3.2-2.71c-.05-.05-.11-.08-.19-.08-.07 0-.13.03-.18.08L8.61 9.29c-.07.05-.11.12-.11.21z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M12 17v3.5m-4 0h8"}]],
 });
 

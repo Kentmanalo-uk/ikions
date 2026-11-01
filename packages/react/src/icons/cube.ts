@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cube — Represent a 3D object, model or augmented reality view. */
 export const CubeIcon = createIkion("cube", "CubeIcon", {
-  outline: [["path",{"d":"M11 3.07a2 2 0 0 1 2 0l6.25 3.6a2 2 0 0 1 1 1.74v7.18a2 2 0 0 1-1 1.74L13 20.93a2 2 0 0 1-2 0l-6.25-3.6a2 2 0 0 1-1-1.74V8.41a2 2 0 0 1 1-1.74Z"}],["path",{"d":"M4.02 7.41 12 12.1l7.98-4.69M12 12.1v9.09"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M11 3.07a2 2 0 0 1 2 0l5.03 2.9a.4.4 0 0 1 .01.7L12.2 10.1a.4.4 0 0 1-.4 0L5.96 6.67a.4.4 0 0 1 .01-.7Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M19.65 9.49a.4.4 0 0 1 .6.34v5.76a2 2 0 0 1-1 1.74l-5.03 2.89a.4.4 0 0 1-.59-.35v-6.61a.4.4 0 0 1 .19-.35Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M3.75 9.83a.4.4 0 0 1 .6-.34l5.83 3.42a.4.4 0 0 1 .2.35v6.61a.4.4 0 0 1-.6.35l-5.03-2.89a2 2 0 0 1-1-1.74Z"}]],
+  outline: [["path",{"d":"m14.31 3.825 3.633 2.092a4.6 4.6 0 0 1 2.307 3.991v4.184a4.6 4.6 0 0 1-2.307 3.991l-3.633 2.092a4.63 4.63 0 0 1-4.62 0l-3.633-2.092a4.6 4.6 0 0 1-2.307-3.991V9.908a4.6 4.6 0 0 1 2.307-3.991L9.69 3.825a4.63 4.63 0 0 1 4.62 0"}],["path",{"d":"M4.02 7.41 12 12.1l7.98-4.69M12 12.1v9.09"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m13.858 3.565 3.96 2.283a.55.55 0 0 1 .004.95l-3.964 2.328a3.67 3.67 0 0 1-3.716 0L6.178 6.798a.55.55 0 0 1 .004-.95l3.96-2.283a3.72 3.72 0 0 1 3.716 0Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M20.25 10.098v4.525a3.69 3.69 0 0 1-1.849 3.195l-3.947 2.268a.55.55 0 0 1-.824-.477v-4.477a3.69 3.69 0 0 1 1.82-3.178l3.972-2.33a.55.55 0 0 1 .828.474Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m4.578 9.624 3.982 2.335a3.69 3.69 0 0 1 1.82 3.179v4.476a.55.55 0 0 1-.824.477l-3.957-2.273a3.69 3.69 0 0 1-1.849-3.195v-4.525a.55.55 0 0 1 .828-.474Z"}]],
 });
 
 export default CubeIcon;

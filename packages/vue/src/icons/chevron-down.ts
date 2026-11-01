@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chevron Down — Expand a menu, open a dropdown or move down. */
 export const ChevronDownIcon = createIkion("chevron-down", "ChevronDownIcon", {
-  outline: [["path",{"d":"m6 9.5 6 6 6-6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m6 9.5 6 6 6-6"}]],
+  outline: [["path",{"d":"m6 9.5 5.611 5.611a.55.55 0 0 0 .778 0L18 9.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m6 9.5 5.611 5.611a.55.55 0 0 0 .778 0L18 9.5"}]],
 });
 
 export default ChevronDownIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** History — Show past activity, recent items or earlier versions. */
 export const HistoryIcon = createIkion("history", "HistoryIcon", {
-  outline: [["path",{"d":"M5.24 16.73a8.25 8.25 0 1 0-.72-8.22m3.52-1.28L4.52 8.51 3.24 4.99"}],["path",{"d":"M12 7.75V12l2.75 1.75"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M5.24 16.73a8.25 8.25 0 1 0-.72-8.22m3.52-1.28L4.52 8.51 3.24 4.99"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12 7.75V12l2.75 1.75"}]],
+  outline: [["path",{"d":"M5.24 16.73a8.25 8.25 0 1 0-.72-8.22m3.52-1.28L4.52 8.51 3.24 4.99"}],["path",{"d":"M12 7.75v3.7a1 1 0 0 0 .464.845l2.286 1.455"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M5.24 16.73a8.25 8.25 0 1 0-.72-8.22m3.52-1.28L4.52 8.51 3.24 4.99"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12 7.75v3.7a1 1 0 0 0 .464.845l2.286 1.455"}]],
 });
 
 export default HistoryIcon;

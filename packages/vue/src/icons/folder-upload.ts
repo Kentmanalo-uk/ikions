@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Folder Upload — Upload or export a folder. */
 export const FolderUploadIcon = createIkion("folder-upload", "FolderUploadIcon", {
-  outline: [["path",{"d":"M11.55 20H6c-1.38 0-2.5-1.12-2.5-2.5v-11c0-1.1.9-2 2-2h3.7c.63 0 1.22.3 1.6.8L12 7h6c1.38 0 2.5 1.12 2.5 2.5v2.23"}],["path",{"d":"M18 19.75v-5m-2.25 2L18 14.5l2.25 2.25m-5.25 5h6"}]],
-  filled: [["path",{"fill-rule":"evenodd","d":"M21.38 8.76c-.36-1.57-1.77-2.67-3.38-2.63h-5.5l-1-1.35c-.54-.72-1.4-1.15-2.3-1.15H5.5c-1.58.01-2.86 1.29-2.87 2.87v2.25z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M2.63 10.25h18.75v2.2c-.98-.6-2.14-.95-3.38-.95-3.59 0-6.5 2.91-6.5 6.5 0 1.03.24 2.01.67 2.88H6c-1.87 0-3.38-1.51-3.38-3.38z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M18 19.25v-4.5m-2.1 2 2.1-2 2.1 2"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M15.25 21.5h5.5"}]],
+  outline: [["path",{"d":"M11.55 20H6c-1.38 0-2.5-1.12-2.5-2.5v-11c0-1.1.9-2 2-2h3.7c.63 0 1.22.3 1.6.8l.84 1.19a1.2 1.2 0 0 0 .984.51H18c1.38 0 2.5 1.12 2.5 2.5v2.23"}],["path",{"d":"M18 19.75v-5m-2.25 2L18 14.5l2.25 2.25m-5.25 5h6"}]],
+  filled: [["path",{"fill-rule":"evenodd","d":"M21.38 8.76c-.36-1.57-1.77-2.67-3.38-2.63h-4.996a1 1 0 0 1-.804-.405l-.7-.945c-.54-.72-1.4-1.15-2.3-1.15H5.5c-1.58.01-2.86 1.29-2.87 2.87v1.575a.675.675 0 0 0 .675.675z","clip-rule":"evenodd"}],["path",{"fill-rule":"evenodd","d":"M4.66 10.25h16.06a.66.66 0 0 1 .66.66v1.54c-.98-.6-2.14-.95-3.38-.95-3.59 0-6.5 2.91-6.5 6.5 0 1.03.24 2.01.67 2.88H6c-1.87 0-3.38-1.51-3.38-3.38l.007-5.22a2.033 2.033 0 0 1 2.033-2.03","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M18 19.25v-4.5m-2.1 2 2.1-2 2.1 2"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M15.25 21.5h5.5"}]],
 });
 
 export default FolderUploadIcon;

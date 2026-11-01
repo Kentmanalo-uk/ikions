@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Big Down Line — A bold down arrow hanging from a line, for dropping down or lowering. */
 export const ArrowBigDownLineIcon = createIkion("arrow-big-down-line", "ArrowBigDownLineIcon", {
-  outline: [["path",{"d":"m12 21 8.5-8h-5V8h-7v5h-5Z"}],["path",{"d":"M8.5 4h7"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12 21 8.5-8h-5V8h-7v5h-5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M8.75 4h6.5"}]],
+  outline: [["path",{"d":"m14.33 18.806 5.161-4.855a.55.55 0 0 0-.377-.951H16.9a1.4 1.4 0 0 1-1.4-1.4V9.4A1.4 1.4 0 0 0 14.1 8H9.9a1.4 1.4 0 0 0-1.4 1.4v2.2A1.4 1.4 0 0 1 7.1 13H4.886a.55.55 0 0 0-.377.951l5.161 4.855a3.4 3.4 0 0 0 4.66 0"}],["path",{"d":"M8.5 4h7"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m13.893 19.218 5.597-5.267a.55.55 0 0 0-.377-.951H16.9a1.4 1.4 0 0 1-1.4-1.4V9.4A1.4 1.4 0 0 0 14.1 8H9.9a1.4 1.4 0 0 0-1.4 1.4v2.2A1.4 1.4 0 0 1 7.1 13H4.887a.55.55 0 0 0-.377.951l5.597 5.267a2.763 2.763 0 0 0 3.786 0Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M8.75 4h6.5"}]],
 });
 
 export default ArrowBigDownLineIcon;

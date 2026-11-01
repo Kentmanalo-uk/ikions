@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Knife — Represent a kitchen knife, such as cutting, chopping or food preparation. */
 export const KnifeIcon = createIkion("knife", "KnifeIcon", {
-  outline: [["path",{"d":"m5.9 17.48 2.51-2.51c.62-.62 1.64-.62 2.26 0l.04.04c.62.62.62 1.64 0 2.26L8.2 19.78c-.62.62-1.64.62-2.26 0l-.04-.04c-.62-.62-.62-1.64 0-2.26"}],["path",{"d":"m10.6 10.31 7.6-7.6c.25-.25.64-.14.74.18 1.03 2.65.85 5.3-.92 7.07l-3.89 3.89z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m5.9 17.48 2.51-2.51c.62-.62 1.64-.62 2.26 0l.04.04c.62.62.62 1.64 0 2.26L8.2 19.78c-.62.62-1.64.62-2.26 0l-.04-.04c-.62-.62-.62-1.64 0-2.26z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m10.6 10.31 7.6-7.6c.25-.25.64-.14.74.18 1.03 2.65.85 5.3-.92 7.07l-3.89 3.89z"}]],
+  outline: [["path",{"d":"m5.9 17.48 2.51-2.51c.62-.62 1.64-.62 2.26 0l.04.04c.62.62.62 1.64 0 2.26L8.2 19.78c-.62.62-1.64.62-2.26 0l-.04-.04c-.62-.62-.62-1.64 0-2.26"}],["path",{"d":"m11.59 9.32 6.61-6.61c.25-.25.64-.14.74.18 1.03 2.65.85 5.3-.92 7.07l-2.9 2.9a1.4 1.4 0 0 1-1.978-.001l-1.554-1.558a1.4 1.4 0 0 1 .002-1.981"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m5.9 17.48 2.51-2.51c.62-.62 1.64-.62 2.26 0l.04.04c.62.62.62 1.64 0 2.26L8.2 19.78c-.62.62-1.64.62-2.26 0l-.04-.04c-.62-.62-.62-1.64 0-2.26z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M11.589 9.321 18.2 2.71c.25-.25.64-.14.74.18 1.03 2.65.85 5.3-.92 7.07l-2.9 2.9a1.4 1.4 0 0 1-1.978-.001l-1.554-1.558a1.4 1.4 0 0 1 .001-1.98Z"}]],
 });
 
 export default KnifeIcon;

@@ -1,5 +1,6 @@
 import { gradientCoords, gradientId, normalizeGradient, type IconGradient, type IconNode, type IconVariant, type IconVariants } from "@ikions/icons";
 import { createElement, type SVGProps } from "react";
+import { WEB_STROKE_WIDTH } from "@/lib/snippets";
 
 const camel = (key: string) => key.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase());
 
@@ -19,7 +20,7 @@ export interface NodeIconProps extends Omit<SVGProps<SVGSVGElement>, "color"> {
  * components can pass in only the icons they need. Gradients use the same
  * deterministic ids and geometry as @ikions/icons and the framework packages.
  */
-export function NodeIcon({ nodes, variant = "outline", size = 24, color, gradient, strokeWidth = 1.75, title, ...rest }: NodeIconProps) {
+export function NodeIcon({ nodes, variant = "outline", size = 24, color, gradient, strokeWidth = WEB_STROKE_WIDTH, title, ...rest }: NodeIconProps) {
   const children: readonly IconNode[] = nodes[variant];
   const g = normalizeGradient(gradient);
   const id = g ? gradientId(g) : "";

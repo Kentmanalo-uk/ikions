@@ -3,7 +3,7 @@ import { createIkion } from "../create-ikion.js";
 
 /** Radio — Represent a radio receiver or audio broadcast. */
 export const RadioIcon = createIkion("radio", "RadioIcon", {
-  outline: [["path",{"d":"M5.5 8.5h13a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3h-13a3 3 0 0 1-3-3v-6a3 3 0 0 1 3-3"}],["path",{"d":"m6.5 8.5 11.5-5"}],["circle",{"cx":"8","cy":"14.5","r":"2.75"}],["path",{"d":"M14.5 12.5H18m-3.5 3.75H18"}]],
+  outline: [["path",{"d":"M5.7 8.5h12.6a3.2 3.2 0 0 1 3.2 3.2v5.6a3.2 3.2 0 0 1-3.2 3.2H5.7a3.2 3.2 0 0 1-3.2-3.2v-5.6a3.2 3.2 0 0 1 3.2-3.2"}],["path",{"d":"m6.5 8.5 11.5-5"}],["circle",{"cx":"8","cy":"14.5","r":"2.75"}],["path",{"d":"M14.5 12.5H18m-3.5 3.75H18"}]],
   filled: [["path",{"fillRule":"evenodd","d":"M5.51 7.63H18.5c2.14 0 3.88 1.74 3.88 3.88v5.99c0 2.14-1.74 3.88-3.88 3.88H5.51c-2.14 0-3.88-1.74-3.88-3.88v-5.99c0-2.14 1.74-3.88 3.88-3.88m-.26 6.87c0 1.52 1.23 2.75 2.75 2.75s2.75-1.23 2.75-2.75S9.52 11.75 8 11.75s-2.75 1.23-2.75 2.75m9.25-1.12H18c.45-.05.79-.43.79-.87 0-.45-.34-.83-.79-.87h-3.5c-.45.05-.79.43-.79.88s.34.83.79.88zm0 3.75H18c.45-.05.79-.43.79-.87 0-.45-.34-.83-.79-.87h-3.5c-.45.05-.79.43-.79.88s.34.83.79.88z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M6.5 7.75 18 3.5"}]],
 });
 

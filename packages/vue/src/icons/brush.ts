@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Brush — Paint with a brush tool or apply a brush stroke. */
 export const BrushIcon = createIkion("brush", "BrushIcon", {
-  outline: [["path",{"d":"m19.65 4.35-5.31 5.31"}],["path",{"d":"M11.69 8.42a1 1 0 0 1 1.42 0l2.47 2.47a1 1 0 0 1 0 1.42l-1.59 1.59a.5.5 0 0 1-.71 0l-3.18-3.18a.5.5 0 0 1 0-.71Z"}],["path",{"d":"M13.64 14.25c-1.7 2.55-4.6 4.6-8.67 5.48.71-4.24 2.23-7.67 4.78-9.37"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"m19.65 4.35-5.66 5.66"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M11.51 8.6a1 1 0 0 1 1.42 0l2.47 2.47a1 1 0 0 1 0 1.42l-.7.7a.5.5 0 0 1-.71 0l-3.18-3.18a.5.5 0 0 1 0-.71Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12.05 15.84c-1.7 2.55-4.6 4.6-7.08 3.89-.88-2.65.64-6.08 3.19-7.78Z"}]],
+  outline: [["path",{"d":"m19.65 4.35-5.31 5.31"}],["path",{"d":"m13.11 8.42 2.47 2.47a1.004 1.004 0 0 1 0 1.42l-1.202 1.202a1.05 1.05 0 0 1-1.486 0l-2.404-2.404a1.05 1.05 0 0 1 0-1.486L11.69 8.42a1.004 1.004 0 0 1 1.42 0"}],["path",{"d":"M13.64 14.25c-1.7 2.55-4.6 4.6-8.67 5.48.71-4.24 2.23-7.67 4.78-9.37"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"m19.65 4.35-5.66 5.66"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m12.93 8.6 2.47 2.47a1.004 1.004 0 0 1 0 1.42l-.561.561a.7.7 0 0 1-.988 0l-2.902-2.902a.7.7 0 0 1 0-.988l.561-.561a1.004 1.004 0 0 1 1.42 0Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12.05 15.84c-1.7 2.55-4.6 4.6-7.08 3.89-.88-2.65.64-6.08 3.19-7.78Z"}]],
 });
 
 export default BrushIcon;

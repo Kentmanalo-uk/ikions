@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-  <path d="M13 6.5c0 1.38 1.12 2.5 2.5 2.5h4.39v2.78c-0.6-0.18-1.23-0.28-1.89-0.28c-3.59 0-6.5 2.91-6.5 6.5c0 1.45 0.48 2.8 1.28 3.88h-5.27c-1.87 0-3.38-1.51-3.38-3.38v-13c0.01-1.86 1.51-3.36 3.37-3.37h5.5z" fill-rule="evenodd" clip-rule="evenodd"/>
-  <path d="M14.75 6c0 0.69 0.56 1.25 1.25 1.25h3.1l-4.35-4.35z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M13 6.5C13 7.88 14.12 9 15.5 9L19.112 9A0.778 0.778 0 0 1 19.89 9.778L19.89 11.78C19.29 11.6 18.66 11.5 18 11.5C14.41 11.5 11.5 14.41 11.5 18C11.5 19.45 11.98 20.8 12.78 21.88L7.51 21.88C5.64 21.88 4.13 20.37 4.13 18.5L4.13 5.5C4.14 3.64 5.64 2.14 7.5 2.13L11.776 2.13A1.224 1.224 0 0 1 13 3.354L13 6.5Z" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M14.75 6C14.75 6.69 15.31 7.25 16 7.25L18.232 7.25A0.36 0.36 0 0 0 18.486 6.636L15.364 3.514A0.36 0.36 0 0 0 14.75 3.768L14.75 6Z" fill-rule="evenodd" clip-rule="evenodd"/>
   <path d="M18 14.5v4.5M15.9 17.25 18 19.25l2.1-2" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M15.25 21.5h5.5" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

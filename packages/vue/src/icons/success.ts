@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Success — Confirm that an action completed or a check passed. */
 export const SuccessIcon = createIkion("success", "SuccessIcon", {
-  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m7.75 12 3 3 5.5-5.75"}]],
-  filled: [["path",{"fill-rule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m5.01.62 3 3a.88.88 0 0 0 1.26-.01l5.5-5.75a.88.88 0 0 0-1.28-1.22l-4.87 5.1-2.37-2.36a.88.88 0 0 0-1.24 1.24","clip-rule":"evenodd"}]],
+  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m7.75 12 2.611 2.611a.54.54 0 0 0 .769-.008l5.12-5.353"}]],
+  filled: [["path",{"fill-rule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m5.011.621 1.885 1.885a2.425 2.425 0 0 0 3.467-.039L16.89 9.86a.88.88 0 0 0-1.28-1.22l-3.506 3.672a1.934 1.934 0 0 1-2.763.035l-.971-.967a.877.877 0 0 0-1.239 1.241","clip-rule":"evenodd"}]],
 });
 
 export default SuccessIcon;

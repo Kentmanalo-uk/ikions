@@ -9,7 +9,7 @@ Everything needed to set up and run Ikions on social media: profile pictures, co
 | `profile/` | `pfp-light.png` | 1080 × 1080 | Profile picture (main) |
 | | `pfp-indigo.png` | 1080 × 1080 | Profile picture on busy feeds, app icons |
 | | `pfp-dark.png` | 1080 × 1080 | Profile picture for dark themed pages |
-| `covers/` | `facebook-cover-1640x624.png` | 1640 × 624 | Facebook page cover |
+| `covers/` | `facebook-cover-1640x924.png` | 1640 × 924 | Facebook page cover, fits desktop and mobile (content in the middle 624 px band) |
 | | `x-header-1500x500.png` | 1500 × 500 | X (Twitter) header |
 | | `linkedin-banner-1584x396.png` | 1584 × 396 | LinkedIn profile or page banner |
 | | `youtube-banner-2560x1440.png` | 2560 × 1440 | YouTube channel art |

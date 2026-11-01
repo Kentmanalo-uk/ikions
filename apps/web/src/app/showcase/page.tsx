@@ -59,7 +59,7 @@ export default async function ShowcasePage() {
         <p className="mx-auto mt-2 max-w-md text-[14.5px] leading-6 text-ink-2">Send the link and it will be added once the icons are live.</p>
         <div className="mt-5 flex flex-wrap justify-center gap-2.5">
           <a href={`mailto:${DEVELOPER.email}?subject=${encodeURIComponent("Ikions showcase")}`} className="inline-flex h-11 items-center gap-2 rounded-full bg-accent px-5 text-[15px] font-medium text-accent-contrast hover:bg-accent-hover">
-            <IkIcon name="mail" size={18} />
+            <IkIcon name="mail" size={22} />
             Submit your site
           </a>
           <Link href="/icons" className="inline-flex h-11 items-center rounded-full bg-subtle px-5 text-[15px] font-medium text-ink hover:bg-selected">

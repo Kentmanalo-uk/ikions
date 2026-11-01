@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Hammer Code — A hammer between code brackets for building, compiling or fixing code. */
 export const HammerCodeIcon = createIkion("hammer-code", "HammerCodeIcon", {
-  outline: [["path",{"d":"m11.91 2.66 5.31 1.42c.53.14.85.69.71 1.22l-.52 1.93c-.14.53-.69.85-1.22.71l-5.31-1.42-1.13-1.6.39-1.45z"}],["path",{"d":"M13.29 7.17 9.8 20.21"}],["path",{"d":"m6.5 11.5-3.5 4 3.5 4m11-8 3.5 4-3.5 4"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m11.91 2.66 5.31 1.42c.53.14.85.69.71 1.22l-.52 1.93c-.14.53-.69.85-1.22.71l-5.31-1.42-1.13-1.6.39-1.45z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M13.29 7.17 9.8 20.21"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m6.5 11.5-3.5 4 3.5 4m11-8 3.5 4-3.5 4"}]],
+  outline: [["path",{"d":"M12.474 2.811 17.22 4.08c.53.14.85.69.71 1.22l-.52 1.93c-.14.53-.69.85-1.22.71l-4.742-1.268a1.62 1.62 0 0 1-.907-.632l-.548-.777a.9.9 0 0 1-.134-.749l.172-.638a.9.9 0 0 1 .491-.581l.857-.392a1.62 1.62 0 0 1 1.095-.092"}],["path",{"d":"M13.29 7.17 9.8 20.21"}],["path",{"d":"m6.5 11.5-3.138 3.586a.63.63 0 0 0 0 .828L6.5 19.5m11-8 3.138 3.586a.63.63 0 0 1 0 .828L17.5 19.5"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M12.474 2.811 17.22 4.08c.53.14.85.69.71 1.22l-.52 1.93c-.14.53-.69.85-1.22.71l-4.742-1.268a1.62 1.62 0 0 1-.907-.632l-.548-.777a.9.9 0 0 1-.134-.749l.172-.638a.9.9 0 0 1 .491-.581l.857-.392a1.62 1.62 0 0 1 1.095-.092Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M13.29 7.17 9.8 20.21"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m6.5 11.5-3.138 3.586a.63.63 0 0 0 0 .828L6.5 19.5m11-8 3.138 3.586a.63.63 0 0 1 0 .828L17.5 19.5"}]],
 });
 
 export default HammerCodeIcon;

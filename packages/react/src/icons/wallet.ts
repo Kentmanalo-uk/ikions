@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Wallet — Open a wallet, account balance or saved payment methods. */
 export const WalletIcon = createIkion("wallet", "WalletIcon", {
-  outline: [["rect",{"width":"18","height":"13.5","x":"3","y":"7","rx":"3"}],["path",{"d":"m6.5 7 8.6-3.13a1.5 1.5 0 0 1 1.92.9L17.8 7"}],["path",{"d":"M21 11.75h-3.25a2 2 0 0 0 0 4H21"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"m6.75 6.75 8.35-2.88a1.5 1.5 0 0 1 1.92.9L17.8 7"}],["path",{"d":"M6 6.13h12a3.88 3.88 0 0 1 3.88 3.88v.5a.5.5 0 0 1-.5.5h-3.63a2.75 2.75 0 0 0 0 5.5h3.63a.5.5 0 0 1 .5.5v.5A3.88 3.88 0 0 1 18 21.39H6a3.88 3.88 0 0 1-3.88-3.88V10A3.88 3.88 0 0 1 6 6.13"}],["path",{"d":"M17.75 12.5h3.63a.5.5 0 0 1 .5.5v1.5a.5.5 0 0 1-.5.5h-3.63a1.25 1.25 0 0 1 0-2.5"}]],
+  outline: [["rect",{"width":"18","height":"13.5","x":"3","y":"7","rx":"3.2"}],["path",{"d":"m6.5 7 8.6-3.13a1.5 1.5 0 0 1 1.92.9L17.8 7"}],["path",{"d":"M21 11.75h-3.25a2 2 0 0 0 0 4H21"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"m6.75 6.75 8.35-2.88a1.5 1.5 0 0 1 1.92.9L17.8 7"}],["path",{"d":"M5.99 6.13H18a3.88 3.88 0 0 1 3.88 3.88v-.156a1.156 1.156 0 0 1-1.156 1.156H17.75a2.75 2.75 0 0 0 0 5.5h2.974a1.156 1.156 0 0 1 1.156 1.156v-.156A3.88 3.88 0 0 1 18 21.39H6a3.88 3.88 0 0 1-3.88-3.88V10a3.87 3.87 0 0 1 3.87-3.87"}],["path",{"d":"M17.75 12.5h3.43a.7.7 0 0 1 .7.7v1.1a.7.7 0 0 1-.7.7h-3.43a1.25 1.25 0 0 1 0-2.5"}]],
 });
 
 export default WalletIcon;

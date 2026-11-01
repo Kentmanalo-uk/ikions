@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Collapse All — Collapse every expanded section, row or tree node at once. */
 export const CollapseAllIcon = createIkion("collapse-all", "CollapseAllIcon", {
-  outline: [["path",{"d":"M7.5 3.5 12 8l4.5-4.5m-9 17L12 16l4.5 4.5M5 12h14"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7.5 3.75 4.5 4.5 4.5-4.5m-9 16.5 4.5-4.5 4.5 4.5M5 12h14"}]],
+  outline: [["path",{"d":"m7.5 3.5 4.111 4.111a.55.55 0 0 0 .778 0L16.5 3.5m-9 17 4.111-4.111a.55.55 0 0 1 .778 0L16.5 20.5M5 12h14"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7.5 3.75 4.111 4.111a.55.55 0 0 0 .778 0L16.5 3.75m-9 16.5 4.111-4.111a.55.55 0 0 1 .778 0L16.5 20.25M5 12h14"}]],
 });
 
 export default CollapseAllIcon;

@@ -45,10 +45,10 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
             aria-label={favorite ? `Remove ${icon.title} from favourites` : `Add ${icon.title} to favourites`}
             onClick={() => favorites.toggle(icon.name)}
           >
-            <HeartIcon variant={favorite ? "filled" : "outline"} size={18} className={favorite ? "text-danger" : ""} />
+            <HeartIcon variant={favorite ? "filled" : "outline"} size={22} className={favorite ? "text-accent-text" : ""} />
           </button>
           <button type="button" className={buttonClass.icon} aria-label="Close inspector" onClick={onClose} autoFocus={autoFocusClose}>
-            <CloseIcon size={18} />
+            <CloseIcon size={22} />
           </button>
         </div>
       </div>
@@ -83,7 +83,7 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
             onClick={() => selection.toggle(icon.name)}
             className={`${buttonClass.small} ${selected ? "border-accent bg-selected text-accent-text" : ""}`}
           >
-            {selected ? <CheckIcon size={16} /> : <PlusIcon size={16} />}
+            {selected ? <CheckIcon size={20} /> : <PlusIcon size={20} />}
             {selected ? "Selected" : "Select"}
           </button>
         </div>
@@ -125,7 +125,7 @@ export function Inspector({ icon, nodes, categoryName, options, onOptionsChange,
       <div className="border-t border-line px-5 py-3">
         <Link href={`/icons/${icon.name}`} className={`${buttonClass.secondary} w-full`}>
           Open {icon.title} details
-          <ArrowRightIcon size={16} />
+          <ArrowRightIcon size={20} />
         </Link>
       </div>
     </div>

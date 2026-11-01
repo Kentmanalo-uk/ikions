@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Pointer — The arrow mouse pointer used to point at and select things. */
 export const PointerIcon = createIkion("pointer", "PointerIcon", {
-  outline: [["path",{"d":"M7 3.5v13l9.5-4Z"}],["path",{"d":"m13.04 17.48 1.19 2.76"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M7 3.5v13l9.5-4Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m13.18 17.81 1.19 2.75"}]],
+  outline: [["path",{"d":"M7 4.779V15.6a.598.598 0 0 0 .83.551l7.841-3.302a.587.587 0 0 0 .176-.968L7.928 4.38A.55.55 0 0 0 7 4.779"}],["path",{"d":"m13.04 17.48 1.19 2.76"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M7 4.778v10.893a.55.55 0 0 0 .763.507l7.961-3.351a.55.55 0 0 0 .165-.906L7.928 4.379A.55.55 0 0 0 7 4.778Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m13.18 17.81 1.19 2.75"}]],
 });
 
 export default PointerIcon;

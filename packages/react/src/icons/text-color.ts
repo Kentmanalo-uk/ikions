@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Text Color — Change the colour of selected text. */
 export const TextColorIcon = createIkion("text-color", "TextColorIcon", {
-  outline: [["path",{"d":"M6.75 15 12 3.5 17.25 15m-8.9-3.5h7.3"}],["path",{"d":"M4.5 19.75h15"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M6.75 15 12 3.5 17.25 15m-8.9-3.5h7.3"}],["rect",{"width":"17","height":"3.25","x":"3.5","y":"18","rx":"1.25"}]],
+  outline: [["path",{"d":"m6.75 15 5.022-11a.251.251 0 0 1 .456 0l5.022 11m-8.9-3.5h7.3"}],["path",{"d":"M4.5 19.75h15"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m6.75 15 5.022-11a.251.251 0 0 1 .456 0l5.022 11m-8.9-3.5h7.3"}],["rect",{"width":"17","height":"3.25","x":"3.5","y":"18","rx":"1.25"}]],
 });
 
 export default TextColorIcon;

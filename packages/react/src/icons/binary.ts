@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Binary — Binary digits zero and one for machine data. */
 export const BinaryIcon = createIkion("binary", "BinaryIcon", {
-  outline: [["rect",{"width":"6.5","height":"12","x":"4","y":"6","rx":"3.25"}],["path",{"d":"M14.5 8.25 17.25 6v12m-2.75 0H20"}]],
-  filled: [["rect",{"width":"6.5","height":"12","x":"4","y":"6","fill":"none","stroke":"currentColor","strokeWidth":"2.5","rx":"3.25"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M14.5 8.25 17.25 6v12m-2.75 0H20"}]],
+  outline: [["rect",{"width":"6.5","height":"12","x":"4","y":"6","rx":"3.25"}],["path",{"d":"m14.5 8.25 2.324-1.902a.261.261 0 0 1 .426.202V18m-2.75 0H20"}]],
+  filled: [["rect",{"width":"6.5","height":"12","x":"4","y":"6","fill":"none","stroke":"currentColor","strokeWidth":"2.5","rx":"3.25"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14.5 8.25 2.324-1.902a.261.261 0 0 1 .426.202V18m-2.75 0H20"}]],
 });
 
 export default BinaryIcon;

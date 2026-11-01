@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Volcano — An erupting volcano for eruptions and natural hazards. */
 export const VolcanoIcon = createIkion("volcano", "VolcanoIcon", {
-  outline: [["path",{"d":"M2.5 20.5 8.75 10h6.5l6.25 10.5Z"}],["path",{"d":"M12 7V3M8.75 7.25 7 4.75m8.25 2.5L17 4.75"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M2.5 20.5 8.75 10h6.5l6.25 10.5Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M12 7V3M8.75 7.25 7 4.75m8.25 2.5L17 4.75"}]],
+  outline: [["path",{"d":"m2.995 19.669 4.824-8.105A3.2 3.2 0 0 1 10.57 10h2.86a3.2 3.2 0 0 1 2.751 1.564l4.824 8.105a.55.55 0 0 1-.472.831H3.467a.55.55 0 0 1-.472-.831"}],["path",{"d":"M12 7V3M8.75 7.25 7 4.75m8.25 2.5L17 4.75"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m2.995 19.669 4.825-8.105A3.2 3.2 0 0 1 10.57 10h2.86a3.2 3.2 0 0 1 2.75 1.564l4.825 8.105a.55.55 0 0 1-.472.831H3.467a.55.55 0 0 1-.472-.831Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M12 7V3M8.75 7.25 7 4.75m8.25 2.5L17 4.75"}]],
 });
 
 export default VolcanoIcon;

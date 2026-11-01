@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Paragraph — Format text as a paragraph or show paragraph marks. */
 export const ParagraphIcon = createIkion("paragraph", "ParagraphIcon", {
   outline: [["path",{"d":"M12.5 12.5H10a4 4 0 0 1 0-8h8.5m-6 0v15m4-15v15"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M12.5 4.5H10a4 4 0 0 0 0 8h2.5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M12.5 4.5h6m-6 0v15m4-15v15"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M12.5 4.5H10a4 4 0 0 0 0 8h1.8a.7.7 0 0 0 .7-.7z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M12.5 4.5h6m-6 0v15m4-15v15"}]],
 });
 
 export default ParagraphIcon;

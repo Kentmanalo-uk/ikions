@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"M9 3h1.5a1.5 1.5 0 0 0 3 0H15a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2"}],["path",{"d":"M3.5 7.5H7M3.5 12H7m-3.5 4.5H7m10-9h3.5M17 12h3.5M17 16.5h3.5"}]],
-    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9 3h1.5a1.5 1.5 0 0 0 3 0H15a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M3.5 7.5H7M3.5 12H7m-3.5 4.5H7m10-9h3.5M17 12h3.5M17 16.5h3.5"}]],
+    outline: [["path",{"d":"M9 3h1.5a1.5 1.5 0 0 0 3 0H15a2 2 0 0 1 2 2v13.2a2.8 2.8 0 0 1-2.8 2.8H9.8A2.8 2.8 0 0 1 7 18.2V5a2 2 0 0 1 2-2"}],["path",{"d":"M3.5 7.5H7M3.5 12H7m-3.5 4.5H7m10-9h3.5M17 12h3.5M17 16.5h3.5"}]],
+    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M9 3h1.5a1.5 1.5 0 0 0 3 0H15a2 2 0 0 1 2 2v13.4a2.6 2.6 0 0 1-2.6 2.6H9.6A2.6 2.6 0 0 1 7 18.4V5a2 2 0 0 1 2-2Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M3.5 7.5H7M3.5 12H7m-3.5 4.5H7m10-9h3.5M17 12h3.5M17 16.5h3.5"}]],
   } as const;
 
   let props: IkionProps = $props();

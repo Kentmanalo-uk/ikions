@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Icicle — Represents icicles, freezing weather or frost. */
 export const IcicleIcon = createIkion("icicle", "IcicleIcon", {
-  outline: [["path",{"d":"M2.5 4.5h19"}],["path",{"d":"m4.5 4.5 2 8.5 2-8.5m1.5 0 2 15 2-15m1.5 0 2 6.5 2-6.5"}],["circle",{"cx":"17.5","cy":"15","r":"1.1","fill":"currentColor","stroke":"none"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M2.5 4.5h19"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m4.5 4.5 2 8.5 2-8.5Zm5.5 0 2 15 2-15Zm5.5 0 2 6.5 2-6.5Z"}],["circle",{"cx":"17.5","cy":"15","r":"1.4"}]],
+  outline: [["path",{"d":"M2.5 4.5h19"}],["path",{"d":"m4.5 4.5 1.874 7.965a.129.129 0 0 0 .252 0L8.5 4.5m1.5 0 1.927 14.455a.073.073 0 0 0 .146 0L14 4.5m1.5 0 1.838 5.974a.169.169 0 0 0 .324 0L19.5 4.5"}],["circle",{"cx":"17.5","cy":"15","r":"1.1","fill":"currentColor","stroke":"none"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M2.5 4.5h19"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m4.66 5.182 1.305 5.542a.55.55 0 0 0 1.07 0L8.34 5.181a.554.554 0 0 0-.539-.681H5.2a.555.555 0 0 0-.54.682Zm5.488.428 1.509 11.317a.346.346 0 0 0 .686 0L13.852 5.61a.98.98 0 0 0-.972-1.11h-1.76a.98.98 0 0 0-.972 1.11Zm5.558-.441 1.268 4.123a.55.55 0 0 0 1.052 0l1.268-4.123A.517.517 0 0 0 18.8 4.5h-2.6a.517.517 0 0 0-.494.669Z"}],["circle",{"cx":"17.5","cy":"15","r":"1.4"}]],
 });
 
 export default IcicleIcon;

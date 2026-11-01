@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Seat — A vehicle seat seen from the side, for seat selection, booking and comfort. */
 export const SeatIcon = createIkion("seat", "SeatIcon", {
-  outline: [["path",{"d":"M6.25 5a2 2 0 0 1 3.9-.6L12 12.5h5a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2h-6.5a2.5 2.5 0 0 1-2.4-1.8Z"}],["path",{"d":"M13.25 17v3.5m-3.5 0h7"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.25 5a2 2 0 0 1 3.9-.6L12 12.5h5a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2h-6.5a2.5 2.5 0 0 1-2.4-1.8Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M13.25 17v3.5m-3.5 0h7"}]],
+  outline: [["path",{"d":"M6.25 5a2 2 0 0 1 3.9-.6l1.414 6.189A2.46 2.46 0 0 0 13.96 12.5H17a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2h-6.5a2.5 2.5 0 0 1-2.4-1.8z"}],["path",{"d":"M13.25 17v3.5m-3.5 0h7"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.25 5a2 2 0 0 1 3.9-.6l1.413 6.189A2.46 2.46 0 0 0 13.96 12.5H17a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2h-6.5a2.5 2.5 0 0 1-2.4-1.8z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M13.25 17v3.5m-3.5 0h7"}]],
 });
 
 export default SeatIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Zap — Represent electricity, power, speed or a quick action. */
 export const ZapIcon = createIkion("zap", "ZapIcon", {
-  outline: [["path",{"d":"m13.5 2.5-9 11h6.75l-1 8 9.25-11.25h-6.75Z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m13.5 2.5-9 11h6.75l-1 8 9.25-11.25h-6.75Z"}]],
+  outline: [["path",{"d":"m12.352 3.903-7.117 8.699a.55.55 0 0 0 .425.898h3.7a1.67 1.67 0 0 1 1.655 1.875l-.529 4.241a.55.55 0 0 0 .97.417l7.304-8.884a.55.55 0 0 0-.425-.899H14.64a1.716 1.716 0 0 1-1.708-1.881l.393-4.064a.55.55 0 0 0-.973-.402"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m12.353 3.903-7.118 8.699a.55.55 0 0 0 .425.898h3.7a1.67 1.67 0 0 1 1.655 1.876l-.529 4.24a.55.55 0 0 0 .97.417l7.304-8.884a.55.55 0 0 0-.424-.899H14.64a1.716 1.716 0 0 1-1.708-1.881l.394-4.065a.55.55 0 0 0-.973-.401Z"}]],
 });
 
 export default ZapIcon;

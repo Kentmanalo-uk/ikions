@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** File PDF — Represents a PDF document ready to view, print or share. */
 export const FilePdfIcon = createIkion("file-pdf", "FilePdfIcon", {
-  outline: [["path",{"d":"M5 11.5v-6A2.5 2.5 0 0 1 7.5 3h6L19 8.5v3"}],["path",{"d":"M13.5 3v3.5a2 2 0 0 0 2 2H19"}],["path",{"d":"M3.88 20.5V15h1.5a1.75 1.75 0 0 1 0 3.5h-1.5m6.5-3.5v5.5h.75a2.5 2.75 0 0 0 0-5.5Zm9.75 0h-3.25v5.5m0-2.75h2.5"}]],
-  filled: [["path",{"d":"M13 6.5C13 7.88 14.12 9 15.5 9h4.38v2.5c0 .49-.39.88-.88.88H5.01c-.49 0-.88-.39-.88-.88v-6c.01-1.86 1.51-3.36 3.37-3.37H13z"}],["path",{"d":"m14.75 2.9 4.35 4.35H16A1.25 1.25 0 0 1 14.75 6Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M3.88 20.5V15h1.5a1.75 1.75 0 0 1 0 3.5h-1.5m6.5-3.5v5.5h.75a2.5 2.75 0 0 0 0-5.5Zm9.75 0h-3.25v5.5m0-2.75h2.5"}]],
+  outline: [["path",{"d":"M5 11.5v-6A2.5 2.5 0 0 1 7.5 3h6L19 8.5v3"}],["path",{"d":"M13.5 3v3.5a2 2 0 0 0 2 2H19"}],["path",{"d":"M3.88 20.5v-5.08A.42.42 0 0 1 4.3 15h1.08a1.75 1.75 0 0 1 0 3.5h-1.5m6.5-3.5v5.5h.75a2.5 2.75 0 0 0 0-5.5Zm9.75 0h-2.7a.55.55 0 0 0-.55.55v4.95m0-2.75h2.5"}]],
+  filled: [["path",{"d":"M13 6.5C13 7.88 14.12 9 15.5 9h3.68a.7.7 0 0 1 .7.7v1.8c0 .49-.39.88-.88.88H5.01c-.49 0-.88-.39-.88-.88v-6c.01-1.86 1.51-3.36 3.37-3.37h4.276A1.224 1.224 0 0 1 13 3.354z"}],["path",{"d":"m15.611 3.761 2.628 2.628a.505.505 0 0 1-.357.861H16A1.25 1.25 0 0 1 14.75 6V4.118a.505.505 0 0 1 .861-.357"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M3.88 20.5v-5.08A.42.42 0 0 1 4.3 15h1.08a1.75 1.75 0 0 1 0 3.5h-1.5m6.5-3.5v5.5h.75a2.5 2.75 0 0 0 0-5.5Zm9.75 0h-2.7a.55.55 0 0 0-.55.55v4.95m0-2.75h2.5"}]],
 });
 
 export default FilePdfIcon;

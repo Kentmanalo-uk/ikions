@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Skip Forward 10 — Jump ahead ten seconds in audio or video playback. */
 export const SkipForward10Icon = createIkion("skip-forward-10", "SkipForward10Icon", {
-  outline: [["path",{"d":"M20 13a8 8 0 1 1-8-8M9 8l3-3-3-3"}],["path",{"d":"m7.75 11.1 1.5-1.1v6M14 10a2 3 0 0 1 0 6 2 3 0 0 1 0-6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M20 13a8 8 0 1 1-8-8M9 8l3-3-3-3"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"m7.75 11.1 1.5-1.1v6M14 10a2 3 0 0 1 0 6 2 3 0 0 1 0-6"}]],
+  outline: [["path",{"d":"M20 13a8 8 0 1 1-8-8M9 8l3-3-3-3"}],["path",{"d":"m7.75 11.1 1.2-.88a.189.189 0 0 1 .3.152V16M14 10a2 3 0 0 1 0 6 2 3 0 0 1 0-6"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M20 13a8 8 0 1 1-8-8M9 8l3-3-3-3"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"m7.75 11.1 1.2-.88a.189.189 0 0 1 .3.152V16M14 10a2 3 0 0 1 0 6 2 3 0 0 1 0-6"}]],
 });
 
 export default SkipForward10Icon;

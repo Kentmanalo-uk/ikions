@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cooking Pot — Represent a cooking pot, such as cooking, a recipe, stew or a kitchen. */
 export const CookingPotIcon = createIkion("cooking-pot", "CookingPotIcon", {
-  outline: [["path",{"d":"M4.5 10h15v7a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3Z"}],["path",{"d":"M4.5 13h-2m17 0h2"}],["path",{"d":"M3 7h18"}],["path",{"d":"M10 7a2 2 0 0 1 4 0"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M4.5 10h15v7a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M4.5 13h-2m17 0h2"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M3 6.75h18"}],["path",{"d":"M9.5 6.5a2.5 2.5 0 0 1 5 0Z"}]],
+  outline: [["path",{"d":"M7.3 10h9.4a2.8 2.8 0 0 1 2.8 2.8V17a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3v-4.2A2.8 2.8 0 0 1 7.3 10"}],["path",{"d":"M4.5 13h-2m17 0h2"}],["path",{"d":"M3 7h18"}],["path",{"d":"M10 7a2 2 0 0 1 4 0"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M7.1 10h9.8a2.6 2.6 0 0 1 2.6 2.6V17a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3v-4.4A2.6 2.6 0 0 1 7.1 10Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M4.5 13h-2m17 0h2"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M3 6.75h18"}],["path",{"d":"M9.5 6.5a2.5 2.5 0 0 1 5 0Z"}]],
 });
 
 export default CookingPotIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Menu Close — Close a navigation menu or drawer. */
 export const MenuCloseIcon = createIkion("menu-close", "MenuCloseIcon", {
-  outline: [["path",{"d":"M10 6.5h10M13 12h7m-10 5.5h10"}],["path",{"d":"M7 8.5 3.5 12 7 15.5"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M10 6.5h10M13 12h7m-10 5.5h10"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M7 8.75 3.75 12 7 15.25"}]],
+  outline: [["path",{"d":"M10 6.5h10M13 12h7m-10 5.5h10"}],["path",{"d":"m7 8.5-3.111 3.111a.55.55 0 0 0 0 .778L7 15.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M10 6.5h10M13 12h7m-10 5.5h10"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m7 8.75-2.861 2.861a.55.55 0 0 0 0 .778L7 15.25"}]],
 });
 
 export default MenuCloseIcon;

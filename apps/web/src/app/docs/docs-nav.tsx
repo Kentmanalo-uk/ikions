@@ -25,7 +25,7 @@ export function DocsSidebar() {
         <label htmlFor="docs-search" className="sr-only">
           Search documentation
         </label>
-        <SearchIcon size={16} className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-ink-2" />
+        <SearchIcon size={20} className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-ink-2" />
         <input
           id="docs-search"
           type="search"
@@ -75,7 +75,7 @@ export function DocsSidebar() {
           aria-controls="docs-mobile-nav"
           className="flex h-11 items-center gap-2 rounded-full bg-elevated px-4 text-[14px] font-medium shadow-soft"
         >
-          {open ? <CloseIcon size={18} /> : <ListIcon size={18} />}
+          {open ? <CloseIcon size={22} /> : <ListIcon size={22} />}
           {open ? "Close" : "Docs menu"}
         </button>
       </div>

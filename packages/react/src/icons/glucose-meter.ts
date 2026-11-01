@@ -3,7 +3,7 @@ import { createIkion } from "../create-ikion.js";
 
 /** Glucose Meter — Check blood sugar with a glucose meter and test strip. */
 export const GlucoseMeterIcon = createIkion("glucose-meter", "GlucoseMeterIcon", {
-  outline: [["path",{"d":"M8 8.5h8a3 3 0 0 1 3 3V18a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3v-6.5a3 3 0 0 1 3-3"}],["path",{"d":"M12 11.25c-1 1.2-2.5 2.85-2.5 4.4a2.5 2.5 0 0 0 5 0c0-1.55-1.5-3.2-2.5-4.4"}],["path",{"d":"M12 2.75v3.5"}]],
+  outline: [["path",{"d":"M8.2 8.5h7.6a3.2 3.2 0 0 1 3.2 3.2v6.1a3.2 3.2 0 0 1-3.2 3.2H8.2A3.2 3.2 0 0 1 5 17.8v-6.1a3.2 3.2 0 0 1 3.2-3.2"}],["path",{"d":"M12 11.25c-1 1.2-2.5 2.85-2.5 4.4a2.5 2.5 0 0 0 5 0c0-1.55-1.5-3.2-2.5-4.4"}],["path",{"d":"M12 2.75v3.5"}]],
   filled: [["path",{"fillRule":"evenodd","d":"M8.01 7.63H16c2.14 0 3.88 1.74 3.88 3.88V18c0 2.14-1.74 3.88-3.88 3.88H8.01c-2.14 0-3.88-1.74-3.88-3.88v-6.49c0-2.14 1.74-3.88 3.88-3.88M12 11.25c-1 1.2-2.5 2.85-2.5 4.4 0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5c0-1.55-1.5-3.2-2.5-4.4","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M12 2.75v3.5"}]],
 });
 

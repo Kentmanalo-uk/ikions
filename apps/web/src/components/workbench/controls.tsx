@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useId, useState } from "react";
-import type { IconGradient, IconOptions } from "@/lib/snippets";
+import { WEB_STROKE_WIDTH, type IconGradient, type IconOptions } from "@/lib/snippets";
 import { Segmented } from "../ui/segmented";
 
 export const SIZE_PRESETS = [16, 20, 24, 32, 48, 64] as const;
@@ -186,7 +186,7 @@ function GradientEditor({ gradient, onChange }: { gradient: IconGradient; onChan
           onClick={() => onChange({ ...gradient, from: gradient.to, to: gradient.from })}
           className="grid h-8 w-8 place-items-center rounded-full text-ink-2 hover:bg-subtle hover:text-ink"
         >
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={WEB_STROKE_WIDTH} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
             <path d="M4 8h14.5M15 4.5 18.5 8 15 11.5M20 16H5.5M9 12.5 5.5 16 9 19.5" />
           </svg>
         </button>

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Clock — Show the time, a history log or a scheduled item. */
 export const ClockIcon = createIkion("clock", "ClockIcon", {
-  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"M12 7.5V12l3 2"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m9.01-4.5a.88.88 0 0 1 1.75 0v4.03l2.61 1.74a.88.88 0 0 1-.97 1.46l-3-2a.88.88 0 0 1-.39-.73Z","clipRule":"evenodd"}]],
+  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"M12 7.5v3.95a1.03 1.03 0 0 0 .458.855L15 14"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M2.12 12a9.88 9.88 0 1 0 19.76 0 9.88 9.88 0 1 0-19.76 0m9.01-4.5a.88.88 0 0 1 1.75 0v2.901a2.11 2.11 0 0 0 .939 1.755l1.671 1.114a.876.876 0 0 1-.972 1.458l-2.23-1.486a2.6 2.6 0 0 1-1.158-2.163z","clipRule":"evenodd"}]],
 });
 
 export default ClockIcon;

@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Queue — Represents a message or job queue where items wait in order to be processed. */
 export const QueueIcon = createIkion("queue", "QueueIcon", {
   outline: [["rect",{"width":"19","height":"8","x":"2.5","y":"4","rx":"2.5"}],["path",{"d":"M8.75 4v8m6.5-8v8"}],["path",{"d":"M3.5 17.5H20m-3-3 3 3-3 3"}]],
-  filled: [["path",{"d":"M5.01 3.13H8v9.75H5.01c-1.87 0-3.38-1.51-3.38-3.38V6.51c0-1.87 1.51-3.38 3.38-3.38m13.99 0c1.87 0 3.38 1.51 3.38 3.38V9.5c0 1.87-1.51 3.38-3.38 3.38h-3V3.13zm-9.5 9.75V3.13h5v9.75z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 17.5H20m-3-3 3 3-3 3"}]],
+  filled: [["path",{"d":"M5.01 3.13h2.153A.837.837 0 0 1 8 3.967v8.076a.837.837 0 0 1-.837.837H5.01c-1.87 0-3.38-1.51-3.38-3.38V6.51c0-1.87 1.51-3.38 3.38-3.38m13.99 0c1.87 0 3.38 1.51 3.38 3.38V9.5c0 1.87-1.51 3.38-3.38 3.38h-2.16a.84.84 0 0 1-.84-.84V3.97a.84.84 0 0 1 .84-.84zm-9.5 8.35V4.53a1.4 1.4 0 0 1 1.4-1.4h2.2a1.4 1.4 0 0 1 1.4 1.4v6.95a1.4 1.4 0 0 1-1.4 1.4h-2.2a1.4 1.4 0 0 1-1.4-1.4"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 17.5H20m-3-3 3 3-3 3"}]],
 });
 
 export default QueueIcon;

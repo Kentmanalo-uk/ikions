@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Inbox Check — Inbox confirmed, completed or verified. */
 export const InboxCheckIcon = createIkion("inbox-check", "InboxCheckIcon", {
-  outline: [["path",{"d":"M11.55 20H6c-1.66 0-3-1.34-3-3V7c0-1.66 1.34-3 3-3h12c1.66 0 3 1.34 3 3v4.95"}],["path",{"d":"M3 13.5h4.08c.26 0 .5.14.64.36l.99 1.65c.18.3.51.49.86.49h1.98"}],["path",{"d":"M14.75 18.25 17 20.5l4.25-4.5"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M6 3.12h12c2.14 0 3.88 1.74 3.88 3.88v5.75h-.05c-1.07-.79-2.4-1.25-3.83-1.25-2.61 0-4.86 1.53-5.89 3.75h-2.4c-.18 0-.34-.09-.43-.24l-1.21-2.02c-.09-.15-.25-.24-.43-.24H2.12V7c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}],["path",{"fillRule":"evenodd","d":"M2.12 14.25h4.67c.18 0 .34.09.43.24l1.21 2.02c.09.15.25.24.43.24h2.76c-.08.4-.12.82-.12 1.25 0 1.03.24 2.01.67 2.88H6c-2.14 0-3.88-1.74-3.88-3.88z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 2 2L21 16"}]],
+  outline: [["path",{"d":"M11.55 20H6c-1.66 0-3-1.34-3-3V7c0-1.66 1.34-3 3-3h12c1.66 0 3 1.34 3 3v4.95"}],["path",{"d":"M3 13.5h4.08c.26 0 .5.14.64.36l.99 1.65c.18.3.51.49.86.49h1.98"}],["path",{"d":"m14.75 18.25 1.861 1.861a.535.535 0 0 0 .767-.011L21.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M6 3.12h12c2.14 0 3.88 1.74 3.88 3.88v5.75h-.05c-1.07-.79-2.4-1.25-3.83-1.25-2.61 0-4.86 1.53-5.89 3.75h-2.4c-.18 0-.34-.09-.43-.24l-1.21-2.02c-.09-.15-.25-.24-.43-.24H3.666a1.546 1.546 0 0 1-1.546-1.546V7c0-2.14 1.74-3.88 3.88-3.88","clipRule":"evenodd"}],["path",{"fillRule":"evenodd","d":"M2.89 14.25h3.9c.18 0 .34.09.43.24l1.21 2.02c.09.15.25.24.43.24h2.76c-.08.4-.12.82-.12 1.25 0 1.03.24 2.01.67 2.88H6c-2.14 0-3.88-1.74-3.88-3.88v-1.98a.77.77 0 0 1 .77-.77","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"}]],
 });
 
 export default InboxCheckIcon;

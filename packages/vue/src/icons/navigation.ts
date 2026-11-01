@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Navigation — Show the current heading, start navigation or locate yourself. */
 export const NavigationIcon = createIkion("navigation", "NavigationIcon", {
-  outline: [["path",{"d":"M19.6 4.4 4.4 11.12l6.72 1.76 1.76 6.72Z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M19.6 4.4 4.4 11.12l6.72 1.76 1.76 6.72Z"}]],
+  outline: [["path",{"d":"m18.299 4.975-12.46 5.509a.55.55 0 0 0 .083 1.035l3.316.868a3.33 3.33 0 0 1 2.375 2.375l.868 3.316a.55.55 0 0 0 1.035.083l5.509-12.46a.55.55 0 0 0-.726-.726"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M18.3 4.975 5.84 10.483a.55.55 0 0 0 .083 1.036l3.315.868a3.33 3.33 0 0 1 2.375 2.375l.868 3.315a.55.55 0 0 0 1.036.083L19.025 5.7a.55.55 0 0 0-.725-.725Z"}]],
 });
 
 export default NavigationIcon;

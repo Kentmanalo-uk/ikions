@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chevrons Down — Double chevron pointing down: skip, jump further or expand fully. */
 export const ChevronsDownIcon = createIkion("chevrons-down", "ChevronsDownIcon", {
-  outline: [["path",{"d":"m17.5 11.75-5.5 5.5-5.5-5.5m11-6-5.5 5.5-5.5-5.5"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M17.25 12 12 17.25 6.75 12m10.5-6L12 11.25 6.75 6"}]],
+  outline: [["path",{"d":"m17.5 11.75-5.111 5.111a.55.55 0 0 1-.778 0L6.5 11.75m11-6-5.111 5.111a.55.55 0 0 1-.778 0L6.5 5.75"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m17.25 12-4.861 4.861a.55.55 0 0 1-.778 0L6.75 12m10.5-6-4.861 4.861a.55.55 0 0 1-.778 0L6.75 6"}]],
 });
 
 export default ChevronsDownIcon;

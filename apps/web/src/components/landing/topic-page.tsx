@@ -1,3 +1,4 @@
+import { IkIcon } from "@/components/ui/ik-icon";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { MorphText } from "@/components/landing/morph-heading";
@@ -82,7 +83,7 @@ export function TopicPage({ slug }: { slug: Topic["slug"] }) {
             Popular {topic.framework === "SVG" ? "SVG" : topic.framework} icons
           </h2>
           <Link href="/categories" className="text-[14px] font-medium text-accent-text hover:underline">
-            All {stats.categories} categories →
+            All {stats.categories} categories <IkIcon name="arrow-right" size={16} className="inline align-[-2px]" />
           </Link>
         </div>
         <div className="mt-6">

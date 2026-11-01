@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cart — Open the shopping cart or add a product to it. */
 export const CartIcon = createIkion("cart", "CartIcon", {
-  outline: [["path",{"d":"M2.5 3.5h1.6a1.5 1.5 0 0 1 1.47 1.18l1.88 8.62a1.9 1.9 0 0 0 1.86 1.45h7.95a1.9 1.9 0 0 0 1.84-1.43l1.35-5.35a1.2 1.2 0 0 0-1.17-1.47H5.95"}],["circle",{"cx":"9.5","cy":"19","r":"1.5","fill":"currentColor","stroke":"none"}],["circle",{"cx":"17","cy":"19","r":"1.5","fill":"currentColor","stroke":"none"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M2.5 3.5h1.6a1.5 1.5 0 0 1 1.47 1.18L6.2 7.5"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M5.95 6.5h13.33a1.2 1.2 0 0 1 1.17 1.47l-1.35 5.35a1.9 1.9 0 0 1-1.84 1.43H9.31a1.9 1.9 0 0 1-1.86-1.45Z"}],["circle",{"cx":"9.5","cy":"19","r":"1.88"}],["circle",{"cx":"17","cy":"19","r":"1.88"}]],
+  outline: [["path",{"d":"M2.5 3.5h1.6a1.506 1.506 0 0 1 1.471 1.185L7.45 13.3a1.9 1.9 0 0 0 1.86 1.45h7.047a3.06 3.06 0 0 0 2.965-2.31l1.128-4.47a1.18 1.18 0 0 0-1.145-1.47H5.95"}],["circle",{"cx":"9.5","cy":"19","r":"1.5","fill":"currentColor","stroke":"none"}],["circle",{"cx":"17","cy":"19","r":"1.5","fill":"currentColor","stroke":"none"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M2.5 3.5h1.6a1.5 1.5 0 0 1 1.47 1.18L6.2 7.5"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.651 6.5H19.28a1.2 1.2 0 0 1 1.164 1.494l-1.122 4.446a3.06 3.06 0 0 1-2.965 2.31H9.31a1.9 1.9 0 0 1-1.86-1.45L6.101 7.184a.563.563 0 0 1 .55-.684Z"}],["circle",{"cx":"9.5","cy":"19","r":"1.88"}],["circle",{"cx":"17","cy":"19","r":"1.88"}]],
 });
 
 export default CartIcon;

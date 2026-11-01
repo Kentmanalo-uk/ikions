@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Archive — Archive items, store old records or open a storage box. */
 export const ArchiveIcon = createIkion("archive", "ArchiveIcon", {
-  outline: [["rect",{"width":"18","height":"5","x":"3","y":"4","rx":"1.5"}],["path",{"d":"M4.5 9v8.5A2.5 2.5 0 0 0 7 20h10a2.5 2.5 0 0 0 2.5-2.5V9"}],["path",{"d":"M10 13h4"}]],
-  filled: [["rect",{"width":"19.75","height":"6.75","x":"2.13","y":"3.13","rx":"2.38"}],["path",{"fill-rule":"evenodd","d":"M3.63 11.38h16.75v6.12A3.38 3.38 0 0 1 17 20.88H7a3.38 3.38 0 0 1-3.37-3.38ZM10 13.63h4a.875.875 0 0 1 0 1.75h-4a.875.875 0 0 1 0-1.75","clip-rule":"evenodd"}]],
+  outline: [["rect",{"width":"18","height":"5","x":"3","y":"4","rx":"1.5"}],["path",{"d":"M4.5 9v7.92A3.08 3.08 0 0 0 7.58 20h8.84a3.08 3.08 0 0 0 3.08-3.08V9"}],["path",{"d":"M10 13h4"}]],
+  filled: [["rect",{"width":"19.75","height":"6.75","x":"2.13","y":"3.13","rx":"2.38"}],["path",{"fill-rule":"evenodd","d":"M6.23 11.38h11.55a2.6 2.6 0 0 1 2.6 2.6v3.52A3.38 3.38 0 0 1 17 20.88H7a3.37 3.37 0 0 1-3.37-3.37v-3.53a2.6 2.6 0 0 1 2.6-2.6M10 13.63h4a.875.875 0 0 1 0 1.75h-4a.875.875 0 0 1 0-1.75","clip-rule":"evenodd"}]],
 });
 
 export default ArchiveIcon;

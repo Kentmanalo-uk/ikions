@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Through Door — Pass through a doorway from one space into another. */
 export const ArrowThroughDoorIcon = createIkion("arrow-through-door", "ArrowThroughDoorIcon", {
-  outline: [["path",{"d":"M5.5 20.5v-14a3 3 0 0 1 3-3h7a3 3 0 0 1 3 3v14"}],["path",{"d":"M12 20.5V8m3.25 3.25L12 8l-3.25 3.25"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M8.5 2.63h7c2.14 0 3.87 1.73 3.88 3.87v14c0 .49-.39.88-.88.88H13V10.66l1.3 1.3c.4.34.99.32 1.36-.05s.39-.96.05-1.36l-3-3.01c-.39-.39-1.03-.39-1.42 0l-3 3.01c-.34.4-.32.99.05 1.36s.96.39 1.36.05l1.3-1.3v10.72H5.5c-.48-.01-.87-.4-.87-.88v-14c.01-2.14 1.73-3.86 3.87-3.87","clipRule":"evenodd"}]],
+  outline: [["path",{"d":"M5.5 20.5V6.7a3.2 3.2 0 0 1 3.2-3.2h6.6a3.2 3.2 0 0 1 3.2 3.2v13.8"}],["path",{"d":"M12 20.5V8m3.25 3.25L12 8l-3.25 3.25"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M8.5 2.63h7c2.14 0 3.87 1.73 3.88 3.87v14c0 .49-.39.88-.88.88h-3.96A1.54 1.54 0 0 1 13 19.84v-8.628a.229.229 0 0 1 .39-.162l.91.91c.4.34.99.32 1.36-.05s.39-.96.05-1.36l-3-3.01c-.39-.39-1.03-.39-1.42 0l-3 3.01c-.34.4-.32.99.05 1.36s.96.39 1.36.05l.91-.91a.228.228 0 0 1 .39.162v8.628a1.54 1.54 0 0 1-1.54 1.54H5.5c-.48-.01-.87-.4-.87-.88v-14c.01-2.14 1.73-3.86 3.87-3.87","clipRule":"evenodd"}]],
 });
 
 export default ArrowThroughDoorIcon;

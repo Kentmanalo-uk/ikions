@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Coffee — Represent coffee, a hot drink, a café or a break. */
 export const CoffeeIcon = createIkion("coffee", "CoffeeIcon", {
-  outline: [["path",{"d":"M4 10h12.5v5.5a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5Z"}],["path",{"d":"M16.5 11.75H18a2.5 2.5 0 0 1 0 5h-1.75"}],["path",{"d":"M8.25 6.75c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88m4 3.88c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M4 10h12.5v5.5a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M16.5 11.75H18a2.5 2.5 0 0 1 0 5h-1.75"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M8.25 6.75c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88m4 3.88c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88"}]],
+  outline: [["path",{"d":"M6.94 10h6.62a2.94 2.94 0 0 1 2.94 2.94v2.56a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5v-2.56A2.94 2.94 0 0 1 6.94 10"}],["path",{"d":"M16.5 11.75H18a2.5 2.5 0 0 1 0 5h-1.75"}],["path",{"d":"M8.25 6.75c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88m4 3.88c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.6 10h7.3a2.6 2.6 0 0 1 2.6 2.6v2.9a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5v-2.9A2.6 2.6 0 0 1 6.6 10Z"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M16.5 11.75H18a2.5 2.5 0 0 1 0 5h-1.75"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2","d":"M8.25 6.75c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88m4 3.88c-.9-.75-.9-1.5 0-2s.9-1.25 0-1.88"}]],
 });
 
 export default CoffeeIcon;

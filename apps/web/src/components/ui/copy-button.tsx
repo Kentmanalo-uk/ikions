@@ -28,7 +28,7 @@ export function CopyButton({
       aria-label={compact ? status : undefined}
       title={compact ? label : undefined}
     >
-      {state === "copied" ? <CheckIcon size={16} className="text-success ik-swap" /> : <CopyIcon size={16} />}
+      {state === "copied" ? <CheckIcon size={20} className="text-success ik-swap" /> : <CopyIcon size={20} />}
       {compact ? null : <span>{status}</span>}
       <span className="sr-only" aria-live="polite">
         {state === "copied" ? `${label}: copied` : state === "error" ? `${label}: copy failed` : ""}

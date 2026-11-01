@@ -149,7 +149,27 @@ function cover(width, height, { safeW, safeH, left }) {
     </div>`,
   );
 }
-add("covers/facebook-cover-1640x624.png", 1640, 624, cover(1640, 624, { safeW: 1460, safeH: 470 }));
+// Facebook shows the full 1640 × 924 (16:9) on phones and only the middle 624 px band on
+// desktop, so the content sits centred inside that band and reads on both.
+// The profile photo overlaps the lower-left of the band on both, so the text sits high
+// and the lower-left stays empty.
+function facebookCover() {
+  const W = 1640, H = 924, bandTop = 150, bandH = 624;
+  return page(
+    W,
+    H,
+    `${glow(W * 0.55, -H * 0.15, "#D6D3FF", H * 1.05)}${glow(W * 0.82, H * 0.45, "#FFE0D2", H * 0.75)}
+    <div style="position:absolute;left:150px;top:${bandTop + 62}px;width:720px">
+      ${logo(78)}
+      <div class="h" style="font-size:80px;margin-top:34px">Icons for everything you imagine.</div>
+      <div class="p" style="font-size:36px;margin-top:22px">${fmt(ICONS)} free icons · <span style="color:${C.accent};font-weight:600">ikions.cloud</span></div>
+    </div>
+    <div style="position:absolute;right:150px;top:${bandTop + bandH / 2}px;transform:translateY(-50%)">
+      ${iconCard(SHOWCASE_ICONS.slice(0, 20), { cols: 5, size: 84, gap: 10, pad: 32, variant: (i) => (i % 3 === 1 ? "filled" : "outline"), color: (i) => (i % 5 === 2 ? C.accent : C.ink), radius: 34 })}
+    </div>`,
+  );
+}
+add("covers/facebook-cover-1640x924.png", 1640, 924, facebookCover());
 add("covers/x-header-1500x500.png", 1500, 500, cover(1500, 500, { safeW: 1080, safeH: 360, left: 360 }));
 add("covers/linkedin-banner-1584x396.png", 1584, 396, cover(1584, 396, { safeW: 1080, safeH: 320, left: 440 }));
 add("covers/youtube-banner-2560x1440.png", 2560, 1440, cover(2560, 1440, { safeW: 1546, safeH: 423 }));

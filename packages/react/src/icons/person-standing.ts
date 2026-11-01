@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Person Standing — Show a person standing upright, such as a pedestrian or presence marker. */
 export const PersonStandingIcon = createIkion("person-standing", "PersonStandingIcon", {
-  outline: [["circle",{"cx":"12","cy":"4.25","r":"2"}],["path",{"d":"m7.5 13 1.75-4.25h5.5L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
-  filled: [["circle",{"cx":"12","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m7.5 13 1.75-4.25h5.5L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
+  outline: [["circle",{"cx":"12","cy":"4.25","r":"2"}],["path",{"d":"m7.5 13 1.26-3.06a1.92 1.92 0 0 1 1.776-1.19h2.928a1.92 1.92 0 0 1 1.776 1.19L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
+  filled: [["circle",{"cx":"12","cy":"4.25","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m7.5 13 1.26-3.06a1.92 1.92 0 0 1 1.776-1.19h2.928a1.92 1.92 0 0 1 1.776 1.19L16.5 13M12 8.75V14m-2.5 6.75L12 14l2.5 6.75"}]],
 });
 
 export default PersonStandingIcon;

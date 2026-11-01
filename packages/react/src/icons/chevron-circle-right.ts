@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Chevron Circle Right — Chevron pointing right inside a circle; a round navigation or expand button. */
 export const ChevronCircleRightIcon = createIkion("chevron-circle-right", "ChevronCircleRightIcon", {
-  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m10.25 8 4 4-4 4"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M12 2.12c5.46 0 9.88 4.42 9.88 9.88s-4.42 9.88-9.88 9.88S2.12 17.46 2.12 12 6.54 2.12 12 2.12m-2.37 6.6L12.91 12l-3.28 3.28c-.2.18-.33.43-.33.72 0 .52.43.95.95.95.29 0 .55-.13.72-.33l3.95-3.95c.17-.17.28-.41.28-.67 0-.29-.13-.55-.33-.72l-3.9-3.9c-.18-.2-.43-.33-.72-.33-.52 0-.95.43-.95.95 0 .29.13.55.33.72","clipRule":"evenodd"}]],
+  outline: [["circle",{"cx":"12","cy":"12","r":"9"}],["path",{"d":"m10.25 8 3.611 3.611a.55.55 0 0 1 0 .778L10.25 16"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M12 2.12c5.46 0 9.88 4.42 9.88 9.88s-4.42 9.88-9.88 9.88S2.12 17.46 2.12 12 6.54 2.12 12 2.12m-2.37 6.6 2.362 2.362a1.3 1.3 0 0 1 0 1.836L9.63 15.28c-.2.18-.33.43-.33.72 0 .52.43.95.95.95.29 0 .55-.13.72-.33l3.95-3.95c.17-.17.28-.41.28-.67 0-.29-.13-.55-.33-.72l-3.9-3.9c-.18-.2-.43-.33-.72-.33-.52 0-.95.43-.95.95 0 .29.13.55.33.72","clipRule":"evenodd"}]],
 });
 
 export default ChevronCircleRightIcon;

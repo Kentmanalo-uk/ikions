@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Couple — Represent two partners holding hands, such as a booking for two. */
 export const CoupleIcon = createIkion("couple", "CoupleIcon", {
-  outline: [["circle",{"cx":"7","cy":"4.5","r":"2"}],["circle",{"cx":"17","cy":"4.5","r":"2"}],["path",{"d":"m4 12.75 1.5-4h3l3.5 3.5m-5-3.5v5.5m-2 6.5 2-6.5 2 6.5"}],["path",{"d":"m20 12.75-1.5-4h-3l-3.5 3.5m3.75 4v4.5m2.5-4.5v4.5"}],["path",{"d":"M15.5 8.75h3l1.5 7.5h-6Z"}]],
-  filled: [["circle",{"cx":"7","cy":"4.5","r":"2.88"}],["circle",{"cx":"17","cy":"4.5","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m4 12.75 1.5-4h3l3.5 3.5m-5-3.5v5.5m-2 6.5 2-6.5 2 6.5"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m20 12.75-1.5-4h-3l-3.5 3.5m3.75 4v4.5m2.5-4.5v4.5"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M15.5 8.75h3l1.5 7.5h-6Z"}]],
+  outline: [["circle",{"cx":"7","cy":"4.5","r":"2"}],["circle",{"cx":"17","cy":"4.5","r":"2"}],["path",{"d":"m4 12.75 1.184-3.157A1.3 1.3 0 0 1 6.4 8.75h1.2a2.17 2.17 0 0 1 1.536.636L12 12.25m-5-3.5v5.5m-2 6.5 2-6.5 2 6.5"}],["path",{"d":"m20 12.75-1.5-4h-3l-3.5 3.5m3.75 4v4.5m2.5-4.5v4.5"}],["path",{"d":"M15.5 8.75h3l1.323 6.617a.738.738 0 0 1-.723.883h-4.2a.738.738 0 0 1-.723-.883z"}]],
+  filled: [["circle",{"cx":"7","cy":"4.5","r":"2.88"}],["circle",{"cx":"17","cy":"4.5","r":"2.88"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m4 12.75 1.205-3.213A1.21 1.21 0 0 1 6.34 8.75h1.32a2.03 2.03 0 0 1 1.434.594L12 12.25m-5-3.5v5.5m-2 6.5 2-6.5 2 6.5"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m20 12.75-1.5-4h-3l-3.5 3.5m3.75 4v4.5m2.5-4.5v4.5"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M15.5 8.75h3l1.363 6.814a.574.574 0 0 1-.563.686h-4.6a.574.574 0 0 1-.563-.686z"}]],
 });
 
 export default CoupleIcon;

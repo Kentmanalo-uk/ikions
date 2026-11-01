@@ -15,6 +15,7 @@
     "visual": "tsx src/cli/visual.ts",
     "roadmap": "tsx src/cli/roadmap.ts",
     "plan": "tsx src/cli/plan.ts",
+    "refine": "tsx src/cli/refine.ts",
     "families": "tsx src/cli/families.ts",
     "dupes": "tsx src/cli/dupes.ts",
     "watch": "tsx src/cli/watch.ts"

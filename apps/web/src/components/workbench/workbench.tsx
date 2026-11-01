@@ -124,7 +124,7 @@ export function Workbench({ icon, nodes }: Props) {
             onClick={() => favorites.toggle(icon.name)}
             className={`${buttonClass.secondary} max-lg:h-11 max-lg:px-3`}
           >
-            <HeartIcon variant={favorite ? "filled" : "outline"} size={16} className={favorite ? "text-danger" : ""} />
+            <HeartIcon variant={favorite ? "filled" : "outline"} size={20} className={favorite ? "text-accent-text" : ""} />
             {favorite ? "Favourited" : <><span className="lg:hidden">Favourite</span><span className="max-lg:hidden">Add to favourites</span></>}
           </button>
           <button
@@ -133,7 +133,7 @@ export function Workbench({ icon, nodes }: Props) {
             onClick={() => selection.toggle(icon.name)}
             className={`${buttonClass.secondary} max-lg:h-11 max-lg:px-3 ${selected ? "border-accent text-accent-text" : ""}`}
           >
-            {selected ? <CheckIcon size={16} /> : <PlusIcon size={16} />}
+            {selected ? <CheckIcon size={20} /> : <PlusIcon size={20} />}
             {selected ? (
               <><span className="lg:hidden">Selected</span><span className="max-lg:hidden">In export selection</span></>
             ) : (

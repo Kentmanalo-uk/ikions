@@ -3,7 +3,7 @@ import { createIkion } from "../create-ikion.js";
 
 /** External Link — Open a link in a new tab, window or another app. */
 export const ExternalLinkIcon = createIkion("external-link", "ExternalLinkIcon", {
-  outline: [["path",{"d":"M10.5 5H7a3 3 0 0 0-3 3v9a3 3 0 0 0 3 3h9a3 3 0 0 0 3-3v-3.5"}],["path",{"d":"M14.25 4H20v5.75M20 4l-8 8"}]],
+  outline: [["path",{"d":"M10.5 5H7a3 3 0 0 0-3 3v8.8A3.2 3.2 0 0 0 7.2 20H16a3 3 0 0 0 3-3v-3.5"}],["path",{"d":"M14.25 4H20v5.75M20 4l-8 8"}]],
   filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M10.5 5.25H7A2.75 2.75 0 0 0 4.25 8v9A2.75 2.75 0 0 0 7 19.75h9A2.75 2.75 0 0 0 18.75 17v-3.5"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M14.25 4.25h5.5v5.5m0-5.5L12 12"}]],
 });
 

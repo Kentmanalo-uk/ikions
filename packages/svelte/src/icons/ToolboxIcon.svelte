@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"M6 8.5h12a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-6a3 3 0 0 1 3-3"}],["path",{"d":"M7.5 8.5V6a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v2.5"}],["path",{"d":"M3 13h7m4 0h7"}],["rect",{"width":"4","height":"4","x":"10","y":"11","rx":"1.25"}]],
-    filled: [["path",{"fill-rule":"evenodd","d":"M6.01 7.63H18c2.14 0 3.88 1.74 3.88 3.88v.74h-7.63v1.5h7.63v3.75c0 2.14-1.74 3.88-3.88 3.88H6.01c-2.14 0-3.88-1.74-3.88-3.88v-3.75h7.62v-1.5H2.13v-.74c0-2.14 1.74-3.88 3.88-3.88","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M7.5 7.75V6a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v1.75"}]],
+    outline: [["path",{"d":"M6.2 8.5h11.6a3.2 3.2 0 0 1 3.2 3.2v5.6a3.2 3.2 0 0 1-3.2 3.2H6.2A3.2 3.2 0 0 1 3 17.3v-5.6a3.2 3.2 0 0 1 3.2-3.2"}],["path",{"d":"M7.5 8.5V6a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v2.5"}],["path",{"d":"M3 13h7m4 0h7"}],["rect",{"width":"4","height":"4","x":"10","y":"11","rx":"1.25"}]],
+    filled: [["path",{"fill-rule":"evenodd","d":"M6.01 7.63H18c2.14 0 3.88 1.74 3.88 3.88v.74h-7.21a.42.42 0 0 0-.42.42v.66a.42.42 0 0 0 .42.42h6.16a1.05 1.05 0 0 1 1.05 1.05v2.7c0 2.14-1.74 3.88-3.88 3.88H6.01c-2.14 0-3.88-1.74-3.88-3.88v-2.7a1.05 1.05 0 0 1 1.05-1.05h6.15a.42.42 0 0 0 .42-.42v-.66a.42.42 0 0 0-.42-.42h-7.2v-.74c0-2.14 1.74-3.88 3.88-3.88","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M7.5 7.75V6a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v1.75"}]],
   } as const;
 
   let props: IkionProps = $props();

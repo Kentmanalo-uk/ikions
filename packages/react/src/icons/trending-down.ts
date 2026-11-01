@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Trending Down — Show decline, a downward trend or falling performance. */
 export const TrendingDownIcon = createIkion("trending-down", "TrendingDownIcon", {
-  outline: [["path",{"d":"m3.25 7 6 6 3.5-3.5 8 8"}],["path",{"d":"M14.75 17.5h6v-6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.25 7 6 6 3.5-3.5 8 8"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M14.75 17.5h6v-6"}]],
+  outline: [["path",{"d":"m3.25 7 5.02 5.02a1.386 1.386 0 0 0 1.96 0l1.54-1.54a1.386 1.386 0 0 1 1.96 0l7.02 7.02"}],["path",{"d":"M14.75 17.5h6v-6"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.25 7 5.02 5.02a1.386 1.386 0 0 0 1.96 0l1.54-1.54a1.386 1.386 0 0 1 1.96 0l7.02 7.02"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M14.75 17.5h6v-6"}]],
 });
 
 export default TrendingDownIcon;

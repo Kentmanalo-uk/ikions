@@ -65,7 +65,7 @@ export default async function CategoryPage({ params }: Props) {
         </PageHeader>
         <Link href={`/icons?category=${slug}`} className={buttonClass.secondary}>
           Open in explorer
-          <IkIcon name="arrow-right" size={16} />
+          <IkIcon name="arrow-right" size={20} />
         </Link>
       </div>
 
@@ -83,7 +83,7 @@ export default async function CategoryPage({ params }: Props) {
         )}
         {next ? (
           <Link href={`/categories/${next.slug}`} className="rounded-full bg-surface px-4 py-2 text-right text-ink-2 shadow-card transition-colors hover:text-ink">
-            {next.name} →
+            {next.name} <IkIcon name="arrow-right" size={16} className="inline align-[-2px]" />
           </Link>
         ) : null}
       </nav>

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Copy — Copy content to the clipboard or duplicate an item. */
 export const CopyIcon = createIkion("copy", "CopyIcon", {
-  outline: [["rect",{"width":"11","height":"11","x":"9.5","y":"9.5","rx":"2.5"}],["path",{"d":"M6 15a2.5 2.5 0 0 1-2.5-2.5V6A2.5 2.5 0 0 1 6 3.5h6.5A2.5 2.5 0 0 1 15 6"}]],
-  filled: [["rect",{"width":"12.75","height":"12.75","x":"8.63","y":"8.63","rx":"3.38"}],["path",{"d":"M2.63 6A3.38 3.38 0 0 1 6 2.63h6.5A3.38 3.38 0 0 1 15.88 6v.88H12A5.13 5.13 0 0 0 6.88 12v3.88H6a3.38 3.38 0 0 1-3.37-3.38Z"}]],
+  outline: [["rect",{"width":"11","height":"11","x":"9.5","y":"9.5","rx":"2.75"}],["path",{"d":"M6 15a2.5 2.5 0 0 1-2.5-2.5V6A2.5 2.5 0 0 1 6 3.5h6.5A2.5 2.5 0 0 1 15 6"}]],
+  filled: [["rect",{"width":"12.75","height":"12.75","x":"8.63","y":"8.63","rx":"3.38"}],["path",{"d":"M6 2.63h6.5a3.38 3.38 0 0 1 3.38 3.38v-.32a1.19 1.19 0 0 1-1.19 1.19H12A5.12 5.12 0 0 0 6.88 12v2.69a1.19 1.19 0 0 1-1.19 1.19H6a3.37 3.37 0 0 1-3.37-3.37V6A3.37 3.37 0 0 1 6 2.63"}]],
 });
 
 export default CopyIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** First Aid — Represent a first aid kit, emergency care or medical supplies. */
 export const FirstAidIcon = createIkion("first-aid", "FirstAidIcon", {
-  outline: [["rect",{"width":"18","height":"13","x":"3","y":"7","rx":"3"}],["path",{"d":"M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7"}],["path",{"d":"M12 10.25v6.5M8.75 13.5h6.5"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M9 6.5v-1A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5v1"}],["path",{"fillRule":"evenodd","d":"M6.01 6.13H18a3.88 3.88 0 0 1 3.88 3.88V17A3.88 3.88 0 0 1 18 20.88H6.01A3.88 3.88 0 0 1 2.13 17v-6.99a3.88 3.88 0 0 1 3.88-3.88m5.12 4.12a.88.88 0 0 1 1.75 0v2.38h2.37a.88.88 0 0 1 0 1.75h-2.37v2.37a.88.88 0 0 1-1.75 0v-2.37H8.75a.88.88 0 0 1 0-1.75h2.38Z","clipRule":"evenodd"}]],
+  outline: [["rect",{"width":"18","height":"13","x":"3","y":"7","rx":"3.2"}],["path",{"d":"M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7"}],["path",{"d":"M12 10.25v6.5M8.75 13.5h6.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.25","d":"M9 6.5v-1A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5v1"}],["path",{"fillRule":"evenodd","d":"M6.01 6.13H18a3.88 3.88 0 0 1 3.88 3.88V17A3.88 3.88 0 0 1 18 20.88H6.01A3.88 3.88 0 0 1 2.13 17v-6.99a3.88 3.88 0 0 1 3.88-3.88m5.12 4.12a.88.88 0 0 1 1.75 0v1.68a.7.7 0 0 0 .7.7h1.67a.88.88 0 0 1 0 1.75h-1.67a.7.7 0 0 0-.7.7v1.67a.88.88 0 0 1-1.75 0v-1.67a.7.7 0 0 0-.7-.7H8.75a.88.88 0 0 1 0-1.75h1.68a.7.7 0 0 0 .7-.7z","clipRule":"evenodd"}]],
 });
 
 export default FirstAidIcon;

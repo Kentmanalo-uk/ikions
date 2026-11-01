@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Pill — Represent medication, a prescription or a pharmacy. */
 export const PillIcon = createIkion("pill", "PillIcon", {
   outline: [["path",{"d":"m4.35 14.35 10-10a3.75 3.75 0 0 1 5.3 5.3l-10 10a3.75 3.75 0 0 1-5.3-5.3"}],["path",{"d":"m9.35 9.35 5.3 5.3"}]],
-  filled: [["path",{"fill-rule":"evenodd","d":"M3.73 13.73 8.2 9.26l6.54 6.54-4.47 4.47c-1.83 1.66-4.64 1.59-6.38-.16-1.75-1.75-1.81-4.55-.16-6.38m10-10c1.83-1.66 4.64-1.59 6.38.16 1.75 1.75 1.81 4.55.16 6.38l-4.47 4.47L9.26 8.2z","clip-rule":"evenodd"}]],
+  filled: [["path",{"fill-rule":"evenodd","d":"m3.73 13.73 3.218-3.218a1.77 1.77 0 0 1 2.504 0l4.036 4.036a1.77 1.77 0 0 1 0 2.504L10.27 20.27c-1.83 1.66-4.64 1.59-6.38-.16-1.75-1.75-1.81-4.55-.16-6.38m10-10c1.83-1.66 4.64-1.59 6.38.16 1.75 1.75 1.81 4.55.16 6.38l-3.218 3.218a1.77 1.77 0 0 1-2.504 0l-4.036-4.036a1.77 1.77 0 0 1 0-2.504z","clip-rule":"evenodd"}]],
 });
 
 export default PillIcon;

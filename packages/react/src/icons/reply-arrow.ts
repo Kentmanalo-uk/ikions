@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Reply Arrow — A bold curved arrow for replying to a message. */
 export const ReplyArrowIcon = createIkion("reply-arrow", "ReplyArrowIcon", {
-  outline: [["path",{"d":"M10 7V3.5l-7 6 7 6V12h3a3 3 0 0 1 3 3v3a2.5 2.5 0 0 0 5 0v-3a8 8 0 0 0-8-8Z"}]],
-  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M10 7V3.5l-7 6 7 6V12h3a3 3 0 0 1 3 3v3a2.5 2.5 0 0 0 5 0v-3a8 8 0 0 0-8-8Z"}]],
+  outline: [["path",{"d":"M10 6.02V4.481a.451.451 0 0 0-.744-.343L4.959 7.82a2.212 2.212 0 0 0 0 3.36l4.297 3.682a.451.451 0 0 0 .744-.343V12.98a.98.98 0 0 1 .98-.98H13a3 3 0 0 1 3 3v3a2.5 2.5 0 0 0 5 0v-3a8 8 0 0 0-8-8h-2.02a.98.98 0 0 1-.98-.98"}]],
+  filled: [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M10 6.02V4.481a.451.451 0 0 0-.744-.343L4.959 7.82a2.212 2.212 0 0 0 0 3.36l4.297 3.682a.451.451 0 0 0 .744-.343V12.98a.98.98 0 0 1 .98-.98H13a3 3 0 0 1 3 3v3a2.5 2.5 0 0 0 5 0v-3a8 8 0 0 0-8-8h-2.02a.98.98 0 0 1-.98-.98Z"}]],
 });
 
 export default ReplyArrowIcon;

@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cloud Lightning — Represent a thunderstorm, lightning or severe weather. */
 export const CloudLightningIcon = createIkion("cloud-lightning", "CloudLightningIcon", {
-  outline: [["path",{"d":"M7.75 13.58a3.4 3.4 0 0 1 .02-6.8 4.67 4.67 0 0 1 9.32.11 3.4 3.4 0 0 1-.84 6.69Z"}],["path",{"d":"m13.5 16.5-2.75 2.75h3L11 22"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M7.75 13.58a3.4 3.4 0 0 1 .02-6.8 4.67 4.67 0 0 1 9.32.11 3.4 3.4 0 0 1-.84 6.69Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m13.5 16.5-2.75 2.75h3L11 22"}]],
+  outline: [["path",{"d":"M7.75 13.58a3.4 3.4 0 0 1 .02-6.8 4.67 4.67 0 0 1 9.32.11 3.4 3.4 0 0 1-.84 6.69Z"}],["path",{"d":"m13.5 16.5-2.114 2.114a.373.373 0 0 0 .264.636h1.2a.373.373 0 0 1 .264.636L11 22"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M7.75 13.58a3.4 3.4 0 0 1 .02-6.8 4.67 4.67 0 0 1 9.32.11 3.4 3.4 0 0 1-.84 6.69Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m13.5 16.5-2.156 2.156a.348.348 0 0 0 .246.594h1.32a.348.348 0 0 1 .246.594L11 22"}]],
 });
 
 export default CloudLightningIcon;

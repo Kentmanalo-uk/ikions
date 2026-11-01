@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Announcement — Make an announcement or share important news. */
 export const AnnouncementIcon = createIkion("announcement", "AnnouncementIcon", {
-  outline: [["path",{"d":"M7 9.75 15 5v14l-8-4.75Z"}],["path",{"d":"M7 9.75H4.5a1.5 1.5 0 0 0-1.5 1.5v1.5a1.5 1.5 0 0 0 1.5 1.5H7"}],["path",{"d":"m9.25 15.6 1 3.65"}],["path",{"d":"M18 8.5 20.5 7m-2 5H21m-3 3.5 2.5 1.5"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M15 5v14l-6.37-3.78V8.78zM4.5 14.25c-.83 0-1.5-.67-1.5-1.5v-1.5c0-.83.67-1.5 1.5-1.5h.88v4.5z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"m9.25 15.6 1 3.65"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M18 8.5 20.5 7m-2 5H21m-3 3.5 2.5 1.5"}]],
+  outline: [["path",{"d":"m7 9.75 7.169-4.257a.55.55 0 0 1 .831.473v12.068a.55.55 0 0 1-.831.473L7 14.25z"}],["path",{"d":"M7 9.75H4.5a1.5 1.5 0 0 0-1.5 1.5v1.5a1.5 1.5 0 0 0 1.5 1.5H7"}],["path",{"d":"m9.25 15.6 1 3.65"}],["path",{"d":"M18 8.5 20.5 7m-2 5H21m-3 3.5 2.5 1.5"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M15 5.966v12.068a.55.55 0 0 1-.831.473l-3.988-2.367a3.17 3.17 0 0 1-1.551-2.723v-2.834a3.17 3.17 0 0 1 1.551-2.723l3.988-2.367a.55.55 0 0 1 .831.473ZM4.5 14.25c-.83 0-1.5-.67-1.5-1.5v-1.5c0-.83.67-1.5 1.5-1.5h.88v4.5Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"m9.25 15.6 1 3.65"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M18 8.5 20.5 7m-2 5H21m-3 3.5 2.5 1.5"}]],
 });
 
 export default AnnouncementIcon;

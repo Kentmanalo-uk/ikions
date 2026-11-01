@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"M14.5 16.5 9.25 12l5.25-4.5z"}]],
-    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2.5","d":"M14.5 16.5 9.25 12l5.25-4.5z"}]],
+    outline: [["path",{"d":"m13.592 15.721-2.873-2.461a1.66 1.66 0 0 1 0-2.52l2.873-2.461a.55.55 0 0 1 .908.417v6.608a.55.55 0 0 1-.908.417"}]],
+    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"2.5","d":"m13.592 15.721-2.873-2.461a1.66 1.66 0 0 1 0-2.52l2.873-2.461a.55.55 0 0 1 .908.418v6.606a.55.55 0 0 1-.908.418Z"}]],
   } as const;
 
   let props: IkionProps = $props();

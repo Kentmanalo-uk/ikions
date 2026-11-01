@@ -89,7 +89,7 @@ export function Header() {
 
         <div className="ml-auto flex items-center gap-1.5">
           <Link href="/search" className={buttonClass.icon} aria-label="Search icons and documentation">
-            <SearchIcon size={19} />
+            <SearchIcon size={24} />
           </Link>
           <ThemeToggle className={`${buttonClass.icon} max-md:hidden`} />
           <Link href="/icons" className={`${buttonClass.primary} h-9 max-md:hidden`}>
@@ -103,7 +103,7 @@ export function Header() {
             aria-expanded={menuOpen}
             onClick={() => setMenuOpen(true)}
           >
-            <MenuIcon size={20} />
+            <MenuIcon size={24} />
           </button>
         </div>
       </div>
@@ -113,7 +113,7 @@ export function Header() {
           <div className="flex items-center justify-between">
             <Logo />
             <button type="button" className={buttonClass.icon} aria-label="Close menu" onClick={() => setMenuOpen(false)}>
-              <CloseIcon size={20} />
+              <CloseIcon size={24} />
             </button>
           </div>
           <nav aria-label="Mobile" className="mt-6">

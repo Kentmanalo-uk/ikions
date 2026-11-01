@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Tag — Show a price, label a product or apply a category tag. */
 export const TagIcon = createIkion("tag", "TagIcon", {
-  outline: [["path",{"d":"M4.22 6.22a2 2 0 0 1 2-2h4.95a2 2 0 0 1 1.41.58l6.13 6.14a2.5 2.5 0 0 1 0 3.53l-4.24 4.24a2.5 2.5 0 0 1-3.53 0L4.8 12.58a2 2 0 0 1-.58-1.41Z"}],["circle",{"cx":"8.64","cy":"8.64","r":"1.5","fill":"currentColor","stroke":"none"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M4.22 6.22a2 2 0 0 1 2-2h4.95a2 2 0 0 1 1.41.58l6.13 6.14a2.5 2.5 0 0 1 0 3.53l-4.24 4.24a2.5 2.5 0 0 1-3.53 0L4.8 12.58a2 2 0 0 1-.58-1.41Zm2.04 2.42a2.38 2.38 0 1 0 4.76 0 2.38 2.38 0 1 0-4.76 0Z","clipRule":"evenodd"}]],
+  outline: [["path",{"d":"M6.399 4.22h3.423a5.25 5.25 0 0 1 3.718 1.542l4.761 4.768a3.08 3.08 0 0 1-.002 4.351l-3.418 3.418a3.08 3.08 0 0 1-4.351.002L5.762 13.54A5.25 5.25 0 0 1 4.22 9.822V6.399A2.18 2.18 0 0 1 6.399 4.22"}],["circle",{"cx":"8.64","cy":"8.64","r":"1.5","fill":"currentColor","stroke":"none"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"M6.399 4.22h3.423a5.25 5.25 0 0 1 3.718 1.542l5.097 5.104a2.6 2.6 0 0 1-.002 3.679l-4.09 4.09a2.6 2.6 0 0 1-3.679.002L5.762 13.54A5.25 5.25 0 0 1 4.22 9.822V6.399A2.18 2.18 0 0 1 6.399 4.22ZM6.26 8.64a2.38 2.38 0 1 0 4.76 0 2.38 2.38 0 1 0-4.76 0Z","clipRule":"evenodd"}]],
 });
 
 export default TagIcon;

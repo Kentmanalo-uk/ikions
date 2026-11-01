@@ -1,7 +1,7 @@
 "use client";
 
 import { normalizeQuery } from "@ikions/metadata/search";
-import { SearchIcon } from "@ikions/react";
+import { ArrowRightIcon, SearchIcon } from "@ikions/react";
 import Link from "next/link";
 import { useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
 import { NodeIcon } from "@/components/ui/node-icon";
@@ -65,7 +65,7 @@ export function SiteSearch() {
       </div>
       <div className="mt-5 flex flex-wrap items-center gap-3">
         <div className="relative min-w-[240px] flex-1">
-          <SearchIcon size={20} className="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-2" />
+          <SearchIcon size={24} className="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-2" />
           <label htmlFor="site-search" className="sr-only">
             Search Ikions
           </label>
@@ -145,7 +145,7 @@ export function SiteSearch() {
               Icons
             </h2>
             <Link href={`/icons?q=${encodeURIComponent(deferred.trim())}`} className="text-[13.5px] font-medium text-accent-text hover:underline">
-              Open in explorer →
+              Open in explorer <ArrowRightIcon size={16} className="inline align-[-2px]" />
             </Link>
           </div>
           <ul className="mt-3 grid grid-cols-[repeat(auto-fill,minmax(96px,1fr))] gap-1 rounded-[24px] bg-surface p-2.5 shadow-card">

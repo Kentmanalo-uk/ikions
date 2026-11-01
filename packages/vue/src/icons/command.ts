@@ -4,7 +4,7 @@ import { createIkion } from "../create-ikion.js";
 /** Command — Represent the Command key used in keyboard shortcuts. */
 export const CommandIcon = createIkion("command", "CommandIcon", {
   outline: [["path",{"d":"M8.5 6v12A2.5 2.5 0 1 1 6 15.5h12a2.5 2.5 0 1 1-2.5 2.5V6A2.5 2.5 0 1 1 18 8.5H6A2.5 2.5 0 1 1 8.5 6"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M8.5 6v12A2.5 2.5 0 1 1 6 15.5h12a2.5 2.5 0 1 1-2.5 2.5V6A2.5 2.5 0 1 1 18 8.5H6A2.5 2.5 0 1 1 8.5 6"}],["rect",{"width":"7","height":"7","x":"8.5","y":"8.5"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M8.5 6v12A2.5 2.5 0 1 1 6 15.5h12a2.5 2.5 0 1 1-2.5 2.5V6A2.5 2.5 0 1 1 18 8.5H6A2.5 2.5 0 1 1 8.5 6"}],["rect",{"width":"7","height":"7","x":"8.5","y":"8.5","rx":"1.75"}]],
 });
 
 export default CommandIcon;

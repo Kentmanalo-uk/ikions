@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Phone Hang Up — End or decline a phone call. */
 export const PhoneHangUpIcon = createIkion("phone-hang-up", "PhoneHangUpIcon", {
-  outline: [["path",{"d":"M3 12a13.32 13.32 0 0 1 18 0v3a1 1 0 0 1-1 1h-3.5a1 1 0 0 1-1-1v-1.5a5.53 5.53 0 0 0-7 0V15a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3 12a13.32 13.32 0 0 1 18 0v3a1 1 0 0 1-1 1h-3.5a1 1 0 0 1-1-1v-1.5a5.53 5.53 0 0 0-7 0V15a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z"}]],
+  outline: [["path",{"d":"M3 12a13.32 13.32 0 0 1 18 0v2.88A1.12 1.12 0 0 1 19.88 16H16.5a1 1 0 0 1-1-1v-1.5a5.53 5.53 0 0 0-7 0V15a1 1 0 0 1-1 1H4.12A1.12 1.12 0 0 1 3 14.88z"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M3 12a13.32 13.32 0 0 1 18 0v2.88A1.12 1.12 0 0 1 19.88 16H16.5a1 1 0 0 1-1-1v-1.5a5.53 5.53 0 0 0-7 0V15a1 1 0 0 1-1 1H4.12A1.12 1.12 0 0 1 3 14.88z"}]],
 });
 
 export default PhoneHangUpIcon;

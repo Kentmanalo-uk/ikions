@@ -5,7 +5,7 @@
 
   const nodes = {
     outline: [["path",{"d":"M12.5 12.5H10a4 4 0 0 1 0-8h8.5m-6 0v15m4-15v15"}]],
-    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12.5 4.5H10a4 4 0 0 0 0 8h2.5Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12.5 4.5h6m-6 0v15m4-15v15"}]],
+    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M12.5 4.5H10a4 4 0 0 0 0 8h1.8a.7.7 0 0 0 .7-.7z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"M12.5 4.5h6m-6 0v15m4-15v15"}]],
   } as const;
 
   let props: IkionProps = $props();

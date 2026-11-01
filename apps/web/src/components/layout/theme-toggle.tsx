@@ -83,7 +83,7 @@ export function ThemeToggle({ className }: { className?: string }) {
       aria-label={`Switch to ${next} theme`}
       title={`Switch to ${next} theme`}
     >
-      {resolved === "dark" ? <SunIcon size={18} key="sun" className="ik-swap" /> : <MoonIcon size={18} key="moon" className="ik-swap" />}
+      {resolved === "dark" ? <SunIcon size={22} key="sun" className="ik-swap" /> : <MoonIcon size={22} key="moon" className="ik-swap" />}
     </button>
   );
 }

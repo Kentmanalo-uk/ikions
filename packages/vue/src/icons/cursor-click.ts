@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Cursor Click — A pointer clicking, for click actions, taps and interactions. */
 export const CursorClickIcon = createIkion("cursor-click", "CursorClickIcon", {
-  outline: [["path",{"d":"M10.5 7v10.4l7.6-3.2Z"}],["path",{"d":"m15.45 18.46.95 2.21"}],["path",{"d":"M10.5 4V2m-3 5h-2m2.88-2.12L6.96 3.46"}]],
-  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10.5 7v10.4l7.6-3.2Z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m15.61 18.83.79 1.84"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M10.5 4V2m-3 5h-2m2.88-2.12L6.96 3.46"}]],
+  outline: [["path",{"d":"M10.5 8.279V16.5a.598.598 0 0 0 .83.551l5.941-2.502a.587.587 0 0 0 .176-.968L11.428 7.88a.55.55 0 0 0-.928.399"}],["path",{"d":"m15.45 18.46.95 2.21"}],["path",{"d":"M10.5 4V2m-3 5h-2m2.88-2.12L6.96 3.46"}]],
+  filled: [["path",{"fill-rule":"evenodd","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10.5 8.278v8.293a.55.55 0 0 0 .763.507l6.061-2.551a.55.55 0 0 0 .165-.906l-6.061-5.742a.55.55 0 0 0-.928.399Z","clip-rule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.5","d":"m15.61 18.83.79 1.84"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2.25","d":"M10.5 4V2m-3 5h-2m2.88-2.12L6.96 3.46"}]],
 });
 
 export default CursorClickIcon;

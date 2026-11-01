@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Mail — Send, read or compose an email message. */
 export const MailIcon = createIkion("mail", "MailIcon", {
-  outline: [["rect",{"width":"18","height":"14","x":"3","y":"5","rx":"3"}],["path",{"d":"m7 9.5 5 3.5 5-3.5"}]],
-  filled: [["path",{"fillRule":"evenodd","d":"M5.13 4.13h13.75a3.25 3.25 0 0 1 3.25 3.25v9.25a3.25 3.25 0 0 1-3.25 3.25H5.13a3.25 3.25 0 0 1-3.25-3.25V7.38a3.25 3.25 0 0 1 3.25-3.25M7.5 8.78l4.5 3.15 4.5-3.15a.88.88 0 0 1 1 1.44L12 14.07l-5.5-3.85a.88.88 0 0 1 1-1.44","clipRule":"evenodd"}]],
+  outline: [["rect",{"width":"18","height":"14","x":"3","y":"5","rx":"3.2"}],["path",{"d":"m7 9.5 4.549 3.185a.79.79 0 0 0 .902 0L17 9.5"}]],
+  filled: [["path",{"fillRule":"evenodd","d":"M5.13 4.13h13.75a3.25 3.25 0 0 1 3.25 3.25v9.25a3.25 3.25 0 0 1-3.25 3.25H5.13a3.25 3.25 0 0 1-3.25-3.25V7.38a3.25 3.25 0 0 1 3.25-3.25M7.5 8.78l3.24 2.268a2.2 2.2 0 0 0 2.52 0L16.5 8.78a.88.88 0 0 1 1 1.44l-3.96 2.772a2.685 2.685 0 0 1-3.08 0L6.5 10.22a.88.88 0 0 1 1-1.44","clipRule":"evenodd"}]],
 });
 
 export default MailIcon;

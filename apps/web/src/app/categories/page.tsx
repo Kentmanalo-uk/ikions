@@ -38,7 +38,7 @@ export default function CategoriesPage() {
                 <p className="mt-auto flex items-center gap-1.5 pt-4 text-[12.5px] font-medium text-ink-2">
                   {category.count} {category.count === 1 ? "icon" : "icons"}
                   <span className="-translate-x-1 opacity-0 transition-all duration-200 group-hover:translate-x-0 group-hover:opacity-100" aria-hidden="true">
-                    →
+                    <IkIcon name="arrow-right" size={17} className="inline align-[-2px]" />
                   </span>
                 </p>
               </Link>

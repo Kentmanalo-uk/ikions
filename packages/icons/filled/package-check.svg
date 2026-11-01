@@ -3,5 +3,5 @@
   <path fill-rule="evenodd" d="M5.43 5.78c-.28.16-.45.46-.45.78s.17.62.45.78l6.27 3.62c.19.11.41.11.6 0l1.2-.69c.19-.11.3-.31.3-.52s-.11-.41-.3-.52L6.78 5.35c-.19-.11-.41-.11-.6 0z" clip-rule="evenodd"/>
   <path fill-rule="evenodd" d="M19.32 8.64c.28-.16.62-.16.9 0s.45.46.45.78v2.65c-.81-.37-1.72-.57-2.67-.57-2.16 0-4.07 1.05-5.25 2.67v-1.39c0-.21.11-.41.3-.52z" clip-rule="evenodd"/>
   <path fill-rule="evenodd" d="M4.68 8.64c-.28-.16-.62-.16-.9 0s-.45.46-.45.78v6.2c0 .86.46 1.65 1.2 2.08l5.37 3.1c.28.16.62.16.9 0s.45-.46.45-.78v-7.24c0-.21-.11-.41-.3-.52z" clip-rule="evenodd"/>
-  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="m15 18.25 2 2L21 16"/>
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="m15 18.25 1.611 1.611a.534.534 0 0 0 .766-.012L21 16"/>
 </svg>

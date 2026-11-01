@@ -31,6 +31,7 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  env: process.env.VERCEL_GIT_COMMIT_SHA ? { NEXT_PUBLIC_CATALOG_REV: process.env.VERCEL_GIT_COMMIT_SHA.slice(0, 8) } : {},
   pageExtensions: ["ts", "tsx", "mdx"],
   poweredByHeader: false,
   reactStrictMode: true,

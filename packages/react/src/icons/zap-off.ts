@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Zap Off — Turn off, disable or mute the zap. */
 export const ZapOffIcon = createIkion("zap-off", "ZapOffIcon", {
-  outline: [["path",{"d":"M6.88 10.6 4.5 13.5h5.28m1.31 1.31-.84 6.69 3.4-4.13M17 13.28l2.5-3.03h-5.53m-1.11-1.11.64-6.64-3.28 4"}],["path",{"d":"m3.5 3.5 17 17"}]],
-  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m19.5 10.25-2.34 2.85-2.85-2.85zM10.25 21.5l.8-6.39 2.45 2.45zm-5.75-8 2.22-2.72 2.72 2.72zm9-11-.61 6.33-2.51-2.51z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.5 3.5 17 17"}]],
+  outline: [["path",{"d":"m6.88 10.6-2.031 2.475a.26.26 0 0 0 .201.425h4.73m1.31 1.31-.771 6.144a.159.159 0 0 0 .281.121l3.05-3.705M17 13.28l2.15-2.606a.259.259 0 0 0-.2-.424h-4.98m-1.11-1.11.587-6.093a.167.167 0 0 0-.296-.122L10.22 6.5"}],["path",{"d":"m3.5 3.5 17 17"}]],
+  filled: [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinejoin":"round","strokeWidth":"1.75","d":"m18.845 11.048-1.03 1.254a.936.936 0 0 1-1.385.068l-1.322-1.322a.467.467 0 0 1 .33-.798h3.03a.488.488 0 0 1 .377.798Zm-8.417 9.032.501-4.007a.475.475 0 0 1 .807-.277l1.078 1.078a1.07 1.07 0 0 1 .069 1.435l-1.723 2.087a.415.415 0 0 1-.732-.316Zm-5.306-7.342.976-1.197a.89.89 0 0 1 1.316-.067l1.264 1.264a.446.446 0 0 1-.315.762H5.484a.467.467 0 0 1-.362-.762Zm8.246-8.864-.383 3.967a.469.469 0 0 1-.798.286l-1.104-1.104a1.1 1.1 0 0 1-.074-1.472l1.618-1.982a.419.419 0 0 1 .741.305Z","clipRule":"evenodd"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m3.5 3.5 17 17"}]],
 });
 
 export default ZapOffIcon;

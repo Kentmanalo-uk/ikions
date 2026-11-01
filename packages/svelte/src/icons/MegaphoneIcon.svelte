@@ -4,8 +4,8 @@
   import type { IkionProps } from "../types.js";
 
   const nodes = {
-    outline: [["path",{"d":"m7.52 11.2-3.15.79a1.5 1.5 0 0 0-1.09 1.82l.48 1.94a1.5 1.5 0 0 0 1.82 1.09l3.15-.79"}],["path",{"d":"m7.9 10.9 7.56-6a1.25 1.25 0 0 1 1.99.67l2.69 10.79a1.25 1.25 0 0 1-1.44 1.53l-9.49-1.75a.75.75 0 0 1-.6-.55l-.97-3.92a.75.75 0 0 1 .26-.77"}],["path",{"d":"M11.98 16.69 14 20.67"}]],
-    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m5.7 11.66-1.33.33a1.5 1.5 0 0 0-1.09 1.82l.48 1.94a1.5 1.5 0 0 0 1.82 1.09l1.33-.33a.25.25 0 0 0 .18-.3L6 11.84a.25.25 0 0 0-.3-.18Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m9.18 9.89 6.28-4.99a1.25 1.25 0 0 1 1.99.67l2.69 10.79a1.25 1.25 0 0 1-1.44 1.53l-7.89-1.45a.5.5 0 0 1-.4-.37L9 10.4a.5.5 0 0 1 .18-.51Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M11.98 16.69 14 20.67"}]],
+    outline: [["path",{"d":"m7.52 11.2-3.15.79a1.5 1.5 0 0 0-1.09 1.82l.48 1.94a1.5 1.5 0 0 0 1.82 1.09l3.15-.79"}],["path",{"d":"M8.62 10.329 15.46 4.9a1.25 1.25 0 0 1 1.992.677L20.14 16.36a1.25 1.25 0 0 1-1.438 1.53L10.1 16.304a2.17 2.17 0 0 1-1.712-1.612l-.528-2.135a2.18 2.18 0 0 1 .76-2.228"}],["path",{"d":"M11.98 16.69 14 20.67"}]],
+    filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"m5.094 11.81-.724.18a1.496 1.496 0 0 0-1.092 1.812l.482 1.948a1.495 1.495 0 0 0 1.812 1.092l.729-.181a.873.873 0 0 0 .637-1.059l-.787-3.156a.873.873 0 0 0-1.057-.636Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M10.344 8.965 15.46 4.9a1.25 1.25 0 0 1 1.992.677L20.14 16.36a1.25 1.25 0 0 1-1.438 1.53l-6.431-1.181a2.81 2.81 0 0 1-2.222-2.089l-.687-2.766a2.82 2.82 0 0 1 .982-2.889Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M11.98 16.69 14 20.67"}]],
   } as const;
 
   let props: IkionProps = $props();

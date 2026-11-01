@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Arrow Sharp Left — A sharp, more-than-square turn to the left. */
 export const ArrowSharpLeftIcon = createIkion("arrow-sharp-left", "ArrowSharpLeftIcon", {
-  outline: [["path",{"d":"M16.5 19.5V4.75L7 14.25m4.25 0H7V10"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M16.5 19.25V5l-9.25 9.25m4 0h-4v-4"}]],
+  outline: [["path",{"d":"M16.5 19.5V5.3a.228.228 0 0 0-.389-.161L7 14.25m4.25 0H7V10"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M16.5 19.25V5.55a.228.228 0 0 0-.389-.161L7.25 14.25m4 0h-4v-4"}]],
 });
 
 export default ArrowSharpLeftIcon;

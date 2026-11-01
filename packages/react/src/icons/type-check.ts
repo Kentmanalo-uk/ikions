@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Type Check — Run a type checker that verifies values match their declared types. */
 export const TypeCheckIcon = createIkion("type-check", "TypeCheckIcon", {
-  outline: [["path",{"d":"M3.5 4.5h12m-6 0v15"}],["path",{"d":"m14 17 2.5 2.5L21 15"}]],
-  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 4.5h12m-6 0v15"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14 17 2.5 2.5L21 15"}]],
+  outline: [["path",{"d":"M3.5 4.5h12m-6 0v15"}],["path",{"d":"m14 17 2.111 2.111a.55.55 0 0 0 .778 0L21 15"}]],
+  filled: [["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"M3.5 4.5h12m-6 0v15"}],["path",{"fill":"none","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":"2.5","d":"m14 17 2.111 2.111a.55.55 0 0 0 .778 0L21 15"}]],
 });
 
 export default TypeCheckIcon;

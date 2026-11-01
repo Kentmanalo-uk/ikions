@@ -3,8 +3,8 @@ import { createIkion } from "../create-ikion.js";
 
 /** Signpost — Shows a wooden signpost with boards pointing in opposite directions. */
 export const SignpostIcon = createIkion("signpost", "SignpostIcon", {
-  outline: [["path",{"d":"M6.5 3.5h10l2.5 2-2.5 2h-10a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1"}],["path",{"d":"M17.5 11.25h-10l-2.5 2 2.5 2h10a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"}],["path",{"d":"M12 7.5v3.75m0 4V21"}]],
-  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M6.5 3.5h10l2.5 2-2.5 2h-10a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M17.5 11.25h-10l-2.5 2 2.5 2h10a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 7.5V21"}]],
+  outline: [["path",{"d":"M6.62 3.5h8.98a2.57 2.57 0 0 1 1.605.563l1.092.875a.72.72 0 0 1 0 1.124l-1.094.876a2.56 2.56 0 0 1-1.601.562H6.62A1.12 1.12 0 0 1 5.5 6.38V4.62A1.12 1.12 0 0 1 6.62 3.5"}],["path",{"d":"M17.38 11.25H8.4a2.57 2.57 0 0 0-1.605.563l-1.092.875a.72.72 0 0 0 0 1.124l1.094.876a2.56 2.56 0 0 0 1.601.562h8.982a1.12 1.12 0 0 0 1.12-1.12v-1.76a1.12 1.12 0 0 0-1.12-1.12"}],["path",{"d":"M12 7.5v3.75m0 4V21"}]],
+  filled: [["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M6.62 3.5h8.985a2.55 2.55 0 0 1 1.596.56l1.252 1.003a.56.56 0 0 1 0 .874L17.201 6.94a2.55 2.55 0 0 1-1.596.56H6.62A1.12 1.12 0 0 1 5.5 6.38V4.62A1.12 1.12 0 0 1 6.62 3.5Z"}],["path",{"stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.75","d":"M17.38 11.25H8.395a2.55 2.55 0 0 0-1.596.56l-1.252 1.003a.56.56 0 0 0 0 .874l1.252 1.003a2.55 2.55 0 0 0 1.596.56h8.985a1.12 1.12 0 0 0 1.12-1.12v-1.76a1.12 1.12 0 0 0-1.12-1.12Z"}],["path",{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M12 7.5V21"}]],
 });
 
 export default SignpostIcon;
